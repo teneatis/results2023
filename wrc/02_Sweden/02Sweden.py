@@ -5,7 +5,7 @@ import re
 import pandas as pd
 #link = 'https://rally-base.com/2023/rallye-monte-carlo-2023/?ssId='
 link = 'https://rally-base.com/2023/rally-sweden-2023/?ssId='
-startat, no_ss=7337, int(11)
+startat, no_ss=7337, int(15)
 #monte_23 = pd.DataFrame(columns=['Pos.', 'Pilote / Co-pilote', 'Voiture', '#', 'Temps', 'Écart'])
 sweden_23 = []
 
@@ -38,7 +38,7 @@ for ss in range(0,(no_ss)):
     sweden_23.append(data)
 
 sweden2023_stages = pd.concat(sweden_23, axis=0)
-sweden2023_stages['Pos.'] = sweden2023_stages['Pos.'].astype(str).astype(int)
+#sweden2023_stages['Pos.'] = sweden2023_stages['Pos.'].astype(str).astype(int)
 sweden2023_stages['No.'] = sweden2023_stages['No.'].astype(str).astype(int)
 sweden2023_stages.to_csv('02_sweden2023.csv', index=False)
 
@@ -47,4 +47,4 @@ sweden2023_view = sweden2023_temp.set_index(['No.','Driver / Co-driver Vehicle',
 
 sweden2023_temp2 = sweden2023_temp[sweden2023_temp['No.']<30]
 sweden2023_view2 = sweden2023_temp2.set_index(['No.','Driver / Co-driver Vehicle','ss'], drop=True).unstack('ss')
-print(sweden2023_view2)
+print(sweden2023_view)
