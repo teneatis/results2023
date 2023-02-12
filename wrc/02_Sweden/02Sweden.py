@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup as soup
 import requests
 import re
 import pandas as pd
-#link = 'https://rally-base.com/2023/rallye-monte-carlo-2023/?ssId='
+
 link = 'https://rally-base.com/2023/rally-sweden-2023/?ssId='
-startat, no_ss=7337, int(15)
-#monte_23 = pd.DataFrame(columns=['Pos.', 'Pilote / Co-pilote', 'Voiture', '#', 'Temps', 'Écart'])
+startat, no_ss=7337, int(18) # starting number of url, count of Special Stages
+
 sweden_23 = []
 
 for ss in range(0,(no_ss)):
@@ -20,10 +20,7 @@ for ss in range(0,(no_ss)):
     page_html11 = uClient11.read()
     uClient11.close()
     data = pd.read_html(page_html11)[1]
-
-    
-
-    
+   
     data.columns = data.iloc[0]
     data = data[1:]
     data['ss']=ss+1
