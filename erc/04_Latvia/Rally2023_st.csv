@@ -1,0 +1,500 @@
+Pos.,No,Crew,Gr/Cl,ss_time,Diff,Speed,ss
+1,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,14:30.5,,114.0,1
+2,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,14:46.9,+16.4 +  16.4,111.9 0.60,1
+3,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,14:48.2,+17.7 +  1.3,111.7 0.64,1
+4,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,14:52.4,+21.9 +  4.2,111.2 0.79,1
+5,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,14:57.0,+26.5 +  4.6,110.6 0.96,1
+5,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,14:57.0,+26.5 +  0.0,110.6 0.96,1
+7,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,15:04.2,+33.7 +  7.2,109.7 1.22,1
+8,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,15:05.6,+35.1 +  1.4,109.6 1.27,1
+9,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,15:05.9,+35.4 +  0.3,109.5 1.28,1
+10,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,15:06.4,+35.9 +  0.5,109.5 1.30,1
+11,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,15:14.4,+43.9 +  8.0,108.5 1.59,1
+12,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,15:17.1,+46.6 +  2.7,108.2 1.69,1
+13,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,15:18.7,+48.2 +  1.6,108.0 1.75,1
+14,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,15:19.5,+49.0 +  0.8,107.9 1.78,1
+15,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,15:25.0,+54.5 +  5.5,107.3 1.98,1
+16,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,15:27.9,+57.4 +  2.9,106.9 2.08,1
+17,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,15:28.9,+58.4 +  1.0,106.8 2.12,1
+18,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,15:32.4,+1:01.9 +  3.5,106.4 2.25,1
+19,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,15:33.0,+1:02.5 +  0.6,106.3 2.27,1
+20,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,15:36.2,+1:05.7 +  3.2,106.0 2.38,1
+21,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,15:42.3,+1:11.8 +  6.1,105.3 2.61,1
+22,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,15:45.0,+1:14.5 +  2.7,105.0 2.70,1
+23,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,15:46.9,+1:16.4 +  1.9,104.8 2.77,1
+24,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,15:47.7,+1:17.2 +  0.8,104.7 2.80,1
+25,#48,Yamamoto Yuki  - Teiskonen Miika Renault Clio Rally4,RC4,15:50.3,+1:19.8 +  2.6,104.4 2.90,1
+25,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,15:50.3,+1:19.8 +  0.0,104.4 2.90,1
+27,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,15:51.8,+1:21.3 +  1.5,104.2 2.95,1
+28,#49,Otake Nao  - Salminen Marko Renault Clio Rally4,RC4,15:55.4,+1:24.9 +  3.6,103.8 3.08,1
+29,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,15:57.6,+1:27.1 +  2.2,103.6 3.16,1
+30,#47,Kogure Hikaru  - Luhtinen T. Renault Clio Rally4,RC4,16:02.3,+1:31.8 +  4.7,103.1 3.33,1
+31,#37,Vaher Jaspar  - Mitendorf Evelin Ford Fiesta Rally4,RC4,16:06.4,+1:35.9 +  4.1,102.7 3.48,1
+32,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,16:08.3,+1:37.8 +  1.9,102.5 3.55,1
+33,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,16:08.4,+1:37.9 +  0.1,102.5 3.55,1
+34,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,16:14.3,+1:43.8 +  5.9,101.8 3.77,1
+35,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,16:16.9,+1:46.4 +  2.6,101.6 3.86,1
+36,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,16:20.8,+1:50.3 +  3.9,101.2 4.00,1
+37,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,16:22.2,+1:51.7 +  1.4,101.0 4.05,1
+38,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,16:28.4,+1:57.9 +  6.2,100.4 4.28,1
+38,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,16:28.4,+1:57.9 +  0.0,100.4 4.28,1
+40,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,16:36.2,+2:05.7 +  7.8,99.6 4.56,1
+41,#30,Jalava Miko  - Peippo Matias Ford Fiesta Rally4,RC4,16:37.6,+2:07.1 +  1.4,99.5 4.61,1
+42,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,16:38.0,+2:07.5 +  0.4,99.4 4.63,1
+43,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,16:42.1,+2:11.6 +  4.1,99.0 4.78,1
+44,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,16:45.3,+2:14.8 +  3.2,98.7 4.89,1
+45,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,16:46.3,+2:15.8 +  1.0,98.6 4.93,1
+46,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,16:47.6,+2:17.1 +  1.3,98.5 4.97,1
+47,#50,Tiramani Christian  - Grimaldi F. Å koda Fabia R5,RC2,16:48.8,+2:18.3 +  1.2,98.4 5.02,1
+48,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4,RC4,16:49.3,+2:18.8 +  0.5,98.3 5.04,1
+49,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,16:50.5,+2:20.0 +  1.2,98.2 5.08,1
+50,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,16:50.9,+2:20.4 +  0.4,98.1 5.09,1
+51,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,17:00.3,+2:29.8 +  9.4,97.2 5.44,1
+52,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,17:00.7,+2:30.2 +  0.4,97.2 5.45,1
+53,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,17:11.6,+2:41.1 +  10.9,96.2 5.85,1
+54,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,17:20.1,+2:49.6 +  8.5,95.4 6.15,1
+55,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,18:01.4,+3:30.9 +  41.3,91.7 7.65,1
+56,#38,Sei Karl-Markus  - Leotoots Martin Peugeot 208 Rally4,RC4,19:21.3,+4:50.8 +  1:19.9,85.4 10.6,1
+57,#40,Zeiringer Fabian  - Letz Angelika Opel Corsa Rally4  [SR],RC4,25:50.3,+11:19.8 +  6:29.0,64.0 24.7,1
+57,#59,Schwarz Fabio  - Ettel Bernhard Ford Fiesta Rally4  [SR],RC4,25:50.3 [N],+11:19.8 +  0.0,64.0 24.7,1
+1,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,5:46.6,,88.3,3
+2,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,5:46.9,+0.3 +  0.3,88.2 0.04,3
+3,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,5:47.4,+0.8 +  0.5,88.1 0.09,3
+4,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,5:52.1,+5.5 +  4.7,86.9 0.65,3
+5,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,5:52.7,+6.1 +  0.6,86.8 0.72,3
+6,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,5:53.0,+6.4 +  0.3,86.7 0.75,3
+7,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,5:54.3,+7.7 +  1.3,86.4 0.91,3
+7,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,5:54.3,+7.7 +  0.0,86.4 0.91,3
+9,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,5:54.7,+8.1 +  0.4,86.3 0.95,3
+10,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,5:55.1,+8.5 +  0.4,86.2 1.00,3
+11,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,5:55.8,+9.2 +  0.7,86.0 1.08,3
+12,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,5:56.0,+9.4 +  0.2,86.0 1.11,3
+13,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,5:57.0,+10.4 +  1.0,85.7 1.22,3
+14,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,5:59.1,+12.5 +  2.1,85.2 1.47,3
+15,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,5:59.2,+12.6 +  0.1,85.2 1.48,3
+16,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,6:01.0,+14.4 +  1.8,84.8 1.69,3
+17,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,6:02.8,+16.2 +  1.8,84.3 1.91,3
+18,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,6:04.2,+17.6 +  1.4,84.0 2.07,3
+19,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,6:07.8,+21.2 +  3.6,83.2 2.49,3
+20,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,6:08.9,+22.3 +  1.1,82.9 2.62,3
+21,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,6:11.8,+25.2 +  2.9,82.3 2.96,3
+22,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,6:16.3,+29.7 +  4.5,81.3 3.49,3
+23,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,6:20.3,+33.7 +  4.0,80.5 3.96,3
+24,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,6:23.1,+36.5 +  2.8,79.9 4.29,3
+25,#37,Vaher Jaspar  - Mitendorf Evelin Ford Fiesta Rally4,RC4,6:24.4,+37.8 +  1.3,79.6 4.45,3
+26,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,6:30.7,+44.1 +  6.3,78.3 5.19,3
+27,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,6:31.5,+44.9 +  0.8,78.2 5.28,3
+28,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,6:32.2,+45.6 +  0.7,78.0 5.36,3
+29,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,6:32.4,+45.8 +  0.2,78.0 5.39,3
+30,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,6:33.1,+46.5 +  0.7,77.8 5.47,3
+31,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,6:33.4,+46.8 +  0.3,77.8 5.51,3
+32,#38,Sei Karl-Markus  - Leotoots Martin Peugeot 208 Rally4,RC4,6:33.6,+47.0 +  0.2,77.7 5.53,3
+33,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,6:33.9,+47.3 +  0.3,77.7 5.56,3
+34,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,6:34.4,+47.8 +  0.5,77.6 5.62,3
+35,#48,Yamamoto Yuki  - Teiskonen Miika Renault Clio Rally4,RC4,6:34.9,+48.3 +  0.5,77.5 5.68,3
+36,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,6:36.0,+49.4 +  1.1,77.3 5.81,3
+37,#49,Otake Nao  - Salminen Marko Renault Clio Rally4,RC4,6:36.6,+50.0 +  0.6,77.2 5.88,3
+38,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,6:37.6,+51.0 +  1.0,77.0 6.00,3
+39,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,6:39.3,+52.7 +  1.7,76.6 6.20,3
+40,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,6:39.9,+53.3 +  0.6,76.5 6.27,3
+41,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,6:40.6,+54.0 +  0.7,76.4 6.35,3
+42,#30,Jalava Miko  - Peippo Matias Ford Fiesta Rally4,RC4,6:41.0,+54.4 +  0.4,76.3 6.40,3
+43,#47,Kogure Hikaru  - Luhtinen T. Renault Clio Rally4,RC4,6:42.3,+55.7 +  1.3,76.1 6.55,3
+44,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,6:44.2,+57.6 +  1.9,75.7 6.78,3
+45,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,6:45.4,+58.8 +  1.2,75.5 6.92,3
+46,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,6:47.0,+1:00.4 +  1.6,75.2 7.11,3
+47,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,6:50.4,+1:03.8 +  3.4,74.6 7.51,3
+48,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,6:54.3,+1:07.7 +  3.9,73.9 7.96,3
+49,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4,RC4,6:54.6,+1:08.0 +  0.3,73.8 8.00,3
+50,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,6:54.7,+1:08.1 +  0.1,73.8 8.01,3
+51,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,6:57.8,+1:11.2 +  3.1,73.2 8.38,3
+52,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,6:58.1,+1:11.5 +  0.3,73.2 8.41,3
+53,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,7:01.2,+1:14.6 +  3.1,72.6 8.78,3
+54,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,7:02.8,+1:16.2 +  1.6,72.4 8.96,3
+55,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,7:16.1,+1:29.5 +  13.3,70.2 10.5,3
+56,#50,Tiramani Christian  - Grimaldi F. Å koda Fabia R5,RC2,7:36.9,+1:50.3 +  20.8,67.0 13.0,3
+57,#40,Zeiringer Fabian  - Letz Angelika Opel Corsa Rally4  [SR],RC4,16:24.4,+10:37.8 +  8:47.5,31.1 75.0,3
+57,#59,Schwarz Fabio  - Ettel Bernhard Ford Fiesta Rally4  [SR],RC4,16:24.4 [N],+10:37.8 +  0.0,31.1 75.0,3
+1,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,13:24.0,,116.5,4
+2,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,13:29.9,+5.9 +  5.9,115.7 0.23,4
+3,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,13:32.4,+8.4 +  2.5,115.3 0.32,4
+4,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,13:38.1,+14.1 +  5.7,114.5 0.54,4
+5,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,13:41.4,+17.4 +  3.3,114.0 0.67,4
+6,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,13:43.5,+19.5 +  2.1,113.7 0.75,4
+7,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,13:44.0 [N],+20.0 +  0.5,113.7 0.77,4
+8,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,13:45.1,+21.1 +  1.1,113.5 0.81,4
+9,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,13:52.1,+28.1 +  7.0,112.6 1.08,4
+10,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,13:55.1,+31.1 +  3.0,112.2 1.20,4
+11,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,13:57.7,+33.7 +  2.6,111.8 1.30,4
+12,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,13:59.1,+35.1 +  1.4,111.6 1.35,4
+13,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,14:00.3,+36.3 +  1.2,111.5 1.40,4
+14,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,14:00.5,+36.5 +  0.2,111.4 1.40,4
+15,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,14:01.3,+37.3 +  0.8,111.3 1.43,4
+16,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,14:04.1,+40.1 +  2.8,111.0 1.54,4
+17,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,14:08.6,+44.6 +  4.5,110.4 1.71,4
+18,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,14:14.3,+50.3 +  5.7,109.6 1.93,4
+19,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,14:40.6,+1:16.6 +  26.3,106.4 2.94,4
+20,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,14:44.8,+1:20.8 +  4.2,105.9 3.11,4
+21,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,14:46.2,+1:22.2 +  1.4,105.7 3.16,4
+22,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,14:50.5,+1:26.5 +  4.3,105.2 3.32,4
+23,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,14:52.3,+1:28.3 +  1.8,105.0 3.39,4
+24,#50,Tiramani Christian  - Grimaldi F. Å koda Fabia R5,RC2,14:56.3,+1:32.3 +  4.0,104.5 3.55,4
+25,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,15:03.2,+1:39.2 +  6.9,103.7 3.81,4
+26,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,15:10.9,+1:46.9 +  7.7,102.8 4.11,4
+27,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,15:16.9,+1:52.9 +  6.0,102.2 4.34,4
+28,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,15:21.3,+1:57.3 +  4.4,101.7 4.51,4
+29,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,15:21.8,+1:57.8 +  0.5,101.6 4.53,4
+30,#37,Vaher Jaspar  - Mitendorf Evelin Ford Fiesta Rally4,RC4,15:25.6,+2:01.6 +  3.8,101.2 4.67,4
+31,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,15:26.0,+2:02.0 +  0.4,101.2 4.69,4
+32,#48,Yamamoto Yuki  - Teiskonen Miika Renault Clio Rally4,RC4,15:28.5,+2:04.5 +  2.5,100.9 4.78,4
+33,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,15:29.9,+2:05.9 +  1.4,100.7 4.84,4
+34,#38,Sei Karl-Markus  - Leotoots Martin Peugeot 208 Rally4,RC4,15:31.2,+2:07.2 +  1.3,100.6 4.89,4
+35,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,15:31.7,+2:07.7 +  0.5,100.5 4.91,4
+36,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,15:33.4,+2:09.4 +  1.7,100.4 4.97,4
+37,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,15:34.4,+2:10.4 +  1.0,100.2 5.01,4
+38,#47,Kogure Hikaru  - Luhtinen T. Renault Clio Rally4,RC4,15:38.1,+2:14.1 +  3.7,99.9 5.15,4
+39,#49,Otake Nao  - Salminen Marko Renault Clio Rally4,RC4,15:40.6,+2:16.6 +  2.5,99.6 5.25,4
+40,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,15:42.9,+2:18.9 +  2.3,99.3 5.34,4
+41,#30,Jalava Miko  - Peippo Matias Ford Fiesta Rally4,RC4,15:44.8,+2:20.8 +  1.9,99.1 5.41,4
+42,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,15:46.1,+2:22.1 +  1.3,99.0 5.46,4
+43,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,15:48.6,+2:24.6 +  2.5,98.7 5.56,4
+44,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,15:52.4,+2:28.4 +  3.8,98.4 5.70,4
+45,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,15:57.0,+2:33.0 +  4.6,97.9 5.88,4
+46,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,15:58.5,+2:34.5 +  1.5,97.7 5.94,4
+47,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4,RC4,16:09.9,+2:45.9 +  11.4,96.6 6.38,4
+48,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,16:13.0,+2:49.0 +  3.1,96.3 6.50,4
+48,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,16:13.0,+2:49.0 +  0.0,96.3 6.50,4
+50,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,16:13.4,+2:49.4 +  0.4,96.2 6.51,4
+51,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,16:16.1,+2:52.1 +  2.7,96.0 6.61,4
+52,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,16:19.2,+2:55.2 +  3.1,95.7 6.73,4
+53,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,16:20.3,+2:56.3 +  1.1,95.6 6.78,4
+54,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,16:25.9,+3:01.9 +  5.6,95.0 6.99,4
+55,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,16:44.6,+3:20.6 +  18.7,93.2 7.71,4
+56,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,16:48.6,+3:24.6 +  4.0,92.9 7.86,4
+57,#40,Zeiringer Fabian  - Letz Angelika Opel Corsa Rally4  [SR],RC4,25:21.8,+11:57.8 +  8:33.2,61.6 27.6,4
+57,#59,Schwarz Fabio  - Ettel Bernhard Ford Fiesta Rally4  [SR],RC4,25:21.8 [N],+11:57.8 +  0.0,61.6 27.6,4
+1,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,7:21.8,,119.2,5
+2,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,7:22.2,+0.4 +  0.4,119.1 0.03,5
+3,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,7:24.6,+2.8 +  2.4,118.5 0.19,5
+4,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,7:25.4,+3.6 +  0.8,118.2 0.25,5
+5,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,7:26.7,+4.9 +  1.3,117.9 0.33,5
+6,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,7:28.7,+6.9 +  2.0,117.4 0.47,5
+7,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,7:30.5,+8.7 +  1.8,116.9 0.59,5
+8,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,7:30.9,+9.1 +  0.4,116.8 0.62,5
+9,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,7:34.0,+12.2 +  3.1,116.0 0.83,5
+10,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,7:34.3,+12.5 +  0.3,115.9 0.85,5
+11,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,7:36.4,+14.6 +  2.1,115.4 1.00,5
+12,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,7:36.5,+14.7 +  0.1,115.4 1.00,5
+13,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,7:36.7,+14.9 +  0.2,115.3 1.02,5
+14,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,7:38.1,+16.3 +  1.4,115.0 1.11,5
+15,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,7:42.7,+20.9 +  4.6,113.8 1.43,5
+16,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,7:44.5,+22.7 +  1.8,113.4 1.55,5
+17,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,7:48.5 [N],+26.7 +  4.0,112.4 1.83,5
+18,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,7:51.2,+29.4 +  2.7,111.8 2.01,5
+19,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,8:04.0,+42.2 +  12.8,108.8 2.88,5
+20,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,8:05.0,+43.2 +  1.0,108.6 2.95,5
+21,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,8:05.7,+43.9 +  0.7,108.4 3.00,5
+22,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,8:08.1,+46.3 +  2.4,107.9 3.16,5
+23,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,8:08.3,+46.5 +  0.2,107.9 3.18,5
+24,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,8:14.4,+52.6 +  6.1,106.5 3.60,5
+25,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,8:18.3,+56.5 +  3.9,105.7 3.86,5
+26,#50,Tiramani Christian  - Grimaldi F. Å koda Fabia R5,RC2,8:21.9,+1:00.1 +  3.6,104.9 4.11,5
+27,#37,Vaher Jaspar  - Mitendorf Evelin Ford Fiesta Rally4,RC4,8:29.4,+1:07.6 +  7.5,103.4 4.62,5
+28,#47,Kogure Hikaru  - Luhtinen T. Renault Clio Rally4,RC4,8:35.4,+1:13.6 +  6.0,102.2 5.03,5
+29,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,8:35.9,+1:14.1 +  0.5,102.1 5.06,5
+30,#48,Yamamoto Yuki  - Teiskonen Miika Renault Clio Rally4,RC4,8:36.2,+1:14.4 +  0.3,102.0 5.09,5
+31,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,8:36.6,+1:14.8 +  0.4,102.0 5.11,5
+32,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,8:37.1,+1:15.3 +  0.5,101.9 5.15,5
+33,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,8:37.4,+1:15.6 +  0.3,101.8 5.17,5
+34,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,8:37.8,+1:16.0 +  0.4,101.7 5.19,5
+35,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,8:38.4,+1:16.6 +  0.6,101.6 5.24,5
+36,#38,Sei Karl-Markus  - Leotoots Martin Peugeot 208 Rally4,RC4,8:39.4,+1:17.6 +  1.0,101.4 5.30,5
+37,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,8:39.8,+1:18.0 +  0.4,101.3 5.33,5
+38,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,8:40.7,+1:18.9 +  0.9,101.1 5.39,5
+39,#30,Jalava Miko  - Peippo Matias Ford Fiesta Rally4,RC4,8:43.0,+1:21.2 +  2.3,100.7 5.55,5
+40,#49,Otake Nao  - Salminen Marko Renault Clio Rally4,RC4,8:44.3,+1:22.5 +  1.3,100.5 5.64,5
+41,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,8:45.4,+1:23.6 +  1.1,100.2 5.71,5
+42,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,8:48.1,+1:26.3 +  2.7,99.7 5.90,5
+43,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,8:49.2,+1:27.4 +  1.1,99.5 5.97,5
+44,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,8:54.4,+1:32.6 +  5.2,98.6 6.33,5
+45,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,8:55.2,+1:33.4 +  0.8,98.4 6.38,5
+46,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,8:55.8,+1:34.0 +  0.6,98.3 6.43,5
+47,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4,RC4,8:58.7,+1:36.9 +  2.9,97.8 6.62,5
+48,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,9:00.6,+1:38.8 +  1.9,97.4 6.75,5
+49,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,9:03.2,+1:41.4 +  2.6,97.0 6.93,5
+50,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,9:05.6,+1:43.8 +  2.4,96.5 7.10,5
+51,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,9:09.6,+1:47.8 +  4.0,95.8 7.37,5
+52,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,9:20.5,+1:58.7 +  10.9,94.0 8.11,5
+53,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,9:20.7,+1:58.9 +  0.2,93.9 8.13,5
+54,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,11:26.7,+4:04.9 +  2:06.0,76.7 16.7,5
+55,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,11:53.0,+4:31.2 +  26.3,73.9 18.5,5
+56,#40,Zeiringer Fabian  - Letz Angelika Opel Corsa Rally4  [SR],RC4,18:29.4,+11:07.6 +  6:36.4,47.5 45.6,5
+56,#59,Schwarz Fabio  - Ettel Bernhard Ford Fiesta Rally4  [SR],RC4,18:29.4 [N],+11:07.6 +  0.0,47.5 45.6,5
+58,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,31:00.2,+23:38.4 +  12:30.8,28.3 97.0,5
+1,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,2:17.9,,66.3,6
+2,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,2:18.3,+0.4 +  0.4,66.1 0.16,6
+3,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,2:19.0,+1.1 +  0.7,65.8 0.43,6
+4,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,2:19.3,+1.4 +  0.3,65.6 0.55,6
+5,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,2:19.9,+2.0 +  0.6,65.4 0.79,6
+5,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,2:19.9,+2.0 +  0.0,65.4 0.79,6
+7,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,2:20.0,+2.1 +  0.1,65.3 0.83,6
+8,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,2:20.6,+2.7 +  0.6,65.0 1.06,6
+9,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,2:21.1,+3.2 +  0.5,64.8 1.26,6
+10,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,2:21.8,+3.9 +  0.7,64.5 1.54,6
+11,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,2:22.7,+4.8 +  0.9,64.1 1.89,6
+11,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,2:22.7,+4.8 +  0.0,64.1 1.89,6
+13,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,2:23.1,+5.2 +  0.4,63.9 2.05,6
+14,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,2:23.7,+5.8 +  0.6,63.6 2.28,6
+15,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,2:23.8,+5.9 +  0.1,63.6 2.32,6
+16,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,2:24.1,+6.2 +  0.3,63.5 2.44,6
+17,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,2:24.9,+7.0 +  0.8,63.1 2.76,6
+18,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,2:25.0,+7.1 +  0.1,63.1 2.80,6
+19,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,2:25.6,+7.7 +  0.6,62.8 3.03,6
+20,#50,Tiramani Christian  - Grimaldi F. Å koda Fabia R5,RC2,2:26.3,+8.4 +  0.7,62.5 3.31,6
+21,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,2:26.4,+8.5 +  0.1,62.5 3.35,6
+22,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,2:26.6,+8.7 +  0.2,62.4 3.43,6
+23,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,2:26.7,+8.8 +  0.1,62.3 3.46,6
+24,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,2:26.9,+9.0 +  0.2,62.2 3.54,6
+25,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,2:27.8,+9.9 +  0.9,61.9 3.90,6
+26,#49,Otake Nao  - Salminen Marko Renault Clio Rally4,RC4,2:28.1,+10.2 +  0.3,61.7 4.02,6
+27,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,2:28.3,+10.4 +  0.2,61.7 4.09,6
+28,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,2:28.9,+11.0 +  0.6,61.4 4.33,6
+28,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,2:28.9,+11.0 +  0.0,61.4 4.33,6
+30,#48,Yamamoto Yuki  - Teiskonen Miika Renault Clio Rally4,RC4,2:29.0,+11.1 +  0.1,61.4 4.37,6
+31,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,2:29.1,+11.2 +  0.1,61.3 4.41,6
+32,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,2:29.9,+12.0 +  0.8,61.0 4.72,6
+33,#47,Kogure Hikaru  - Luhtinen T. Renault Clio Rally4,RC4,2:31.4,+13.5 +  1.5,60.4 5.31,6
+34,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,2:31.8,+13.9 +  0.4,60.2 5.47,6
+35,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,2:32.9,+15.0 +  1.1,59.8 5.91,6
+36,#38,Sei Karl-Markus  - Leotoots Martin Peugeot 208 Rally4,RC4,2:33.2,+15.3 +  0.3,59.7 6.02,6
+37,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,2:33.6,+15.7 +  0.4,59.5 6.18,6
+38,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,2:34.5,+16.6 +  0.9,59.2 6.54,6
+39,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,2:35.0,+17.1 +  0.5,59.0 6.73,6
+40,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,2:35.3,+17.4 +  0.3,58.9 6.85,6
+41,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,2:36.3,+18.4 +  1.0,58.5 7.24,6
+42,#30,Jalava Miko  - Peippo Matias Ford Fiesta Rally4,RC4,2:36.7,+18.8 +  0.4,58.4 7.40,6
+42,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,2:36.7,+18.8 +  0.0,58.4 7.40,6
+44,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,2:37.4,+19.5 +  0.7,58.1 7.68,6
+45,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,2:37.6,+19.7 +  0.2,58.0 7.76,6
+46,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,2:38.9,+21.0 +  1.3,57.5 8.27,6
+47,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,2:40.7,+22.8 +  1.8,56.9 8.98,6
+48,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,2:41.5,+23.6 +  0.8,56.6 9.29,6
+49,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,2:42.3,+24.4 +  0.8,56.3 9.61,6
+50,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,2:42.8,+24.9 +  0.5,56.2 9.80,6
+51,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,2:49.2,+31.3 +  6.4,54.0 12.3,6
+52,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,2:49.3,+31.4 +  0.1,54.0 12.4,6
+53,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,2:51.4,+33.5 +  2.1,53.3 13.2,6
+54,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,2:53.6,+35.7 +  2.2,52.7 14.1,6
+55,#40,Zeiringer Fabian  - Letz Angelika Opel Corsa Rally4  [SR],RC4,12:28.1,+10:10.2 +  9:34.5,12.2 240.2,6
+55,#59,Schwarz Fabio  - Ettel Bernhard Ford Fiesta Rally4  [SR],RC4,12:28.1 [N],+10:10.2 +  0.0,12.2 240.2,6
+55,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4  [SR],RC4,12:28.1 [N],+10:10.2 +  0.0,12.2 240.2,6
+1,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,10:08.8,,115.8,7
+2,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,10:09.1,+0.3 +  0.3,115.8 0.02,7
+3,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,10:09.5,+0.7 +  0.4,115.7 0.04,7
+4,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,10:09.7,+0.9 +  0.2,115.7 0.05,7
+5,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,10:12.8,+4.0 +  3.1,115.1 0.20,7
+6,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,10:16.1,+7.3 +  3.3,114.5 0.37,7
+7,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,10:19.0,+10.2 +  2.9,113.9 0.52,7
+7,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,10:19.0,+10.2 +  0.0,113.9 0.52,7
+9,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,10:21.8,+13.0 +  2.8,113.4 0.66,7
+10,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,10:21.9,+13.1 +  0.1,113.4 0.67,7
+11,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,10:22.0,+13.2 +  0.1,113.4 0.67,7
+12,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,10:22.4,+13.6 +  0.4,113.3 0.69,7
+13,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,10:22.7,+13.9 +  0.3,113.3 0.71,7
+14,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,10:23.3,+14.5 +  0.6,113.1 0.74,7
+15,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,10:24.0,+15.2 +  0.7,113.0 0.78,7
+16,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,10:26.1,+17.3 +  2.1,112.6 0.88,7
+17,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,10:41.7,+32.9 +  15.6,109.9 1.68,7
+18,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,10:45.8,+37.0 +  4.1,109.2 1.89,7
+19,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,10:52.4,+43.6 +  6.6,108.1 2.23,7
+20,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,10:57.5,+48.7 +  5.1,107.3 2.49,7
+21,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,10:58.3,+49.5 +  0.8,107.1 2.53,7
+21,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,10:58.3,+49.5 +  0.0,107.1 2.53,7
+23,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,11:01.1,+52.3 +  2.8,106.7 2.67,7
+24,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,11:06.2,+57.4 +  5.1,105.9 2.93,7
+25,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,11:12.6,+1:03.8 +  6.4,104.9 3.26,7
+26,#50,Tiramani Christian  - Grimaldi F. Å koda Fabia R5,RC2,11:14.3,+1:05.5 +  1.7,104.6 3.34,7
+27,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,11:21.5,+1:12.7 +  7.2,103.5 3.71,7
+28,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,11:34.4,+1:25.6 +  12.9,101.6 4.37,7
+29,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,11:38.4,+1:29.6 +  4.0,101.0 4.57,7
+30,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,11:38.5,+1:29.7 +  0.1,101.0 4.58,7
+31,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,11:40.0,+1:31.2 +  1.5,100.7 4.66,7
+32,#47,Kogure Hikaru  - Luhtinen T. Renault Clio Rally4,RC4,11:43.5,+1:34.7 +  3.5,100.2 4.83,7
+33,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,11:45.6,+1:36.8 +  2.1,99.9 4.94,7
+34,#48,Yamamoto Yuki  - Teiskonen Miika Renault Clio Rally4,RC4,11:47.3,+1:38.5 +  1.7,99.7 5.03,7
+35,#49,Otake Nao  - Salminen Marko Renault Clio Rally4,RC4,11:48.5,+1:39.7 +  1.2,99.5 5.09,7
+36,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,11:48.9,+1:40.1 +  0.4,99.5 5.11,7
+37,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,11:49.9,+1:41.1 +  1.0,99.3 5.16,7
+38,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,11:53.0,+1:44.2 +  3.1,98.9 5.32,7
+39,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,11:54.0,+1:45.2 +  1.0,98.8 5.37,7
+40,#30,Jalava Miko  - Peippo Matias Ford Fiesta Rally4,RC4,11:54.7,+1:45.9 +  0.7,98.7 5.41,7
+41,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,11:56.4,+1:47.6 +  1.7,98.4 5.49,7
+42,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,11:56.7,+1:47.9 +  0.3,98.4 5.51,7
+43,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,12:02.1,+1:53.3 +  5.4,97.7 5.78,7
+44,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,12:06.1,+1:57.3 +  4.0,97.1 5.99,7
+45,#59,Schwarz Fabio  - Ettel Bernhard Ford Fiesta Rally4,RC4,12:06.3,+1:57.5 +  0.2,97.1 6.00,7
+46,#38,Sei Karl-Markus  - Leotoots Martin Peugeot 208 Rally4,RC4,12:08.1,+1:59.3 +  1.8,96.9 6.09,7
+47,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,12:08.2,+1:59.4 +  0.1,96.8 6.09,7
+48,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4,RC4,12:12.7,+2:03.9 +  4.5,96.3 6.32,7
+49,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,12:15.4,+2:06.6 +  2.7,95.9 6.46,7
+50,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,12:16.0,+2:07.2 +  0.6,95.8 6.49,7
+51,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,12:23.4,+2:14.6 +  7.4,94.9 6.87,7
+52,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,12:26.7,+2:17.9 +  3.3,94.4 7.04,7
+53,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,12:34.6,+2:25.8 +  7.9,93.5 7.44,7
+54,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,12:37.9,+2:29.1 +  3.3,93.1 7.61,7
+55,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,12:47.1,+2:38.3 +  9.2,91.9 8.08,7
+56,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,12:47.8,+2:39.0 +  0.7,91.9 8.12,7
+1,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,9:37.2,,118.2,8
+2,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,9:41.5,+4.3 +  4.3,117.3 0.23,8
+3,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,9:42.4,+5.2 +  0.9,117.1 0.27,8
+4,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,9:44.6,+7.4 +  2.2,116.7 0.39,8
+5,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,9:45.5,+8.3 +  0.9,116.5 0.44,8
+6,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,9:46.7,+9.5 +  1.2,116.3 0.50,8
+7,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,9:47.4,+10.2 +  0.7,116.1 0.54,8
+8,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,9:48.1,+10.9 +  0.7,116.0 0.58,8
+9,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,9:48.6,+11.4 +  0.5,115.9 0.60,8
+10,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,9:48.8,+11.6 +  0.2,115.9 0.61,8
+11,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,9:52.6,+15.4 +  3.8,115.1 0.81,8
+12,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,9:55.4,+18.2 +  2.8,114.6 0.96,8
+13,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,9:55.8,+18.6 +  0.4,114.5 0.98,8
+14,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,9:56.7,+19.5 +  0.9,114.3 1.03,8
+15,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,10:03.5,+26.3 +  6.8,113.0 1.39,8
+16,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,10:05.9,+28.7 +  2.4,112.6 1.51,8
+17,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,10:09.4,+32.2 +  3.5,111.9 1.70,8
+18,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,10:17.1,+39.9 +  7.7,110.5 2.11,8
+19,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,10:20.4,+43.2 +  3.3,110.0 2.28,8
+20,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,10:22.6,+45.4 +  2.2,109.6 2.40,8
+21,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,10:23.8,+46.6 +  1.2,109.4 2.46,8
+22,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,10:25.6,+48.4 +  1.8,109.0 2.55,8
+23,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,10:31.6,+54.4 +  6.0,108.0 2.87,8
+24,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,10:38.2,+1:01.0 +  6.6,106.9 3.22,8
+25,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,10:45.4,+1:08.2 +  7.2,105.7 3.60,8
+26,#50,Tiramani Christian  - Grimaldi F. Å koda Fabia R5,RC2,10:49.2,+1:12.0 +  3.8,105.1 3.80,8
+27,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,10:58.2,+1:21.0 +  9.0,103.6 4.27,8
+28,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,10:59.8,+1:22.6 +  1.6,103.4 4.36,8
+29,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,11:00.0,+1:22.8 +  0.2,103.4 4.37,8
+30,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,11:00.7,+1:23.5 +  0.7,103.3 4.41,8
+31,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,11:00.8,+1:23.6 +  0.1,103.2 4.41,8
+32,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,11:01.7,+1:24.5 +  0.9,103.1 4.46,8
+33,#48,Yamamoto Yuki  - Teiskonen Miika Renault Clio Rally4,RC4,11:04.5,+1:27.3 +  2.8,102.7 4.61,8
+34,#38,Sei Karl-Markus  - Leotoots Martin Peugeot 208 Rally4,RC4,11:04.8,+1:27.6 +  0.3,102.6 4.62,8
+35,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,11:05.3,+1:28.1 +  0.5,102.5 4.65,8
+36,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,11:06.1,+1:28.9 +  0.8,102.4 4.69,8
+37,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,11:06.6,+1:29.4 +  0.5,102.3 4.72,8
+38,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,11:10.7,+1:33.5 +  4.1,101.7 4.93,8
+39,#49,Otake Nao  - Salminen Marko Renault Clio Rally4,RC4,11:11.2,+1:34.0 +  0.5,101.6 4.96,8
+40,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,11:11.7,+1:34.5 +  0.5,101.6 4.99,8
+41,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,11:12.7,+1:35.5 +  1.0,101.4 5.04,8
+42,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,11:14.7,+1:37.5 +  2.0,101.1 5.15,8
+43,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,11:15.4,+1:38.2 +  0.7,101.0 5.18,8
+44,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4,RC4,11:18.9,+1:41.7 +  3.5,100.5 5.37,8
+45,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,11:24.0,+1:46.8 +  5.1,99.7 5.64,8
+46,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,11:27.8,+1:50.6 +  3.8,99.2 5.84,8
+47,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,11:31.6,+1:54.4 +  3.8,98.6 6.04,8
+48,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,11:35.0,+1:57.8 +  3.4,98.2 6.22,8
+49,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,11:36.5,+1:59.3 +  1.5,97.9 6.30,8
+50,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,11:56.8,+2:19.6 +  20.3,95.2 7.37,8
+51,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,11:57.3,+2:20.1 +  0.5,95.1 7.39,8
+52,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,12:03.7,+2:26.5 +  6.4,94.3 7.73,8
+53,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,12:07.1,+2:29.9 +  3.4,93.8 7.91,8
+1,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,10:08.6,,115.9,9
+2,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,10:10.8,+2.2 +  2.2,115.5 0.11,9
+3,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,10:11.2,+2.6 +  0.4,115.4 0.13,9
+4,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,10:11.8,+3.2 +  0.6,115.3 0.16,9
+5,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,10:14.8,+6.2 +  3.0,114.7 0.32,9
+6,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,10:15.4,+6.8 +  0.6,114.6 0.35,9
+7,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,10:15.8,+7.2 +  0.4,114.5 0.37,9
+8,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,10:18.4,+9.8 +  2.6,114.0 0.50,9
+9,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,10:19.4,+10.8 +  1.0,113.9 0.55,9
+10,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,10:22.3,+13.7 +  2.9,113.3 0.70,9
+11,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,10:24.1,+15.5 +  1.8,113.0 0.79,9
+12,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,10:24.4,+15.8 +  0.3,112.9 0.81,9
+13,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,10:29.6,+21.0 +  5.2,112.0 1.07,9
+14,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,10:30.3,+21.7 +  0.7,111.9 1.11,9
+15,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,10:39.2,+30.6 +  8.9,110.3 1.56,9
+16,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,10:46.9,+38.3 +  7.7,109.0 1.96,9
+17,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,10:50.6,+42.0 +  3.7,108.4 2.14,9
+18,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,10:54.6,+46.0 +  4.0,107.7 2.35,9
+19,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,10:54.7,+46.1 +  0.1,107.7 2.35,9
+20,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,11:02.2,+53.6 +  7.5,106.5 2.74,9
+21,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,11:09.4,+1:00.8 +  7.2,105.4 3.10,9
+22,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,11:10.2,+1:01.6 +  0.8,105.2 3.14,9
+23,#50,Tiramani Christian  - Grimaldi F. Å koda Fabia R5,RC2,11:11.2,+1:02.6 +  1.0,105.1 3.20,9
+24,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,11:11.6,+1:03.0 +  0.4,105.0 3.22,9
+25,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,11:15.0,+1:06.4 +  3.4,104.5 3.39,9
+26,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,11:19.8,+1:11.2 +  4.8,103.7 3.63,9
+27,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,11:20.8,+1:12.2 +  1.0,103.6 3.69,9
+28,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,11:36.8,+1:28.2 +  16.0,101.2 4.50,9
+29,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,11:41.1,+1:32.5 +  4.3,100.6 4.72,9
+30,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,11:42.3,+1:33.7 +  1.2,100.4 4.78,9
+31,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,11:44.8,+1:36.2 +  2.5,100.1 4.91,9
+32,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,11:46.1,+1:37.5 +  1.3,99.9 4.98,9
+33,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,11:47.9,+1:39.3 +  1.8,99.6 5.07,9
+34,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,11:48.0,+1:39.4 +  0.1,99.6 5.07,9
+35,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,11:50.7,+1:42.1 +  2.7,99.2 5.21,9
+36,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,11:51.1,+1:42.5 +  0.4,99.2 5.23,9
+37,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,11:57.1,+1:48.5 +  6.0,98.3 5.54,9
+38,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,11:57.6,+1:49.0 +  0.5,98.3 5.56,9
+39,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,12:01.0,+1:52.4 +  3.4,97.8 5.74,9
+40,#49,Otake Nao  - Salminen Marko Renault Clio Rally4,RC4,12:02.0,+1:53.4 +  1.0,97.7 5.79,9
+41,#48,Yamamoto Yuki  - Teiskonen Miika Renault Clio Rally4,RC4,12:04.0,+1:55.4 +  2.0,97.4 5.89,9
+42,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,12:12.0,+2:03.4 +  8.0,96.3 6.30,9
+43,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,12:15.6,+2:07.0 +  3.6,95.9 6.48,9
+44,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4,RC4,12:19.5,+2:10.9 +  3.9,95.4 6.68,9
+45,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,12:21.5,+2:12.9 +  2.0,95.1 6.78,9
+46,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,12:30.7,+2:22.1 +  9.2,93.9 7.25,9
+47,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,12:36.9,+2:28.3 +  6.2,93.2 7.57,9
+48,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,12:38.3,+2:29.7 +  1.4,93.0 7.64,9
+49,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,12:43.3,+2:34.7 +  5.0,92.4 7.90,9
+50,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,12:48.5,+2:39.9 +  5.2,91.8 8.16,9
+51,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,12:51.2,+2:42.6 +  2.7,91.4 8.30,9
+52,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,13:01.9,+2:53.3 +  10.7,90.2 8.85,9
+1,#1,Paddon Hayden  - Kennard John Hyundai i20 N Rally2,RC2,9:24.1,,120.9,10
+1,#5,Sesks MÄrtiÅÅ¡  - Francis R. Å koda Fabia RS Rally2,RC2,9:24.1,+0.0 +  0.0,120.9 0.00,10
+3,#9,McErlean Josh  - Fulton James Hyundai i20 N Rally2,RC2,9:26.6,+2.5 +  2.5,120.4 0.13,10
+4,#10,MareÅ¡ Filip  - Bucha Radovan Å koda Fabia Rally2 evo,RC2,9:30.9,+6.8 +  4.3,119.5 0.36,10
+5,#6,Franceschi M.  - Escartefigue J. Å koda Fabia Rally2 evo,RC2,9:31.6,+7.5 +  0.7,119.3 0.40,10
+6,#2,Ãstberg Mads  - Barth Patrik CitroÃ«n C3 Rally2,RC2,9:33.7,+9.6 +  2.1,118.9 0.51,10
+7,#7,HeikkilÃ¤ Mikko  - Vaaleri Samu Å koda Fabia Rally2 evo,RC2,9:34.1,+10.0 +  0.4,118.8 0.53,10
+8,#11,Cais Erik  - BacigÃ¡l Igor Å koda Fabia RS Rally2,RC2,9:34.6,+10.5 +  0.5,118.7 0.55,10
+9,#15,Campedelli Simone  - Canton Tania Å koda Fabia Rally2 evo,RC2,9:36.7,+12.6 +  2.1,118.3 0.66,10
+10,#4,Mabellini Andrea  - Lenzi Virginia Å koda Fabia Rally2 evo,RC2,9:37.0,+12.9 +  0.3,118.2 0.68,10
+11,#8,LinnamÃ¤e Georg  - Morgan James Hyundai i20 N Rally2,RC2,9:38.5,+14.4 +  1.5,117.9 0.76,10
+12,#3,Llarena EfrÃ©n  - FernÃ¡ndez Sara Å koda Fabia Rally2 evo,RC2,9:39.5,+15.4 +  1.0,117.7 0.81,10
+13,#14,Virves Robert  - Drew Craig Ford Fiesta Rally2,RC2,9:44.0,+19.9 +  4.5,116.8 1.05,10
+14,#12,RÃ¥dstrÃ¶m Dennis  - Johansson J. Ford Fiesta Rally2,RC2,9:44.9,+20.8 +  0.9,116.6 1.10,10
+15,#18,Battistolli A.  - Scattolin S. Å koda Fabia RS Rally2,RC2,9:46.1,+22.0 +  1.2,116.4 1.16,10
+16,#17,Pryce Osian  - PrÃ©vot StÃ©phane Å koda Fabia Rally2 evo,RC2,9:48.0,+23.9 +  1.9,116.0 1.26,10
+17,#16,LÃ¡szlÃ³ Martin  - Berendi DÃ¡vid Å koda Fabia Rally2 evo,RC2,9:48.7,+24.6 +  0.7,115.9 1.30,10
+18,#19,KoÅtun JarosÅaw  - Pleskot I. Ford Fiesta Rally2,RC2,9:53.1,+29.0 +  4.4,115.0 1.53,10
+19,#22,Armstrong Jon  - Fair Cameron Ford Fiesta Rally3,RC3,9:57.0,+32.9 +  3.9,114.3 1.74,10
+20,#56,Laskowski Hubert  - KuÅnierz M. Ford Fiesta Rally3,RC3,9:59.5,+35.4 +  2.5,113.8 1.87,10
+21,#25,Soria Paulo  - Itu Sergiu Renault Clio Rally3,RC3,10:03.7,+39.6 +  4.2,113.0 2.09,10
+22,#23,Matulka Jakub  - Dymurski Daniel Ford Fiesta Rally3,RC3,10:04.6,+40.5 +  0.9,112.8 2.14,10
+23,#53,Terlecki Aleksander  - Szeja M. Å koda Fabia Rally2 evo,RC2,10:09.9,+45.8 +  5.3,111.9 2.42,10
+24,#24,Parys Piotr  - Syty Damian Ford Fiesta Rally3,RC3,10:15.9,+51.8 +  6.0,110.8 2.73,10
+25,#20,Cuzma Bogdan  - Minor Ilka Å koda Fabia RS Rally2,RC2,10:18.6,+54.5 +  2.7,110.3 2.88,10
+26,#57,Kelly Eamonn  - Mohan Conor Ford Fiesta Rally3,RC3,10:18.8,+54.7 +  0.2,110.2 2.89,10
+27,#52,Mauro SÃ¡nchez A.  - Sanjuan de Eusebio D. Å koda Fabia Rally2 evo,RC2,10:19.4,+55.3 +  0.6,110.1 2.92,10
+28,#55,Korzun Anton  - Kononov Pavlo Å koda Fabia Rally2-Kit,RC2,10:24.2,+1:00.1 +  4.8,109.3 3.17,10
+29,#54,Potiiko Serhii  - Mishyn Ivan Å koda Fabia Rally2-Kit,RC2,10:29.5,+1:05.4 +  5.3,108.4 3.45,10
+30,#34,Schulz Timo  - Wenzel Michael Opel Corsa Rally4,RC4,10:29.8,+1:05.7 +  0.3,108.3 3.47,10
+31,#46,Hangodi BendegÃºz  - Bunkoczi L. Peugeot 208 Rally4,RC4,10:32.8,+1:08.7 +  3.0,107.8 3.63,10
+32,#27,Maior Norbert  - Maior F. Peugeot 208 Rally4,RC4,10:33.2,+1:09.1 +  0.4,107.7 3.65,10
+33,#21,Bertolotti Simone  - Capilli F. CitroÃ«n C3 Rally2,RC2,10:36.2,+1:12.1 +  3.0,107.2 3.80,10
+34,#44,Tiits Mark-Egert  - Viilo Jakko Ford Fiesta Rally4,RC4,10:37.0,+1:12.9 +  0.8,107.1 3.85,10
+35,#35,Johansson Mille  - GrÃ¶nvall Johan Ford Fiesta Rally4,RC4,10:37.7,+1:13.6 +  0.7,107.0 3.88,10
+36,#28,Hansen Victor  - Johansson Victor Peugeot 208 Rally4,RC4,10:37.9,+1:13.8 +  0.2,106.9 3.89,10
+37,#58,Fontana Matteo  - Arena Nicola Peugeot 208 Rally4,RC4,10:40.7,+1:16.6 +  2.8,106.5 4.04,10
+38,#31,McRae Max  - Kierans Mac Opel Corsa Rally4,RC4,10:45.6,+1:21.5 +  4.9,105.7 4.30,10
+39,#29,DaprÃ Roberto  - Guglielmetti L. Peugeot 208 Rally4,RC4,10:45.7,+1:21.6 +  0.1,105.7 4.31,10
+40,#26,Nore Ola Jr.  - Eriksen Torstein Renault Clio Rally4,RC4,10:49.7,+1:25.6 +  4.0,105.0 4.52,10
+41,#33,Zanin Mattia  - Pizzol Fabio Peugeot 208 Rally4,RC4,10:53.0,+1:28.9 +  3.3,104.5 4.69,10
+42,#51,Uger Sergey  - Uger Obolenskaya M. Ford Fiesta R5,RC2,10:59.3,+1:35.2 +  6.3,103.5 5.02,10
+43,#32,Raftery Aoife  - Williams Claire Peugeot 208 Rally4,RC4,11:02.9,+1:38.8 +  3.6,102.9 5.21,10
+44,#61,Zakmans Ilja  - Å½akmane Estere Mitsubishi Lancer Evo X,RC2,11:24.9,+2:00.8 +  22.0,99.6 6.37,10
+45,#45,Kreuter Norman  - Seidl Anna-Maria Peugeot 208 Rally4,RC4,11:34.8,+2:10.7 +  9.9,98.2 6.90,10
+46,#41,Kramer A.  - Kvick Andersson J. Peugeot 208 Rally4,RC4,11:37.2,+2:13.1 +  2.4,97.8 7.02,10
+47,#60,Orgus Keiro  - Kraav Hendrik Ford Fiesta Rally4,RC4,11:38.1,+2:14.0 +  0.9,97.7 7.07,10
+48,#36,Andersson Simon  - JÃ¶nsson J. Peugeot 208 Rally4,RC4,11:49.2,+2:25.1 +  11.1,96.2 7.66,10
+49,#39,Noller RenÃ©  - Solbach-Schmidt N. Peugeot 208 Rally4,RC4,14:10.1,+4:46.0 +  2:20.9,80.2 15.1,10
