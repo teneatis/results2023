@@ -1,0 +1,51 @@
+Pos.,No.,Driver / Co-driver Vehicle,Group,SS time,Aver. speed sec/km,Diff.Leader Diff.Prev.,ss
+1,18,Katsuta  T.  /  Johnston  Aaron  Toyota GR Yaris Rally1 Hybrid,RC1,00:05:04.4,109.51 0.00,00:00:00.0 00:00:00.0,20
+2,11,Neuville  T.  /  Wydaeghe  M.  Hyundai i20 N Rally1 Hybrid,RC1,00:05:05.7,109.05 0.14,00:00:01.3 00:00:01.3,20
+3,3,Suninen  Teemu  /  Markkula  Mikko  Hyundai i20 N Rally1 Hybrid,RC1,00:05:07.1,108.55 0.29,00:00:02.7 00:00:01.4,20
+4,33,Evans  Elfyn  /  Martin  Scott  Toyota GR Yaris Rally1 Hybrid,RC1,00:05:08.6,108.02 0.45,00:00:04.2 00:00:01.5,20
+5,97,Latvala  J.  /  Hänninen  Juho  Toyota GR Yaris Rally1 Hybrid,RC1,00:05:09.8,107.60 0.58,00:00:05.4 00:00:01.2,20
+6,7,Loubet  P.  /  Gilsoul  Nicolas  Ford Puma Rally1 Hybrid,RC1,00:05:15.2,105.76 1.17,00:00:10.8 00:00:05.4,20
+7,25,Gryazin  Nikolay  /  Aleksandrov  K.  Škoda Fabia RS Rally2,RC2,00:05:19.3,104.40 1.61,00:00:14.9 00:00:04.1,20
+8,23,Lindholm  Emil  /  Hämäläinen  R.  Hyundai i20 N Rally2,RC2,00:05:20.2,104.11 1.71,00:00:15.8 00:00:00.9,20
+9,24,Mikkelsen  A.  /  Eriksen  T.  Škoda Fabia RS Rally2,RC2,00:05:20.5,104.01 1.74,00:00:16.1 00:00:00.3,20
+10,21,Solberg  Oliver  /  Edmondson  E.  Škoda Fabia RS Rally2,RC2,00:05:21.9,103.56 1.89,00:00:17.5 00:00:01.4,20
+11,26,Fourmaux  Adrien  /  Coria  Alexandre  Ford Fiesta Rally2 MkII,RC2,00:05:22.4,103.40 1.94,00:00:18.0 00:00:00.5,20
+12,30,Heikkilä  Mikko  /  Vaaleri  Samu  Škoda Fabia RS Rally2,RC2,00:05:24.4,102.76 2.16,00:00:20.0 00:00:02.0,20
+13,52,Korhonen  Roope  /  Viinikka  Anssi  Volkswagen Polo Gti R5,RC2,00:05:25.5,102.41 2.28,00:00:21.1 00:00:01.1,20
+14,29,Joona  Lauri  /  Shemeikka  T.  Škoda Fabia RS Rally2,RC2,00:05:27.1,101.91 2.45,00:00:22.7 00:00:01.6,20
+15,39,McErlean  Joshua  /  Fulton  James  Hyundai i20 N Rally2,RC2,00:05:27.6,101.76 2.51,00:00:23.2 00:00:00.5,20
+16,27,Pajari  Sami  /  Mälkönen  Enni  Škoda Fabia RS Rally2,RC2,00:05:28.3,101.54 2.58,00:00:23.9 00:00:00.7,20
+17,36,Marczyk  Miko  /  Gospodarczyk  S.  Škoda Fabia RS Rally2,RC2,00:05:28.5,101.48 2.60,00:00:24.1 00:00:00.2,20
+18,38,Fernàndez  E.  /  Odriozola  Borja  Škoda Fabia Rally2 Evo,RC2,00:05:28.9,101.36 2.65,00:00:24.5 00:00:00.4,20
+19,20,Rossel  Yohan  /  Dunand  Arnaud  Citroën C3 Rally2,RC2,00:05:30.5,100.87 2.82,00:00:26.1 00:00:01.6,20
+20,34,Linnamäe  Georg  /  Morgan  James  Hyundai i20 N Rally2,RC2,00:05:32.2,100.35 3.00,00:00:27.8 00:00:01.7,20
+21,40,Munster  G.  /  Louka  Louis  Ford Fiesta Rally2 MkII,RC2,00:05:32.4,100.29 3.02,00:00:28.0 00:00:00.2,20
+22,65,Rytkönen  Anssi  /  Koskela  J.  Škoda Fabia R5,RC2,00:05:34.7,99.60 3.27,00:00:30.3 00:00:02.3,20
+23,48,Kelly  Eamonn  /  Mohan  Conor  Hyundai i20 N Rally2,RC2,00:05:37.1,98.89 3.53,00:00:32.7 00:00:02.4,20
+24,44,Ciamin  Nicolas  /  Roche  Yannick  Volkswagen Polo Gti R5,RC2,00:05:37.9,98.66 3.62,00:00:33.5 00:00:00.8,20
+25,53,Korhola  B.  /  Kelander  Pekka  Ford Fiesta Rally3,RC3,00:05:41.5,97.62 4.01,00:00:37.1 00:00:03.6,20
+26,57,Kallio  Jesse  /  Lindberg  Jussi  Ford Fiesta Rally3,RC3,00:05:43.5,97.05 4.22,00:00:39.1 00:00:02.0,20
+27,55,Türkkan  Ali  /  Erdener  Burak  Ford Fiesta Rally3,RC3,00:05:47.0,96.07 4.60,00:00:42.6 00:00:03.5,20
+28,56,Kohn  Filip  /  Woodburn  Tom  Ford Fiesta Rally3,RC3,00:05:50.5,95.11 4.98,00:00:46.1 00:00:03.5,20
+29,68,Manninen  Markus  /  Sillanpää  T.  Renault Clio Rally3,RC3,00:05:50.6,95.08 4.99,00:00:46.2 00:00:00.1,20
+30,59,Timonen  Henri  /  Kärpijoki  J.  Ford Fiesta Rally3,RC3,00:05:52.4,94.60 5.18,00:00:48.0 00:00:01.8,20
+31,66,Tuuri  Jari  /  Kapanen  Arto  Škoda Fabia R5,RC2,00:05:55.6,93.75 5.53,00:00:51.2 00:00:03.2,20
+32,46,Villanueva  A.  /  Murado  José  Škoda Fabia RS Rally2,RC2,00:05:56.9,93.40 5.67,00:00:52.5 00:00:01.3,20
+33,64,Borodin  Petr  /  Cheprasov  Roman  Ford Fiesta Rally3,RC3,00:05:57.1,93.35 5.69,00:00:52.7 00:00:00.2,20
+34,45,Jylhä  Tommi  /  Nevanpää  K.  Škoda Fabia R5,RC2,00:05:58.9,92.88 5.89,00:00:54.5 00:00:01.8,20
+35,73,Otake  Nao  /  Salminen  Marko  Renault Clio Rally4,RC4,00:06:01.2,92.29 6.13,00:00:56.8 00:00:02.3,20
+36,75,Cartier  Victor  /  Deliot  Manon  Toyota Yaris R4,RC2,00:06:03.6,91.68 6.39,00:00:59.2 00:00:02.4,20
+37,74,Fontana  Matteo  /  Arnaboldi  A.  Peugeot 208 Rally4,RC4,00:06:03.9,91.61 6.43,00:00:59.5 00:00:00.3,20
+38,71,Yamamoto  Yuki  /  Teiskonen  Miika  Renault Clio Rally4,RC4,00:06:07.8,90.64 6.85,00:01:03.4 00:00:03.9,20
+39,70,Räikkönen  J.  /  Korhonen  Mikael  Peugeot 208 Rally4,RC4,00:06:13.2,89.32 7.43,00:01:08.8 00:00:05.4,20
+40,62,Vihtari  Tuomas  /  Harvia  Ville  Ford Fiesta Rally3,RC3,00:06:13.8,89.18 7.49,00:01:09.4 00:00:00.6,20
+41,61,Laakso  Ville  /  Luhtaniemi  Jani  Ford Fiesta Rally3,RC3,00:06:14.4,89.04 7.56,00:01:10.0 00:00:00.6,20
+42,60,Cumiskey  B.  /  Connolly  Martin  Ford Fiesta Rally3,RC3,00:06:17.4,88.33 7.88,00:01:13.0 00:00:03.0,20
+43,76,Rowley  Paul  /  Mullen  Darragh  Ford Fiesta Rally2 MkII,RC2,00:06:18.5,88.07 8.00,00:01:14.1 00:00:01.1,20
+44,67,McCormack  Enda  /  McCormack  Liam  Hyundai i20 N Rally2,RC2,00:06:25.9,86.39 8.80,00:01:21.5 00:00:07.4,20
+45,77,Strobl  A.  /  Kachel  André  Ford Fiesta R5,RC2,00:06:27.8,85.96 9.01,00:01:23.4 00:00:01.9,20
+46,79,Coyne  John  /  Treacy  Eoin  Hyundai i20 N Rally2,RC2,00:06:30.1,85.46 9.25,00:01:25.7 00:00:02.3,20
+47,49,Díaz Aboitiz  M.  /  Sanjuán  R.  Škoda Fabia Rally2 Evo,RC2,00:06:48.8,81.55 11.27,00:01:44.4 00:00:18.7,20
+48,78,Salin  Daniel  /  Salin  Brigitte  Škoda Fabia R5,RC2,00:06:57.0,79.94 12.16,00:01:52.6 00:00:08.2,20
+49,81,Kaisanlahti  R.  /  Öhman  Patric  Ford Fiesta Rally4,RC4,00:07:14.2,76.78 14.02,00:02:09.8 00:00:17.2,20
+50,82,Hiltunen  Peter  /  Tiainen  Pentti  Renault Clio Rally4,RC4,00:07:30.7,73.96 15.80,00:02:26.3 00:00:16.5,20
