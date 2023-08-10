@@ -39,7 +39,7 @@ for ss in stages:
     if equal:
         data['Pos.'] = data['Pos.'].replace('-', method='ffill')
     
-    data.to_csv('08_rally23_SS'+str(ss+1)+'.csv', index=False)
+    data.to_csv('09_rally23_SS'+str(ss+1)+'.csv', index=False)
 
     rally_23.append(data)
 

@@ -1,0 +1,542 @@
+No.,Crew,Group,ss,Race,cou,time_SS_sec
+8,Tänak  Ott,RC1,1,Safari,1,194.3
+17,Ogier  S. ,RC1,1,Safari,2,194.4
+69,Rovanperä ,RC1,1,Safari,3,196.7
+11,Neuville  ,RC1,1,Safari,4,197.0
+33,Evans  Elf,RC1,1,Safari,5,197.6
+4,Lappi  Esa,RC1,1,Safari,6,198.3
+18,Katsuta  T,RC1,1,Safari,7,199.4
+6,Sordo  Dan,RC1,1,Safari,8,200.2
+7,Loubet  P.,RC1,1,Safari,9,202.3
+20,Solberg  O,RC2,1,Safari,10,204.0
+9,Serderidis,RC1,1,Safari,11,205.6
+21,Kajetanowi,RC2,1,Safari,12,207.2
+22,Munster  G,RC2,1,Safari,13,208.0
+23,Prokop  Ma,RC2,1,Safari,14,209.4
+24,Kremer  Ar,RC2,1,Safari,15,209.7
+27,Chwist  Da,RC2,1,Safari,16,209.7
+26,Tundo  Car,RC2,1,Safari,17,215.9
+28,Díaz Aboit,RC2,1,Safari,18,217.4
+34,Dominguez ,RC3,1,Safari,19,220.6
+30,Virani  Aa,RC2,1,Safari,20,223.8
+37,Kimathi  M,RC3,1,Safari,21,227.4
+38,Bailey  Ja,RC3,1,Safari,22,228.9
+29,Vassilakis,RC2,1,Safari,23,229.3
+25,Patel  Kar,RC2,1,Safari,24,229.5
+32,Singh Vohr,RC2,1,Safari,25,229.6
+35,Anwar  Ham,RC3,1,Safari,26,230.5
+44,Sachania  ,-,1,Safari,27,230.8
+41,Nzioka  Ev,-,1,Safari,28,231.0
+36,Wahome  Je,RC3,1,Safari,29,233.9
+45,Rathod  Mi,-,1,Safari,30,240.3
+40,Davite  G.,RC2,1,Safari,31,266.8
+17,Ogier  S. ,RC1,2,Safari,1,830.3
+69,Rovanperä ,RC1,2,Safari,2,837.8
+33,Evans  Elf,RC1,2,Safari,3,838.7
+11,Neuville  ,RC1,2,Safari,4,839.0
+18,Katsuta  T,RC1,2,Safari,5,839.9
+6,Sordo  Dan,RC1,2,Safari,6,842.0
+8,Tänak  Ott,RC1,2,Safari,7,845.5
+4,Lappi  Esa,RC1,2,Safari,8,847.8
+7,Loubet  P.,RC1,2,Safari,9,864.5
+20,Solberg  O,RC2,2,Safari,10,874.4
+21,Kajetanowi,RC2,2,Safari,11,908.3
+22,Munster  G,RC2,2,Safari,12,917.6
+9,Serderidis,RC1,2,Safari,13,917.9
+23,Prokop  Ma,RC2,2,Safari,14,928.2
+24,Kremer  Ar,RC2,2,Safari,15,930.9
+26,Tundo  Car,RC2,2,Safari,16,963.0
+27,Chwist  Da,RC2,2,Safari,17,966.3
+35,Anwar  Ham,RC3,2,Safari,18,1000.3
+34,Dominguez ,RC3,2,Safari,19,1007.5
+30,Virani  Aa,RC2,2,Safari,20,1012.0
+41,Nzioka  Ev,-,2,Safari,21,1033.3
+38,Bailey  Ja,RC3,2,Safari,22,1042.1
+28,Díaz Aboit,RC2,2,Safari,23,1062.2
+25,Patel  Kar,RC2,2,Safari,24,1075.7
+37,Kimathi  M,RC3,2,Safari,25,1077.3
+40,Davite  G.,RC2,2,Safari,26,1089.5
+29,Vassilakis,RC2,2,Safari,27,1110.2
+44,Sachania  ,-,2,Safari,28,1129.0
+45,Rathod  Mi,-,2,Safari,29,1153.6
+36,Wahome  Je,RC3,2,Safari,30,1184.1
+32,Singh Vohr,RC2,2,Safari,31,1193.7
+4,Lappi  Esa,RC1,3,Safari,1,409.7
+17,Ogier  S. ,RC1,3,Safari,2,410.9
+18,Katsuta  T,RC1,3,Safari,3,412.0
+69,Rovanperä ,RC1,3,Safari,4,413.0
+33,Evans  Elf,RC1,3,Safari,5,414.1
+6,Sordo  Dan,RC1,3,Safari,6,416.7
+7,Loubet  P.,RC1,3,Safari,7,417.5
+8,Tänak  Ott,RC1,3,Safari,8,419.0
+11,Neuville  ,RC1,3,Safari,9,422.2
+20,Solberg  O,RC2,3,Safari,10,443.5
+21,Kajetanowi,RC2,3,Safari,11,455.0
+22,Munster  G,RC2,3,Safari,12,461.2
+9,Serderidis,RC1,3,Safari,13,468.0
+23,Prokop  Ma,RC2,3,Safari,14,472.7
+24,Kremer  Ar,RC2,3,Safari,15,484.7
+26,Tundo  Car,RC2,3,Safari,16,498.5
+34,Dominguez ,RC3,3,Safari,17,499.6
+27,Chwist  Da,RC2,3,Safari,18,502.4
+35,Anwar  Ham,RC3,3,Safari,19,514.9
+38,Bailey  Ja,RC3,3,Safari,20,521.9
+28,Díaz Aboit,RC2,3,Safari,21,526.7
+40,Davite  G.,RC2,3,Safari,22,537.8
+25,Patel  Kar,RC2,3,Safari,23,542.2
+37,Kimathi  M,RC3,3,Safari,24,543.1
+41,Nzioka  Ev,-,3,Safari,25,544.2
+30,Virani  Aa,RC2,3,Safari,26,552.4
+32,Singh Vohr,RC2,3,Safari,27,557.8
+29,Vassilakis,RC2,3,Safari,28,562.0
+44,Sachania  ,-,3,Safari,29,573.0
+36,Wahome  Je,RC3,3,Safari,30,574.4
+45,Rathod  Mi,-,3,Safari,31,624.8
+69,Rovanperä ,RC1,4,Safari,1,892.4
+11,Neuville  ,RC1,4,Safari,2,900.4
+17,Ogier  S. ,RC1,4,Safari,3,901.8
+33,Evans  Elf,RC1,4,Safari,4,906.5
+6,Sordo  Dan,RC1,4,Safari,5,914.4
+18,Katsuta  T,RC1,4,Safari,6,915.2
+4,Lappi  Esa,RC1,4,Safari,7,922.7
+7,Loubet  P.,RC1,4,Safari,8,930.4
+20,Solberg  O,RC2,4,Safari,9,985.1
+8,Tänak  Ott,RC1,4,Safari,10,1025.0
+22,Munster  G,RC2,4,Safari,11,1036.3
+9,Serderidis,RC1,4,Safari,12,1039.9
+21,Kajetanowi,RC2,4,Safari,13,1073.8
+24,Kremer  Ar,RC2,4,Safari,14,1080.2
+23,Prokop  Ma,RC2,4,Safari,15,1093.1
+26,Tundo  Car,RC2,4,Safari,16,1111.4
+27,Chwist  Da,RC2,4,Safari,17,1111.9
+35,Anwar  Ham,RC3,4,Safari,18,1123.7
+34,Dominguez ,RC3,4,Safari,19,1166.6
+25,Patel  Kar,RC2,4,Safari,20,1200.8
+30,Virani  Aa,RC2,4,Safari,21,1217.2
+41,Nzioka  Ev,-,4,Safari,22,1220.7
+40,Davite  G.,RC2,4,Safari,23,1244.8
+38,Bailey  Ja,RC3,4,Safari,24,1250.7
+28,Díaz Aboit,RC2,4,Safari,25,1251.1
+32,Singh Vohr,RC2,4,Safari,26,1289.4
+44,Sachania  ,-,4,Safari,27,1299.3
+29,Vassilakis,RC2,4,Safari,28,1354.1
+36,Wahome  Je,RC3,4,Safari,29,1359.9
+37,Kimathi  M,RC3,4,Safari,30,1382.2
+45,Rathod  Mi,-,4,Safari,31,1820.7
+17,Ogier  S. ,RC1,5,Safari,1,830.2
+4,Lappi  Esa,RC1,5,Safari,2,838.6
+8,Tänak  Ott,RC1,5,Safari,3,840.4
+33,Evans  Elf,RC1,5,Safari,4,840.7
+6,Sordo  Dan,RC1,5,Safari,5,841.6
+11,Neuville  ,RC1,5,Safari,6,844.3
+69,Rovanperä ,RC1,5,Safari,7,845.5
+18,Katsuta  T,RC1,5,Safari,8,849.0
+20,Solberg  O,RC2,5,Safari,9,883.3
+22,Munster  G,RC2,5,Safari,10,904.4
+21,Kajetanowi,RC2,5,Safari,11,906.4
+9,Serderidis,RC1,5,Safari,12,908.5
+23,Prokop  Ma,RC2,5,Safari,13,924.9
+24,Kremer  Ar,RC2,5,Safari,14,944.3
+26,Tundo  Car,RC2,5,Safari,15,953.9
+27,Chwist  Da,RC2,5,Safari,16,956.8
+25,Patel  Kar,RC2,5,Safari,17,957.3
+35,Anwar  Ham,RC3,5,Safari,18,991.4
+7,Loubet  P.,RC1,5,Safari,19,996.0
+30,Virani  Aa,RC2,5,Safari,20,1003.4
+34,Dominguez ,RC3,5,Safari,21,1014.7
+40,Davite  G.,RC2,5,Safari,22,1017.8
+38,Bailey  Ja,RC3,5,Safari,23,1042.4
+28,Díaz Aboit,RC2,5,Safari,24,1047.8
+41,Nzioka  Ev,-,5,Safari,25,1050.4
+37,Kimathi  M,RC3,5,Safari,26,1050.6
+29,Vassilakis,RC2,5,Safari,27,1069.0
+36,Wahome  Je,RC3,5,Safari,28,1069.9
+32,Singh Vohr,RC2,5,Safari,29,1097.7
+44,Sachania  ,-,5,Safari,30,1127.9
+45,Rathod  Mi,-,5,Safari,31,1650.4
+17,Ogier  S. ,RC1,6,Safari,1,406.5
+4,Lappi  Esa,RC1,6,Safari,2,407.7
+69,Rovanperä ,RC1,6,Safari,3,409.1
+33,Evans  Elf,RC1,6,Safari,4,409.6
+18,Katsuta  T,RC1,6,Safari,5,410.2
+8,Tänak  Ott,RC1,6,Safari,6,411.9
+6,Sordo  Dan,RC1,6,Safari,7,412.8
+7,Loubet  P.,RC1,6,Safari,8,416.1
+20,Solberg  O,RC2,6,Safari,9,442.1
+21,Kajetanowi,RC2,6,Safari,10,449.0
+22,Munster  G,RC2,6,Safari,11,449.7
+9,Serderidis,RC1,6,Safari,12,456.1
+23,Prokop  Ma,RC2,6,Safari,13,467.0
+24,Kremer  Ar,RC2,6,Safari,14,472.1
+34,Dominguez ,RC3,6,Safari,15,490.0
+26,Tundo  Car,RC2,6,Safari,16,492.6
+25,Patel  Kar,RC2,6,Safari,17,494.1
+27,Chwist  Da,RC2,6,Safari,18,497.2
+35,Anwar  Ham,RC3,6,Safari,19,517.8
+28,Díaz Aboit,RC2,6,Safari,20,523.2
+38,Bailey  Ja,RC3,6,Safari,21,527.1
+36,Wahome  Je,RC3,6,Safari,22,538.2
+37,Kimathi  M,RC3,6,Safari,23,542.4
+32,Singh Vohr,RC2,6,Safari,24,542.5
+30,Virani  Aa,RC2,6,Safari,25,543.9
+41,Nzioka  Ev,-,6,Safari,26,568.1
+44,Sachania  ,-,6,Safari,27,580.0
+40,Davite  G.,RC2,6,Safari,28,590.8
+11,Neuville  ,RC1,6,Safari,29,1006.5
+29,Vassilakis,RC2,6,Safari,30,1113.2
+45,Rathod  Mi,-,6,Safari,31,1168.1
+17,Ogier  S. ,RC1,7,Safari,1,904.6
+69,Rovanperä ,RC1,7,Safari,2,907.0
+4,Lappi  Esa,RC1,7,Safari,3,907.9
+33,Evans  Elf,RC1,7,Safari,4,915.0
+8,Tänak  Ott,RC1,7,Safari,5,925.9
+6,Sordo  Dan,RC1,7,Safari,6,929.4
+18,Katsuta  T,RC1,7,Safari,7,932.4
+22,Munster  G,RC2,7,Safari,8,1032.2
+21,Kajetanowi,RC2,7,Safari,9,1036.1
+9,Serderidis,RC1,7,Safari,10,1058.1
+7,Loubet  P.,RC1,7,Safari,11,1076.8
+23,Prokop  Ma,RC2,7,Safari,12,1115.9
+26,Tundo  Car,RC2,7,Safari,13,1129.9
+34,Dominguez ,RC3,7,Safari,14,1143.6
+38,Bailey  Ja,RC3,7,Safari,15,1210.2
+30,Virani  Aa,RC2,7,Safari,16,1253.3
+37,Kimathi  M,RC3,7,Safari,17,1273.1
+28,Díaz Aboit,RC2,7,Safari,18,1287.0
+41,Nzioka  Ev,-,7,Safari,19,1345.8
+32,Singh Vohr,RC2,7,Safari,20,1373.4
+24,Kremer  Ar,RC2,7,Safari,21,1392.5
+44,Sachania  ,-,7,Safari,22,1394.4
+27,Chwist  Da,RC2,7,Safari,23,1410.0
+25,Patel  Kar,RC2,7,Safari,24,1452.0
+11,Neuville  ,RC1,7,Safari,25,1504.6
+20,Solberg  O,RC2,7,Safari,26,1632.2
+29,Vassilakis,RC2,7,Safari,27,1632.2
+40,Davite  G.,RC2,7,Safari,28,1632.2
+36,Wahome  Je,RC3,7,Safari,29,1650.7
+45,Rathod  Mi,-,7,Safari,30,1945.8
+35,Anwar  Ham,RC3,7,Safari,31,2049.3
+17,Ogier  S. ,RC1,8,Safari,1,1050.0
+69,Rovanperä ,RC1,8,Safari,2,1057.6
+4,Lappi  Esa,RC1,8,Safari,3,1076.8
+18,Katsuta  T,RC1,8,Safari,4,1084.6
+8,Tänak  Ott,RC1,8,Safari,5,1084.9
+6,Sordo  Dan,RC1,8,Safari,6,1092.7
+11,Neuville  ,RC1,8,Safari,7,1117.1
+33,Evans  Elf,RC1,8,Safari,8,1118.5
+20,Solberg  O,RC2,8,Safari,9,1118.7
+7,Loubet  P.,RC1,8,Safari,10,1163.3
+21,Kajetanowi,RC2,8,Safari,11,1188.5
+22,Munster  G,RC2,8,Safari,12,1192.4
+9,Serderidis,RC1,8,Safari,13,1231.4
+26,Tundo  Car,RC2,8,Safari,14,1240.7
+23,Prokop  Ma,RC2,8,Safari,15,1265.3
+24,Kremer  Ar,RC2,8,Safari,16,1273.2
+27,Chwist  Da,RC2,8,Safari,17,1281.5
+40,Davite  G.,RC2,8,Safari,18,1342.3
+38,Bailey  Ja,RC3,8,Safari,19,1367.8
+30,Virani  Aa,RC2,8,Safari,20,1383.8
+34,Dominguez ,RC3,8,Safari,21,1393.8
+36,Wahome  Je,RC3,8,Safari,22,1395.1
+45,Rathod  Mi,-,8,Safari,23,1410.7
+37,Kimathi  M,RC3,8,Safari,24,1429.5
+28,Díaz Aboit,RC2,8,Safari,25,1477.7
+29,Vassilakis,RC2,8,Safari,26,1490.8
+44,Sachania  ,-,8,Safari,27,1498.8
+25,Patel  Kar,RC2,8,Safari,28,1553.5
+32,Singh Vohr,RC2,8,Safari,29,1718.7
+35,Anwar  Ham,RC3,8,Safari,30,1967.8
+41,Nzioka  Ev,-,8,Safari,31,2323.4
+69,Rovanperä ,RC1,9,Safari,1,505.2
+17,Ogier  S. ,RC1,9,Safari,2,505.8
+33,Evans  Elf,RC1,9,Safari,3,507.4
+4,Lappi  Esa,RC1,9,Safari,4,507.6
+18,Katsuta  T,RC1,9,Safari,5,510.2
+11,Neuville  ,RC1,9,Safari,6,512.0
+6,Sordo  Dan,RC1,9,Safari,7,512.5
+8,Tänak  Ott,RC1,9,Safari,8,512.7
+7,Loubet  P.,RC1,9,Safari,9,533.1
+20,Solberg  O,RC2,9,Safari,10,536.8
+9,Serderidis,RC1,9,Safari,11,554.6
+21,Kajetanowi,RC2,9,Safari,12,561.1
+22,Munster  G,RC2,9,Safari,13,568.7
+26,Tundo  Car,RC2,9,Safari,14,591.3
+23,Prokop  Ma,RC2,9,Safari,15,605.4
+24,Kremer  Ar,RC2,9,Safari,16,613.3
+30,Virani  Aa,RC2,9,Safari,17,642.2
+40,Davite  G.,RC2,9,Safari,18,657.8
+34,Dominguez ,RC3,9,Safari,19,674.7
+36,Wahome  Je,RC3,9,Safari,20,685.6
+28,Díaz Aboit,RC2,9,Safari,21,695.1
+45,Rathod  Mi,-,9,Safari,22,707.2
+44,Sachania  ,-,9,Safari,23,711.2
+29,Vassilakis,RC2,9,Safari,24,726.9
+25,Patel  Kar,RC2,9,Safari,25,791.6
+27,Chwist  Da,RC2,9,Safari,26,963.6
+32,Singh Vohr,RC2,9,Safari,27,1136.8
+35,Anwar  Ham,RC3,9,Safari,28,1274.7
+37,Kimathi  M,RC3,9,Safari,29,1274.7
+38,Bailey  Ja,RC3,9,Safari,30,1274.7
+41,Nzioka  Ev,-,9,Safari,31,1307.2
+69,Rovanperä ,RC1,10,Safari,1,1077.7
+4,Lappi  Esa,RC1,10,Safari,2,1081.2
+17,Ogier  S. ,RC1,10,Safari,3,1085.4
+33,Evans  Elf,RC1,10,Safari,4,1099.9
+18,Katsuta  T,RC1,10,Safari,5,1100.6
+6,Sordo  Dan,RC1,10,Safari,6,1107.2
+8,Tänak  Ott,RC1,10,Safari,7,1121.4
+11,Neuville  ,RC1,10,Safari,8,1139.9
+21,Kajetanowi,RC2,10,Safari,9,1180.7
+7,Loubet  P.,RC1,10,Safari,10,1181.3
+22,Munster  G,RC2,10,Safari,11,1202.8
+9,Serderidis,RC1,10,Safari,12,1254.4
+26,Tundo  Car,RC2,10,Safari,13,1291.7
+24,Kremer  Ar,RC2,10,Safari,14,1295.3
+20,Solberg  O,RC2,10,Safari,15,1307.6
+23,Prokop  Ma,RC2,10,Safari,16,1311.7
+30,Virani  Aa,RC2,10,Safari,17,1430.5
+34,Dominguez ,RC3,10,Safari,18,1452.5
+40,Davite  G.,RC2,10,Safari,19,1456.4
+45,Rathod  Mi,-,10,Safari,20,1489.9
+29,Vassilakis,RC2,10,Safari,21,1520.2
+44,Sachania  ,-,10,Safari,22,1549.1
+36,Wahome  Je,RC3,10,Safari,23,1593.0
+25,Patel  Kar,RC2,10,Safari,24,1605.6
+27,Chwist  Da,RC2,10,Safari,25,1780.7
+28,Díaz Aboit,RC2,10,Safari,26,1780.7
+32,Singh Vohr,RC2,10,Safari,27,1780.7
+35,Anwar  Ham,RC3,10,Safari,28,2052.5
+37,Kimathi  M,RC3,10,Safari,29,2052.5
+38,Bailey  Ja,RC3,10,Safari,30,2052.5
+41,Nzioka  Ev,-,10,Safari,31,2089.9
+17,Ogier  S. ,RC1,11,Safari,1,1043.4
+69,Rovanperä ,RC1,11,Safari,2,1049.8
+18,Katsuta  T,RC1,11,Safari,3,1055.5
+33,Evans  Elf,RC1,11,Safari,4,1058.2
+6,Sordo  Dan,RC1,11,Safari,5,1066.0
+11,Neuville  ,RC1,11,Safari,6,1076.7
+7,Loubet  P.,RC1,11,Safari,7,1097.5
+20,Solberg  O,RC2,11,Safari,8,1109.3
+22,Munster  G,RC2,11,Safari,9,1136.0
+21,Kajetanowi,RC2,11,Safari,10,1146.3
+8,Tänak  Ott,RC1,11,Safari,11,1188.7
+26,Tundo  Car,RC2,11,Safari,12,1215.9
+23,Prokop  Ma,RC2,11,Safari,13,1238.8
+25,Patel  Kar,RC2,11,Safari,14,1251.7
+24,Kremer  Ar,RC2,11,Safari,15,1252.8
+9,Serderidis,RC1,11,Safari,16,1300.7
+40,Davite  G.,RC2,11,Safari,17,1329.4
+29,Vassilakis,RC2,11,Safari,18,1390.4
+34,Dominguez ,RC3,11,Safari,19,1432.8
+44,Sachania  ,-,11,Safari,20,1446.2
+45,Rathod  Mi,-,11,Safari,21,1511.4
+4,Lappi  Esa,RC1,11,Safari,22,1643.4
+27,Chwist  Da,RC2,11,Safari,23,1709.3
+28,Díaz Aboit,RC2,11,Safari,24,1709.3
+30,Virani  Aa,RC2,11,Safari,25,1709.3
+32,Singh Vohr,RC2,11,Safari,26,1709.3
+36,Wahome  Je,RC3,11,Safari,27,2032.8
+37,Kimathi  M,RC3,11,Safari,28,2032.8
+38,Bailey  Ja,RC3,11,Safari,29,2032.8
+41,Nzioka  Ev,-,11,Safari,30,2046.2
+18,Katsuta  T,RC1,12,Safari,1,500.6
+17,Ogier  S. ,RC1,12,Safari,2,502.9
+11,Neuville  ,RC1,12,Safari,3,503.9
+33,Evans  Elf,RC1,12,Safari,4,505.5
+69,Rovanperä ,RC1,12,Safari,5,506.4
+6,Sordo  Dan,RC1,12,Safari,6,510.0
+8,Tänak  Ott,RC1,12,Safari,7,522.4
+7,Loubet  P.,RC1,12,Safari,8,522.9
+20,Solberg  O,RC2,12,Safari,9,537.9
+21,Kajetanowi,RC2,12,Safari,10,547.1
+23,Prokop  Ma,RC2,12,Safari,11,593.8
+26,Tundo  Car,RC2,12,Safari,12,601.9
+24,Kremer  Ar,RC2,12,Safari,13,603.1
+25,Patel  Kar,RC2,12,Safari,14,618.6
+29,Vassilakis,RC2,12,Safari,15,669.5
+34,Dominguez ,RC3,12,Safari,16,701.5
+44,Sachania  ,-,12,Safari,17,704.9
+45,Rathod  Mi,-,12,Safari,18,718.5
+4,Lappi  Esa,RC1,12,Safari,19,1100.6
+9,Serderidis,RC1,12,Safari,20,1100.6
+22,Munster  G,RC2,12,Safari,21,1137.9
+27,Chwist  Da,RC2,12,Safari,22,1137.9
+28,Díaz Aboit,RC2,12,Safari,23,1137.9
+30,Virani  Aa,RC2,12,Safari,24,1137.9
+32,Singh Vohr,RC2,12,Safari,25,1137.9
+40,Davite  G.,RC2,12,Safari,26,1137.9
+36,Wahome  Je,RC3,12,Safari,27,1301.5
+37,Kimathi  M,RC3,12,Safari,28,1301.5
+38,Bailey  Ja,RC3,12,Safari,29,1301.5
+41,Nzioka  Ev,-,12,Safari,30,1304.9
+69,Rovanperä ,RC1,13,Safari,1,1147.7
+33,Evans  Elf,RC1,13,Safari,2,1160.8
+17,Ogier  S. ,RC1,13,Safari,3,1163.0
+18,Katsuta  T,RC1,13,Safari,4,1179.6
+20,Solberg  O,RC2,13,Safari,5,1200.9
+6,Sordo  Dan,RC1,13,Safari,6,1206.0
+11,Neuville  ,RC1,13,Safari,7,1211.8
+8,Tänak  Ott,RC1,13,Safari,8,1256.0
+7,Loubet  P.,RC1,13,Safari,9,1264.1
+21,Kajetanowi,RC2,13,Safari,10,1362.8
+24,Kremer  Ar,RC2,13,Safari,11,1365.2
+23,Prokop  Ma,RC2,13,Safari,12,1397.4
+26,Tundo  Car,RC2,13,Safari,13,1457.2
+25,Patel  Kar,RC2,13,Safari,14,1581.8
+29,Vassilakis,RC2,13,Safari,15,1593.5
+34,Dominguez ,RC3,13,Safari,16,1616.8
+44,Sachania  ,-,13,Safari,17,1649.1
+4,Lappi  Esa,RC1,13,Safari,18,1747.7
+9,Serderidis,RC1,13,Safari,19,1747.7
+22,Munster  G,RC2,13,Safari,20,1800.9
+27,Chwist  Da,RC2,13,Safari,21,1800.9
+28,Díaz Aboit,RC2,13,Safari,22,1800.9
+30,Virani  Aa,RC2,13,Safari,23,1800.9
+32,Singh Vohr,RC2,13,Safari,24,1800.9
+40,Davite  G.,RC2,13,Safari,25,1800.9
+36,Wahome  Je,RC3,13,Safari,26,2216.8
+37,Kimathi  M,RC3,13,Safari,27,2216.8
+38,Bailey  Ja,RC3,13,Safari,28,2216.8
+41,Nzioka  Ev,-,13,Safari,29,2249.1
+45,Rathod  Mi,-,13,Safari,30,2249.1
+69,Rovanperä ,RC1,14,Safari,1,365.1
+17,Ogier  S. ,RC1,14,Safari,2,373.2
+18,Katsuta  T,RC1,14,Safari,3,376.5
+8,Tänak  Ott,RC1,14,Safari,4,379.1
+33,Evans  Elf,RC1,14,Safari,5,381.8
+11,Neuville  ,RC1,14,Safari,6,382.8
+6,Sordo  Dan,RC1,14,Safari,7,384.5
+7,Loubet  P.,RC1,14,Safari,8,393.5
+20,Solberg  O,RC2,14,Safari,9,400.8
+22,Munster  G,RC2,14,Safari,10,406.4
+27,Chwist  Da,RC2,14,Safari,11,425.0
+26,Tundo  Car,RC2,14,Safari,12,433.3
+4,Lappi  Esa,RC1,14,Safari,13,435.2
+23,Prokop  Ma,RC2,14,Safari,14,436.3
+24,Kremer  Ar,RC2,14,Safari,15,442.5
+21,Kajetanowi,RC2,14,Safari,16,451.1
+30,Virani  Aa,RC2,14,Safari,17,468.1
+38,Bailey  Ja,RC3,14,Safari,18,480.8
+25,Patel  Kar,RC2,14,Safari,19,498.8
+32,Singh Vohr,RC2,14,Safari,20,505.6
+41,Nzioka  Ev,-,14,Safari,21,506.4
+34,Dominguez ,RC3,14,Safari,22,525.8
+44,Sachania  ,-,14,Safari,23,548.6
+37,Kimathi  M,RC3,14,Safari,24,562.0
+45,Rathod  Mi,-,14,Safari,25,602.5
+17,Ogier  S. ,RC1,15,Safari,1,675.9
+69,Rovanperä ,RC1,15,Safari,2,684.5
+8,Tänak  Ott,RC1,15,Safari,3,692.4
+33,Evans  Elf,RC1,15,Safari,4,693.8
+11,Neuville  ,RC1,15,Safari,5,699.4
+18,Katsuta  T,RC1,15,Safari,6,703.6
+6,Sordo  Dan,RC1,15,Safari,7,712.0
+7,Loubet  P.,RC1,15,Safari,8,723.2
+20,Solberg  O,RC2,15,Safari,9,735.8
+22,Munster  G,RC2,15,Safari,10,765.6
+24,Kremer  Ar,RC2,15,Safari,11,802.5
+26,Tundo  Car,RC2,15,Safari,12,804.9
+21,Kajetanowi,RC2,15,Safari,13,805.2
+27,Chwist  Da,RC2,15,Safari,14,807.6
+23,Prokop  Ma,RC2,15,Safari,15,817.0
+25,Patel  Kar,RC2,15,Safari,16,843.3
+30,Virani  Aa,RC2,15,Safari,17,855.9
+34,Dominguez ,RC3,15,Safari,18,911.6
+32,Singh Vohr,RC2,15,Safari,19,953.3
+41,Nzioka  Ev,-,15,Safari,20,953.3
+38,Bailey  Ja,RC3,15,Safari,21,959.5
+37,Kimathi  M,RC3,15,Safari,22,969.2
+44,Sachania  ,-,15,Safari,23,1027.2
+45,Rathod  Mi,-,15,Safari,24,1054.8
+4,Lappi  Esa,RC1,15,Safari,25,1064.2
+8,Tänak  Ott,RC1,16,Safari,1,329.7
+11,Neuville  ,RC1,16,Safari,2,330.3
+69,Rovanperä ,RC1,16,Safari,3,330.6
+33,Evans  Elf,RC1,16,Safari,4,333.9
+17,Ogier  S. ,RC1,16,Safari,5,334.2
+7,Loubet  P.,RC1,16,Safari,6,339.5
+6,Sordo  Dan,RC1,16,Safari,7,345.5
+18,Katsuta  T,RC1,16,Safari,8,348.4
+20,Solberg  O,RC2,16,Safari,9,357.6
+21,Kajetanowi,RC2,16,Safari,10,362.9
+22,Munster  G,RC2,16,Safari,11,367.7
+23,Prokop  Ma,RC2,16,Safari,12,388.7
+24,Kremer  Ar,RC2,16,Safari,13,392.9
+27,Chwist  Da,RC2,16,Safari,14,402.8
+26,Tundo  Car,RC2,16,Safari,15,405.4
+25,Patel  Kar,RC2,16,Safari,16,409.7
+34,Dominguez ,RC3,16,Safari,17,439.5
+4,Lappi  Esa,RC1,16,Safari,18,440.8
+30,Virani  Aa,RC2,16,Safari,19,446.2
+32,Singh Vohr,RC2,16,Safari,20,447.1
+38,Bailey  Ja,RC3,16,Safari,21,449.1
+41,Nzioka  Ev,-,16,Safari,22,456.0
+37,Kimathi  M,RC3,16,Safari,23,460.1
+45,Rathod  Mi,-,16,Safari,24,510.5
+44,Sachania  ,-,16,Safari,25,517.8
+69,Rovanperä ,RC1,17,Safari,1,362.6
+17,Ogier  S. ,RC1,17,Safari,2,363.2
+18,Katsuta  T,RC1,17,Safari,3,370.6
+33,Evans  Elf,RC1,17,Safari,4,373.3
+6,Sordo  Dan,RC1,17,Safari,5,374.0
+8,Tänak  Ott,RC1,17,Safari,6,376.6
+7,Loubet  P.,RC1,17,Safari,7,377.5
+11,Neuville  ,RC1,17,Safari,8,381.8
+20,Solberg  O,RC2,17,Safari,9,390.8
+27,Chwist  Da,RC2,17,Safari,10,399.1
+21,Kajetanowi,RC2,17,Safari,11,414.8
+23,Prokop  Ma,RC2,17,Safari,12,421.9
+24,Kremer  Ar,RC2,17,Safari,13,424.8
+4,Lappi  Esa,RC1,17,Safari,14,434.7
+26,Tundo  Car,RC2,17,Safari,15,436.4
+30,Virani  Aa,RC2,17,Safari,16,452.3
+38,Bailey  Ja,RC3,17,Safari,17,478.3
+32,Singh Vohr,RC2,17,Safari,18,482.5
+41,Nzioka  Ev,-,17,Safari,19,485.1
+34,Dominguez ,RC3,17,Safari,20,526.5
+44,Sachania  ,-,17,Safari,21,543.5
+37,Kimathi  M,RC3,17,Safari,22,550.0
+45,Rathod  Mi,-,17,Safari,23,588.0
+18,Katsuta  T,RC1,18,Safari,1,713.6
+33,Evans  Elf,RC1,18,Safari,2,724.6
+69,Rovanperä ,RC1,18,Safari,3,724.7
+6,Sordo  Dan,RC1,18,Safari,4,725.5
+11,Neuville  ,RC1,18,Safari,5,725.8
+17,Ogier  S. ,RC1,18,Safari,6,728.5
+8,Tänak  Ott,RC1,18,Safari,7,736.0
+20,Solberg  O,RC2,18,Safari,8,739.2
+7,Loubet  P.,RC1,18,Safari,9,761.6
+4,Lappi  Esa,RC1,18,Safari,10,763.6
+21,Kajetanowi,RC2,18,Safari,11,805.0
+27,Chwist  Da,RC2,18,Safari,12,815.6
+24,Kremer  Ar,RC2,18,Safari,13,842.8
+23,Prokop  Ma,RC2,18,Safari,14,850.1
+26,Tundo  Car,RC2,18,Safari,15,853.0
+34,Dominguez ,RC3,18,Safari,16,992.9
+32,Singh Vohr,RC2,18,Safari,17,1007.7
+38,Bailey  Ja,RC3,18,Safari,18,1032.1
+37,Kimathi  M,RC3,18,Safari,19,1144.7
+45,Rathod  Mi,-,18,Safari,20,1282.1
+30,Virani  Aa,RC2,18,Safari,21,3484.2
+44,Sachania  ,-,18,Safari,22,3868.7
+8,Tänak  Ott,RC1,19,Safari,1,335.0
+69,Rovanperä ,RC1,19,Safari,2,335.8
+17,Ogier  S. ,RC1,19,Safari,3,338.3
+4,Lappi  Esa,RC1,19,Safari,4,338.9
+33,Evans  Elf,RC1,19,Safari,5,341.1
+18,Katsuta  T,RC1,19,Safari,6,344.4
+6,Sordo  Dan,RC1,19,Safari,7,344.9
+7,Loubet  P.,RC1,19,Safari,8,357.1
+20,Solberg  O,RC2,19,Safari,9,366.5
+21,Kajetanowi,RC2,19,Safari,10,374.6
+23,Prokop  Ma,RC2,19,Safari,11,386.0
+24,Kremer  Ar,RC2,19,Safari,12,388.0
+27,Chwist  Da,RC2,19,Safari,13,393.8
+26,Tundo  Car,RC2,19,Safari,14,401.7
+32,Singh Vohr,RC2,19,Safari,15,463.7
+34,Dominguez ,RC3,19,Safari,16,466.1
+37,Kimathi  M,RC3,19,Safari,17,484.8
+38,Bailey  Ja,RC3,19,Safari,18,516.7
+30,Virani  Aa,RC2,19,Safari,19,535.2
+45,Rathod  Mi,-,19,Safari,20,543.1
+44,Sachania  ,-,19,Safari,21,563.6

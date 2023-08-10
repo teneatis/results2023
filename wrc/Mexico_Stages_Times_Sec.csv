@@ -1,0 +1,655 @@
+No.,Crew,Group,ss,Race,cou,time_SS_sec
+8,Tänak  Ott,RC1,1,Mexico,1,58.0
+69,Rovanperä ,RC1,1,Mexico,2,58.8
+4,Lappi  Esa,RC1,1,Mexico,3,59.3
+33,Evans  Elf,RC1,1,Mexico,4,59.5
+11,Neuville  ,RC1,1,Mexico,5,59.7
+6,Sordo  Dan,RC1,1,Mexico,6,59.8
+17,Ogier  S. ,RC1,1,Mexico,7,59.8
+7,Loubet  P.,RC1,1,Mexico,8,60.1
+18,Katsuta  T,RC1,1,Mexico,9,60.3
+24,Lindholm  ,RC2,1,Mexico,10,60.8
+23,Gryazin  N,RC2,1,Mexico,11,61.3
+20,Greensmith,RC2,1,Mexico,12,61.4
+25,Kajetanowi,RC2,1,Mexico,13,61.8
+29,Martínez  ,RC2,1,Mexico,14,63.7
+36,Mauro  Ale,RC2,1,Mexico,15,63.7
+21,Solberg  O,RC2,1,Mexico,16,64.1
+34,Salas  Car,RC2,1,Mexico,17,64.1
+32,Granados  ,RC2,1,Mexico,18,64.4
+9,Serderidis,RC1,1,Mexico,19,64.7
+22,Fourmaux  ,RC2,1,Mexico,20,64.9
+26,Prokop  Ma,RC2,1,Mexico,21,65.0
+31,Cordero  R,RC2,1,Mexico,22,65.4
+28,Castro  Ed,RC2,1,Mexico,23,65.8
+30,Dominguez ,RC3,1,Mexico,24,66.7
+27,Chwist  Da,RC2,1,Mexico,25,67.8
+35,Coyne  Joh,RC2,1,Mexico,26,69.4
+38,Spitalier ,RC5,1,Mexico,27,71.4
+37,Bailey  Ja,RC3,1,Mexico,28,71.7
+39,Urióstegui,RC5,1,Mexico,29,71.9
+42,Retama  Em,RC5,1,Mexico,30,73.4
+41,Maggio  Ra,RC5,1,Mexico,31,90.4
+8,Tänak  Ott,RC1,2,Mexico,1,56.2
+4,Lappi  Esa,RC1,2,Mexico,2,57.1
+69,Rovanperä ,RC1,2,Mexico,3,57.1
+17,Ogier  S. ,RC1,2,Mexico,4,57.2
+11,Neuville  ,RC1,2,Mexico,5,57.3
+6,Sordo  Dan,RC1,2,Mexico,6,57.8
+7,Loubet  P.,RC1,2,Mexico,7,57.8
+18,Katsuta  T,RC1,2,Mexico,8,58.0
+33,Evans  Elf,RC1,2,Mexico,9,58.0
+24,Lindholm  ,RC2,2,Mexico,10,59.5
+23,Gryazin  N,RC2,2,Mexico,11,60.6
+20,Greensmith,RC2,2,Mexico,12,60.8
+21,Solberg  O,RC2,2,Mexico,13,60.9
+25,Kajetanowi,RC2,2,Mexico,14,61.1
+22,Fourmaux  ,RC2,2,Mexico,15,61.9
+29,Martínez  ,RC2,2,Mexico,16,62.2
+9,Serderidis,RC1,2,Mexico,17,62.4
+28,Castro  Ed,RC2,2,Mexico,18,63.0
+26,Prokop  Ma,RC2,2,Mexico,19,63.5
+34,Salas  Car,RC2,2,Mexico,20,63.5
+36,Mauro  Ale,RC2,2,Mexico,21,63.9
+32,Granados  ,RC2,2,Mexico,22,64.2
+31,Cordero  R,RC2,2,Mexico,23,65.3
+27,Chwist  Da,RC2,2,Mexico,24,65.6
+30,Dominguez ,RC3,2,Mexico,25,65.7
+37,Bailey  Ja,RC3,2,Mexico,26,68.1
+35,Coyne  Joh,RC2,2,Mexico,27,69.8
+42,Retama  Em,RC5,2,Mexico,28,70.8
+38,Spitalier ,RC5,2,Mexico,29,72.3
+39,Urióstegui,RC5,2,Mexico,30,74.0
+41,Maggio  Ra,RC5,2,Mexico,31,92.4
+4,Lappi  Esa,RC1,3,Mexico,1,1320.2
+17,Ogier  S. ,RC1,3,Mexico,2,1320.8
+6,Sordo  Dan,RC1,3,Mexico,3,1326.3
+33,Evans  Elf,RC1,3,Mexico,4,1328.1
+11,Neuville  ,RC1,3,Mexico,5,1329.9
+69,Rovanperä ,RC1,3,Mexico,6,1332.9
+18,Katsuta  T,RC1,3,Mexico,7,1340.3
+20,Greensmith,RC2,3,Mexico,8,1380.0
+21,Solberg  O,RC2,3,Mexico,9,1380.0
+22,Fourmaux  ,RC2,3,Mexico,10,1380.0
+23,Gryazin  N,RC2,3,Mexico,11,1380.0
+24,Lindholm  ,RC2,3,Mexico,12,1380.0
+25,Kajetanowi,RC2,3,Mexico,13,1380.0
+26,Prokop  Ma,RC2,3,Mexico,14,1380.0
+27,Chwist  Da,RC2,3,Mexico,15,1380.0
+28,Castro  Ed,RC2,3,Mexico,16,1380.0
+29,Martínez  ,RC2,3,Mexico,17,1380.0
+30,Dominguez ,RC3,3,Mexico,18,1380.0
+31,Cordero  R,RC2,3,Mexico,19,1380.0
+32,Granados  ,RC2,3,Mexico,20,1380.0
+34,Salas  Car,RC2,3,Mexico,21,1380.0
+35,Coyne  Joh,RC2,3,Mexico,22,1380.0
+36,Mauro  Ale,RC2,3,Mexico,23,1380.0
+37,Bailey  Ja,RC3,3,Mexico,24,1380.0
+38,Spitalier ,RC5,3,Mexico,25,1380.0
+39,Urióstegui,RC5,3,Mexico,26,1380.0
+41,Maggio  Ra,RC5,3,Mexico,27,1380.0
+42,Retama  Em,RC5,3,Mexico,28,1380.0
+8,Tänak  Ott,RC1,3,Mexico,29,1787.9
+7,Loubet  P.,RC1,3,Mexico,30,1920.2
+9,Serderidis,RC1,3,Mexico,31,1920.2
+17,Ogier  S. ,RC1,4,Mexico,1,507.8
+4,Lappi  Esa,RC1,4,Mexico,2,508.2
+33,Evans  Elf,RC1,4,Mexico,3,508.5
+6,Sordo  Dan,RC1,4,Mexico,4,512.1
+69,Rovanperä ,RC1,4,Mexico,5,512.4
+18,Katsuta  T,RC1,4,Mexico,6,513.5
+11,Neuville  ,RC1,4,Mexico,7,515.7
+24,Lindholm  ,RC2,4,Mexico,8,537.0
+22,Fourmaux  ,RC2,4,Mexico,9,537.1
+20,Greensmith,RC2,4,Mexico,10,538.4
+21,Solberg  O,RC2,4,Mexico,11,547.4
+25,Kajetanowi,RC2,4,Mexico,12,547.5
+29,Martínez  ,RC2,4,Mexico,13,555.8
+26,Prokop  Ma,RC2,4,Mexico,14,569.1
+34,Salas  Car,RC2,4,Mexico,15,580.1
+28,Castro  Ed,RC2,4,Mexico,16,581.8
+32,Granados  ,RC2,4,Mexico,17,581.8
+31,Cordero  R,RC2,4,Mexico,18,589.7
+36,Mauro  Ale,RC2,4,Mexico,19,594.0
+30,Dominguez ,RC3,4,Mexico,20,615.4
+27,Chwist  Da,RC2,4,Mexico,21,617.4
+37,Bailey  Ja,RC3,4,Mexico,22,642.8
+35,Coyne  Joh,RC2,4,Mexico,23,663.6
+8,Tänak  Ott,RC1,4,Mexico,24,667.8
+38,Spitalier ,RC5,4,Mexico,25,672.1
+42,Retama  Em,RC5,4,Mexico,26,718.9
+41,Maggio  Ra,RC5,4,Mexico,27,756.6
+7,Loubet  P.,RC1,4,Mexico,28,1107.8
+9,Serderidis,RC1,4,Mexico,29,1107.8
+23,Gryazin  N,RC2,4,Mexico,30,1137.0
+39,Urióstegui,RC5,4,Mexico,31,1272.1
+4,Lappi  Esa,RC1,5,Mexico,1,535.6
+17,Ogier  S. ,RC1,5,Mexico,2,536.2
+6,Sordo  Dan,RC1,5,Mexico,3,537.5
+33,Evans  Elf,RC1,5,Mexico,4,538.8
+11,Neuville  ,RC1,5,Mexico,5,541.0
+69,Rovanperä ,RC1,5,Mexico,6,548.4
+21,Solberg  O,RC2,5,Mexico,7,556.4
+22,Fourmaux  ,RC2,5,Mexico,8,558.7
+20,Greensmith,RC2,5,Mexico,9,560.1
+24,Lindholm  ,RC2,5,Mexico,10,560.4
+25,Kajetanowi,RC2,5,Mexico,11,566.3
+29,Martínez  ,RC2,5,Mexico,12,577.4
+26,Prokop  Ma,RC2,5,Mexico,13,584.2
+28,Castro  Ed,RC2,5,Mexico,14,588.5
+34,Salas  Car,RC2,5,Mexico,15,597.3
+36,Mauro  Ale,RC2,5,Mexico,16,598.8
+31,Cordero  R,RC2,5,Mexico,17,601.6
+30,Dominguez ,RC3,5,Mexico,18,630.7
+27,Chwist  Da,RC2,5,Mexico,19,635.3
+35,Coyne  Joh,RC2,5,Mexico,20,647.6
+37,Bailey  Ja,RC3,5,Mexico,21,651.9
+8,Tänak  Ott,RC1,5,Mexico,22,664.0
+38,Spitalier ,RC5,5,Mexico,23,690.2
+42,Retama  Em,RC5,5,Mexico,24,717.4
+41,Maggio  Ra,RC5,5,Mexico,25,746.1
+7,Loubet  P.,RC1,5,Mexico,26,1135.6
+9,Serderidis,RC1,5,Mexico,27,1135.6
+18,Katsuta  T,RC1,5,Mexico,28,1135.6
+23,Gryazin  N,RC2,5,Mexico,29,1156.4
+32,Granados  ,RC2,5,Mexico,30,1197.3
+39,Urióstegui,RC5,5,Mexico,31,1290.2
+4,Lappi  Esa,RC1,6,Mexico,1,1314.1
+17,Ogier  S. ,RC1,6,Mexico,2,1314.9
+33,Evans  Elf,RC1,6,Mexico,3,1321.7
+6,Sordo  Dan,RC1,6,Mexico,4,1322.2
+11,Neuville  ,RC1,6,Mexico,5,1323.5
+69,Rovanperä ,RC1,6,Mexico,6,1326.5
+8,Tänak  Ott,RC1,6,Mexico,7,1343.1
+20,Greensmith,RC2,6,Mexico,8,1366.1
+21,Solberg  O,RC2,6,Mexico,9,1367.7
+22,Fourmaux  ,RC2,6,Mexico,10,1368.5
+24,Lindholm  ,RC2,6,Mexico,11,1380.0
+25,Kajetanowi,RC2,6,Mexico,12,1396.3
+29,Martínez  ,RC2,6,Mexico,13,1418.3
+26,Prokop  Ma,RC2,6,Mexico,14,1429.8
+28,Castro  Ed,RC2,6,Mexico,15,1449.6
+31,Cordero  R,RC2,6,Mexico,16,1451.1
+34,Salas  Car,RC2,6,Mexico,17,1454.6
+36,Mauro  Ale,RC2,6,Mexico,18,1460.7
+27,Chwist  Da,RC2,6,Mexico,19,1556.5
+30,Dominguez ,RC3,6,Mexico,20,1556.7
+35,Coyne  Joh,RC2,6,Mexico,21,1574.2
+37,Bailey  Ja,RC3,6,Mexico,22,1598.9
+38,Spitalier ,RC5,6,Mexico,23,1703.2
+42,Retama  Em,RC5,6,Mexico,24,1789.4
+41,Maggio  Ra,RC5,6,Mexico,25,1798.9
+7,Loubet  P.,RC1,6,Mexico,26,1914.1
+9,Serderidis,RC1,6,Mexico,27,1914.1
+18,Katsuta  T,RC1,6,Mexico,28,1914.1
+32,Granados  ,RC2,6,Mexico,29,2051.1
+39,Urióstegui,RC5,6,Mexico,30,2303.2
+17,Ogier  S. ,RC1,7,Mexico,1,500.8
+4,Lappi  Esa,RC1,7,Mexico,2,502.7
+33,Evans  Elf,RC1,7,Mexico,3,505.0
+11,Neuville  ,RC1,7,Mexico,4,507.7
+69,Rovanperä ,RC1,7,Mexico,5,508.8
+21,Solberg  O,RC2,7,Mexico,6,526.6
+20,Greensmith,RC2,7,Mexico,7,529.8
+24,Lindholm  ,RC2,7,Mexico,8,530.6
+22,Fourmaux  ,RC2,7,Mexico,9,531.3
+25,Kajetanowi,RC2,7,Mexico,10,534.3
+8,Tänak  Ott,RC1,7,Mexico,11,534.7
+29,Martínez  ,RC2,7,Mexico,12,559.5
+6,Sordo  Dan,RC1,7,Mexico,13,560.9
+26,Prokop  Ma,RC2,7,Mexico,14,564.8
+31,Cordero  R,RC2,7,Mexico,15,577.0
+34,Salas  Car,RC2,7,Mexico,16,581.8
+36,Mauro  Ale,RC2,7,Mexico,17,583.3
+28,Castro  Ed,RC2,7,Mexico,18,591.0
+30,Dominguez ,RC3,7,Mexico,19,604.6
+35,Coyne  Joh,RC2,7,Mexico,20,624.9
+27,Chwist  Da,RC2,7,Mexico,21,637.4
+37,Bailey  Ja,RC3,7,Mexico,22,647.5
+38,Spitalier ,RC5,7,Mexico,23,689.6
+42,Retama  Em,RC5,7,Mexico,24,729.9
+41,Maggio  Ra,RC5,7,Mexico,25,745.5
+7,Loubet  P.,RC1,7,Mexico,26,1100.8
+9,Serderidis,RC1,7,Mexico,27,1100.8
+18,Katsuta  T,RC1,7,Mexico,28,1100.8
+32,Granados  ,RC2,7,Mexico,29,1177.0
+39,Urióstegui,RC5,7,Mexico,30,1289.6
+4,Lappi  Esa,RC1,8,Mexico,1,527.7
+11,Neuville  ,RC1,8,Mexico,2,528.9
+17,Ogier  S. ,RC1,8,Mexico,3,530.8
+33,Evans  Elf,RC1,8,Mexico,4,531.6
+6,Sordo  Dan,RC1,8,Mexico,5,533.1
+69,Rovanperä ,RC1,8,Mexico,6,534.5
+20,Greensmith,RC2,8,Mexico,7,548.3
+8,Tänak  Ott,RC1,8,Mexico,8,551.2
+22,Fourmaux  ,RC2,8,Mexico,9,553.3
+25,Kajetanowi,RC2,8,Mexico,10,559.0
+24,Lindholm  ,RC2,8,Mexico,11,559.6
+29,Martínez  ,RC2,8,Mexico,12,573.5
+26,Prokop  Ma,RC2,8,Mexico,13,576.1
+36,Mauro  Ale,RC2,8,Mexico,14,588.7
+34,Salas  Car,RC2,8,Mexico,15,595.1
+31,Cordero  R,RC2,8,Mexico,16,608.3
+30,Dominguez ,RC3,8,Mexico,17,615.1
+37,Bailey  Ja,RC3,8,Mexico,18,647.8
+21,Solberg  O,RC2,8,Mexico,19,649.8
+35,Coyne  Joh,RC2,8,Mexico,20,653.5
+27,Chwist  Da,RC2,8,Mexico,21,659.0
+38,Spitalier ,RC5,8,Mexico,22,691.1
+42,Retama  Em,RC5,8,Mexico,23,741.3
+41,Maggio  Ra,RC5,8,Mexico,24,765.2
+7,Loubet  P.,RC1,8,Mexico,25,1127.7
+9,Serderidis,RC1,8,Mexico,26,1127.7
+18,Katsuta  T,RC1,8,Mexico,27,1127.7
+28,Castro  Ed,RC2,8,Mexico,28,1148.3
+32,Granados  ,RC2,8,Mexico,29,1188.7
+39,Urióstegui,RC5,8,Mexico,30,1291.1
+4,Lappi  Esa,RC1,9,Mexico,1,195.0
+11,Neuville  ,RC1,9,Mexico,2,197.6
+21,Solberg  O,RC2,9,Mexico,3,197.9
+17,Ogier  S. ,RC1,9,Mexico,4,198.5
+6,Sordo  Dan,RC1,9,Mexico,5,199.6
+33,Evans  Elf,RC1,9,Mexico,6,199.9
+69,Rovanperä ,RC1,9,Mexico,7,200.5
+22,Fourmaux  ,RC2,9,Mexico,8,200.9
+20,Greensmith,RC2,9,Mexico,9,202.9
+8,Tänak  Ott,RC1,9,Mexico,10,203.7
+25,Kajetanowi,RC2,9,Mexico,11,204.2
+24,Lindholm  ,RC2,9,Mexico,12,206.2
+26,Prokop  Ma,RC2,9,Mexico,13,209.7
+34,Salas  Car,RC2,9,Mexico,14,210.5
+29,Martínez  ,RC2,9,Mexico,15,214.2
+30,Dominguez ,RC3,9,Mexico,16,216.1
+31,Cordero  R,RC2,9,Mexico,17,221.8
+37,Bailey  Ja,RC3,9,Mexico,18,230.3
+27,Chwist  Da,RC2,9,Mexico,19,232.2
+38,Spitalier ,RC5,9,Mexico,20,240.4
+42,Retama  Em,RC5,9,Mexico,21,246.3
+41,Maggio  Ra,RC5,9,Mexico,22,262.5
+35,Coyne  Joh,RC2,9,Mexico,23,290.1
+36,Mauro  Ale,RC2,9,Mexico,24,668.3
+7,Loubet  P.,RC1,9,Mexico,25,795.0
+9,Serderidis,RC1,9,Mexico,26,795.0
+18,Katsuta  T,RC1,9,Mexico,27,795.0
+28,Castro  Ed,RC2,9,Mexico,28,797.9
+32,Granados  ,RC2,9,Mexico,29,810.5
+39,Urióstegui,RC5,9,Mexico,30,840.4
+6,Sordo  Dan,RC1,10,Mexico,1,89.9
+8,Tänak  Ott,RC1,10,Mexico,2,90.4
+11,Neuville  ,RC1,10,Mexico,3,90.5
+17,Ogier  S. ,RC1,10,Mexico,4,90.5
+33,Evans  Elf,RC1,10,Mexico,5,91.0
+69,Rovanperä ,RC1,10,Mexico,6,91.8
+4,Lappi  Esa,RC1,10,Mexico,7,92.1
+21,Solberg  O,RC2,10,Mexico,8,92.5
+22,Fourmaux  ,RC2,10,Mexico,9,94.0
+20,Greensmith,RC2,10,Mexico,10,94.3
+24,Lindholm  ,RC2,10,Mexico,11,94.4
+25,Kajetanowi,RC2,10,Mexico,12,94.6
+26,Prokop  Ma,RC2,10,Mexico,13,96.5
+30,Dominguez ,RC3,10,Mexico,14,97.9
+34,Salas  Car,RC2,10,Mexico,15,98.4
+27,Chwist  Da,RC2,10,Mexico,16,101.8
+36,Mauro  Ale,RC2,10,Mexico,17,104.7
+42,Retama  Em,RC5,10,Mexico,18,109.5
+38,Spitalier ,RC5,10,Mexico,19,109.8
+35,Coyne  Joh,RC2,10,Mexico,20,111.9
+41,Maggio  Ra,RC5,10,Mexico,21,121.8
+31,Cordero  R,RC2,10,Mexico,22,248.6
+7,Loubet  P.,RC1,10,Mexico,23,689.9
+9,Serderidis,RC1,10,Mexico,24,689.9
+18,Katsuta  T,RC1,10,Mexico,25,689.9
+28,Castro  Ed,RC2,10,Mexico,26,692.5
+29,Martínez  ,RC2,10,Mexico,27,692.5
+37,Bailey  Ja,RC3,10,Mexico,28,697.9
+32,Granados  ,RC2,10,Mexico,29,698.4
+39,Urióstegui,RC5,10,Mexico,30,709.5
+17,Ogier  S. ,RC1,11,Mexico,1,515.6
+33,Evans  Elf,RC1,11,Mexico,2,518.1
+11,Neuville  ,RC1,11,Mexico,3,520.0
+8,Tänak  Ott,RC1,11,Mexico,4,522.7
+69,Rovanperä ,RC1,11,Mexico,5,522.8
+6,Sordo  Dan,RC1,11,Mexico,6,528.8
+18,Katsuta  T,RC1,11,Mexico,7,537.2
+7,Loubet  P.,RC1,11,Mexico,8,540.1
+9,Serderidis,RC1,11,Mexico,9,587.2
+20,Greensmith,RC2,11,Mexico,10,587.2
+21,Solberg  O,RC2,11,Mexico,11,587.2
+22,Fourmaux  ,RC2,11,Mexico,12,587.2
+24,Lindholm  ,RC2,11,Mexico,13,587.2
+25,Kajetanowi,RC2,11,Mexico,14,587.2
+26,Prokop  Ma,RC2,11,Mexico,15,587.2
+27,Chwist  Da,RC2,11,Mexico,16,587.2
+28,Castro  Ed,RC2,11,Mexico,17,587.2
+29,Martínez  ,RC2,11,Mexico,18,587.2
+30,Dominguez ,RC3,11,Mexico,19,587.2
+31,Cordero  R,RC2,11,Mexico,20,587.2
+32,Granados  ,RC2,11,Mexico,21,587.2
+34,Salas  Car,RC2,11,Mexico,22,587.2
+35,Coyne  Joh,RC2,11,Mexico,23,587.2
+36,Mauro  Ale,RC2,11,Mexico,24,587.2
+37,Bailey  Ja,RC3,11,Mexico,25,587.2
+38,Spitalier ,RC5,11,Mexico,26,587.2
+39,Urióstegui,RC5,11,Mexico,27,587.2
+41,Maggio  Ra,RC5,11,Mexico,28,587.2
+42,Retama  Em,RC5,11,Mexico,29,587.2
+4,Lappi  Esa,RC1,11,Mexico,30,1115.6
+11,Neuville  ,RC1,12,Mexico,1,878.1
+33,Evans  Elf,RC1,12,Mexico,2,878.8
+17,Ogier  S. ,RC1,12,Mexico,3,879.5
+69,Rovanperä ,RC1,12,Mexico,4,884.8
+6,Sordo  Dan,RC1,12,Mexico,5,890.4
+8,Tänak  Ott,RC1,12,Mexico,6,897.4
+7,Loubet  P.,RC1,12,Mexico,7,913.1
+18,Katsuta  T,RC1,12,Mexico,8,914.9
+9,Serderidis,RC1,12,Mexico,9,1000.2
+20,Greensmith,RC2,12,Mexico,10,1000.2
+21,Solberg  O,RC2,12,Mexico,11,1000.2
+22,Fourmaux  ,RC2,12,Mexico,12,1000.2
+24,Lindholm  ,RC2,12,Mexico,13,1000.2
+25,Kajetanowi,RC2,12,Mexico,14,1000.2
+26,Prokop  Ma,RC2,12,Mexico,15,1000.2
+27,Chwist  Da,RC2,12,Mexico,16,1000.2
+28,Castro  Ed,RC2,12,Mexico,17,1000.2
+29,Martínez  ,RC2,12,Mexico,18,1000.2
+30,Dominguez ,RC3,12,Mexico,19,1000.2
+31,Cordero  R,RC2,12,Mexico,20,1000.2
+32,Granados  ,RC2,12,Mexico,21,1000.2
+34,Salas  Car,RC2,12,Mexico,22,1000.2
+35,Coyne  Joh,RC2,12,Mexico,23,1000.2
+36,Mauro  Ale,RC2,12,Mexico,24,1000.2
+37,Bailey  Ja,RC3,12,Mexico,25,1000.2
+38,Spitalier ,RC5,12,Mexico,26,1000.2
+39,Urióstegui,RC5,12,Mexico,27,1000.2
+41,Maggio  Ra,RC5,12,Mexico,28,1000.2
+42,Retama  Em,RC5,12,Mexico,29,1000.2
+4,Lappi  Esa,RC1,12,Mexico,30,1478.1
+11,Neuville  ,RC1,13,Mexico,1,743.1
+17,Ogier  S. ,RC1,13,Mexico,2,743.2
+33,Evans  Elf,RC1,13,Mexico,3,743.6
+69,Rovanperä ,RC1,13,Mexico,4,748.9
+8,Tänak  Ott,RC1,13,Mexico,5,751.4
+6,Sordo  Dan,RC1,13,Mexico,6,752.9
+18,Katsuta  T,RC1,13,Mexico,7,772.9
+7,Loubet  P.,RC1,13,Mexico,8,773.6
+9,Serderidis,RC1,13,Mexico,9,856.5
+20,Greensmith,RC2,13,Mexico,10,856.5
+21,Solberg  O,RC2,13,Mexico,11,856.5
+22,Fourmaux  ,RC2,13,Mexico,12,856.5
+24,Lindholm  ,RC2,13,Mexico,13,856.5
+25,Kajetanowi,RC2,13,Mexico,14,856.5
+26,Prokop  Ma,RC2,13,Mexico,15,856.5
+27,Chwist  Da,RC2,13,Mexico,16,856.5
+28,Castro  Ed,RC2,13,Mexico,17,856.5
+29,Martínez  ,RC2,13,Mexico,18,856.5
+30,Dominguez ,RC3,13,Mexico,19,856.5
+31,Cordero  R,RC2,13,Mexico,20,856.5
+32,Granados  ,RC2,13,Mexico,21,856.5
+34,Salas  Car,RC2,13,Mexico,22,856.5
+35,Coyne  Joh,RC2,13,Mexico,23,856.5
+36,Mauro  Ale,RC2,13,Mexico,24,856.5
+37,Bailey  Ja,RC3,13,Mexico,25,856.5
+38,Spitalier ,RC5,13,Mexico,26,856.5
+39,Urióstegui,RC5,13,Mexico,27,856.5
+41,Maggio  Ra,RC5,13,Mexico,28,856.5
+42,Retama  Em,RC5,13,Mexico,29,856.5
+4,Lappi  Esa,RC1,13,Mexico,30,1343.1
+11,Neuville  ,RC1,14,Mexico,1,191.4
+17,Ogier  S. ,RC1,14,Mexico,2,191.6
+21,Solberg  O,RC2,14,Mexico,3,191.9
+8,Tänak  Ott,RC1,14,Mexico,4,192.1
+6,Sordo  Dan,RC1,14,Mexico,5,192.8
+69,Rovanperä ,RC1,14,Mexico,6,192.8
+33,Evans  Elf,RC1,14,Mexico,7,193.1
+24,Lindholm  ,RC2,14,Mexico,8,194.1
+22,Fourmaux  ,RC2,14,Mexico,9,195.1
+20,Greensmith,RC2,14,Mexico,10,195.9
+18,Katsuta  T,RC1,14,Mexico,11,196.5
+7,Loubet  P.,RC1,14,Mexico,12,197.4
+25,Kajetanowi,RC2,14,Mexico,13,199.7
+26,Prokop  Ma,RC2,14,Mexico,14,202.0
+29,Martínez  ,RC2,14,Mexico,15,202.3
+28,Castro  Ed,RC2,14,Mexico,16,207.2
+36,Mauro  Ale,RC2,14,Mexico,17,208.6
+34,Salas  Car,RC2,14,Mexico,18,210.3
+9,Serderidis,RC1,14,Mexico,19,210.6
+30,Dominguez ,RC3,14,Mexico,20,210.6
+32,Granados  ,RC2,14,Mexico,21,212.9
+31,Cordero  R,RC2,14,Mexico,22,216.3
+27,Chwist  Da,RC2,14,Mexico,23,219.6
+37,Bailey  Ja,RC3,14,Mexico,24,227.5
+38,Spitalier ,RC5,14,Mexico,25,237.7
+35,Coyne  Joh,RC2,14,Mexico,26,238.4
+39,Urióstegui,RC5,14,Mexico,27,243.3
+41,Maggio  Ra,RC5,14,Mexico,28,250.2
+42,Retama  Em,RC5,14,Mexico,29,253.8
+4,Lappi  Esa,RC1,14,Mexico,30,791.4
+17,Ogier  S. ,RC1,16,Mexico,1,864.8
+11,Neuville  ,RC1,16,Mexico,2,872.9
+33,Evans  Elf,RC1,16,Mexico,3,873.1
+69,Rovanperä ,RC1,16,Mexico,4,873.8
+8,Tänak  Ott,RC1,16,Mexico,5,877.5
+6,Sordo  Dan,RC1,16,Mexico,6,884.0
+7,Loubet  P.,RC1,16,Mexico,7,890.7
+18,Katsuta  T,RC1,16,Mexico,8,896.3
+21,Solberg  O,RC2,16,Mexico,9,911.7
+20,Greensmith,RC2,16,Mexico,10,916.1
+22,Fourmaux  ,RC2,16,Mexico,11,917.2
+24,Lindholm  ,RC2,16,Mexico,12,928.6
+25,Kajetanowi,RC2,16,Mexico,13,935.4
+26,Prokop  Ma,RC2,16,Mexico,14,954.3
+29,Martínez  ,RC2,16,Mexico,15,958.5
+31,Cordero  R,RC2,16,Mexico,16,969.4
+9,Serderidis,RC1,16,Mexico,17,991.8
+36,Mauro  Ale,RC2,16,Mexico,18,995.1
+28,Castro  Ed,RC2,16,Mexico,19,997.0
+34,Salas  Car,RC2,16,Mexico,20,1006.5
+30,Dominguez ,RC3,16,Mexico,21,1026.2
+35,Coyne  Joh,RC2,16,Mexico,22,1057.0
+37,Bailey  Ja,RC3,16,Mexico,23,1084.8
+27,Chwist  Da,RC2,16,Mexico,24,1087.1
+39,Urióstegui,RC5,16,Mexico,25,1149.2
+38,Spitalier ,RC5,16,Mexico,26,1160.2
+42,Retama  Em,RC5,16,Mexico,27,1206.7
+41,Maggio  Ra,RC5,16,Mexico,28,1215.3
+32,Granados  ,RC2,16,Mexico,29,2380.1
+11,Neuville  ,RC1,17,Mexico,1,736.0
+33,Evans  Elf,RC1,17,Mexico,2,738.6
+17,Ogier  S. ,RC1,17,Mexico,3,739.1
+8,Tänak  Ott,RC1,17,Mexico,4,741.8
+6,Sordo  Dan,RC1,17,Mexico,5,745.3
+69,Rovanperä ,RC1,17,Mexico,6,751.9
+18,Katsuta  T,RC1,17,Mexico,7,756.7
+21,Solberg  O,RC2,17,Mexico,8,772.2
+20,Greensmith,RC2,17,Mexico,9,781.5
+22,Fourmaux  ,RC2,17,Mexico,10,782.0
+24,Lindholm  ,RC2,17,Mexico,11,783.7
+26,Prokop  Ma,RC2,17,Mexico,12,814.2
+29,Martínez  ,RC2,17,Mexico,13,825.2
+25,Kajetanowi,RC2,17,Mexico,14,826.3
+31,Cordero  R,RC2,17,Mexico,15,830.7
+9,Serderidis,RC1,17,Mexico,16,845.5
+36,Mauro  Ale,RC2,17,Mexico,17,849.1
+34,Salas  Car,RC2,17,Mexico,18,853.1
+28,Castro  Ed,RC2,17,Mexico,19,860.2
+32,Granados  ,RC2,17,Mexico,20,877.1
+30,Dominguez ,RC3,17,Mexico,21,891.8
+37,Bailey  Ja,RC3,17,Mexico,22,919.7
+27,Chwist  Da,RC2,17,Mexico,23,920.8
+35,Coyne  Joh,RC2,17,Mexico,24,931.4
+38,Spitalier ,RC5,17,Mexico,25,961.2
+39,Urióstegui,RC5,17,Mexico,26,967.5
+42,Retama  Em,RC5,17,Mexico,27,1054.5
+41,Maggio  Ra,RC5,17,Mexico,28,1073.6
+7,Loubet  P.,RC1,17,Mexico,29,1336.0
+8,Tänak  Ott,RC1,18,Mexico,1,193.6
+69,Rovanperä ,RC1,18,Mexico,2,193.7
+11,Neuville  ,RC1,18,Mexico,3,193.9
+21,Solberg  O,RC2,18,Mexico,4,194.0
+6,Sordo  Dan,RC1,18,Mexico,5,194.3
+33,Evans  Elf,RC1,18,Mexico,6,195.0
+24,Lindholm  ,RC2,18,Mexico,7,195.6
+17,Ogier  S. ,RC1,18,Mexico,8,195.9
+20,Greensmith,RC2,18,Mexico,9,197.2
+29,Martínez  ,RC2,18,Mexico,10,204.5
+18,Katsuta  T,RC1,18,Mexico,11,205.3
+25,Kajetanowi,RC2,18,Mexico,12,207.1
+26,Prokop  Ma,RC2,18,Mexico,13,207.1
+28,Castro  Ed,RC2,18,Mexico,14,210.1
+22,Fourmaux  ,RC2,18,Mexico,15,211.0
+34,Salas  Car,RC2,18,Mexico,16,212.5
+31,Cordero  R,RC2,18,Mexico,17,212.9
+9,Serderidis,RC1,18,Mexico,18,213.6
+36,Mauro  Ale,RC2,18,Mexico,19,215.1
+30,Dominguez ,RC3,18,Mexico,20,216.1
+32,Granados  ,RC2,18,Mexico,21,216.8
+37,Bailey  Ja,RC3,18,Mexico,22,231.5
+27,Chwist  Da,RC2,18,Mexico,23,234.1
+38,Spitalier ,RC5,18,Mexico,24,238.3
+39,Urióstegui,RC5,18,Mexico,25,238.7
+35,Coyne  Joh,RC2,18,Mexico,26,239.5
+42,Retama  Em,RC5,18,Mexico,27,246.5
+41,Maggio  Ra,RC5,18,Mexico,28,252.2
+7,Loubet  P.,RC1,18,Mexico,29,793.6
+8,Tänak  Ott,RC1,19,Mexico,1,89.6
+11,Neuville  ,RC1,19,Mexico,2,90.5
+17,Ogier  S. ,RC1,19,Mexico,3,90.6
+33,Evans  Elf,RC1,19,Mexico,4,91.0
+6,Sordo  Dan,RC1,19,Mexico,5,91.1
+69,Rovanperä ,RC1,19,Mexico,6,91.2
+18,Katsuta  T,RC1,19,Mexico,7,92.4
+21,Solberg  O,RC2,19,Mexico,8,92.8
+22,Fourmaux  ,RC2,19,Mexico,9,92.8
+24,Lindholm  ,RC2,19,Mexico,10,94.2
+20,Greensmith,RC2,19,Mexico,11,94.3
+25,Kajetanowi,RC2,19,Mexico,12,94.4
+9,Serderidis,RC1,19,Mexico,13,95.5
+26,Prokop  Ma,RC2,19,Mexico,14,96.0
+36,Mauro  Ale,RC2,19,Mexico,15,96.0
+34,Salas  Car,RC2,19,Mexico,16,96.2
+29,Martínez  ,RC2,19,Mexico,17,96.7
+28,Castro  Ed,RC2,19,Mexico,18,97.0
+31,Cordero  R,RC2,19,Mexico,19,98.4
+30,Dominguez ,RC3,19,Mexico,20,98.8
+27,Chwist  Da,RC2,19,Mexico,21,99.5
+37,Bailey  Ja,RC3,19,Mexico,22,107.1
+38,Spitalier ,RC5,19,Mexico,23,107.8
+42,Retama  Em,RC5,19,Mexico,24,110.0
+35,Coyne  Joh,RC2,19,Mexico,25,112.6
+41,Maggio  Ra,RC5,19,Mexico,26,115.4
+39,Urióstegui,RC5,19,Mexico,27,117.2
+7,Loubet  P.,RC1,19,Mexico,28,689.6
+32,Granados  ,RC2,19,Mexico,29,696.0
+11,Neuville  ,RC1,20,Mexico,1,190.9
+33,Evans  Elf,RC1,20,Mexico,2,191.1
+8,Tänak  Ott,RC1,20,Mexico,3,191.5
+69,Rovanperä ,RC1,20,Mexico,4,192.8
+24,Lindholm  ,RC2,20,Mexico,5,193.9
+18,Katsuta  T,RC1,20,Mexico,6,194.3
+21,Solberg  O,RC2,20,Mexico,7,194.4
+17,Ogier  S. ,RC1,20,Mexico,8,194.7
+20,Greensmith,RC2,20,Mexico,9,196.3
+22,Fourmaux  ,RC2,20,Mexico,10,197.5
+29,Martínez  ,RC2,20,Mexico,11,200.7
+6,Sordo  Dan,RC1,20,Mexico,12,200.9
+7,Loubet  P.,RC1,20,Mexico,13,203.5
+25,Kajetanowi,RC2,20,Mexico,14,203.5
+26,Prokop  Ma,RC2,20,Mexico,15,204.3
+28,Castro  Ed,RC2,20,Mexico,16,207.5
+34,Salas  Car,RC2,20,Mexico,17,208.4
+9,Serderidis,RC1,20,Mexico,18,214.9
+31,Cordero  R,RC2,20,Mexico,19,215.1
+30,Dominguez ,RC3,20,Mexico,20,215.7
+32,Granados  ,RC2,20,Mexico,21,217.2
+36,Mauro  Ale,RC2,20,Mexico,22,218.4
+27,Chwist  Da,RC2,20,Mexico,23,220.8
+35,Coyne  Joh,RC2,20,Mexico,24,228.8
+38,Spitalier ,RC5,20,Mexico,25,234.6
+39,Urióstegui,RC5,20,Mexico,26,235.5
+37,Bailey  Ja,RC3,20,Mexico,27,235.8
+42,Retama  Em,RC5,20,Mexico,28,243.7
+41,Maggio  Ra,RC5,20,Mexico,29,245.1
+33,Evans  Elf,RC1,21,Mexico,1,1477.7
+11,Neuville  ,RC1,21,Mexico,2,1479.4
+17,Ogier  S. ,RC1,21,Mexico,3,1486.7
+69,Rovanperä ,RC1,21,Mexico,4,1502.1
+6,Sordo  Dan,RC1,21,Mexico,5,1506.9
+8,Tänak  Ott,RC1,21,Mexico,6,1524.2
+21,Solberg  O,RC2,21,Mexico,7,1524.2
+24,Lindholm  ,RC2,21,Mexico,8,1550.8
+20,Greensmith,RC2,21,Mexico,9,1551.4
+18,Katsuta  T,RC1,21,Mexico,10,1565.5
+25,Kajetanowi,RC2,21,Mexico,11,1586.1
+7,Loubet  P.,RC1,21,Mexico,12,1587.3
+29,Martínez  ,RC2,21,Mexico,13,1597.0
+26,Prokop  Ma,RC2,21,Mexico,14,1611.5
+31,Cordero  R,RC2,21,Mexico,15,1628.6
+28,Castro  Ed,RC2,21,Mexico,16,1655.5
+9,Serderidis,RC1,21,Mexico,17,1672.5
+34,Salas  Car,RC2,21,Mexico,18,1680.3
+30,Dominguez ,RC3,21,Mexico,19,1734.7
+37,Bailey  Ja,RC3,21,Mexico,20,1810.3
+27,Chwist  Da,RC2,21,Mexico,21,1835.6
+39,Urióstegui,RC5,21,Mexico,22,1855.6
+35,Coyne  Joh,RC2,21,Mexico,23,1855.9
+36,Mauro  Ale,RC2,21,Mexico,24,1868.7
+38,Spitalier ,RC5,21,Mexico,25,1877.9
+32,Granados  ,RC2,21,Mexico,26,1895.2
+42,Retama  Em,RC5,21,Mexico,27,1904.6
+22,Fourmaux  ,RC2,21,Mexico,28,2617.2
+11,Neuville  ,RC1,22,Mexico,1,431.8
+8,Tänak  Ott,RC1,22,Mexico,2,433.3
+33,Evans  Elf,RC1,22,Mexico,3,434.9
+17,Ogier  S. ,RC1,22,Mexico,4,435.6
+69,Rovanperä ,RC1,22,Mexico,5,438.9
+6,Sordo  Dan,RC1,22,Mexico,6,442.1
+7,Loubet  P.,RC1,22,Mexico,7,450.5
+18,Katsuta  T,RC1,22,Mexico,8,452.8
+24,Lindholm  ,RC2,22,Mexico,9,456.8
+20,Greensmith,RC2,22,Mexico,10,457.8
+21,Solberg  O,RC2,22,Mexico,11,459.8
+22,Fourmaux  ,RC2,22,Mexico,12,464.8
+25,Kajetanowi,RC2,22,Mexico,13,471.1
+29,Martínez  ,RC2,22,Mexico,14,475.3
+26,Prokop  Ma,RC2,22,Mexico,15,477.8
+9,Serderidis,RC1,22,Mexico,16,487.3
+31,Cordero  R,RC2,22,Mexico,17,489.2
+34,Salas  Car,RC2,22,Mexico,18,490.1
+32,Granados  ,RC2,22,Mexico,19,510.0
+30,Dominguez ,RC3,22,Mexico,20,519.8
+36,Mauro  Ale,RC2,22,Mexico,21,529.1
+27,Chwist  Da,RC2,22,Mexico,22,535.7
+37,Bailey  Ja,RC3,22,Mexico,23,535.7
+39,Urióstegui,RC5,22,Mexico,24,555.0
+42,Retama  Em,RC5,22,Mexico,25,556.8
+38,Spitalier ,RC5,22,Mexico,26,569.5
+28,Castro  Ed,RC2,22,Mexico,27,571.8
+35,Coyne  Joh,RC2,22,Mexico,28,2415.0
+17,Ogier  S. ,RC1,23,Mexico,1,314.8
+8,Tänak  Ott,RC1,23,Mexico,2,316.9
+11,Neuville  ,RC1,23,Mexico,3,317.1
+69,Rovanperä ,RC1,23,Mexico,4,319.3
+6,Sordo  Dan,RC1,23,Mexico,5,319.5
+33,Evans  Elf,RC1,23,Mexico,6,320.2
+18,Katsuta  T,RC1,23,Mexico,7,323.9
+7,Loubet  P.,RC1,23,Mexico,8,327.0
+22,Fourmaux  ,RC2,23,Mexico,9,340.4
+24,Lindholm  ,RC2,23,Mexico,10,343.7
+20,Greensmith,RC2,23,Mexico,11,344.4
+25,Kajetanowi,RC2,23,Mexico,12,353.4
+29,Martínez  ,RC2,23,Mexico,13,355.1
+26,Prokop  Ma,RC2,23,Mexico,14,355.7
+21,Solberg  O,RC2,23,Mexico,15,358.9
+31,Cordero  R,RC2,23,Mexico,16,364.3
+28,Castro  Ed,RC2,23,Mexico,17,370.3
+9,Serderidis,RC1,23,Mexico,18,371.2
+34,Salas  Car,RC2,23,Mexico,19,375.7
+32,Granados  ,RC2,23,Mexico,20,385.5
+30,Dominguez ,RC3,23,Mexico,21,387.7
+27,Chwist  Da,RC2,23,Mexico,22,397.0
+35,Coyne  Joh,RC2,23,Mexico,23,398.7
+37,Bailey  Ja,RC3,23,Mexico,24,406.7
+36,Mauro  Ale,RC2,23,Mexico,25,410.2
+39,Urióstegui,RC5,23,Mexico,26,417.2
+38,Spitalier ,RC5,23,Mexico,27,424.6
+42,Retama  Em,RC5,23,Mexico,28,429.1
