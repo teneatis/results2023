@@ -1,0 +1,841 @@
+No.,Crew,Group,ss,Race,cou,time_SS_sec
+6,Marczyk  M,RC2,1,Poland,1,107.7
+1,Paddon  Ha,RC2,1,Poland,2,108.6
+22,Cais  Erik,RC2,1,Poland,3,108.8
+2,Llarena  E,RC2,1,Poland,4,109.0
+11,Grzyb  Grz,RC2,1,Poland,5,109.7
+4,Kristensso,RC2,1,Poland,6,109.8
+5,Mabellini ,RC2,1,Poland,7,109.9
+12,Tempestini,RC2,1,Poland,8,109.9
+7,Franceschi,RC2,1,Poland,9,110.0
+9,Nucita  An,RC2,1,Poland,10,110.1
+10,Heikkilä  ,RC2,1,Poland,11,110.3
+16,László  Ma,RC2,1,Poland,12,110.3
+14,Mareš  Fil,RC2,1,Poland,13,110.4
+19,Byśkiniewi,RC2,1,Poland,14,110.6
+15,Tidemand  ,RC2,1,Poland,15,110.7
+3,Østberg  M,RC2,1,Poland,16,110.8
+21,McErlean  ,RC2,1,Poland,17,110.8
+17,Plachytka ,RC2,1,Poland,18,110.9
+24,Campedelli,RC2,1,Poland,19,111.0
+23,Pryce  Osi,RC2,1,Poland,20,111.1
+25,Rådström  ,RC2,1,Poland,21,111.9
+8,Sesks  M. ,RC2,1,Poland,22,112.0
+26,Kołtun  J.,RC2,1,Poland,23,112.5
+31,Armstrong ,RC3,1,Poland,24,114.2
+32,Parys  Pio,RC3,1,Poland,25,115.5
+60,Szeja  Jar,RC2,1,Poland,26,115.8
+29,Cuzma  Bog,RC2,1,Poland,27,116.2
+34,Soria  Pau,RC3,1,Poland,28,116.5
+33,Matulka  J,RC3,1,Poland,29,116.9
+28,Somaschini,RC2,1,Poland,30,117.5
+30,Bertolotti,RC2,1,Poland,31,121.5
+41,Johansson ,RC4,1,Poland,32,121.5
+37,McRae  Max,RC4,1,Poland,33,121.9
+35,Daprà  Rob,RC4,1,Poland,34,122.3
+54,Otake  Nao,RC4,1,Poland,35,122.4
+43,Maior  Nor,RC4,1,Poland,36,122.5
+40,Herczig  P,RC4,1,Poland,37,122.6
+45,Nore  Ola ,RC4,1,Poland,38,123.4
+47,Schulz  Ti,RC4,1,Poland,39,123.4
+38,Andersson ,RC4,1,Poland,40,123.9
+44,Noller  Re,RC4,1,Poland,41,124.4
+56,Nowak  Mar,RC4,1,Poland,42,124.6
+42,Kramer  A.,RC4,1,Poland,43,124.7
+55,Kogure  Hi,RC4,1,Poland,44,125.1
+58,Jocz  Tymo,RC4,1,Poland,45,125.3
+62,Ravenščak ,RC3,1,Poland,46,125.5
+50,Zeiringer ,RC4,1,Poland,47,125.8
+48,Spitalier ,RC4,1,Poland,48,125.9
+36,Jalava  Mi,RC4,1,Poland,49,126.4
+49,Zanin  Mat,RC4,1,Poland,50,126.4
+39,Hansen  Vi,RC4,1,Poland,51,126.6
+57,Rossi  Ghj,RC4,1,Poland,52,127.6
+59,Brugger  C,RC4,1,Poland,53,128.1
+51,Kreuter  N,RC4,1,Poland,54,129.0
+63,Domin  Mat,RC4,1,Poland,55,129.3
+46,Raftery  A,RC4,1,Poland,56,131.8
+52,Hangodi  B,RC4,1,Poland,57,132.0
+61,Uger  Serg,RC2,1,Poland,58,157.8
+53,Yamamoto  ,RC4,1,Poland,59,721.5
+8,Sesks  M. ,RC2,2,Poland,1,591.9
+1,Paddon  Ha,RC2,2,Poland,2,595.1
+10,Heikkilä  ,RC2,2,Poland,3,603.4
+21,McErlean  ,RC2,2,Poland,4,603.9
+12,Tempestini,RC2,2,Poland,5,605.5
+7,Franceschi,RC2,2,Poland,6,607.8
+3,Østberg  M,RC2,2,Poland,7,609.3
+5,Mabellini ,RC2,2,Poland,8,610.2
+14,Mareš  Fil,RC2,2,Poland,9,610.8
+22,Cais  Erik,RC2,2,Poland,10,610.9
+2,Llarena  E,RC2,2,Poland,11,613.3
+6,Marczyk  M,RC2,2,Poland,12,613.5
+11,Grzyb  Grz,RC2,2,Poland,13,616.1
+25,Rådström  ,RC2,2,Poland,14,616.6
+15,Tidemand  ,RC2,2,Poland,15,620.1
+24,Campedelli,RC2,2,Poland,16,620.7
+60,Szeja  Jar,RC2,2,Poland,17,623.7
+17,Plachytka ,RC2,2,Poland,18,624.2
+23,Pryce  Osi,RC2,2,Poland,19,625.1
+19,Byśkiniewi,RC2,2,Poland,20,626.8
+31,Armstrong ,RC3,2,Poland,21,627.1
+9,Nucita  An,RC2,2,Poland,22,628.7
+16,László  Ma,RC2,2,Poland,23,632.1
+34,Soria  Pau,RC3,2,Poland,24,639.8
+26,Kołtun  J.,RC2,2,Poland,25,641.5
+32,Parys  Pio,RC3,2,Poland,26,656.0
+33,Matulka  J,RC3,2,Poland,27,657.2
+29,Cuzma  Bog,RC2,2,Poland,28,657.7
+45,Nore  Ola ,RC4,2,Poland,29,678.7
+53,Yamamoto  ,RC4,2,Poland,30,679.7
+30,Bertolotti,RC2,2,Poland,31,682.2
+40,Herczig  P,RC4,2,Poland,32,687.2
+35,Daprà  Rob,RC4,2,Poland,33,689.9
+38,Andersson ,RC4,2,Poland,34,692.7
+58,Jocz  Tymo,RC4,2,Poland,35,692.7
+43,Maior  Nor,RC4,2,Poland,36,694.0
+39,Hansen  Vi,RC4,2,Poland,37,694.4
+47,Schulz  Ti,RC4,2,Poland,38,694.5
+55,Kogure  Hi,RC4,2,Poland,39,695.9
+41,Johansson ,RC4,2,Poland,40,696.3
+50,Zeiringer ,RC4,2,Poland,41,697.1
+28,Somaschini,RC2,2,Poland,42,697.3
+44,Noller  Re,RC4,2,Poland,43,705.9
+37,McRae  Max,RC4,2,Poland,44,706.4
+36,Jalava  Mi,RC4,2,Poland,45,707.1
+59,Brugger  C,RC4,2,Poland,46,712.3
+61,Uger  Serg,RC2,2,Poland,47,715.9
+49,Zanin  Mat,RC4,2,Poland,48,722.1
+57,Rossi  Ghj,RC4,2,Poland,49,730.8
+46,Raftery  A,RC4,2,Poland,50,731.4
+42,Kramer  A.,RC4,2,Poland,51,742.2
+52,Hangodi  B,RC4,2,Poland,52,749.2
+62,Ravenščak ,RC3,2,Poland,53,752.4
+51,Kreuter  N,RC4,2,Poland,54,775.0
+4,Kristensso,RC2,2,Poland,55,793.2
+48,Spitalier ,RC4,2,Poland,56,1081.1
+54,Otake  Nao,RC4,2,Poland,57,1278.7
+56,Nowak  Mar,RC4,2,Poland,58,1278.7
+63,Domin  Mat,RC4,2,Poland,59,1278.7
+1,Paddon  Ha,RC2,3,Poland,1,409.5
+6,Marczyk  M,RC2,3,Poland,2,410.4
+8,Sesks  M. ,RC2,3,Poland,3,410.5
+12,Tempestini,RC2,3,Poland,4,412.9
+21,McErlean  ,RC2,3,Poland,5,413.7
+3,Østberg  M,RC2,3,Poland,6,417.6
+5,Mabellini ,RC2,3,Poland,7,418.1
+7,Franceschi,RC2,3,Poland,8,418.1
+10,Heikkilä  ,RC2,3,Poland,9,418.9
+14,Mareš  Fil,RC2,3,Poland,10,419.4
+2,Llarena  E,RC2,3,Poland,11,420.1
+22,Cais  Erik,RC2,3,Poland,12,420.8
+15,Tidemand  ,RC2,3,Poland,13,423.5
+11,Grzyb  Grz,RC2,3,Poland,14,425.2
+24,Campedelli,RC2,3,Poland,15,425.5
+9,Nucita  An,RC2,3,Poland,16,426.9
+25,Rådström  ,RC2,3,Poland,17,427.5
+19,Byśkiniewi,RC2,3,Poland,18,429.4
+60,Szeja  Jar,RC2,3,Poland,19,431.7
+26,Kołtun  J.,RC2,3,Poland,20,433.2
+23,Pryce  Osi,RC2,3,Poland,21,434.6
+31,Armstrong ,RC3,3,Poland,22,434.7
+16,László  Ma,RC2,3,Poland,23,435.6
+33,Matulka  J,RC3,3,Poland,24,448.5
+17,Plachytka ,RC2,3,Poland,25,450.2
+53,Yamamoto  ,RC4,3,Poland,26,457.4
+30,Bertolotti,RC2,3,Poland,27,459.1
+45,Nore  Ola ,RC4,3,Poland,28,461.5
+32,Parys  Pio,RC3,3,Poland,29,462.5
+29,Cuzma  Bog,RC2,3,Poland,30,462.7
+47,Schulz  Ti,RC4,3,Poland,31,463.4
+35,Daprà  Rob,RC4,3,Poland,32,465.9
+39,Hansen  Vi,RC4,3,Poland,33,466.8
+43,Maior  Nor,RC4,3,Poland,34,467.0
+41,Johansson ,RC4,3,Poland,35,467.4
+55,Kogure  Hi,RC4,3,Poland,36,467.7
+38,Andersson ,RC4,3,Poland,37,470.2
+40,Herczig  P,RC4,3,Poland,38,470.3
+50,Zeiringer ,RC4,3,Poland,39,471.1
+28,Somaschini,RC2,3,Poland,40,472.7
+44,Noller  Re,RC4,3,Poland,41,472.8
+37,McRae  Max,RC4,3,Poland,42,473.6
+36,Jalava  Mi,RC4,3,Poland,43,475.3
+59,Brugger  C,RC4,3,Poland,44,477.6
+57,Rossi  Ghj,RC4,3,Poland,45,481.1
+61,Uger  Serg,RC2,3,Poland,46,481.7
+48,Spitalier ,RC4,3,Poland,47,483.3
+49,Zanin  Mat,RC4,3,Poland,48,483.7
+42,Kramer  A.,RC4,3,Poland,49,489.4
+52,Hangodi  B,RC4,3,Poland,50,495.7
+46,Raftery  A,RC4,3,Poland,51,496.3
+51,Kreuter  N,RC4,3,Poland,52,507.4
+62,Ravenščak ,RC3,3,Poland,53,554.8
+34,Soria  Pau,RC3,3,Poland,54,613.8
+58,Jocz  Tymo,RC4,3,Poland,55,634.8
+4,Kristensso,RC2,3,Poland,56,1009.5
+54,Otake  Nao,RC4,3,Poland,57,1057.4
+56,Nowak  Mar,RC4,3,Poland,58,1057.4
+63,Domin  Mat,RC4,3,Poland,59,1057.4
+1,Paddon  Ha,RC2,4,Poland,1,498.7
+8,Sesks  M. ,RC2,4,Poland,2,498.9
+6,Marczyk  M,RC2,4,Poland,3,505.1
+21,McErlean  ,RC2,4,Poland,4,505.6
+3,Østberg  M,RC2,4,Poland,5,505.8
+5,Mabellini ,RC2,4,Poland,6,507.4
+7,Franceschi,RC2,4,Poland,7,507.5
+12,Tempestini,RC2,4,Poland,8,507.7
+10,Heikkilä  ,RC2,4,Poland,9,508.0
+2,Llarena  E,RC2,4,Poland,10,508.6
+22,Cais  Erik,RC2,4,Poland,11,512.3
+11,Grzyb  Grz,RC2,4,Poland,12,512.4
+15,Tidemand  ,RC2,4,Poland,13,512.7
+24,Campedelli,RC2,4,Poland,14,517.8
+25,Rådström  ,RC2,4,Poland,15,520.5
+31,Armstrong ,RC3,4,Poland,16,523.5
+17,Plachytka ,RC2,4,Poland,17,525.5
+19,Byśkiniewi,RC2,4,Poland,18,526.0
+16,László  Ma,RC2,4,Poland,19,529.9
+23,Pryce  Osi,RC2,4,Poland,20,533.5
+26,Kołtun  J.,RC2,4,Poland,21,538.1
+34,Soria  Pau,RC3,4,Poland,22,546.1
+32,Parys  Pio,RC3,4,Poland,23,547.8
+14,Mareš  Fil,RC2,4,Poland,24,548.5
+33,Matulka  J,RC3,4,Poland,25,553.7
+53,Yamamoto  ,RC4,4,Poland,26,561.7
+45,Nore  Ola ,RC4,4,Poland,27,562.0
+43,Maior  Nor,RC4,4,Poland,28,569.3
+35,Daprà  Rob,RC4,4,Poland,29,569.7
+39,Hansen  Vi,RC4,4,Poland,30,570.1
+47,Schulz  Ti,RC4,4,Poland,31,570.4
+41,Johansson ,RC4,4,Poland,32,570.7
+38,Andersson ,RC4,4,Poland,33,573.5
+40,Herczig  P,RC4,4,Poland,34,575.8
+30,Bertolotti,RC2,4,Poland,35,575.9
+55,Kogure  Hi,RC4,4,Poland,36,576.0
+50,Zeiringer ,RC4,4,Poland,37,576.9
+44,Noller  Re,RC4,4,Poland,38,577.5
+58,Jocz  Tymo,RC4,4,Poland,39,583.6
+37,McRae  Max,RC4,4,Poland,40,584.4
+36,Jalava  Mi,RC4,4,Poland,41,588.1
+28,Somaschini,RC2,4,Poland,42,588.5
+52,Hangodi  B,RC4,4,Poland,43,588.6
+59,Brugger  C,RC4,4,Poland,44,592.2
+49,Zanin  Mat,RC4,4,Poland,45,600.5
+61,Uger  Serg,RC2,4,Poland,46,601.9
+57,Rossi  Ghj,RC4,4,Poland,47,605.1
+42,Kramer  A.,RC4,4,Poland,48,606.0
+46,Raftery  A,RC4,4,Poland,49,616.0
+62,Ravenščak ,RC3,4,Poland,50,634.2
+51,Kreuter  N,RC4,4,Poland,51,641.9
+4,Kristensso,RC2,4,Poland,52,1098.7
+9,Nucita  An,RC2,4,Poland,53,1098.7
+29,Cuzma  Bog,RC2,4,Poland,54,1098.7
+60,Szeja  Jar,RC2,4,Poland,55,1098.7
+48,Spitalier ,RC4,4,Poland,56,1161.7
+54,Otake  Nao,RC4,4,Poland,57,1161.7
+56,Nowak  Mar,RC4,4,Poland,58,1161.7
+63,Domin  Mat,RC4,4,Poland,59,1161.7
+8,Sesks  M. ,RC2,5,Poland,1,591.8
+1,Paddon  Ha,RC2,5,Poland,2,599.4
+6,Marczyk  M,RC2,5,Poland,3,599.7
+3,Østberg  M,RC2,5,Poland,4,602.7
+22,Cais  Erik,RC2,5,Poland,5,603.3
+10,Heikkilä  ,RC2,5,Poland,6,603.4
+7,Franceschi,RC2,5,Poland,7,605.5
+14,Mareš  Fil,RC2,5,Poland,8,605.8
+21,McErlean  ,RC2,5,Poland,9,606.2
+5,Mabellini ,RC2,5,Poland,10,607.5
+2,Llarena  E,RC2,5,Poland,11,610.2
+12,Tempestini,RC2,5,Poland,12,610.8
+24,Campedelli,RC2,5,Poland,13,612.7
+15,Tidemand  ,RC2,5,Poland,14,613.6
+25,Rådström  ,RC2,5,Poland,15,614.6
+23,Pryce  Osi,RC2,5,Poland,16,619.3
+11,Grzyb  Grz,RC2,5,Poland,17,620.0
+16,László  Ma,RC2,5,Poland,18,623.1
+17,Plachytka ,RC2,5,Poland,19,627.3
+31,Armstrong ,RC3,5,Poland,20,627.7
+19,Byśkiniewi,RC2,5,Poland,21,630.3
+26,Kołtun  J.,RC2,5,Poland,22,639.2
+34,Soria  Pau,RC3,5,Poland,23,658.5
+33,Matulka  J,RC3,5,Poland,24,673.0
+47,Schulz  Ti,RC4,5,Poland,25,681.2
+45,Nore  Ola ,RC4,5,Poland,26,683.1
+28,Somaschini,RC2,5,Poland,27,686.9
+53,Yamamoto  ,RC4,5,Poland,28,690.5
+39,Hansen  Vi,RC4,5,Poland,29,693.0
+43,Maior  Nor,RC4,5,Poland,30,694.2
+44,Noller  Re,RC4,5,Poland,31,705.1
+30,Bertolotti,RC2,5,Poland,32,708.3
+36,Jalava  Mi,RC4,5,Poland,33,710.6
+35,Daprà  Rob,RC4,5,Poland,34,713.3
+49,Zanin  Mat,RC4,5,Poland,35,714.1
+58,Jocz  Tymo,RC4,5,Poland,36,714.4
+55,Kogure  Hi,RC4,5,Poland,37,714.6
+57,Rossi  Ghj,RC4,5,Poland,38,725.0
+59,Brugger  C,RC4,5,Poland,39,734.7
+37,McRae  Max,RC4,5,Poland,40,740.6
+46,Raftery  A,RC4,5,Poland,41,743.9
+52,Hangodi  B,RC4,5,Poland,42,745.9
+62,Ravenščak ,RC3,5,Poland,43,748.2
+42,Kramer  A.,RC4,5,Poland,44,749.4
+41,Johansson ,RC4,5,Poland,45,754.3
+50,Zeiringer ,RC4,5,Poland,46,755.0
+51,Kreuter  N,RC4,5,Poland,47,772.5
+9,Nucita  An,RC2,5,Poland,48,1191.8
+29,Cuzma  Bog,RC2,5,Poland,49,1191.8
+60,Szeja  Jar,RC2,5,Poland,50,1191.8
+61,Uger  Serg,RC2,5,Poland,51,1191.8
+32,Parys  Pio,RC3,5,Poland,52,1227.7
+38,Andersson ,RC4,5,Poland,53,1281.2
+40,Herczig  P,RC4,5,Poland,54,1281.2
+48,Spitalier ,RC4,5,Poland,55,1281.2
+54,Otake  Nao,RC4,5,Poland,56,1281.2
+56,Nowak  Mar,RC4,5,Poland,57,1281.2
+63,Domin  Mat,RC4,5,Poland,58,1281.2
+8,Sesks  M. ,RC2,6,Poland,1,406.7
+1,Paddon  Ha,RC2,6,Poland,2,408.4
+5,Mabellini ,RC2,6,Poland,3,410.9
+7,Franceschi,RC2,6,Poland,4,411.1
+6,Marczyk  M,RC2,6,Poland,5,412.1
+3,Østberg  M,RC2,6,Poland,6,412.9
+21,McErlean  ,RC2,6,Poland,7,413.3
+12,Tempestini,RC2,6,Poland,8,414.0
+22,Cais  Erik,RC2,6,Poland,9,414.6
+10,Heikkilä  ,RC2,6,Poland,10,414.7
+14,Mareš  Fil,RC2,6,Poland,11,415.0
+2,Llarena  E,RC2,6,Poland,12,416.5
+24,Campedelli,RC2,6,Poland,13,418.0
+16,László  Ma,RC2,6,Poland,14,421.2
+15,Tidemand  ,RC2,6,Poland,15,422.1
+11,Grzyb  Grz,RC2,6,Poland,16,422.7
+25,Rådström  ,RC2,6,Poland,17,424.9
+23,Pryce  Osi,RC2,6,Poland,18,425.7
+19,Byśkiniewi,RC2,6,Poland,19,430.6
+31,Armstrong ,RC3,6,Poland,20,431.2
+26,Kołtun  J.,RC2,6,Poland,21,432.5
+17,Plachytka ,RC2,6,Poland,22,434.6
+34,Soria  Pau,RC3,6,Poland,23,447.5
+33,Matulka  J,RC3,6,Poland,24,456.8
+53,Yamamoto  ,RC4,6,Poland,25,459.1
+45,Nore  Ola ,RC4,6,Poland,26,461.2
+39,Hansen  Vi,RC4,6,Poland,27,461.6
+43,Maior  Nor,RC4,6,Poland,28,463.5
+41,Johansson ,RC4,6,Poland,29,466.2
+35,Daprà  Rob,RC4,6,Poland,30,466.7
+44,Noller  Re,RC4,6,Poland,31,467.6
+55,Kogure  Hi,RC4,6,Poland,32,469.4
+28,Somaschini,RC2,6,Poland,33,470.0
+58,Jocz  Tymo,RC4,6,Poland,34,472.6
+36,Jalava  Mi,RC4,6,Poland,35,473.5
+57,Rossi  Ghj,RC4,6,Poland,36,481.1
+37,McRae  Max,RC4,6,Poland,37,482.9
+49,Zanin  Mat,RC4,6,Poland,38,487.8
+59,Brugger  C,RC4,6,Poland,39,487.9
+42,Kramer  A.,RC4,6,Poland,40,491.5
+62,Ravenščak ,RC3,6,Poland,41,491.9
+52,Hangodi  B,RC4,6,Poland,42,495.1
+46,Raftery  A,RC4,6,Poland,43,496.2
+51,Kreuter  N,RC4,6,Poland,44,509.1
+29,Cuzma  Bog,RC2,6,Poland,45,1006.7
+30,Bertolotti,RC2,6,Poland,46,1006.7
+60,Szeja  Jar,RC2,6,Poland,47,1006.7
+61,Uger  Serg,RC2,6,Poland,48,1006.7
+32,Parys  Pio,RC3,6,Poland,49,1031.2
+38,Andersson ,RC4,6,Poland,50,1059.1
+40,Herczig  P,RC4,6,Poland,51,1059.1
+47,Schulz  Ti,RC4,6,Poland,52,1059.1
+48,Spitalier ,RC4,6,Poland,53,1059.1
+50,Zeiringer ,RC4,6,Poland,54,1059.1
+54,Otake  Nao,RC4,6,Poland,55,1059.1
+56,Nowak  Mar,RC4,6,Poland,56,1059.1
+63,Domin  Mat,RC4,6,Poland,57,1059.1
+8,Sesks  M. ,RC2,7,Poland,1,496.9
+1,Paddon  Ha,RC2,7,Poland,2,498.5
+3,Østberg  M,RC2,7,Poland,3,500.8
+6,Marczyk  M,RC2,7,Poland,4,501.5
+5,Mabellini ,RC2,7,Poland,5,501.7
+7,Franceschi,RC2,7,Poland,6,501.8
+10,Heikkilä  ,RC2,7,Poland,7,504.1
+21,McErlean  ,RC2,7,Poland,8,505.1
+2,Llarena  E,RC2,7,Poland,9,507.7
+22,Cais  Erik,RC2,7,Poland,10,507.7
+12,Tempestini,RC2,7,Poland,11,508.0
+15,Tidemand  ,RC2,7,Poland,12,510.7
+24,Campedelli,RC2,7,Poland,13,511.9
+14,Mareš  Fil,RC2,7,Poland,14,512.0
+11,Grzyb  Grz,RC2,7,Poland,15,516.5
+16,László  Ma,RC2,7,Poland,16,519.0
+23,Pryce  Osi,RC2,7,Poland,17,522.1
+25,Rådström  ,RC2,7,Poland,18,524.1
+19,Byśkiniewi,RC2,7,Poland,19,527.7
+17,Plachytka ,RC2,7,Poland,20,537.3
+26,Kołtun  J.,RC2,7,Poland,21,537.4
+33,Matulka  J,RC3,7,Poland,22,566.7
+53,Yamamoto  ,RC4,7,Poland,23,567.0
+45,Nore  Ola ,RC4,7,Poland,24,570.2
+43,Maior  Nor,RC4,7,Poland,25,571.2
+41,Johansson ,RC4,7,Poland,26,572.0
+35,Daprà  Rob,RC4,7,Poland,27,575.9
+39,Hansen  Vi,RC4,7,Poland,28,581.7
+36,Jalava  Mi,RC4,7,Poland,29,583.2
+37,McRae  Max,RC4,7,Poland,30,583.5
+28,Somaschini,RC2,7,Poland,31,584.9
+55,Kogure  Hi,RC4,7,Poland,32,585.4
+58,Jocz  Tymo,RC4,7,Poland,33,600.6
+52,Hangodi  B,RC4,7,Poland,34,609.3
+57,Rossi  Ghj,RC4,7,Poland,35,609.9
+42,Kramer  A.,RC4,7,Poland,36,616.3
+62,Ravenščak ,RC3,7,Poland,37,620.0
+46,Raftery  A,RC4,7,Poland,38,632.8
+59,Brugger  C,RC4,7,Poland,39,633.6
+49,Zanin  Mat,RC4,7,Poland,40,639.5
+51,Kreuter  N,RC4,7,Poland,41,669.1
+31,Armstrong ,RC3,7,Poland,42,684.3
+30,Bertolotti,RC2,7,Poland,43,1096.9
+60,Szeja  Jar,RC2,7,Poland,44,1096.9
+61,Uger  Serg,RC2,7,Poland,45,1096.9
+32,Parys  Pio,RC3,7,Poland,46,1166.7
+34,Soria  Pau,RC3,7,Poland,47,1166.7
+40,Herczig  P,RC4,7,Poland,48,1167.0
+44,Noller  Re,RC4,7,Poland,49,1167.0
+47,Schulz  Ti,RC4,7,Poland,50,1167.0
+48,Spitalier ,RC4,7,Poland,51,1167.0
+50,Zeiringer ,RC4,7,Poland,52,1167.0
+54,Otake  Nao,RC4,7,Poland,53,1167.0
+56,Nowak  Mar,RC4,7,Poland,54,1167.0
+63,Domin  Mat,RC4,7,Poland,55,1167.0
+1,Paddon  Ha,RC2,8,Poland,1,108.1
+12,Tempestini,RC2,8,Poland,2,108.1
+14,Mareš  Fil,RC2,8,Poland,3,108.4
+2,Llarena  E,RC2,8,Poland,4,109.2
+5,Mabellini ,RC2,8,Poland,5,109.2
+11,Grzyb  Grz,RC2,8,Poland,6,109.3
+8,Sesks  M. ,RC2,8,Poland,7,109.4
+6,Marczyk  M,RC2,8,Poland,8,109.5
+16,László  Ma,RC2,8,Poland,9,109.5
+21,McErlean  ,RC2,8,Poland,10,109.6
+19,Byśkiniewi,RC2,8,Poland,11,109.7
+22,Cais  Erik,RC2,8,Poland,12,109.7
+3,Østberg  M,RC2,8,Poland,13,109.8
+7,Franceschi,RC2,8,Poland,14,109.8
+15,Tidemand  ,RC2,8,Poland,15,110.0
+26,Kołtun  J.,RC2,8,Poland,16,110.0
+24,Campedelli,RC2,8,Poland,17,110.1
+23,Pryce  Osi,RC2,8,Poland,18,111.0
+31,Armstrong ,RC3,8,Poland,19,111.4
+25,Rådström  ,RC2,8,Poland,20,111.8
+17,Plachytka ,RC2,8,Poland,21,111.9
+33,Matulka  J,RC3,8,Poland,22,112.4
+10,Heikkilä  ,RC2,8,Poland,23,112.5
+28,Somaschini,RC2,8,Poland,24,115.6
+62,Ravenščak ,RC3,8,Poland,25,119.2
+53,Yamamoto  ,RC4,8,Poland,26,120.1
+43,Maior  Nor,RC4,8,Poland,27,120.4
+55,Kogure  Hi,RC4,8,Poland,28,120.5
+42,Kramer  A.,RC4,8,Poland,29,121.8
+57,Rossi  Ghj,RC4,8,Poland,30,121.9
+41,Johansson ,RC4,8,Poland,31,122.1
+35,Daprà  Rob,RC4,8,Poland,32,122.3
+37,McRae  Max,RC4,8,Poland,33,122.3
+49,Zanin  Mat,RC4,8,Poland,34,122.3
+45,Nore  Ola ,RC4,8,Poland,35,122.5
+52,Hangodi  B,RC4,8,Poland,36,122.9
+39,Hansen  Vi,RC4,8,Poland,37,123.0
+36,Jalava  Mi,RC4,8,Poland,38,123.7
+51,Kreuter  N,RC4,8,Poland,39,124.5
+59,Brugger  C,RC4,8,Poland,40,125.3
+46,Raftery  A,RC4,8,Poland,41,131.2
+58,Jocz  Tymo,RC4,8,Poland,42,145.3
+30,Bertolotti,RC2,8,Poland,43,708.1
+60,Szeja  Jar,RC2,8,Poland,44,708.1
+61,Uger  Serg,RC2,8,Poland,45,708.1
+32,Parys  Pio,RC3,8,Poland,46,711.4
+34,Soria  Pau,RC3,8,Poland,47,711.4
+40,Herczig  P,RC4,8,Poland,48,720.1
+44,Noller  Re,RC4,8,Poland,49,720.1
+47,Schulz  Ti,RC4,8,Poland,50,720.1
+48,Spitalier ,RC4,8,Poland,51,720.1
+50,Zeiringer ,RC4,8,Poland,52,720.1
+54,Otake  Nao,RC4,8,Poland,53,720.1
+56,Nowak  Mar,RC4,8,Poland,54,720.1
+63,Domin  Mat,RC4,8,Poland,55,720.1
+1,Paddon  Ha,RC2,9,Poland,1,312.0
+8,Sesks  M. ,RC2,9,Poland,2,312.8
+6,Marczyk  M,RC2,9,Poland,3,315.2
+10,Heikkilä  ,RC2,9,Poland,4,317.1
+21,McErlean  ,RC2,9,Poland,5,317.3
+7,Franceschi,RC2,9,Poland,6,318.8
+3,Østberg  M,RC2,9,Poland,7,319.5
+12,Tempestini,RC2,9,Poland,8,321.3
+5,Mabellini ,RC2,9,Poland,9,323.0
+25,Rådström  ,RC2,9,Poland,10,323.8
+14,Mareš  Fil,RC2,9,Poland,11,325.0
+22,Cais  Erik,RC2,9,Poland,12,325.5
+60,Szeja  Jar,RC2,9,Poland,13,328.0
+16,László  Ma,RC2,9,Poland,14,328.3
+23,Pryce  Osi,RC2,9,Poland,15,329.1
+2,Llarena  E,RC2,9,Poland,16,329.7
+19,Byśkiniewi,RC2,9,Poland,17,330.6
+31,Armstrong ,RC3,9,Poland,18,330.9
+24,Campedelli,RC2,9,Poland,19,331.6
+15,Tidemand  ,RC2,9,Poland,20,332.1
+11,Grzyb  Grz,RC2,9,Poland,21,332.5
+17,Plachytka ,RC2,9,Poland,22,337.6
+26,Kołtun  J.,RC2,9,Poland,23,339.0
+33,Matulka  J,RC3,9,Poland,24,350.7
+32,Parys  Pio,RC3,9,Poland,25,356.3
+53,Yamamoto  ,RC4,9,Poland,26,357.2
+45,Nore  Ola ,RC4,9,Poland,27,357.5
+55,Kogure  Hi,RC4,9,Poland,28,361.3
+54,Otake  Nao,RC4,9,Poland,29,362.1
+39,Hansen  Vi,RC4,9,Poland,30,363.5
+41,Johansson ,RC4,9,Poland,31,365.9
+43,Maior  Nor,RC4,9,Poland,32,366.4
+35,Daprà  Rob,RC4,9,Poland,33,367.5
+36,Jalava  Mi,RC4,9,Poland,34,368.3
+58,Jocz  Tymo,RC4,9,Poland,35,368.5
+28,Somaschini,RC2,9,Poland,36,368.7
+30,Bertolotti,RC2,9,Poland,37,375.0
+47,Schulz  Ti,RC4,9,Poland,38,376.8
+40,Herczig  P,RC4,9,Poland,39,379.1
+52,Hangodi  B,RC4,9,Poland,40,379.4
+56,Nowak  Mar,RC4,9,Poland,41,380.3
+62,Ravenščak ,RC3,9,Poland,42,382.9
+49,Zanin  Mat,RC4,9,Poland,43,384.3
+59,Brugger  C,RC4,9,Poland,44,385.5
+46,Raftery  A,RC4,9,Poland,45,386.7
+57,Rossi  Ghj,RC4,9,Poland,46,387.9
+42,Kramer  A.,RC4,9,Poland,47,401.1
+63,Domin  Mat,RC4,9,Poland,48,406.2
+51,Kreuter  N,RC4,9,Poland,49,414.8
+48,Spitalier ,RC4,9,Poland,50,422.9
+37,McRae  Max,RC4,9,Poland,51,635.8
+8,Sesks  M. ,RC2,10,Poland,1,389.2
+1,Paddon  Ha,RC2,10,Poland,2,395.1
+6,Marczyk  M,RC2,10,Poland,3,395.9
+3,Østberg  M,RC2,10,Poland,4,396.9
+10,Heikkilä  ,RC2,10,Poland,5,398.0
+7,Franceschi,RC2,10,Poland,6,398.2
+21,McErlean  ,RC2,10,Poland,7,400.7
+12,Tempestini,RC2,10,Poland,8,404.8
+25,Rådström  ,RC2,10,Poland,9,406.0
+5,Mabellini ,RC2,10,Poland,10,406.5
+16,László  Ma,RC2,10,Poland,11,408.6
+60,Szeja  Jar,RC2,10,Poland,12,411.7
+22,Cais  Erik,RC2,10,Poland,13,411.8
+23,Pryce  Osi,RC2,10,Poland,14,411.8
+14,Mareš  Fil,RC2,10,Poland,15,412.2
+31,Armstrong ,RC3,10,Poland,16,413.5
+2,Llarena  E,RC2,10,Poland,17,415.2
+19,Byśkiniewi,RC2,10,Poland,18,416.9
+15,Tidemand  ,RC2,10,Poland,19,419.4
+11,Grzyb  Grz,RC2,10,Poland,20,423.2
+17,Plachytka ,RC2,10,Poland,21,423.4
+24,Campedelli,RC2,10,Poland,22,425.3
+32,Parys  Pio,RC3,10,Poland,23,439.8
+26,Kołtun  J.,RC2,10,Poland,24,440.2
+54,Otake  Nao,RC4,10,Poland,25,447.1
+53,Yamamoto  ,RC4,10,Poland,26,447.2
+35,Daprà  Rob,RC4,10,Poland,27,448.2
+45,Nore  Ola ,RC4,10,Poland,28,452.3
+39,Hansen  Vi,RC4,10,Poland,29,452.4
+47,Schulz  Ti,RC4,10,Poland,30,453.0
+43,Maior  Nor,RC4,10,Poland,31,457.8
+55,Kogure  Hi,RC4,10,Poland,32,457.8
+37,McRae  Max,RC4,10,Poland,33,458.4
+58,Jocz  Tymo,RC4,10,Poland,34,461.0
+30,Bertolotti,RC2,10,Poland,35,465.5
+40,Herczig  P,RC4,10,Poland,36,467.2
+56,Nowak  Mar,RC4,10,Poland,37,471.0
+62,Ravenščak ,RC3,10,Poland,38,471.2
+28,Somaschini,RC2,10,Poland,39,472.3
+59,Brugger  C,RC4,10,Poland,40,472.8
+36,Jalava  Mi,RC4,10,Poland,41,473.9
+49,Zanin  Mat,RC4,10,Poland,42,475.0
+57,Rossi  Ghj,RC4,10,Poland,43,477.5
+52,Hangodi  B,RC4,10,Poland,44,480.6
+41,Johansson ,RC4,10,Poland,45,485.2
+46,Raftery  A,RC4,10,Poland,46,485.8
+63,Domin  Mat,RC4,10,Poland,47,487.5
+48,Spitalier ,RC4,10,Poland,48,491.7
+51,Kreuter  N,RC4,10,Poland,49,603.6
+33,Matulka  J,RC3,10,Poland,50,777.1
+8,Sesks  M. ,RC2,11,Poland,1,325.3
+6,Marczyk  M,RC2,11,Poland,2,328.2
+21,McErlean  ,RC2,11,Poland,3,328.9
+3,Østberg  M,RC2,11,Poland,4,329.0
+10,Heikkilä  ,RC2,11,Poland,5,329.3
+1,Paddon  Ha,RC2,11,Poland,6,329.7
+7,Franceschi,RC2,11,Poland,7,330.2
+5,Mabellini ,RC2,11,Poland,8,336.1
+12,Tempestini,RC2,11,Poland,9,336.6
+16,László  Ma,RC2,11,Poland,10,336.6
+22,Cais  Erik,RC2,11,Poland,11,338.9
+14,Mareš  Fil,RC2,11,Poland,12,339.8
+25,Rådström  ,RC2,11,Poland,13,340.6
+11,Grzyb  Grz,RC2,11,Poland,14,341.3
+2,Llarena  E,RC2,11,Poland,15,341.7
+60,Szeja  Jar,RC2,11,Poland,16,343.4
+31,Armstrong ,RC3,11,Poland,17,343.5
+24,Campedelli,RC2,11,Poland,18,343.9
+23,Pryce  Osi,RC2,11,Poland,19,344.2
+15,Tidemand  ,RC2,11,Poland,20,344.8
+19,Byśkiniewi,RC2,11,Poland,21,344.9
+17,Plachytka ,RC2,11,Poland,22,347.6
+26,Kołtun  J.,RC2,11,Poland,23,355.6
+32,Parys  Pio,RC3,11,Poland,24,361.8
+45,Nore  Ola ,RC4,11,Poland,25,367.8
+53,Yamamoto  ,RC4,11,Poland,26,369.5
+39,Hansen  Vi,RC4,11,Poland,27,370.6
+43,Maior  Nor,RC4,11,Poland,28,373.7
+54,Otake  Nao,RC4,11,Poland,29,376.3
+35,Daprà  Rob,RC4,11,Poland,30,376.4
+55,Kogure  Hi,RC4,11,Poland,31,376.6
+28,Somaschini,RC2,11,Poland,32,378.0
+37,McRae  Max,RC4,11,Poland,33,378.2
+41,Johansson ,RC4,11,Poland,34,379.1
+58,Jocz  Tymo,RC4,11,Poland,35,380.7
+47,Schulz  Ti,RC4,11,Poland,36,382.0
+62,Ravenščak ,RC3,11,Poland,37,385.1
+56,Nowak  Mar,RC4,11,Poland,38,385.6
+30,Bertolotti,RC2,11,Poland,39,387.4
+49,Zanin  Mat,RC4,11,Poland,40,389.6
+40,Herczig  P,RC4,11,Poland,41,390.2
+57,Rossi  Ghj,RC4,11,Poland,42,392.2
+59,Brugger  C,RC4,11,Poland,43,397.1
+46,Raftery  A,RC4,11,Poland,44,397.5
+48,Spitalier ,RC4,11,Poland,45,397.6
+36,Jalava  Mi,RC4,11,Poland,46,398.4
+52,Hangodi  B,RC4,11,Poland,47,412.5
+63,Domin  Mat,RC4,11,Poland,48,424.0
+51,Kreuter  N,RC4,11,Poland,49,466.9
+33,Matulka  J,RC3,11,Poland,50,612.9
+8,Sesks  M. ,RC2,12,Poland,1,208.7
+1,Paddon  Ha,RC2,12,Poland,2,210.2
+6,Marczyk  M,RC2,12,Poland,3,210.2
+3,Østberg  M,RC2,12,Poland,4,210.7
+10,Heikkilä  ,RC2,12,Poland,5,211.1
+21,McErlean  ,RC2,12,Poland,6,212.0
+7,Franceschi,RC2,12,Poland,7,214.0
+14,Mareš  Fil,RC2,12,Poland,8,215.9
+5,Mabellini ,RC2,12,Poland,9,216.0
+12,Tempestini,RC2,12,Poland,10,216.3
+16,László  Ma,RC2,12,Poland,11,217.6
+22,Cais  Erik,RC2,12,Poland,12,218.2
+25,Rådström  ,RC2,12,Poland,13,218.2
+19,Byśkiniewi,RC2,12,Poland,14,218.4
+23,Pryce  Osi,RC2,12,Poland,15,218.9
+2,Llarena  E,RC2,12,Poland,16,219.5
+11,Grzyb  Grz,RC2,12,Poland,17,220.7
+15,Tidemand  ,RC2,12,Poland,18,220.8
+31,Armstrong ,RC3,12,Poland,19,220.9
+24,Campedelli,RC2,12,Poland,20,221.3
+60,Szeja  Jar,RC2,12,Poland,21,223.2
+17,Plachytka ,RC2,12,Poland,22,229.4
+26,Kołtun  J.,RC2,12,Poland,23,230.1
+54,Otake  Nao,RC4,12,Poland,24,242.4
+39,Hansen  Vi,RC4,12,Poland,25,243.4
+32,Parys  Pio,RC3,12,Poland,26,244.1
+43,Maior  Nor,RC4,12,Poland,27,244.5
+55,Kogure  Hi,RC4,12,Poland,28,245.3
+28,Somaschini,RC2,12,Poland,29,246.3
+37,McRae  Max,RC4,12,Poland,30,247.4
+45,Nore  Ola ,RC4,12,Poland,31,247.4
+41,Johansson ,RC4,12,Poland,32,248.3
+58,Jocz  Tymo,RC4,12,Poland,33,248.9
+35,Daprà  Rob,RC4,12,Poland,34,249.6
+62,Ravenščak ,RC3,12,Poland,35,250.6
+30,Bertolotti,RC2,12,Poland,36,251.3
+57,Rossi  Ghj,RC4,12,Poland,37,254.2
+40,Herczig  P,RC4,12,Poland,38,254.8
+36,Jalava  Mi,RC4,12,Poland,39,255.9
+59,Brugger  C,RC4,12,Poland,40,255.9
+52,Hangodi  B,RC4,12,Poland,41,256.5
+48,Spitalier ,RC4,12,Poland,42,260.0
+46,Raftery  A,RC4,12,Poland,43,261.5
+56,Nowak  Mar,RC4,12,Poland,44,264.3
+49,Zanin  Mat,RC4,12,Poland,45,264.9
+47,Schulz  Ti,RC4,12,Poland,46,265.4
+51,Kreuter  N,RC4,12,Poland,47,311.7
+63,Domin  Mat,RC4,12,Poland,48,322.8
+53,Yamamoto  ,RC4,12,Poland,49,427.4
+33,Matulka  J,RC3,12,Poland,50,434.9
+10,Heikkilä  ,RC2,13,Poland,1,316.0
+6,Marczyk  M,RC2,13,Poland,2,317.0
+8,Sesks  M. ,RC2,13,Poland,3,317.1
+3,Østberg  M,RC2,13,Poland,4,318.1
+7,Franceschi,RC2,13,Poland,5,319.7
+1,Paddon  Ha,RC2,13,Poland,6,320.9
+22,Cais  Erik,RC2,13,Poland,7,321.1
+5,Mabellini ,RC2,13,Poland,8,323.2
+25,Rådström  ,RC2,13,Poland,9,324.3
+2,Llarena  E,RC2,13,Poland,10,325.5
+24,Campedelli,RC2,13,Poland,11,326.0
+12,Tempestini,RC2,13,Poland,12,326.2
+15,Tidemand  ,RC2,13,Poland,13,329.6
+14,Mareš  Fil,RC2,13,Poland,14,329.7
+23,Pryce  Osi,RC2,13,Poland,15,331.1
+11,Grzyb  Grz,RC2,13,Poland,16,332.4
+17,Plachytka ,RC2,13,Poland,17,333.8
+21,McErlean  ,RC2,13,Poland,18,335.9
+60,Szeja  Jar,RC2,13,Poland,19,337.9
+31,Armstrong ,RC3,13,Poland,20,343.0
+19,Byśkiniewi,RC2,13,Poland,21,345.3
+26,Kołtun  J.,RC2,13,Poland,22,352.6
+32,Parys  Pio,RC3,13,Poland,23,358.8
+33,Matulka  J,RC3,13,Poland,24,359.8
+45,Nore  Ola ,RC4,13,Poland,25,367.3
+43,Maior  Nor,RC4,13,Poland,26,368.8
+55,Kogure  Hi,RC4,13,Poland,27,369.5
+47,Schulz  Ti,RC4,13,Poland,28,376.7
+39,Hansen  Vi,RC4,13,Poland,29,376.9
+28,Somaschini,RC2,13,Poland,30,377.2
+35,Daprà  Rob,RC4,13,Poland,31,379.6
+49,Zanin  Mat,RC4,13,Poland,32,384.8
+37,McRae  Max,RC4,13,Poland,33,391.5
+46,Raftery  A,RC4,13,Poland,34,392.5
+30,Bertolotti,RC2,13,Poland,35,395.1
+56,Nowak  Mar,RC4,13,Poland,36,396.9
+36,Jalava  Mi,RC4,13,Poland,37,397.1
+57,Rossi  Ghj,RC4,13,Poland,38,399.4
+62,Ravenščak ,RC3,13,Poland,39,399.9
+40,Herczig  P,RC4,13,Poland,40,402.2
+52,Hangodi  B,RC4,13,Poland,41,403.4
+58,Jocz  Tymo,RC4,13,Poland,42,404.8
+59,Brugger  C,RC4,13,Poland,43,405.6
+51,Kreuter  N,RC4,13,Poland,44,413.8
+48,Spitalier ,RC4,13,Poland,45,416.8
+63,Domin  Mat,RC4,13,Poland,46,454.8
+8,Sesks  M. ,RC2,14,Poland,1,387.9
+6,Marczyk  M,RC2,14,Poland,2,391.5
+3,Østberg  M,RC2,14,Poland,3,391.6
+10,Heikkilä  ,RC2,14,Poland,4,392.2
+7,Franceschi,RC2,14,Poland,5,393.4
+21,McErlean  ,RC2,14,Poland,6,393.4
+22,Cais  Erik,RC2,14,Poland,7,397.5
+1,Paddon  Ha,RC2,14,Poland,8,397.6
+12,Tempestini,RC2,14,Poland,9,397.8
+2,Llarena  E,RC2,14,Poland,10,400.8
+25,Rådström  ,RC2,14,Poland,11,401.1
+14,Mareš  Fil,RC2,14,Poland,12,401.3
+23,Pryce  Osi,RC2,14,Poland,13,405.1
+60,Szeja  Jar,RC2,14,Poland,14,407.7
+31,Armstrong ,RC3,14,Poland,15,410.0
+11,Grzyb  Grz,RC2,14,Poland,16,411.8
+17,Plachytka ,RC2,14,Poland,17,413.8
+15,Tidemand  ,RC2,14,Poland,18,413.9
+19,Byśkiniewi,RC2,14,Poland,19,414.7
+24,Campedelli,RC2,14,Poland,20,426.6
+26,Kołtun  J.,RC2,14,Poland,21,431.3
+43,Maior  Nor,RC4,14,Poland,22,444.4
+33,Matulka  J,RC3,14,Poland,23,446.4
+45,Nore  Ola ,RC4,14,Poland,24,448.2
+55,Kogure  Hi,RC4,14,Poland,25,448.5
+32,Parys  Pio,RC3,14,Poland,26,449.3
+47,Schulz  Ti,RC4,14,Poland,27,449.8
+35,Daprà  Rob,RC4,14,Poland,28,450.2
+37,McRae  Max,RC4,14,Poland,29,451.5
+39,Hansen  Vi,RC4,14,Poland,30,453.6
+28,Somaschini,RC2,14,Poland,31,461.2
+30,Bertolotti,RC2,14,Poland,32,464.7
+40,Herczig  P,RC4,14,Poland,33,466.4
+57,Rossi  Ghj,RC4,14,Poland,34,468.0
+58,Jocz  Tymo,RC4,14,Poland,35,469.2
+62,Ravenščak ,RC3,14,Poland,36,471.9
+56,Nowak  Mar,RC4,14,Poland,37,474.9
+52,Hangodi  B,RC4,14,Poland,38,475.2
+59,Brugger  C,RC4,14,Poland,39,477.4
+36,Jalava  Mi,RC4,14,Poland,40,484.8
+46,Raftery  A,RC4,14,Poland,41,494.6
+63,Domin  Mat,RC4,14,Poland,42,502.8
+51,Kreuter  N,RC4,14,Poland,43,511.9
+48,Spitalier ,RC4,14,Poland,44,519.4
+49,Zanin  Mat,RC4,14,Poland,45,526.3
+3,Østberg  M,RC2,15,Poland,1,211.5
+10,Heikkilä  ,RC2,15,Poland,2,211.5
+8,Sesks  M. ,RC2,15,Poland,3,212.7
+6,Marczyk  M,RC2,15,Poland,4,214.4
+14,Mareš  Fil,RC2,15,Poland,5,214.5
+22,Cais  Erik,RC2,15,Poland,6,216.0
+7,Franceschi,RC2,15,Poland,7,216.1
+24,Campedelli,RC2,15,Poland,8,218.2
+12,Tempestini,RC2,15,Poland,9,218.5
+21,McErlean  ,RC2,15,Poland,10,218.7
+2,Llarena  E,RC2,15,Poland,11,219.3
+15,Tidemand  ,RC2,15,Poland,12,219.4
+1,Paddon  Ha,RC2,15,Poland,13,220.2
+11,Grzyb  Grz,RC2,15,Poland,14,222.0
+25,Rådström  ,RC2,15,Poland,15,222.7
+31,Armstrong ,RC3,15,Poland,16,224.1
+19,Byśkiniewi,RC2,15,Poland,17,224.6
+23,Pryce  Osi,RC2,15,Poland,18,225.4
+60,Szeja  Jar,RC2,15,Poland,19,227.4
+17,Plachytka ,RC2,15,Poland,20,228.1
+26,Kołtun  J.,RC2,15,Poland,21,232.3
+33,Matulka  J,RC3,15,Poland,22,247.4
+55,Kogure  Hi,RC4,15,Poland,23,247.9
+28,Somaschini,RC2,15,Poland,24,250.1
+45,Nore  Ola ,RC4,15,Poland,25,252.0
+37,McRae  Max,RC4,15,Poland,26,254.1
+39,Hansen  Vi,RC4,15,Poland,27,256.7
+30,Bertolotti,RC2,15,Poland,28,257.5
+43,Maior  Nor,RC4,15,Poland,29,258.1
+35,Daprà  Rob,RC4,15,Poland,30,258.7
+58,Jocz  Tymo,RC4,15,Poland,31,260.1
+47,Schulz  Ti,RC4,15,Poland,32,260.5
+57,Rossi  Ghj,RC4,15,Poland,33,264.1
+52,Hangodi  B,RC4,15,Poland,34,264.5
+40,Herczig  P,RC4,15,Poland,35,265.4
+56,Nowak  Mar,RC4,15,Poland,36,267.5
+62,Ravenščak ,RC3,15,Poland,37,268.0
+36,Jalava  Mi,RC4,15,Poland,38,268.1
+32,Parys  Pio,RC3,15,Poland,39,268.2
+48,Spitalier ,RC4,15,Poland,40,271.6
+59,Brugger  C,RC4,15,Poland,41,272.1
+46,Raftery  A,RC4,15,Poland,42,295.1
+51,Kreuter  N,RC4,15,Poland,43,295.8
+49,Zanin  Mat,RC4,15,Poland,44,343.3
+3,Østberg  M,RC2,16,Poland,1,323.7
+10,Heikkilä  ,RC2,16,Poland,2,324.0
+1,Paddon  Ha,RC2,16,Poland,3,325.4
+7,Franceschi,RC2,16,Poland,4,325.4
+8,Sesks  M. ,RC2,16,Poland,5,326.0
+12,Tempestini,RC2,16,Poland,6,328.6
+2,Llarena  E,RC2,16,Poland,7,328.8
+21,McErlean  ,RC2,16,Poland,8,329.6
+14,Mareš  Fil,RC2,16,Poland,9,330.2
+6,Marczyk  M,RC2,16,Poland,10,330.8
+25,Rådström  ,RC2,16,Poland,11,333.3
+22,Cais  Erik,RC2,16,Poland,12,334.3
+17,Plachytka ,RC2,16,Poland,13,334.8
+11,Grzyb  Grz,RC2,16,Poland,14,336.0
+15,Tidemand  ,RC2,16,Poland,15,336.3
+24,Campedelli,RC2,16,Poland,16,337.5
+60,Szeja  Jar,RC2,16,Poland,17,339.2
+31,Armstrong ,RC3,16,Poland,18,342.3
+23,Pryce  Osi,RC2,16,Poland,19,342.8
+19,Byśkiniewi,RC2,16,Poland,20,345.4
+26,Kołtun  J.,RC2,16,Poland,21,356.1
+32,Parys  Pio,RC3,16,Poland,22,366.1
+33,Matulka  J,RC3,16,Poland,23,372.7
+28,Somaschini,RC2,16,Poland,24,375.3
+55,Kogure  Hi,RC4,16,Poland,25,375.4
+45,Nore  Ola ,RC4,16,Poland,26,379.5
+37,McRae  Max,RC4,16,Poland,27,380.8
+43,Maior  Nor,RC4,16,Poland,28,380.9
+35,Daprà  Rob,RC4,16,Poland,29,384.8
+52,Hangodi  B,RC4,16,Poland,30,385.4
+40,Herczig  P,RC4,16,Poland,31,386.7
+39,Hansen  Vi,RC4,16,Poland,32,386.8
+56,Nowak  Mar,RC4,16,Poland,33,388.5
+30,Bertolotti,RC2,16,Poland,34,390.4
+62,Ravenščak ,RC3,16,Poland,35,391.6
+57,Rossi  Ghj,RC4,16,Poland,36,392.0
+36,Jalava  Mi,RC4,16,Poland,37,397.3
+59,Brugger  C,RC4,16,Poland,38,406.3
+58,Jocz  Tymo,RC4,16,Poland,39,414.7
+48,Spitalier ,RC4,16,Poland,40,415.1
+46,Raftery  A,RC4,16,Poland,41,429.4
+51,Kreuter  N,RC4,16,Poland,42,434.0
+49,Zanin  Mat,RC4,16,Poland,43,481.8
