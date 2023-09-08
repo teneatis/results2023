@@ -1,68 +1,72 @@
-0,,,,Pos.
-ss,,,,1
-No.,Crew,Group,Race,
-4,Lappi  Esa,RC1,Acropolis,2
-6,Sordo  Dan,RC1,Acropolis,4
-7,Loubet  P.,RC1,Acropolis,8
-8,Tänak  Ott,RC1,Acropolis,5
-9,Serderidis,RC1,Acropolis,32
-11,Neuville  ,RC1,Acropolis,3
-17,Ogier  S. ,RC1,Acropolis,6
-18,Katsuta  T,RC1,Acropolis,6
-20,Mikkelsen ,RC2,Acropolis,9
-21,Rossel  Yo,RC2,Acropolis,14
-22,Pajari  Sa,RC2,Acropolis,23
-23,Solberg  O,RC2,Acropolis,16
-24,Greensmith,RC2,Acropolis,18
-25,Kajetanowi,RC2,Acropolis,14
-26,Gryazin  N,RC2,Acropolis,10
-27,Fourmaux  ,RC2,Acropolis,13
-28,Bulacia  M,RC2,Acropolis,11
-29,Prokop  Ma,RC2,Acropolis,31
-30,Marczyk  M,RC2,Acropolis,22
-31,Linnamäe  ,RC2,Acropolis,21
-32,Munster  G,RC2,Acropolis,18
-33,Evans  Elf,RC1,Acropolis,11
-34,Joona  Lau,RC2,Acropolis,17
-35,Virves  Ro,RC2,Acropolis,18
-36,Tsouloftas,RC2,Acropolis,30
-37,Athanassou,RC2,Acropolis,25
-38,Cachon  A.,RC2,Acropolis,26
-39,Villanueva,RC2,Acropolis,48
-44,Gill  Gaur,RC2,Acropolis,24
-45,Kehagias  ,RC2,Acropolis,43
-46,Roustemis ,RC2,Acropolis,41
-47,Velanis  V,RC2,Acropolis,34
-48,Karellis  ,RC2,Acropolis,38
-49,Xanthakos ,RC2,Acropolis,40
-50,Díaz Aboit,RC2,Acropolis,47
-51,Vassilakis,RC2,Acropolis,63
-53,Karanikola,RC3,Acropolis,46
-54,Halkias  E,RC3,Acropolis,56
-55,Galerakis ,RC3,Acropolis,61
-56,Delaportas,RC3,Acropolis,60
-57,Castro  Ed,RC3,Acropolis,50
-58,Türkkan  A,RC3,Acropolis,39
-59,Dominguez ,RC3,Acropolis,37
-60,Creighton ,RC3,Acropolis,27
-61,Pellier  L,RC3,Acropolis,28
-62,Rensonnet ,RC3,Acropolis,32
-63,Blach  Rob,RC3,Acropolis,51
-64,Kelly  Eam,RC3,Acropolis,36
-65,Anwar  Ham,RC3,Acropolis,57
-66,Bruun  Nat,RC3,Acropolis,42
-67,Filippides,RC2,Acropolis,34
-68,Panteli  P,RC2,Acropolis,58
-69,Rovanperä ,RC1,Acropolis,1
-70,Campagnoli,RC2,Acropolis,54
-71,Pyck  Fili,RC2,Acropolis,45
-72,Dolofan  C,RC2,Acropolis,49
-73,Hoelbling ,RC2,Acropolis,29
-74,Caragui  E,RC2,Acropolis,43
-75,Lefkaditis,RC4,Acropolis,59
-76,Chatzimark,RC4,Acropolis,55
-77,Plagos  Io,RC4,Acropolis,53
-78,Papageorgi,RC4,Acropolis,65
-79,Fontana  M,RC4,Acropolis,52
-80,Kalamaras ,RC4,Acropolis,62
-81,Panteli  C,RC4,Acropolis,64
+0,,,,Pos.,Pos.
+ss,,,,1,2
+No.,Crew,Group,Race,,
+4,Lappi  Esa,RC1,Acropolis,2,7
+6,Sordo  Dan,RC1,Acropolis,4,6
+7,Loubet  P.,RC1,Acropolis,8,-
+8,Tänak  Ott,RC1,Acropolis,5,3
+9,Serderidis,RC1,Acropolis,32,25
+11,Neuville  ,RC1,Acropolis,3,1
+17,Ogier  S. ,RC1,Acropolis,6,2
+18,Katsuta  T,RC1,Acropolis,6,8
+20,Mikkelsen ,RC2,Acropolis,9,26
+21,Rossel  Yo,RC2,Acropolis,14,11
+22,Pajari  Sa,RC2,Acropolis,23,9
+23,Solberg  O,RC2,Acropolis,16,27
+24,Greensmith,RC2,Acropolis,18,16
+25,Kajetanowi,RC2,Acropolis,14,15
+26,Gryazin  N,RC2,Acropolis,10,12
+27,Fourmaux  ,RC2,Acropolis,13,10
+28,Bulacia  M,RC2,Acropolis,11,14
+29,Prokop  Ma,RC2,Acropolis,31,22
+30,Marczyk  M,RC2,Acropolis,22,20
+31,Linnamäe  ,RC2,Acropolis,21,-
+32,Munster  G,RC2,Acropolis,18,21
+33,Evans  Elf,RC1,Acropolis,11,4
+34,Joona  Lau,RC2,Acropolis,17,19
+35,Virves  Ro,RC2,Acropolis,18,18
+36,Tsouloftas,RC2,Acropolis,30,13
+37,Athanassou,RC2,Acropolis,25,17
+38,Cachon  A.,RC2,Acropolis,26,22
+39,Villanueva,RC2,Acropolis,47,24
+44,Gill  Gaur,RC2,Acropolis,24,-
+45,Kehagias  ,RC2,Acropolis,42,-
+46,Roustemis ,RC2,Acropolis,40,-
+47,Velanis  V,RC2,Acropolis,34,-
+48,Karellis  ,RC2,Acropolis,38,-
+49,Xanthakos ,RC2,Acropolis,39,-
+50,Díaz Aboit,RC2,Acropolis,46,-
+51,Vassilakis,RC2,Acropolis,64,-
+53,Karanikola,RC3,Acropolis,45,-
+54,Halkias  E,RC3,Acropolis,55,-
+55,Galerakis ,RC3,Acropolis,61,-
+56,Delaportas,RC3,Acropolis,59,-
+57,Castro  Ed,RC3,Acropolis,49,-
+58,Türkkan  A,RC3,Acropolis,69,-
+59,Dominguez ,RC3,Acropolis,37,-
+60,Creighton ,RC3,Acropolis,27,-
+61,Pellier  L,RC3,Acropolis,28,-
+62,Rensonnet ,RC3,Acropolis,32,-
+63,Blach  Rob,RC3,Acropolis,50,-
+64,Kelly  Eam,RC3,Acropolis,36,-
+65,Anwar  Ham,RC3,Acropolis,56,-
+66,Bruun  Nat,RC3,Acropolis,41,-
+67,Filippides,RC2,Acropolis,34,-
+68,Panteli  P,RC2,Acropolis,57,-
+69,Rovanperä ,RC1,Acropolis,1,5
+70,Campagnoli,RC2,Acropolis,53,-
+71,Pyck  Fili,RC2,Acropolis,44,-
+72,Dolofan  C,RC2,Acropolis,48,-
+73,Hoelbling ,RC2,Acropolis,29,-
+74,Caragui  E,RC2,Acropolis,42,-
+75,Lefkaditis,RC4,Acropolis,58,-
+76,Chatzimark,RC4,Acropolis,54,-
+77,Plagos  Io,RC4,Acropolis,52,-
+78,Papageorgi,RC4,Acropolis,66,-
+79,Fontana  M,RC4,Acropolis,51,-
+80,Kalamaras ,RC4,Acropolis,63,-
+81,Panteli  C,RC4,Acropolis,65,-
+82,Kanellopou,RC4,Acropolis,68,-
+83,Šekuljica ,RC5,Acropolis,60,-
+84,Parellis  ,RC5,Acropolis,62,-
+85,Kaltsounis,RC4,Acropolis,67,-
