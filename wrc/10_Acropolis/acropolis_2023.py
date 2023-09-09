@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup as soup
 import re
 import pandas as pd
 link = 'https://www.ewrc-results.com/results/80243-eko-acropolis-rally-greece-2023/?s='
-startat, no_ss=423312, int(15)
+startat, no_ss=423312, int(16)
 #monte_23 = pd.DataFrame(columns=['Pos.', 'Pilote / Co-pilote', 'Voiture', '#', 'Temps', 'Écart'])
 rally_23 = []
-canceled = []
+canceled = [12]
 
 stages = [number for number in range(no_ss)]
 
