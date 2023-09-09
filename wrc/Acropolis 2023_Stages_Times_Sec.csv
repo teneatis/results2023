@@ -325,13 +325,11 @@ Parellis Junio,RC5,5,Acropolis 2023,9/2023,Gravel,Wrc,55,1079.5
 Xanthakos Mari,RC2,5,Acropolis 2023,9/2023,Gravel,Wrc,57,1172.4
 Plagos Ioannis,RC4,5,Acropolis 2023,9/2023,Gravel,Wrc,58,1241.8
 Kanellopoulos ,RC4,5,Acropolis 2023,9/2023,Gravel,Wrc,59,1253.9
-Solberg Oliver,RC2,5,Acropolis 2023,9/2023,Gravel,Wrc,60,
-Tsouloftas Ale,RC2,5,Acropolis 2023,9/2023,Gravel,Wrc,61,1411.8
-Philippedes Yo,RC2,5,Acropolis 2023,9/2023,Gravel,Wrc,62,1411.8
-Creighton Will,RC3,5,Acropolis 2023,9/2023,Gravel,Wrc,63,1472.7
-Papageorgiou L,RC4,5,Acropolis 2023,9/2023,Gravel,Wrc,64,1501.8
-Delaportas Gio,RC3,5,Acropolis 2023,9/2023,Gravel,Wrc,65,
-Kaltsounis Har,RC4,5,Acropolis 2023,9/2023,Gravel,Wrc,66,1540.5
+Tsouloftas Ale,RC2,5,Acropolis 2023,9/2023,Gravel,Wrc,60,
+Creighton Will,RC3,5,Acropolis 2023,9/2023,Gravel,Wrc,61,
+Papageorgiou L,RC4,5,Acropolis 2023,9/2023,Gravel,Wrc,62,1501.8
+Delaportas Gio,RC3,5,Acropolis 2023,9/2023,Gravel,Wrc,63,
+Kaltsounis Har,RC4,5,Acropolis 2023,9/2023,Gravel,Wrc,64,
 Tänak Ott - Jä,RC1,6,Acropolis 2023,9/2023,Gravel,Wrc,1,1081.4
 Ogier Sébastie,RC1,6,Acropolis 2023,9/2023,Gravel,Wrc,2,1086.3
 Evans Elfyn - ,RC1,6,Acropolis 2023,9/2023,Gravel,Wrc,3,1089.6
@@ -390,11 +388,159 @@ Parellis Junio,RC5,6,Acropolis 2023,9/2023,Gravel,Wrc,55,1476.1
 Kalamaras Teo ,RC4,6,Acropolis 2023,9/2023,Gravel,Wrc,56,1496.3
 Panteli Petros,RC2,6,Acropolis 2023,9/2023,Gravel,Wrc,57,1518.7
 Šekuljica Slav,RC5,6,Acropolis 2023,9/2023,Gravel,Wrc,58,1633.9
-Solberg Oliver,RC2,6,Acropolis 2023,9/2023,Gravel,Wrc,59,
-Tsouloftas Ale,RC2,6,Acropolis 2023,9/2023,Gravel,Wrc,60,1741.8
-Philippedes Yo,RC2,6,Acropolis 2023,9/2023,Gravel,Wrc,61,1741.8
-Creighton Will,RC3,6,Acropolis 2023,9/2023,Gravel,Wrc,62,1814.5
-Papageorgiou L,RC4,6,Acropolis 2023,9/2023,Gravel,Wrc,63,1861.1
-Kanellopoulos ,RC4,6,Acropolis 2023,9/2023,Gravel,Wrc,64,1882.1
-Delaportas Gio,RC3,6,Acropolis 2023,9/2023,Gravel,Wrc,65,1889.2
-Kaltsounis Har,RC4,6,Acropolis 2023,9/2023,Gravel,Wrc,66,1927.7
+Tsouloftas Ale,RC2,6,Acropolis 2023,9/2023,Gravel,Wrc,59,
+Creighton Will,RC3,6,Acropolis 2023,9/2023,Gravel,Wrc,60,
+Papageorgiou L,RC4,6,Acropolis 2023,9/2023,Gravel,Wrc,61,1861.1
+Kanellopoulos ,RC4,6,Acropolis 2023,9/2023,Gravel,Wrc,62,1882.1
+Delaportas Gio,RC3,6,Acropolis 2023,9/2023,Gravel,Wrc,63,
+Kaltsounis Har,RC4,6,Acropolis 2023,9/2023,Gravel,Wrc,64,
+Rovanperä Kall,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,1,1186.5
+Ogier Sébastie,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,2,1187.8
+Neuville Thier,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,3,1198.4
+Evans Elfyn - ,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,4,1199.2
+Tänak Ott - Jä,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,5,1203.7
+Sordo Dani - C,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,6,1207.4
+Lappi Esapekka,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,7,1220.6
+Katsuta Takamo,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,8,1230.4
+Mikkelsen Andr,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,9,1230.8
+Bulacia Marco ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,10,1252.3
+Rossel Yohan -,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,11,1252.6
+Fourmaux Adrie,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,12,1253.1
+Greensmith Gus,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,13,1259.1
+Joona Lauri - ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,14,1259.7
+Kajetanowicz K,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,15,1261.0
+Pajari Sami - ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,16,1272.2
+Munster Grégoi,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,17,1278.2
+Virves Robert ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,18,1282.1
+Marczyk Mikoła,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,19,1285.7
+Cachón Alejand,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,20,1287.2
+Prokop Martin ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,21,1306.4
+Athanassoulas ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,22,1311.6
+Serderidis Jou,RC1,7,Acropolis 2023,9/2023,Gravel,Wrc,23,1313.5
+Creighton Will,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,24,1320.0
+Domínguez Dieg,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,25,1329.0
+Karanikolas E.,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,26,1336.6
+Kelly Eamonn -,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,27,1345.9
+Bruun Sosa Nat,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,28,1370.9
+Rensonnet Tom ,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,29,1374.2
+Kechagias Gior,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,30,1382.2
+Panteli Petros,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,31,1384.2
+Pellier Lauren,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,32,1387.7
+Velanis Vassil,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,33,1392.6
+Hoelbling Luca,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,34,1394.9
+Castro Eduardo,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,35,1395.1
+Halkias Efthim,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,36,1398.8
+Karellis C. - ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,37,1404.8
+Chatzimarkos P,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,38,1409.3
+Fontana Matteo,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,39,1429.9
+Campagnoli Gab,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,40,1430.2
+Lefkaditis Sav,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,41,1434.6
+Xanthakos Mari,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,42,1439.5
+Cărăgui Eugen ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,43,1446.0
+Vassilakis Geo,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,44,1448.7
+Dolofan Cristi,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,45,1456.6
+Panteli C. - T,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,46,1469.7
+Delaportas Gio,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,47,1470.8
+Blach Roberto ,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,48,1471.1
+Pyck Filip - D,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,49,1490.4
+Villanueva A. ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,50,1529.0
+Anwar Hamza - ,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,51,1544.1
+Parellis Junio,RC5,7,Acropolis 2023,9/2023,Gravel,Wrc,52,1576.7
+Díaz-Aboitiz M,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,53,1581.4
+Kalamaras Teo ,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,54,1586.4
+Šekuljica Slav,RC5,7,Acropolis 2023,9/2023,Gravel,Wrc,55,1784.8
+Galerakis Spir,RC3,7,Acropolis 2023,9/2023,Gravel,Wrc,56,1790.1
+Gill Gaurav - ,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,57,
+Plagos Ioannis,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,58,
+Kaltsounis Har,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,59,
+Papageorgiou L,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,60,2155.5
+Kanellopoulos ,RC4,7,Acropolis 2023,9/2023,Gravel,Wrc,61,2365.6
+Gryazin Nikola,RC2,7,Acropolis 2023,9/2023,Gravel,Wrc,62,3370.0
+Neuville Thier,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,1,1020.5
+Ogier Sébastie,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,2,1030.3
+Evans Elfyn - ,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,3,1030.8
+Rovanperä Kall,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,4,1032.1
+Katsuta Takamo,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,5,1046.3
+Mikkelsen Andr,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,6,1050.7
+Tänak Ott - Jä,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,7,1053.6
+Sordo Dani - C,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,8,1057.3
+Bulacia Marco ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,9,1067.0
+Joona Lauri - ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,10,1068.3
+Kajetanowicz K,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,11,1070.6
+Rossel Yohan -,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,12,1070.8
+Cachón Alejand,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,13,1073.1
+Munster Grégoi,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,14,1073.5
+Greensmith Gus,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,15,1075.4
+Pajari Sami - ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,16,1076.9
+Fourmaux Adrie,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,17,1082.4
+Marczyk Mikoła,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,18,1084.6
+Virves Robert ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,19,1090.8
+Prokop Martin ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,20,1097.8
+Creighton Will,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,21,1132.6
+Kechagias Gior,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,22,1139.1
+Karanikolas E.,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,23,1158.5
+Kelly Eamonn -,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,24,1165.4
+Serderidis Jou,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,25,1170.6
+Anwar Hamza - ,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,26,1170.6
+Rensonnet Tom ,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,27,1175.9
+Karellis C. - ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,28,1176.2
+Lappi Esapekka,RC1,8,Acropolis 2023,9/2023,Gravel,Wrc,29,1178.0
+Xanthakos Mari,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,30,1182.6
+Bruun Sosa Nat,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,31,1190.2
+Blach Roberto ,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,32,1192.6
+Fontana Matteo,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,33,1199.9
+Castro Eduardo,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,34,1205.8
+Cărăgui Eugen ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,35,1208.1
+Galerakis Spir,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,36,1212.1
+Campagnoli Gab,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,37,1212.2
+Lefkaditis Sav,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,38,1221.0
+Chatzimarkos P,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,39,1225.0
+Domínguez Dieg,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,40,1236.4
+Pyck Filip - D,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,41,1252.3
+Panteli Petros,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,42,1253.5
+Díaz-Aboitiz M,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,43,1268.6
+Delaportas Gio,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,44,1273.7
+Panteli C. - T,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,45,1297.1
+Parellis Junio,RC5,8,Acropolis 2023,9/2023,Gravel,Wrc,46,1323.3
+Vassilakis Geo,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,47,1377.4
+Hoelbling Luca,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,48,1404.3
+Kalamaras Teo ,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,49,1408.8
+Šekuljica Slav,RC5,8,Acropolis 2023,9/2023,Gravel,Wrc,50,1466.9
+Dolofan Cristi,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,51,1474.6
+Halkias Efthim,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,52,1515.2
+Kanellopoulos ,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,53,1596.5
+Gryazin Nikola,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,54,
+Villanueva A. ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,55,
+Gill Gaurav - ,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,56,
+Velanis Vassil,RC2,8,Acropolis 2023,9/2023,Gravel,Wrc,57,
+Papageorgiou L,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,58,1690.8
+Pellier Lauren,RC3,8,Acropolis 2023,9/2023,Gravel,Wrc,59,
+Plagos Ioannis,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,60,
+Kaltsounis Har,RC4,8,Acropolis 2023,9/2023,Gravel,Wrc,61,
+Rovanperä Kall,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,1,647.6
+Neuville Thier,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,2,649.1
+Ogier Sébastie,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,3,658.0
+Sordo Dani - C,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,4,662.7
+Tänak Ott - Jä,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,5,663.1
+Katsuta Takamo,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,6,669.3
+Lappi Esapekka,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,7,669.7
+Mikkelsen Andr,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,8,690.5
+Greensmith Gus,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,9,697.8
+Pajari Sami - ,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,10,699.0
+Rossel Yohan -,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,11,708.1
+Munster Grégoi,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,12,716.9
+Joona Lauri - ,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,13,717.5
+Evans Elfyn - ,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,14,721.4
+Cachón Alejand,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,15,721.8
+Fourmaux Adrie,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,16,732.2
+Kajetanowicz K,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,17,734.1
+Prokop Martin ,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,18,735.0
+Marczyk Mikoła,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,19,736.2
+Serderidis Jou,RC1,9,Acropolis 2023,9/2023,Gravel,Wrc,20,749.0
+Karellis C. - ,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,21,763.1
+Kechagias Gior,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,22,800.7
+Virves Robert ,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,23,893.5
+Gryazin Nikola,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,24,
+Bulacia Marco ,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,25,
+Villanueva A. ,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,26,
+Gill Gaurav - ,RC2,9,Acropolis 2023,9/2023,Gravel,Wrc,27,
