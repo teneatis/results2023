@@ -436,12 +436,12 @@ No.,Crew,Group,ss,Race,cou,time_SS_sec
 64,Kelly  Eam,RC3,7,Acropolis,27,1345.9
 66,Bruun  Nat,RC3,7,Acropolis,28,1370.9
 62,Rensonnet ,RC3,7,Acropolis,29,1374.2
-45,Kehagias  ,RC2,7,Acropolis,30,1382.2
-68,Panteli  P,RC2,7,Acropolis,31,1384.2
-61,Pellier  L,RC3,7,Acropolis,32,1387.7
-47,Velanis  V,RC2,7,Acropolis,33,1392.6
-73,Hoelbling ,RC2,7,Acropolis,34,1394.9
-57,Castro  Ed,RC3,7,Acropolis,35,1395.1
+57,Castro  Ed,RC3,7,Acropolis,30,1378.1
+45,Kehagias  ,RC2,7,Acropolis,31,1382.2
+68,Panteli  P,RC2,7,Acropolis,32,1384.2
+61,Pellier  L,RC3,7,Acropolis,33,1387.7
+47,Velanis  V,RC2,7,Acropolis,34,1392.6
+73,Hoelbling ,RC2,7,Acropolis,35,1394.9
 54,Halkias  E,RC3,7,Acropolis,36,1398.8
 48,Karellis  ,RC2,7,Acropolis,37,1404.8
 76,Chatzimark,RC4,7,Acropolis,38,1409.3
@@ -603,15 +603,15 @@ No.,Crew,Group,ss,Race,cou,time_SS_sec
 8,Tänak  Ott,RC1,10,Acropolis,5,1159.8
 18,Katsuta  T,RC1,10,Acropolis,6,1162.8
 4,Lappi  Esa,RC1,10,Acropolis,7,1164.6
-20,Mikkelsen ,RC2,10,Acropolis,8,1179.4
-27,Fourmaux  ,RC2,10,Acropolis,9,1201.7
-24,Greensmith,RC2,10,Acropolis,10,1207.7
+20,Mikkelsen ,RC2,10,Acropolis,8,1191.8
+24,Greensmith,RC2,10,Acropolis,9,1207.7
+27,Fourmaux  ,RC2,10,Acropolis,10,1214.1
 32,Munster  G,RC2,10,Acropolis,11,1224.0
-38,Cachon  A.,RC2,10,Acropolis,12,1235.8
-35,Virves  Ro,RC2,10,Acropolis,13,1244.3
+35,Virves  Ro,RC2,10,Acropolis,12,1244.3
+38,Cachon  A.,RC2,10,Acropolis,13,1248.2
 34,Joona  Lau,RC2,10,Acropolis,14,1253.0
 21,Rossel  Yo,RC2,10,Acropolis,15,1253.4
-29,Prokop  Ma,RC2,10,Acropolis,16,1255.0
+29,Prokop  Ma,RC2,10,Acropolis,16,1267.4
 25,Kajetanowi,RC2,10,Acropolis,17,1270.2
 9,Serderidis,RC1,10,Acropolis,18,1273.5
 59,Dominguez ,RC3,10,Acropolis,19,1275.0
@@ -636,7 +636,7 @@ No.,Crew,Group,ss,Race,cou,time_SS_sec
 81,Panteli  C,RC4,10,Acropolis,38,1541.5
 79,Fontana  M,RC4,10,Acropolis,39,1585.6
 80,Kalamaras ,RC4,10,Acropolis,40,1592.8
-30,Marczyk  M,RC2,10,Acropolis,41,1624.3
+30,Marczyk  M,RC2,10,Acropolis,41,1636.7
 84,Parellis  ,RC5,10,Acropolis,42,1691.4
 11,Neuville  ,RC1,10,Acropolis,43,1747.5
 56,Delaportas,RC3,10,Acropolis,44,1762.0
@@ -652,7 +652,7 @@ No.,Crew,Group,ss,Race,cou,time_SS_sec
 51,Vassilakis,RC2,10,Acropolis,54,1815.5
 61,Pellier  L,RC3,10,Acropolis,55,1875.0
 68,Panteli  P,RC2,10,Acropolis,56,1960.4
-22,Pajari  Sa,RC2,10,Acropolis,57,2020.8
+22,Pajari  Sa,RC2,10,Acropolis,57,2033.2
 76,Chatzimark,RC4,10,Acropolis,58,2052.3
 77,Plagos  Io,RC4,10,Acropolis,59,2052.3
 78,Papageorgi,RC4,10,Acropolis,60,2052.3
@@ -784,3 +784,165 @@ No.,Crew,Group,ss,Race,cou,time_SS_sec
 82,Kanellopou,RC4,12,Acropolis,60,1460.7
 85,Kaltsounis,RC4,12,Acropolis,61,1460.7
 83,Šekuljica ,RC5,12,Acropolis,62,1750.2
+33,Evans  Elf,RC1,13,Acropolis,1,1000.2
+6,Sordo  Dan,RC1,13,Acropolis,2,1009.2
+11,Neuville  ,RC1,13,Acropolis,3,1015.2
+8,Tänak  Ott,RC1,13,Acropolis,4,1016.4
+4,Lappi  Esa,RC1,13,Acropolis,5,1024.9
+17,Ogier  S. ,RC1,13,Acropolis,6,1025.0
+18,Katsuta  T,RC1,13,Acropolis,7,1030.6
+69,Rovanperä ,RC1,13,Acropolis,8,1031.4
+20,Mikkelsen ,RC2,13,Acropolis,9,1046.9
+27,Fourmaux  ,RC2,13,Acropolis,10,1051.8
+26,Gryazin  N,RC2,13,Acropolis,11,1057.6
+24,Greensmith,RC2,13,Acropolis,12,1057.8
+21,Rossel  Yo,RC2,13,Acropolis,13,1063.4
+28,Bulacia  M,RC2,13,Acropolis,14,1080.6
+34,Joona  Lau,RC2,13,Acropolis,15,1086.2
+25,Kajetanowi,RC2,13,Acropolis,16,1088.4
+35,Virves  Ro,RC2,13,Acropolis,17,1088.4
+44,Gill  Gaur,RC2,13,Acropolis,18,1088.5
+32,Munster  G,RC2,13,Acropolis,19,1092.0
+29,Prokop  Ma,RC2,13,Acropolis,20,1108.3
+61,Pellier  L,RC3,13,Acropolis,21,1123.6
+30,Marczyk  M,RC2,13,Acropolis,22,1125.6
+9,Serderidis,RC1,13,Acropolis,23,1144.6
+59,Dominguez ,RC3,13,Acropolis,24,1146.8
+39,Villanueva,RC2,13,Acropolis,25,1164.9
+47,Velanis  V,RC2,13,Acropolis,26,1166.6
+68,Panteli  P,RC2,13,Acropolis,27,1169.5
+66,Bruun  Nat,RC3,13,Acropolis,28,1191.4
+60,Creighton ,RC3,13,Acropolis,29,1192.3
+57,Castro  Ed,RC3,13,Acropolis,30,1193.0
+62,Rensonnet ,RC3,13,Acropolis,31,1202.9
+63,Blach  Rob,RC3,13,Acropolis,32,1211.2
+48,Karellis  ,RC2,13,Acropolis,33,1219.4
+49,Xanthakos ,RC2,13,Acropolis,34,1232.7
+54,Halkias  E,RC3,13,Acropolis,35,1233.9
+56,Delaportas,RC3,13,Acropolis,36,1238.0
+76,Chatzimark,RC4,13,Acropolis,37,1241.0
+75,Lefkaditis,RC4,13,Acropolis,38,1243.2
+64,Kelly  Eam,RC3,13,Acropolis,39,1258.2
+51,Vassilakis,RC2,13,Acropolis,40,1259.1
+72,Dolofan  C,RC2,13,Acropolis,41,1269.5
+55,Galerakis ,RC3,13,Acropolis,42,1275.8
+79,Fontana  M,RC4,13,Acropolis,43,1283.3
+71,Pyck  Fili,RC2,13,Acropolis,44,1297.4
+81,Panteli  C,RC4,13,Acropolis,45,1318.9
+77,Plagos  Io,RC4,13,Acropolis,46,1325.0
+50,Díaz Aboit,RC2,13,Acropolis,47,1341.0
+70,Campagnoli,RC2,13,Acropolis,48,1359.6
+80,Kalamaras ,RC4,13,Acropolis,49,1390.8
+84,Parellis  ,RC5,13,Acropolis,50,1413.1
+83,Šekuljica ,RC5,13,Acropolis,51,1540.4
+78,Papageorgi,RC4,13,Acropolis,52,1546.1
+82,Kanellopou,RC4,13,Acropolis,53,1560.1
+85,Kaltsounis,RC4,13,Acropolis,54,1595.9
+38,Cachon  A.,RC2,13,Acropolis,55,1706.7
+6,Sordo  Dan,RC1,14,Acropolis,1,406.4
+33,Evans  Elf,RC1,14,Acropolis,2,407.7
+8,Tänak  Ott,RC1,14,Acropolis,3,407.8
+11,Neuville  ,RC1,14,Acropolis,4,413.0
+26,Gryazin  N,RC2,14,Acropolis,5,413.1
+17,Ogier  S. ,RC1,14,Acropolis,6,414.0
+20,Mikkelsen ,RC2,14,Acropolis,7,414.6
+69,Rovanperä ,RC1,14,Acropolis,8,416.7
+27,Fourmaux  ,RC2,14,Acropolis,9,419.2
+34,Joona  Lau,RC2,14,Acropolis,10,420.8
+35,Virves  Ro,RC2,14,Acropolis,11,421.5
+28,Bulacia  M,RC2,14,Acropolis,12,421.6
+24,Greensmith,RC2,14,Acropolis,13,423.4
+18,Katsuta  T,RC1,14,Acropolis,14,424.8
+4,Lappi  Esa,RC1,14,Acropolis,15,425.0
+25,Kajetanowi,RC2,14,Acropolis,16,425.1
+44,Gill  Gaur,RC2,14,Acropolis,17,425.1
+32,Munster  G,RC2,14,Acropolis,18,425.3
+21,Rossel  Yo,RC2,14,Acropolis,19,426.7
+38,Cachon  A.,RC2,14,Acropolis,20,433.1
+29,Prokop  Ma,RC2,14,Acropolis,21,433.6
+30,Marczyk  M,RC2,14,Acropolis,22,436.3
+61,Pellier  L,RC3,14,Acropolis,23,442.0
+39,Villanueva,RC2,14,Acropolis,24,443.4
+59,Dominguez ,RC3,14,Acropolis,25,444.6
+48,Karellis  ,RC2,14,Acropolis,26,456.2
+9,Serderidis,RC1,14,Acropolis,27,458.2
+49,Xanthakos ,RC2,14,Acropolis,28,462.3
+47,Velanis  V,RC2,14,Acropolis,29,463.9
+62,Rensonnet ,RC3,14,Acropolis,30,468.4
+60,Creighton ,RC3,14,Acropolis,31,469.4
+51,Vassilakis,RC2,14,Acropolis,32,480.4
+54,Halkias  E,RC3,14,Acropolis,33,480.4
+55,Galerakis ,RC3,14,Acropolis,34,480.4
+56,Delaportas,RC3,14,Acropolis,35,480.4
+57,Castro  Ed,RC3,14,Acropolis,36,480.4
+63,Blach  Rob,RC3,14,Acropolis,37,480.4
+68,Panteli  P,RC2,14,Acropolis,38,480.4
+70,Campagnoli,RC2,14,Acropolis,39,480.4
+71,Pyck  Fili,RC2,14,Acropolis,40,480.4
+72,Dolofan  C,RC2,14,Acropolis,41,480.4
+75,Lefkaditis,RC4,14,Acropolis,42,480.4
+76,Chatzimark,RC4,14,Acropolis,43,480.4
+77,Plagos  Io,RC4,14,Acropolis,44,480.4
+78,Papageorgi,RC4,14,Acropolis,45,480.4
+79,Fontana  M,RC4,14,Acropolis,46,480.4
+80,Kalamaras ,RC4,14,Acropolis,47,480.4
+81,Panteli  C,RC4,14,Acropolis,48,480.4
+82,Kanellopou,RC4,14,Acropolis,49,480.4
+83,Šekuljica ,RC5,14,Acropolis,50,480.4
+84,Parellis  ,RC5,14,Acropolis,51,480.4
+85,Kaltsounis,RC4,14,Acropolis,52,480.4
+64,Kelly  Eam,RC3,14,Acropolis,53,553.7
+50,Díaz Aboit,RC2,14,Acropolis,54,580.5
+69,Rovanperä ,RC1,15,Acropolis,1,388.1
+33,Evans  Elf,RC1,15,Acropolis,2,390.6
+8,Tänak  Ott,RC1,15,Acropolis,3,390.7
+6,Sordo  Dan,RC1,15,Acropolis,4,392.1
+4,Lappi  Esa,RC1,15,Acropolis,5,392.4
+11,Neuville  ,RC1,15,Acropolis,6,392.9
+17,Ogier  S. ,RC1,15,Acropolis,7,393.0
+18,Katsuta  T,RC1,15,Acropolis,8,399.5
+26,Gryazin  N,RC2,15,Acropolis,9,405.0
+34,Joona  Lau,RC2,15,Acropolis,10,409.9
+27,Fourmaux  ,RC2,15,Acropolis,11,411.6
+20,Mikkelsen ,RC2,15,Acropolis,12,412.2
+25,Kajetanowi,RC2,15,Acropolis,13,412.3
+38,Cachon  A.,RC2,15,Acropolis,14,414.1
+24,Greensmith,RC2,15,Acropolis,15,414.8
+21,Rossel  Yo,RC2,15,Acropolis,16,416.8
+32,Munster  G,RC2,15,Acropolis,17,421.9
+28,Bulacia  M,RC2,15,Acropolis,18,422.0
+29,Prokop  Ma,RC2,15,Acropolis,19,422.0
+30,Marczyk  M,RC2,15,Acropolis,20,422.0
+44,Gill  Gaur,RC2,15,Acropolis,21,422.0
+47,Velanis  V,RC2,15,Acropolis,22,422.0
+48,Karellis  ,RC2,15,Acropolis,23,422.0
+49,Xanthakos ,RC2,15,Acropolis,24,422.0
+50,Díaz Aboit,RC2,15,Acropolis,25,422.0
+51,Vassilakis,RC2,15,Acropolis,26,422.0
+54,Halkias  E,RC3,15,Acropolis,27,422.0
+55,Galerakis ,RC3,15,Acropolis,28,422.0
+56,Delaportas,RC3,15,Acropolis,29,422.0
+57,Castro  Ed,RC3,15,Acropolis,30,422.0
+59,Dominguez ,RC3,15,Acropolis,31,422.0
+60,Creighton ,RC3,15,Acropolis,32,422.0
+61,Pellier  L,RC3,15,Acropolis,33,422.0
+62,Rensonnet ,RC3,15,Acropolis,34,422.0
+63,Blach  Rob,RC3,15,Acropolis,35,422.0
+64,Kelly  Eam,RC3,15,Acropolis,36,422.0
+68,Panteli  P,RC2,15,Acropolis,37,422.0
+70,Campagnoli,RC2,15,Acropolis,38,422.0
+71,Pyck  Fili,RC2,15,Acropolis,39,422.0
+72,Dolofan  C,RC2,15,Acropolis,40,422.0
+75,Lefkaditis,RC4,15,Acropolis,41,422.0
+76,Chatzimark,RC4,15,Acropolis,42,422.0
+77,Plagos  Io,RC4,15,Acropolis,43,422.0
+78,Papageorgi,RC4,15,Acropolis,44,422.0
+79,Fontana  M,RC4,15,Acropolis,45,422.0
+80,Kalamaras ,RC4,15,Acropolis,46,422.0
+81,Panteli  C,RC4,15,Acropolis,47,422.0
+82,Kanellopou,RC4,15,Acropolis,48,422.0
+83,Šekuljica ,RC5,15,Acropolis,49,422.0
+84,Parellis  ,RC5,15,Acropolis,50,422.0
+85,Kaltsounis,RC4,15,Acropolis,51,422.0
+9,Serderidis,RC1,15,Acropolis,52,442.9
+35,Virves  Ro,RC2,15,Acropolis,53,799.6
