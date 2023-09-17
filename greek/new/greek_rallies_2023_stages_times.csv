@@ -1,172 +1,4 @@
 Crew,Gr/Cl,ss,Race,date,surface,competition,cou,time_SS_sec,min_time,SS.
-Koukeas ,C1,1,Aigio,23/4/2023,Tarmac,cup,1,573.76,573.76,Aigio_01
-Moschos ,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,2,584.77,573.76,Aigio_01
-Nomikos ,C1,1,Aigio,23/4/2023,Tarmac,cup,3,586.42,573.76,Aigio_01
-Gerodimo,C2,1,Aigio,23/4/2023,Tarmac,cup,4,593.09,573.76,Aigio_01
-Kapralos,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,5,601.76,573.76,Aigio_01
-Kondilis,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,6,607.9,573.76,Aigio_01
-Karathan,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,7,610.93,573.76,Aigio_01
-Kopanaki,C4 F2,1,Aigio,23/4/2023,Tarmac,cup,8,617.24,573.76,Aigio_01
-Katsarel,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,9,621.93,573.76,Aigio_01
-Pantiera,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,10,626.45,573.76,Aigio_01
-Basdelis,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,11,628.23,573.76,Aigio_01
-Avgeropo,C4 F2,1,Aigio,23/4/2023,Tarmac,cup,12,628.64,573.76,Aigio_01
-Tiros Ni,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,13,631.37,573.76,Aigio_01
-Tzikopou,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,14,633.67,573.76,Aigio_01
-Pantelak,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,15,635.14,573.76,Aigio_01
-Daskalop,C2,1,Aigio,23/4/2023,Tarmac,cup,16,636.78,573.76,Aigio_01
-Kaberos ,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,17,639.57,573.76,Aigio_01
-Mavromat,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,18,643.47,573.76,Aigio_01
-Kouniaki,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,19,645.52,573.76,Aigio_01
-Komnos N,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,20,645.61,573.76,Aigio_01
-Zizas Ag,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,21,652.34,573.76,Aigio_01
-Rekkas P,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,22,659.46,573.76,Aigio_01
-Stafilop,4 2000+,1,Aigio,23/4/2023,Tarmac,cup,23,660.0,573.76,Aigio_01
-Amaxopou,2 1600,1,Aigio,23/4/2023,Tarmac,cup,24,660.0,573.76,Aigio_01
-Gerovass,4 2000,1,Aigio,23/4/2023,Tarmac,cup,25,660.0,573.76,Aigio_01
-Kofinas ,4 2000+,1,Aigio,23/4/2023,Tarmac,cup,26,660.0,573.76,Aigio_01
-Kyriakop,4 1600,1,Aigio,23/4/2023,Tarmac,cup,27,660.0,573.76,Aigio_01
-Katsikas,3 2000,1,Aigio,23/4/2023,Tarmac,cup,28,660.0,573.76,Aigio_01
-Papazogl,4 2000+,1,Aigio,23/4/2023,Tarmac,cup,29,660.0,573.76,Aigio_01
-Tsiplant,3 1600,1,Aigio,23/4/2023,Tarmac,cup,30,660.0,573.76,Aigio_01
-Kassidop,3 1600,1,Aigio,23/4/2023,Tarmac,cup,31,660.0,573.76,Aigio_01
-Mitropou,2 2000,1,Aigio,23/4/2023,Tarmac,cup,32,660.0,573.76,Aigio_01
-Lykakis ,2 2000,1,Aigio,23/4/2023,Tarmac,cup,33,660.0,573.76,Aigio_01
-Kaberos ,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,34,669.41,573.76,Aigio_01
-Kandilio,C2,1,Aigio,23/4/2023,Tarmac,cup,35,678.67,573.76,Aigio_01
-Karouzos,C4 F2,1,Aigio,23/4/2023,Tarmac,cup,36,686.06,573.76,Aigio_01
-Zois Dim,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,37,1152.05,573.76,Aigio_01
-Koukeas ,C1,2,Aigio,23/4/2023,Tarmac,cup,1,580.53,580.53,Aigio_02
-Gerodimo,C2,2,Aigio,23/4/2023,Tarmac,cup,2,581.85,580.53,Aigio_02
-Nomikos ,C1,2,Aigio,23/4/2023,Tarmac,cup,3,595.82,580.53,Aigio_02
-Karathan,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,4,598.72,580.53,Aigio_02
-Komnos N,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,5,602.68,580.53,Aigio_02
-Kandilio,C2,2,Aigio,23/4/2023,Tarmac,cup,6,605.59,580.53,Aigio_02
-Stafilop,4 2000+,2,Aigio,23/4/2023,Tarmac,cup,7,607.49,580.53,Aigio_02
-Kapralos,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,8,612.05,580.53,Aigio_02
-Kondilis,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,9,612.98,580.53,Aigio_02
-Katsarel,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,10,619.96,580.53,Aigio_02
-Daskalop,C2,2,Aigio,23/4/2023,Tarmac,cup,11,620.36,580.53,Aigio_02
-Pantiera,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,12,620.62,580.53,Aigio_02
-Zois Dim,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,13,621.92,580.53,Aigio_02
-Tzikopou,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,14,625.56,580.53,Aigio_02
-Tiros Ni,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,15,625.71,580.53,Aigio_02
-Katsikas,3 2000,2,Aigio,23/4/2023,Tarmac,cup,16,629.83,580.53,Aigio_02
-Pantelak,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,17,635.68,580.53,Aigio_02
-Kaberos ,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,18,637.61,580.53,Aigio_02
-Rekkas P,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,19,638.06,580.53,Aigio_02
-Kouniaki,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,20,639.3,580.53,Aigio_02
-Amaxopou,2 1600,2,Aigio,23/4/2023,Tarmac,cup,21,644.0,580.53,Aigio_02
-Mavromat,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,22,651.03,580.53,Aigio_02
-Gerovass,4 2000,2,Aigio,23/4/2023,Tarmac,cup,23,651.21,580.53,Aigio_02
-Kaberos ,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,24,654.58,580.53,Aigio_02
-Zizas Ag,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,25,657.62,580.53,Aigio_02
-Kyriakop,4 1600,2,Aigio,23/4/2023,Tarmac,cup,26,660.8,580.53,Aigio_02
-Papazogl,4 2000+,2,Aigio,23/4/2023,Tarmac,cup,27,674.88,580.53,Aigio_02
-Karouzos,C4 F2,2,Aigio,23/4/2023,Tarmac,cup,28,680.16,580.53,Aigio_02
-Kopanaki,C4 F2,2,Aigio,23/4/2023,Tarmac,cup,29,693.58,580.53,Aigio_02
-Kassidop,3 1600,2,Aigio,23/4/2023,Tarmac,cup,30,707.42,580.53,Aigio_02
-Mitropou,2 2000,2,Aigio,23/4/2023,Tarmac,cup,31,753.43,580.53,Aigio_02
-Kofinas ,4 2000+,2,Aigio,23/4/2023,Tarmac,cup,32,804.71,580.53,Aigio_02
-Gerodimo,C2,1,Almiros,11/6/2023,Tarmac,cup,1,408.44,408.44,Almiros_01
-Vlachos ,C2,1,Almiros,11/6/2023,Tarmac,cup,2,414.62,408.44,Almiros_01
-Kampilis,C1,1,Almiros,11/6/2023,Tarmac,cup,3,414.86,408.44,Almiros_01
-Stergiad,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,4,421.7,408.44,Almiros_01
-Michail ,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,5,430.79,408.44,Almiros_01
-Karathan,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,6,431.58,408.44,Almiros_01
-Vatsos N,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,7,435.57,408.44,Almiros_01
-Katsioni,C4 F2,1,Almiros,11/6/2023,Tarmac,cup,8,438.69,408.44,Almiros_01
-Sotiriad,C2,1,Almiros,11/6/2023,Tarmac,cup,9,439.23,408.44,Almiros_01
-Tzikopou,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,10,444.62,408.44,Almiros_01
-Katsarel,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,11,447.19,408.44,Almiros_01
-Panagiot,C2,1,Almiros,11/6/2023,Tarmac,cup,12,454.42,408.44,Almiros_01
-Trichidi,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,13,461.73,408.44,Almiros_01
-Efthimia,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,14,,408.44,Almiros_01
-Figioris,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,15,,408.44,Almiros_01
-Diamanti,C4 F2,1,Almiros,11/6/2023,Tarmac,cup,16,,408.44,Almiros_01
-Massiala,C6 F2,1,Almiros,11/6/2023,Tarmac,cup,17,,408.44,Almiros_01
-Kehagias,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,18,,408.44,Almiros_01
-Anastasi,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,19,,408.44,Almiros_01
-Labrou A,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,20,,408.44,Almiros_01
-Koutsouk,C4 F2,1,Almiros,11/6/2023,Tarmac,cup,21,,408.44,Almiros_01
-Theofani,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,22,465.49,408.44,Almiros_01
-Kampilis,C1,2,Almiros,11/6/2023,Tarmac,cup,1,201.09,201.09,Almiros_02
-Vlachos ,C2,2,Almiros,11/6/2023,Tarmac,cup,2,203.41,201.09,Almiros_02
-Karathan,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,3,210.53,201.09,Almiros_02
-Michail ,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,4,210.57,201.09,Almiros_02
-Stergiad,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,5,211.07,201.09,Almiros_02
-Katsioni,C4 F2,2,Almiros,11/6/2023,Tarmac,cup,6,211.7,201.09,Almiros_02
-Vatsos N,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,7,213.16,201.09,Almiros_02
-Sotiriad,C2,2,Almiros,11/6/2023,Tarmac,cup,8,216.48,201.09,Almiros_02
-Katsarel,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,9,217.47,201.09,Almiros_02
-Panagiot,C2,2,Almiros,11/6/2023,Tarmac,cup,10,220.63,201.09,Almiros_02
-Tzikopou,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,11,221.51,201.09,Almiros_02
-Theofani,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,12,226.66,201.09,Almiros_02
-Massiala,C6 F2,2,Almiros,11/6/2023,Tarmac,cup,13,230.15,201.09,Almiros_02
-Efthimia,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,14,235.77,201.09,Almiros_02
-Kehagias,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,15,236.14,201.09,Almiros_02
-Diamanti,C4 F2,2,Almiros,11/6/2023,Tarmac,cup,16,236.37,201.09,Almiros_02
-Anastasi,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,17,243.2,201.09,Almiros_02
-Figioris,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,18,246.93,201.09,Almiros_02
-Koutsouk,C4 F2,2,Almiros,11/6/2023,Tarmac,cup,19,259.33,201.09,Almiros_02
-Labrou A,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,20,268.0,201.09,Almiros_02
-Kampilis,C1,3,Almiros,11/6/2023,Tarmac,cup,1,407.03,407.03,Almiros_03
-Vlachos ,C2,3,Almiros,11/6/2023,Tarmac,cup,2,420.44,407.03,Almiros_03
-Stergiad,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,3,420.56,407.03,Almiros_03
-Michail ,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,4,423.72,407.03,Almiros_03
-Karathan,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,5,423.76,407.03,Almiros_03
-Sotiriad,C2,3,Almiros,11/6/2023,Tarmac,cup,6,429.76,407.03,Almiros_03
-Katsioni,C4 F2,3,Almiros,11/6/2023,Tarmac,cup,7,434.1,407.03,Almiros_03
-Katsarel,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,8,436.22,407.03,Almiros_03
-Panagiot,C2,3,Almiros,11/6/2023,Tarmac,cup,9,437.21,407.03,Almiros_03
-Vatsos N,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,10,438.49,407.03,Almiros_03
-Tzikopou,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,11,447.76,407.03,Almiros_03
-Theofani,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,12,453.99,407.03,Almiros_03
-Massiala,C6 F2,3,Almiros,11/6/2023,Tarmac,cup,13,460.52,407.03,Almiros_03
-Diamanti,C4 F2,3,Almiros,11/6/2023,Tarmac,cup,14,478.31,407.03,Almiros_03
-Figioris,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,15,480.08,407.03,Almiros_03
-Anastasi,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,16,482.29,407.03,Almiros_03
-Kehagias,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,17,485.92,407.03,Almiros_03
-Efthimia,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,18,486.24,407.03,Almiros_03
-Labrou A,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,19,500.21,407.03,Almiros_03
-Kampilis,C1,4,Almiros,11/6/2023,Tarmac,cup,1,199.14,199.14,Almiros_04
-Vlachos ,C2,4,Almiros,11/6/2023,Tarmac,cup,2,204.28,199.14,Almiros_04
-Michail ,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,3,207.02,199.14,Almiros_04
-Karathan,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,4,209.25,199.14,Almiros_04
-Katsioni,C4 F2,4,Almiros,11/6/2023,Tarmac,cup,5,209.46,199.14,Almiros_04
-Stergiad,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,6,210.68,199.14,Almiros_04
-Sotiriad,C2,4,Almiros,11/6/2023,Tarmac,cup,7,212.77,199.14,Almiros_04
-Katsarel,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,8,213.43,199.14,Almiros_04
-Vatsos N,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,9,213.97,199.14,Almiros_04
-Panagiot,C2,4,Almiros,11/6/2023,Tarmac,cup,10,216.13,199.14,Almiros_04
-Theofani,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,11,219.92,199.14,Almiros_04
-Tzikopou,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,12,221.42,199.14,Almiros_04
-Massiala,C6 F2,4,Almiros,11/6/2023,Tarmac,cup,13,230.7,199.14,Almiros_04
-Diamanti,C4 F2,4,Almiros,11/6/2023,Tarmac,cup,14,231.02,199.14,Almiros_04
-Efthimia,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,15,231.03,199.14,Almiros_04
-Kehagias,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,16,236.11,199.14,Almiros_04
-Anastasi,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,17,238.64,199.14,Almiros_04
-Figioris,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,18,244.05,199.14,Almiros_04
-Labrou A,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,19,245.96,199.14,Almiros_04
-Kampilis,C1,5,Almiros,11/6/2023,Tarmac,cup,1,201.96,201.96,Almiros_05
-Vlachos ,C2,5,Almiros,11/6/2023,Tarmac,cup,2,205.37,201.96,Almiros_05
-Michail ,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,3,206.72,201.96,Almiros_05
-Karathan,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,4,208.4,201.96,Almiros_05
-Stergiad,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,5,210.95,201.96,Almiros_05
-Katsioni,C4 F2,5,Almiros,11/6/2023,Tarmac,cup,6,211.44,201.96,Almiros_05
-Sotiriad,C2,5,Almiros,11/6/2023,Tarmac,cup,7,211.93,201.96,Almiros_05
-Vatsos N,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,8,213.22,201.96,Almiros_05
-Katsarel,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,9,213.36,201.96,Almiros_05
-Panagiot,C2,5,Almiros,11/6/2023,Tarmac,cup,10,218.01,201.96,Almiros_05
-Theofani,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,11,218.67,201.96,Almiros_05
-Massiala,C6 F2,5,Almiros,11/6/2023,Tarmac,cup,12,221.83,201.96,Almiros_05
-Tzikopou,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,13,222.52,201.96,Almiros_05
-Diamanti,C4 F2,5,Almiros,11/6/2023,Tarmac,cup,14,232.54,201.96,Almiros_05
-Efthimia,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,15,232.57,201.96,Almiros_05
-Anastasi,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,16,235.67,201.96,Almiros_05
-Kehagias,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,17,245.76,201.96,Almiros_05
-Figioris,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,18,251.01,201.96,Almiros_05
-Labrou A,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,19,267.03,201.96,Almiros_05
 Tsouloft,C1,1,Boiotias,5/3/2023,Gravel,cup,1,460.9,460.9,Boiotias_01
 Kehagias,C1,1,Boiotias,5/3/2023,Gravel,cup,2,484.41,460.9,Boiotias_01
 Panteli ,C1,1,Boiotias,5/3/2023,Gravel,cup,3,501.38,460.9,Boiotias_01
@@ -371,6 +203,55 @@ Kokkinos,C4 F2,4,Boiotias,5/3/2023,Gravel,cup,44,497.72,330.79,Boiotias_04
 Vassilop,2 2000,4,Boiotias,5/3/2023,Gravel,cup,45,500.95,330.79,Boiotias_04
 Mathios ,3 -1300,4,Boiotias,5/3/2023,Gravel,cup,46,633.05,330.79,Boiotias_04
 Agelis E,C6 F2,4,Boiotias,5/3/2023,Gravel,cup,47,690.29,330.79,Boiotias_04
+Anapolio,C1,1,Potamies,30/4/2023,Tarmac,cup,1,349.77,349.77,Potamies_01
+Ktistaki,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,2,357.68,349.77,Potamies_01
+Peroulak,C2,1,Potamies,30/4/2023,Tarmac,cup,3,361.75,349.77,Potamies_01
+Nikolida,C5 F2,1,Potamies,30/4/2023,Tarmac,cup,4,365.32,349.77,Potamies_01
+Damianak,C4 F2,1,Potamies,30/4/2023,Tarmac,cup,5,367.46,349.77,Potamies_01
+Frantzes,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,6,372.06,349.77,Potamies_01
+Titakis ,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,7,374.02,349.77,Potamies_01
+Kafetzak,C5 F2,1,Potamies,30/4/2023,Tarmac,cup,8,378.09,349.77,Potamies_01
+Gobakis ,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,9,381.99,349.77,Potamies_01
+Perakis ,C4 F2,1,Potamies,30/4/2023,Tarmac,cup,10,384.01,349.77,Potamies_01
+Polias M,C5 F2,1,Potamies,30/4/2023,Tarmac,cup,11,385.95,349.77,Potamies_01
+Ioannidi,C5 F2,1,Potamies,30/4/2023,Tarmac,cup,12,391.63,349.77,Potamies_01
+Maragaki,C6 F2,1,Potamies,30/4/2023,Tarmac,cup,13,394.96,349.77,Potamies_01
+Partheni,C6 F2,1,Potamies,30/4/2023,Tarmac,cup,14,403.54,349.77,Potamies_01
+Poulakis,C6 F2,1,Potamies,30/4/2023,Tarmac,cup,15,406.42,349.77,Potamies_01
+Kapsalak,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,16,450.47,349.77,Potamies_01
+Stivakta,C6 F2,1,Potamies,30/4/2023,Tarmac,cup,17,465.13,349.77,Potamies_01
+Anapolio,C1,2,Potamies,30/4/2023,Tarmac,cup,1,344.07,344.07,Potamies_02
+Ktistaki,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,2,350.67,344.07,Potamies_02
+Peroulak,C2,2,Potamies,30/4/2023,Tarmac,cup,3,353.39,344.07,Potamies_02
+Nikolida,C5 F2,2,Potamies,30/4/2023,Tarmac,cup,4,360.32,344.07,Potamies_02
+Frantzes,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,5,360.4,344.07,Potamies_02
+Titakis ,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,6,363.94,344.07,Potamies_02
+Damianak,C4 F2,2,Potamies,30/4/2023,Tarmac,cup,7,367.22,344.07,Potamies_02
+Kafetzak,C5 F2,2,Potamies,30/4/2023,Tarmac,cup,8,372.12,344.07,Potamies_02
+Gobakis ,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,9,374.96,344.07,Potamies_02
+Polias M,C5 F2,2,Potamies,30/4/2023,Tarmac,cup,10,381.38,344.07,Potamies_02
+Ioannidi,C5 F2,2,Potamies,30/4/2023,Tarmac,cup,11,385.77,344.07,Potamies_02
+Perakis ,C4 F2,2,Potamies,30/4/2023,Tarmac,cup,12,386.0,344.07,Potamies_02
+Poulakis,C6 F2,2,Potamies,30/4/2023,Tarmac,cup,13,400.51,344.07,Potamies_02
+Maragaki,C6 F2,2,Potamies,30/4/2023,Tarmac,cup,14,401.89,344.07,Potamies_02
+Partheni,C6 F2,2,Potamies,30/4/2023,Tarmac,cup,15,407.07,344.07,Potamies_02
+Kapsalak,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,16,438.76,344.07,Potamies_02
+Stivakta,C6 F2,2,Potamies,30/4/2023,Tarmac,cup,17,447.05,344.07,Potamies_02
+Anapolio,C1,3,Potamies,30/4/2023,Tarmac,cup,1,341.78,341.78,Potamies_03
+Peroulak,C2,3,Potamies,30/4/2023,Tarmac,cup,2,348.01,341.78,Potamies_03
+Ktistaki,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,3,351.0,341.78,Potamies_03
+Frantzes,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,4,357.85,341.78,Potamies_03
+Titakis ,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,5,364.7,341.78,Potamies_03
+Gobakis ,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,6,372.24,341.78,Potamies_03
+Damianak,C4 F2,3,Potamies,30/4/2023,Tarmac,cup,7,377.03,341.78,Potamies_03
+Polias M,C5 F2,3,Potamies,30/4/2023,Tarmac,cup,8,378.9,341.78,Potamies_03
+Ioannidi,C5 F2,3,Potamies,30/4/2023,Tarmac,cup,9,383.53,341.78,Potamies_03
+Partheni,C6 F2,3,Potamies,30/4/2023,Tarmac,cup,10,399.13,341.78,Potamies_03
+Maragaki,C6 F2,3,Potamies,30/4/2023,Tarmac,cup,11,400.31,341.78,Potamies_03
+Poulakis,C6 F2,3,Potamies,30/4/2023,Tarmac,cup,12,403.56,341.78,Potamies_03
+Kapsalak,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,13,440.99,341.78,Potamies_03
+Kafetzak,C5 F2,3,Potamies,30/4/2023,Tarmac,cup,14,454.73,341.78,Potamies_03
+Stivakta,C6 F2,3,Potamies,30/4/2023,Tarmac,cup,15,478.25,341.78,Potamies_03
 Tsouloft,C1,1,Fthiotidas_G,2/7/2023,Gravel,Championship,1,702.34,702.34,Fthiotidas_G_01
 Kehagias,C1,1,Fthiotidas_G,2/7/2023,Gravel,Championship,2,718.2,702.34,Fthiotidas_G_01
 Philippe,C1,1,Fthiotidas_G,2/7/2023,Gravel,Championship,3,724.43,702.34,Fthiotidas_G_01
@@ -482,6 +363,498 @@ Sotiropo,C6 F2,4,Fthiotidas_G,2/7/2023,Gravel,Championship,20,1555.13,1161.76,Ft
 Moshopou,C6 F2,4,Fthiotidas_G,2/7/2023,Gravel,Championship,21,1581.79,1161.76,Fthiotidas_G_04
 Baxevana,C6,4,Fthiotidas_G,2/7/2023,Gravel,Championship,22,1633.12,1161.76,Fthiotidas_G_04
 Rahoutis,C6 F2,4,Fthiotidas_G,2/7/2023,Gravel,Championship,23,1894.56,1161.76,Fthiotidas_G_04
+Tsouloft,C1,1,Olympiako,30/4/2023,Gravel,Championship,1,434.49,434.49,Olympiako_01
+Papadimi,C1,1,Olympiako,30/4/2023,Gravel,Championship,2,440.12,434.49,Olympiako_01
+Kehagias,C1,1,Olympiako,30/4/2023,Gravel,Championship,3,452.85,434.49,Olympiako_01
+Badounas,C2,1,Olympiako,30/4/2023,Gravel,Championship,4,461.26,434.49,Olympiako_01
+Kirkos P,C2,1,Olympiako,30/4/2023,Gravel,Championship,5,472.31,434.49,Olympiako_01
+Panteli ,C1,1,Olympiako,30/4/2023,Gravel,Championship,6,474.8,434.49,Olympiako_01
+Karaniko,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,7,479.26,434.49,Olympiako_01
+Lainopou,C2,1,Olympiako,30/4/2023,Gravel,Championship,8,492.89,434.49,Olympiako_01
+Dimopoul,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,9,496.26,434.49,Olympiako_01
+Tzemos K,C2,1,Olympiako,30/4/2023,Gravel,Championship,10,498.24,434.49,Olympiako_01
+Papadopo,C2,1,Olympiako,30/4/2023,Gravel,Championship,11,501.6,434.49,Olympiako_01
+Eliopoul,C2,1,Olympiako,30/4/2023,Gravel,Championship,12,507.86,434.49,Olympiako_01
+Tsoulos ,C2,1,Olympiako,30/4/2023,Gravel,Championship,13,508.45,434.49,Olympiako_01
+Tsetsoni,C2,1,Olympiako,30/4/2023,Gravel,Championship,14,510.41,434.49,Olympiako_01
+Theochar,C2,1,Olympiako,30/4/2023,Gravel,Championship,15,515.43,434.49,Olympiako_01
+Giannako,C2,1,Olympiako,30/4/2023,Gravel,Championship,16,515.44,434.49,Olympiako_01
+Lymperis,C2,1,Olympiako,30/4/2023,Gravel,Championship,17,515.7,434.49,Olympiako_01
+Angelopo,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,18,520.1,434.49,Olympiako_01
+Manetas ,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,19,529.28,434.49,Olympiako_01
+Zounis I,C2,1,Olympiako,30/4/2023,Gravel,Championship,20,531.99,434.49,Olympiako_01
+Amoutzas,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,21,533.68,434.49,Olympiako_01
+Triantop,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,22,534.46,434.49,Olympiako_01
+Paraskev,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,23,,434.49,Olympiako_01
+Stavropo,C6 F2,1,Olympiako,30/4/2023,Gravel,Championship,24,,434.49,Olympiako_01
+Simetra ,C2,1,Olympiako,30/4/2023,Gravel,Championship,25,536.86,434.49,Olympiako_01
+Roinioti,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,26,537.35,434.49,Olympiako_01
+Anastass,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,27,,434.49,Olympiako_01
+Davaris ,C2,1,Olympiako,30/4/2023,Gravel,Championship,28,537.74,434.49,Olympiako_01
+Giotis I,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,29,543.86,434.49,Olympiako_01
+Delaport,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,30,544.5,434.49,Olympiako_01
+Christod,C2,1,Olympiako,30/4/2023,Gravel,Championship,31,553.51,434.49,Olympiako_01
+Kalamara,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,32,561.15,434.49,Olympiako_01
+Tzavaras,C6 F2,1,Olympiako,30/4/2023,Gravel,Championship,33,562.77,434.49,Olympiako_01
+Athanass,C6 F2,1,Olympiako,30/4/2023,Gravel,Championship,34,581.32,434.49,Olympiako_01
+Yiangou ,C2,1,Olympiako,30/4/2023,Gravel,Championship,35,599.61,434.49,Olympiako_01
+Kalaitzi,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,36,603.89,434.49,Olympiako_01
+Koutsouk,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,37,618.95,434.49,Olympiako_01
+Bris Pan,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,38,625.86,434.49,Olympiako_01
+Lathouri,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,39,635.98,434.49,Olympiako_01
+Mantas P,C6 F2,1,Olympiako,30/4/2023,Gravel,Championship,40,640.35,434.49,Olympiako_01
+Golfinop,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,41,723.64,434.49,Olympiako_01
+Tsouloft,C1,2,Olympiako,30/4/2023,Gravel,Championship,1,610.18,610.18,Olympiako_02
+Papadimi,C1,2,Olympiako,30/4/2023,Gravel,Championship,2,622.76,610.18,Olympiako_02
+Kehagias,C1,2,Olympiako,30/4/2023,Gravel,Championship,3,623.23,610.18,Olympiako_02
+Badounas,C2,2,Olympiako,30/4/2023,Gravel,Championship,4,631.34,610.18,Olympiako_02
+Kirkos P,C2,2,Olympiako,30/4/2023,Gravel,Championship,5,644.18,610.18,Olympiako_02
+Papadopo,C2,2,Olympiako,30/4/2023,Gravel,Championship,6,666.74,610.18,Olympiako_02
+Tzemos K,C2,2,Olympiako,30/4/2023,Gravel,Championship,7,666.94,610.18,Olympiako_02
+Tsoulos ,C2,2,Olympiako,30/4/2023,Gravel,Championship,8,673.37,610.18,Olympiako_02
+Eliopoul,C2,2,Olympiako,30/4/2023,Gravel,Championship,9,673.45,610.18,Olympiako_02
+Karaniko,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,10,675.28,610.18,Olympiako_02
+Lymperis,C2,2,Olympiako,30/4/2023,Gravel,Championship,11,676.8,610.18,Olympiako_02
+Lainopou,C2,2,Olympiako,30/4/2023,Gravel,Championship,12,680.45,610.18,Olympiako_02
+Panteli ,C1,2,Olympiako,30/4/2023,Gravel,Championship,13,685.51,610.18,Olympiako_02
+Angelopo,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,14,687.19,610.18,Olympiako_02
+Tsetsoni,C2,2,Olympiako,30/4/2023,Gravel,Championship,15,687.68,610.18,Olympiako_02
+Theochar,C2,2,Olympiako,30/4/2023,Gravel,Championship,16,688.43,610.18,Olympiako_02
+Dimopoul,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,17,688.49,610.18,Olympiako_02
+Giannako,C2,2,Olympiako,30/4/2023,Gravel,Championship,18,695.55,610.18,Olympiako_02
+Zounis I,C2,2,Olympiako,30/4/2023,Gravel,Championship,19,704.37,610.18,Olympiako_02
+Amoutzas,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,20,705.35,610.18,Olympiako_02
+Roinioti,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,21,706.53,610.18,Olympiako_02
+Delaport,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,22,709.0,610.18,Olympiako_02
+Triantop,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,23,710.4,610.18,Olympiako_02
+Manetas ,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,24,710.73,610.18,Olympiako_02
+Stavropo,C6 F2,2,Olympiako,30/4/2023,Gravel,Championship,25,716.37,610.18,Olympiako_02
+Paraskev,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,26,718.51,610.18,Olympiako_02
+Davaris ,C2,2,Olympiako,30/4/2023,Gravel,Championship,27,719.27,610.18,Olympiako_02
+Simetra ,C2,2,Olympiako,30/4/2023,Gravel,Championship,28,721.6,610.18,Olympiako_02
+Kalamara,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,29,727.55,610.18,Olympiako_02
+Giotis I,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,30,734.2,610.18,Olympiako_02
+Anastass,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,31,737.46,610.18,Olympiako_02
+Tzavaras,C6 F2,2,Olympiako,30/4/2023,Gravel,Championship,32,739.98,610.18,Olympiako_02
+Athanass,C6 F2,2,Olympiako,30/4/2023,Gravel,Championship,33,742.01,610.18,Olympiako_02
+Yiangou ,C2,2,Olympiako,30/4/2023,Gravel,Championship,34,771.55,610.18,Olympiako_02
+Kalaitzi,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,35,785.43,610.18,Olympiako_02
+Bris Pan,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,36,789.13,610.18,Olympiako_02
+Mantas P,C6 F2,2,Olympiako,30/4/2023,Gravel,Championship,37,791.37,610.18,Olympiako_02
+Koutsouk,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,38,798.55,610.18,Olympiako_02
+Golfinop,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,39,898.15,610.18,Olympiako_02
+Tsouloft,C1,3,Olympiako,30/4/2023,Gravel,Championship,1,429.57,429.57,Olympiako_03
+Kehagias,C1,3,Olympiako,30/4/2023,Gravel,Championship,2,436.36,429.57,Olympiako_03
+Kirkos P,C2,3,Olympiako,30/4/2023,Gravel,Championship,3,458.25,429.57,Olympiako_03
+Panteli ,C1,3,Olympiako,30/4/2023,Gravel,Championship,4,459.54,429.57,Olympiako_03
+Badounas,C2,3,Olympiako,30/4/2023,Gravel,Championship,5,462.29,429.57,Olympiako_03
+Karaniko,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,6,475.19,429.57,Olympiako_03
+Tzemos K,C2,3,Olympiako,30/4/2023,Gravel,Championship,7,478.11,429.57,Olympiako_03
+Tsetsoni,C2,3,Olympiako,30/4/2023,Gravel,Championship,8,481.44,429.57,Olympiako_03
+Papadopo,C2,3,Olympiako,30/4/2023,Gravel,Championship,9,484.95,429.57,Olympiako_03
+Eliopoul,C2,3,Olympiako,30/4/2023,Gravel,Championship,10,495.95,429.57,Olympiako_03
+Angelopo,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,11,500.91,429.57,Olympiako_03
+Tsoulos ,C2,3,Olympiako,30/4/2023,Gravel,Championship,12,504.7,429.57,Olympiako_03
+Lymperis,C2,3,Olympiako,30/4/2023,Gravel,Championship,13,505.66,429.57,Olympiako_03
+Theochar,C2,3,Olympiako,30/4/2023,Gravel,Championship,14,508.11,429.57,Olympiako_03
+Amoutzas,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,15,513.85,429.57,Olympiako_03
+Giannako,C2,3,Olympiako,30/4/2023,Gravel,Championship,16,515.32,429.57,Olympiako_03
+Roinioti,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,17,516.4,429.57,Olympiako_03
+Simetra ,C2,3,Olympiako,30/4/2023,Gravel,Championship,18,519.26,429.57,Olympiako_03
+Zounis I,C2,3,Olympiako,30/4/2023,Gravel,Championship,19,522.59,429.57,Olympiako_03
+Triantop,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,20,522.69,429.57,Olympiako_03
+Paraskev,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,21,522.99,429.57,Olympiako_03
+Stavropo,C6 F2,3,Olympiako,30/4/2023,Gravel,Championship,22,523.58,429.57,Olympiako_03
+Manetas ,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,23,530.92,429.57,Olympiako_03
+Giotis I,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,24,532.9,429.57,Olympiako_03
+Delaport,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,25,539.03,429.57,Olympiako_03
+Davaris ,C2,3,Olympiako,30/4/2023,Gravel,Championship,26,542.94,429.57,Olympiako_03
+Kalamara,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,27,545.67,429.57,Olympiako_03
+Tzavaras,C6 F2,3,Olympiako,30/4/2023,Gravel,Championship,28,548.49,429.57,Olympiako_03
+Athanass,C6 F2,3,Olympiako,30/4/2023,Gravel,Championship,29,549.69,429.57,Olympiako_03
+Anastass,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,30,551.51,429.57,Olympiako_03
+Yiangou ,C2,3,Olympiako,30/4/2023,Gravel,Championship,31,567.03,429.57,Olympiako_03
+Kalaitzi,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,32,583.33,429.57,Olympiako_03
+Bris Pan,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,33,600.78,429.57,Olympiako_03
+Koutsouk,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,34,601.01,429.57,Olympiako_03
+Mantas P,C6 F2,3,Olympiako,30/4/2023,Gravel,Championship,35,611.32,429.57,Olympiako_03
+Golfinop,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,36,694.13,429.57,Olympiako_03
+Tsouloft,C1,4,Olympiako,30/4/2023,Gravel,Championship,1,602.36,602.36,Olympiako_04
+Kehagias,C1,4,Olympiako,30/4/2023,Gravel,Championship,2,610.26,602.36,Olympiako_04
+Panteli ,C1,4,Olympiako,30/4/2023,Gravel,Championship,3,627.63,602.36,Olympiako_04
+Badounas,C2,4,Olympiako,30/4/2023,Gravel,Championship,4,628.92,602.36,Olympiako_04
+Kirkos P,C2,4,Olympiako,30/4/2023,Gravel,Championship,5,633.7,602.36,Olympiako_04
+Tzemos K,C2,4,Olympiako,30/4/2023,Gravel,Championship,6,651.14,602.36,Olympiako_04
+Karaniko,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,7,671.36,602.36,Olympiako_04
+Eliopoul,C2,4,Olympiako,30/4/2023,Gravel,Championship,8,672.36,602.36,Olympiako_04
+Tsetsoni,C2,4,Olympiako,30/4/2023,Gravel,Championship,9,674.94,602.36,Olympiako_04
+Tsoulos ,C2,4,Olympiako,30/4/2023,Gravel,Championship,10,675.14,602.36,Olympiako_04
+Angelopo,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,11,676.02,602.36,Olympiako_04
+Theochar,C2,4,Olympiako,30/4/2023,Gravel,Championship,12,676.06,602.36,Olympiako_04
+Giannako,C2,4,Olympiako,30/4/2023,Gravel,Championship,13,683.31,602.36,Olympiako_04
+Lymperis,C2,4,Olympiako,30/4/2023,Gravel,Championship,14,683.84,602.36,Olympiako_04
+Amoutzas,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,15,684.68,602.36,Olympiako_04
+Roinioti,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,16,689.65,602.36,Olympiako_04
+Delaport,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,17,697.14,602.36,Olympiako_04
+Manetas ,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,18,702.92,602.36,Olympiako_04
+Triantop,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,19,708.75,602.36,Olympiako_04
+Simetra ,C2,4,Olympiako,30/4/2023,Gravel,Championship,20,709.21,602.36,Olympiako_04
+Zounis I,C2,4,Olympiako,30/4/2023,Gravel,Championship,21,709.44,602.36,Olympiako_04
+Stavropo,C6 F2,4,Olympiako,30/4/2023,Gravel,Championship,22,713.57,602.36,Olympiako_04
+Davaris ,C2,4,Olympiako,30/4/2023,Gravel,Championship,23,715.06,602.36,Olympiako_04
+Paraskev,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,24,717.63,602.36,Olympiako_04
+Anastass,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,25,721.38,602.36,Olympiako_04
+Giotis I,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,26,724.32,602.36,Olympiako_04
+Tzavaras,C6 F2,4,Olympiako,30/4/2023,Gravel,Championship,27,724.53,602.36,Olympiako_04
+Kalamara,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,28,724.94,602.36,Olympiako_04
+Athanass,C6 F2,4,Olympiako,30/4/2023,Gravel,Championship,29,729.71,602.36,Olympiako_04
+Yiangou ,C2,4,Olympiako,30/4/2023,Gravel,Championship,30,746.05,602.36,Olympiako_04
+Kalaitzi,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,31,768.6,602.36,Olympiako_04
+Mantas P,C6 F2,4,Olympiako,30/4/2023,Gravel,Championship,32,771.95,602.36,Olympiako_04
+Koutsouk,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,33,772.07,602.36,Olympiako_04
+Bris Pan,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,34,773.5,602.36,Olympiako_04
+Golfinop,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,35,892.95,602.36,Olympiako_04
+Papadopo,C2,4,Olympiako,30/4/2023,Gravel,Championship,36,944.72,602.36,Olympiako_04
+Tsouloft,C1,5,Olympiako,30/4/2023,Gravel,Championship,1,604.92,604.92,Olympiako_05
+Kirkos P,C2,5,Olympiako,30/4/2023,Gravel,Championship,2,624.45,604.92,Olympiako_05
+Badounas,C2,5,Olympiako,30/4/2023,Gravel,Championship,3,630.03,604.92,Olympiako_05
+Kehagias,C1,5,Olympiako,30/4/2023,Gravel,Championship,4,632.38,604.92,Olympiako_05
+Tzemos K,C2,5,Olympiako,30/4/2023,Gravel,Championship,5,649.72,604.92,Olympiako_05
+Karaniko,C5 F2,5,Olympiako,30/4/2023,Gravel,Championship,6,664.38,604.92,Olympiako_05
+Papadopo,C2,5,Olympiako,30/4/2023,Gravel,Championship,7,672.09,604.92,Olympiako_05
+Eliopoul,C2,5,Olympiako,30/4/2023,Gravel,Championship,8,674.83,604.92,Olympiako_05
+Theochar,C2,5,Olympiako,30/4/2023,Gravel,Championship,9,677.04,604.92,Olympiako_05
+Tsoulos ,C2,5,Olympiako,30/4/2023,Gravel,Championship,10,682.84,604.92,Olympiako_05
+Giannako,C2,5,Olympiako,30/4/2023,Gravel,Championship,11,682.84,604.92,Olympiako_05
+Amoutzas,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,12,686.95,604.92,Olympiako_05
+Tsetsoni,C2,5,Olympiako,30/4/2023,Gravel,Championship,13,687.46,604.92,Olympiako_05
+Lymperis,C2,5,Olympiako,30/4/2023,Gravel,Championship,14,689.79,604.92,Olympiako_05
+Roinioti,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,15,692.92,604.92,Olympiako_05
+Angelopo,C5 F2,5,Olympiako,30/4/2023,Gravel,Championship,16,694.68,604.92,Olympiako_05
+Delaport,C5 F2,5,Olympiako,30/4/2023,Gravel,Championship,17,700.61,604.92,Olympiako_05
+Davaris ,C2,5,Olympiako,30/4/2023,Gravel,Championship,18,702.31,604.92,Olympiako_05
+Simetra ,C2,5,Olympiako,30/4/2023,Gravel,Championship,19,707.87,604.92,Olympiako_05
+Manetas ,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,20,707.87,604.92,Olympiako_05
+Triantop,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,21,710.55,604.92,Olympiako_05
+Zounis I,C2,5,Olympiako,30/4/2023,Gravel,Championship,22,712.33,604.92,Olympiako_05
+Paraskev,C5 F2,5,Olympiako,30/4/2023,Gravel,Championship,23,714.63,604.92,Olympiako_05
+Anastass,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,24,717.84,604.92,Olympiako_05
+Kalamara,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,25,723.33,604.92,Olympiako_05
+Tzavaras,C6 F2,5,Olympiako,30/4/2023,Gravel,Championship,26,724.0,604.92,Olympiako_05
+Stavropo,C6 F2,5,Olympiako,30/4/2023,Gravel,Championship,27,725.21,604.92,Olympiako_05
+Athanass,C6 F2,5,Olympiako,30/4/2023,Gravel,Championship,28,744.54,604.92,Olympiako_05
+Giotis I,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,29,745.01,604.92,Olympiako_05
+Yiangou ,C2,5,Olympiako,30/4/2023,Gravel,Championship,30,752.23,604.92,Olympiako_05
+Koutsouk,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,31,781.87,604.92,Olympiako_05
+Mantas P,C6 F2,5,Olympiako,30/4/2023,Gravel,Championship,32,793.23,604.92,Olympiako_05
+Kalaitzi,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,33,795.69,604.92,Olympiako_05
+Bris Pan,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,34,801.78,604.92,Olympiako_05
+Tsouloft,C1,6,Olympiako,30/4/2023,Gravel,Championship,1,594.73,594.73,Olympiako_06
+Kehagias,C1,6,Olympiako,30/4/2023,Gravel,Championship,2,630.72,594.73,Olympiako_06
+Badounas,C2,6,Olympiako,30/4/2023,Gravel,Championship,3,637.05,594.73,Olympiako_06
+Kirkos P,C2,6,Olympiako,30/4/2023,Gravel,Championship,4,648.53,594.73,Olympiako_06
+Papadopo,C2,6,Olympiako,30/4/2023,Gravel,Championship,5,656.25,594.73,Olympiako_06
+Tzemos K,C2,6,Olympiako,30/4/2023,Gravel,Championship,6,657.65,594.73,Olympiako_06
+Karaniko,C5 F2,6,Olympiako,30/4/2023,Gravel,Championship,7,660.83,594.73,Olympiako_06
+Tsoulos ,C2,6,Olympiako,30/4/2023,Gravel,Championship,8,667.52,594.73,Olympiako_06
+Tsetsoni,C2,6,Olympiako,30/4/2023,Gravel,Championship,9,678.98,594.73,Olympiako_06
+Angelopo,C5 F2,6,Olympiako,30/4/2023,Gravel,Championship,10,693.08,594.73,Olympiako_06
+Giannako,C2,6,Olympiako,30/4/2023,Gravel,Championship,11,696.31,594.73,Olympiako_06
+Stavropo,C6 F2,6,Olympiako,30/4/2023,Gravel,Championship,12,698.92,594.73,Olympiako_06
+Amoutzas,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,13,704.43,594.73,Olympiako_06
+Simetra ,C2,6,Olympiako,30/4/2023,Gravel,Championship,14,705.32,594.73,Olympiako_06
+Theochar,C2,6,Olympiako,30/4/2023,Gravel,Championship,15,708.84,594.73,Olympiako_06
+Manetas ,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,16,710.04,594.73,Olympiako_06
+Delaport,C5 F2,6,Olympiako,30/4/2023,Gravel,Championship,17,714.16,594.73,Olympiako_06
+Paraskev,C5 F2,6,Olympiako,30/4/2023,Gravel,Championship,18,715.15,594.73,Olympiako_06
+Anastass,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,19,718.58,594.73,Olympiako_06
+Tzavaras,C6 F2,6,Olympiako,30/4/2023,Gravel,Championship,20,718.96,594.73,Olympiako_06
+Roinioti,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,21,719.39,594.73,Olympiako_06
+Giotis I,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,22,721.36,594.73,Olympiako_06
+Davaris ,C2,6,Olympiako,30/4/2023,Gravel,Championship,23,725.7,594.73,Olympiako_06
+Zounis I,C2,6,Olympiako,30/4/2023,Gravel,Championship,24,730.82,594.73,Olympiako_06
+Triantop,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,25,744.23,594.73,Olympiako_06
+Athanass,C6 F2,6,Olympiako,30/4/2023,Gravel,Championship,26,758.92,594.73,Olympiako_06
+Kalamara,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,27,771.43,594.73,Olympiako_06
+Yiangou ,C2,6,Olympiako,30/4/2023,Gravel,Championship,28,779.52,594.73,Olympiako_06
+Bris Pan,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,29,791.69,594.73,Olympiako_06
+Kalaitzi,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,30,809.84,594.73,Olympiako_06
+Koutsouk,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,31,825.85,594.73,Olympiako_06
+Mantas P,C6 F2,6,Olympiako,30/4/2023,Gravel,Championship,32,835.65,594.73,Olympiako_06
+Tsolakid,C1,1,Deth,17/9/2023,Tarmac,Championship,1,633.48,633.48,Deth_01
+Aligizak,C1,1,Deth,17/9/2023,Tarmac,Championship,2,644.91,633.48,Deth_01
+Anapolio,C1,1,Deth,17/9/2023,Tarmac,Championship,3,645.55,633.48,Deth_01
+Ieremiad,C1,1,Deth,17/9/2023,Tarmac,Championship,4,663.7,633.48,Deth_01
+Brozos F,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,5,682.49,633.48,Deth_01
+Konstant,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,6,682.99,633.48,Deth_01
+Gerodimo,C2,1,Deth,17/9/2023,Tarmac,Championship,7,685.29,633.48,Deth_01
+Moschos ,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,8,688.4,633.48,Deth_01
+Avgeropo,C4 F2,1,Deth,17/9/2023,Tarmac,Championship,9,689.15,633.48,Deth_01
+Peroulak,C2,1,Deth,17/9/2023,Tarmac,Championship,10,690.61,633.48,Deth_01
+Argiriou,C2,1,Deth,17/9/2023,Tarmac,Championship,11,693.75,633.48,Deth_01
+Baxevana,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,12,705.0,633.48,Deth_01
+Sotiriad,C2,1,Deth,17/9/2023,Tarmac,Championship,13,709.93,633.48,Deth_01
+Stergiad,C5 F2,1,Deth,17/9/2023,Tarmac,Championship,14,721.01,633.48,Deth_01
+Katsioni,C4 F2,1,Deth,17/9/2023,Tarmac,Championship,15,724.75,633.48,Deth_01
+Valavani,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,16,724.87,633.48,Deth_01
+Vatsos N,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,17,730.72,633.48,Deth_01
+Perakis ,C4 F2,1,Deth,17/9/2023,Tarmac,Championship,18,730.87,633.48,Deth_01
+Avramidi,C6,1,Deth,17/9/2023,Tarmac,Championship,19,739.71,633.48,Deth_01
+Skoulari,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,20,744.37,633.48,Deth_01
+Karagioz,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,21,747.08,633.48,Deth_01
+Anagnost,C4 F2,1,Deth,17/9/2023,Tarmac,Championship,22,748.79,633.48,Deth_01
+Tsitsigi,C5 F2,1,Deth,17/9/2023,Tarmac,Championship,23,755.96,633.48,Deth_01
+Tassos V,C2,1,Deth,17/9/2023,Tarmac,Championship,24,763.33,633.48,Deth_01
+Maragaki,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,25,768.91,633.48,Deth_01
+Efthimia,C5 F2,1,Deth,17/9/2023,Tarmac,Championship,26,769.6,633.48,Deth_01
+Massiala,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,27,776.61,633.48,Deth_01
+Pazis So,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,28,784.68,633.48,Deth_01
+Partalio,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,29,798.67,633.48,Deth_01
+Manousko,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,30,805.56,633.48,Deth_01
+Rakitzis,C5 F2,1,Deth,17/9/2023,Tarmac,Championship,31,808.57,633.48,Deth_01
+Karafill,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,32,812.75,633.48,Deth_01
+Angelidi,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,33,818.41,633.48,Deth_01
+Bais Gio,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,34,831.14,633.48,Deth_01
+Archange,C2,1,Deth,17/9/2023,Tarmac,Championship,35,880.78,633.48,Deth_01
+Tsakirog,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,36,886.68,633.48,Deth_01
+Vezyris ,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,37,921.26,633.48,Deth_01
+Koukas S,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,38,928.19,633.48,Deth_01
+Anastass,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,39,941.47,633.48,Deth_01
+Koutsodi,C6 F2,1,Deth,17/9/2023,Tarmac,Championship,40,1031.28,633.48,Deth_01
+Dimou Ge,C3 F2,1,Deth,17/9/2023,Tarmac,Championship,41,1691.04,633.48,Deth_01
+Tsolakid,C1,2,Deth,17/9/2023,Tarmac,Championship,1,830.24,830.24,Deth_02
+Anapolio,C1,2,Deth,17/9/2023,Tarmac,Championship,2,840.84,830.24,Deth_02
+Aligizak,C1,2,Deth,17/9/2023,Tarmac,Championship,3,852.0,830.24,Deth_02
+Ieremiad,C1,2,Deth,17/9/2023,Tarmac,Championship,4,878.67,830.24,Deth_02
+Avgeropo,C4 F2,2,Deth,17/9/2023,Tarmac,Championship,5,882.23,830.24,Deth_02
+Konstant,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,6,887.57,830.24,Deth_02
+Brozos F,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,7,890.55,830.24,Deth_02
+Argiriou,C2,2,Deth,17/9/2023,Tarmac,Championship,8,891.79,830.24,Deth_02
+Moschos ,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,9,892.67,830.24,Deth_02
+Gerodimo,C2,2,Deth,17/9/2023,Tarmac,Championship,10,894.54,830.24,Deth_02
+Peroulak,C2,2,Deth,17/9/2023,Tarmac,Championship,11,897.18,830.24,Deth_02
+Sotiriad,C2,2,Deth,17/9/2023,Tarmac,Championship,12,919.72,830.24,Deth_02
+Baxevana,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,13,923.83,830.24,Deth_02
+Stergiad,C5 F2,2,Deth,17/9/2023,Tarmac,Championship,14,928.52,830.24,Deth_02
+Vatsos N,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,15,938.49,830.24,Deth_02
+Perakis ,C4 F2,2,Deth,17/9/2023,Tarmac,Championship,16,942.35,830.24,Deth_02
+Valavani,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,17,942.79,830.24,Deth_02
+Katsioni,C4 F2,2,Deth,17/9/2023,Tarmac,Championship,18,961.69,830.24,Deth_02
+Anagnost,C4 F2,2,Deth,17/9/2023,Tarmac,Championship,19,962.77,830.24,Deth_02
+Skoulari,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,20,973.93,830.24,Deth_02
+Avramidi,C6,2,Deth,17/9/2023,Tarmac,Championship,21,976.03,830.24,Deth_02
+Tassos V,C2,2,Deth,17/9/2023,Tarmac,Championship,22,978.5,830.24,Deth_02
+Maragaki,C6 F2,2,Deth,17/9/2023,Tarmac,Championship,23,991.81,830.24,Deth_02
+Tsitsigi,C5 F2,2,Deth,17/9/2023,Tarmac,Championship,24,998.81,830.24,Deth_02
+Massiala,C6 F2,2,Deth,17/9/2023,Tarmac,Championship,25,1002.91,830.24,Deth_02
+Karagioz,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,26,1003.8,830.24,Deth_02
+Manousko,C6 F2,2,Deth,17/9/2023,Tarmac,Championship,27,1015.49,830.24,Deth_02
+Rakitzis,C5 F2,2,Deth,17/9/2023,Tarmac,Championship,28,1020.62,830.24,Deth_02
+Partalio,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,29,1025.99,830.24,Deth_02
+Pazis So,C6 F2,2,Deth,17/9/2023,Tarmac,Championship,30,1038.89,830.24,Deth_02
+Bais Gio,C6 F2,2,Deth,17/9/2023,Tarmac,Championship,31,1099.49,830.24,Deth_02
+Koukas S,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,32,1212.81,830.24,Deth_02
+Vezyris ,C6 F2,2,Deth,17/9/2023,Tarmac,Championship,33,1213.49,830.24,Deth_02
+Anastass,C6 F2,2,Deth,17/9/2023,Tarmac,Championship,34,1231.01,830.24,Deth_02
+Tsakirog,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,35,1574.26,830.24,Deth_02
+Angelidi,C3 F2,2,Deth,17/9/2023,Tarmac,Championship,36,1594.23,830.24,Deth_02
+Koutsodi,C6 F2,2,Deth,17/9/2023,Tarmac,Championship,37,2513.68,830.24,Deth_02
+Tsolakid,C1,3,Deth,17/9/2023,Tarmac,Championship,1,635.88,635.88,Deth_03
+Aligizak,C1,3,Deth,17/9/2023,Tarmac,Championship,2,641.91,635.88,Deth_03
+Anapolio,C1,3,Deth,17/9/2023,Tarmac,Championship,3,642.46,635.88,Deth_03
+Ieremiad,C1,3,Deth,17/9/2023,Tarmac,Championship,4,656.41,635.88,Deth_03
+Brozos F,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,5,674.54,635.88,Deth_03
+Moschos ,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,6,675.18,635.88,Deth_03
+Avgeropo,C4 F2,3,Deth,17/9/2023,Tarmac,Championship,7,677.42,635.88,Deth_03
+Peroulak,C2,3,Deth,17/9/2023,Tarmac,Championship,8,679.52,635.88,Deth_03
+Gerodimo,C2,3,Deth,17/9/2023,Tarmac,Championship,9,681.15,635.88,Deth_03
+Konstant,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,10,684.97,635.88,Deth_03
+Argiriou,C2,3,Deth,17/9/2023,Tarmac,Championship,11,689.32,635.88,Deth_03
+Sotiriad,C2,3,Deth,17/9/2023,Tarmac,Championship,12,700.53,635.88,Deth_03
+Baxevana,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,13,711.67,635.88,Deth_03
+Katsioni,C4 F2,3,Deth,17/9/2023,Tarmac,Championship,14,718.54,635.88,Deth_03
+Stergiad,C5 F2,3,Deth,17/9/2023,Tarmac,Championship,15,721.28,635.88,Deth_03
+Vatsos N,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,16,723.26,635.88,Deth_03
+Perakis ,C4 F2,3,Deth,17/9/2023,Tarmac,Championship,17,724.73,635.88,Deth_03
+Koutsodi,C6 F2,3,Deth,17/9/2023,Tarmac,Championship,18,738.03,635.88,Deth_03
+Anagnost,C4 F2,3,Deth,17/9/2023,Tarmac,Championship,19,741.03,635.88,Deth_03
+Karagioz,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,20,744.95,635.88,Deth_03
+Avramidi,C6,3,Deth,17/9/2023,Tarmac,Championship,21,748.19,635.88,Deth_03
+Tassos V,C2,3,Deth,17/9/2023,Tarmac,Championship,22,750.36,635.88,Deth_03
+Maragaki,C6 F2,3,Deth,17/9/2023,Tarmac,Championship,23,758.73,635.88,Deth_03
+Massiala,C6 F2,3,Deth,17/9/2023,Tarmac,Championship,24,779.68,635.88,Deth_03
+Pazis So,C6 F2,3,Deth,17/9/2023,Tarmac,Championship,25,784.79,635.88,Deth_03
+Partalio,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,26,788.14,635.88,Deth_03
+Manousko,C6 F2,3,Deth,17/9/2023,Tarmac,Championship,27,791.47,635.88,Deth_03
+Rakitzis,C5 F2,3,Deth,17/9/2023,Tarmac,Championship,28,831.2,635.88,Deth_03
+Bais Gio,C6 F2,3,Deth,17/9/2023,Tarmac,Championship,29,833.86,635.88,Deth_03
+Tsakirog,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,30,876.68,635.88,Deth_03
+Vezyris ,C6 F2,3,Deth,17/9/2023,Tarmac,Championship,31,921.29,635.88,Deth_03
+Koukas S,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,32,923.61,635.88,Deth_03
+Anastass,C6 F2,3,Deth,17/9/2023,Tarmac,Championship,33,924.62,635.88,Deth_03
+Angelidi,C3 F2,3,Deth,17/9/2023,Tarmac,Championship,34,1039.3,635.88,Deth_03
+Tsolakid,C1,4,Deth,17/9/2023,Tarmac,Championship,1,835.21,835.21,Deth_04
+Anapolio,C1,4,Deth,17/9/2023,Tarmac,Championship,2,841.01,835.21,Deth_04
+Aligizak,C1,4,Deth,17/9/2023,Tarmac,Championship,3,842.23,835.21,Deth_04
+Ieremiad,C1,4,Deth,17/9/2023,Tarmac,Championship,4,861.68,835.21,Deth_04
+Moschos ,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,5,878.87,835.21,Deth_04
+Argiriou,C2,4,Deth,17/9/2023,Tarmac,Championship,6,882.3,835.21,Deth_04
+Brozos F,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,7,885.35,835.21,Deth_04
+Peroulak,C2,4,Deth,17/9/2023,Tarmac,Championship,8,886.04,835.21,Deth_04
+Konstant,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,9,890.55,835.21,Deth_04
+Gerodimo,C2,4,Deth,17/9/2023,Tarmac,Championship,10,895.4,835.21,Deth_04
+Sotiriad,C2,4,Deth,17/9/2023,Tarmac,Championship,11,916.65,835.21,Deth_04
+Katsioni,C4 F2,4,Deth,17/9/2023,Tarmac,Championship,12,935.46,835.21,Deth_04
+Stergiad,C5 F2,4,Deth,17/9/2023,Tarmac,Championship,13,935.6,835.21,Deth_04
+Baxevana,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,14,944.66,835.21,Deth_04
+Perakis ,C4 F2,4,Deth,17/9/2023,Tarmac,Championship,15,945.57,835.21,Deth_04
+Vatsos N,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,16,947.24,835.21,Deth_04
+Koutsodi,C6 F2,4,Deth,17/9/2023,Tarmac,Championship,17,947.33,835.21,Deth_04
+Anagnost,C4 F2,4,Deth,17/9/2023,Tarmac,Championship,18,956.72,835.21,Deth_04
+Tassos V,C2,4,Deth,17/9/2023,Tarmac,Championship,19,970.85,835.21,Deth_04
+Karagioz,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,20,985.6,835.21,Deth_04
+Massiala,C6 F2,4,Deth,17/9/2023,Tarmac,Championship,21,1011.11,835.21,Deth_04
+Pazis So,C6 F2,4,Deth,17/9/2023,Tarmac,Championship,22,1021.27,835.21,Deth_04
+Manousko,C6 F2,4,Deth,17/9/2023,Tarmac,Championship,23,1023.89,835.21,Deth_04
+Avramidi,C6,4,Deth,17/9/2023,Tarmac,Championship,24,1026.45,835.21,Deth_04
+Partalio,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,25,1036.19,835.21,Deth_04
+Angelidi,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,26,1088.03,835.21,Deth_04
+Rakitzis,C5 F2,4,Deth,17/9/2023,Tarmac,Championship,27,1100.68,835.21,Deth_04
+Tsakirog,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,28,1199.75,835.21,Deth_04
+Koukas S,C3 F2,4,Deth,17/9/2023,Tarmac,Championship,29,1222.5,835.21,Deth_04
+Anastass,C6 F2,4,Deth,17/9/2023,Tarmac,Championship,30,1257.7,835.21,Deth_04
+Vezyris ,C6 F2,4,Deth,17/9/2023,Tarmac,Championship,31,1258.03,835.21,Deth_04
+Tsouloft,C1,1,Livadia,2/4/2023,Gravel,cup,1,568.07,568.07,Livadia_01
+Panteli ,C1,1,Livadia,2/4/2023,Gravel,cup,2,599.66,568.07,Livadia_01
+Paradiss,C2,1,Livadia,2/4/2023,Gravel,cup,3,624.29,568.07,Livadia_01
+Panteli ,C5 F2,1,Livadia,2/4/2023,Gravel,cup,4,643.31,568.07,Livadia_01
+Tsakalos,C5 F2,1,Livadia,2/4/2023,Gravel,cup,5,654.93,568.07,Livadia_01
+Davaris ,C2,1,Livadia,2/4/2023,Gravel,cup,6,668.3,568.07,Livadia_01
+Antoniou,C3 F2,1,Livadia,2/4/2023,Gravel,cup,7,669.57,568.07,Livadia_01
+Christod,C2,1,Livadia,2/4/2023,Gravel,cup,8,677.38,568.07,Livadia_01
+Amoutzas,C3 F2,1,Livadia,2/4/2023,Gravel,cup,9,682.1,568.07,Livadia_01
+Agathokl,C3 F2,1,Livadia,2/4/2023,Gravel,cup,10,688.96,568.07,Livadia_01
+Chatziga,C3 F2,1,Livadia,2/4/2023,Gravel,cup,11,690.67,568.07,Livadia_01
+Delaport,C5 F2,1,Livadia,2/4/2023,Gravel,cup,12,698.46,568.07,Livadia_01
+Christod,4,1,Livadia,2/4/2023,Gravel,cup,13,699.13,568.07,Livadia_01
+Rigas Gi,C3 F2,1,Livadia,2/4/2023,Gravel,cup,14,702.0,568.07,Livadia_01
+Halivela,3 2000,1,Livadia,2/4/2023,Gravel,cup,15,703.62,568.07,Livadia_01
+Xanthako,C2,1,Livadia,2/4/2023,Gravel,cup,16,707.6,568.07,Livadia_01
+Paradiss,3 2000,1,Livadia,2/4/2023,Gravel,cup,17,709.46,568.07,Livadia_01
+Halkias ,3 2000,1,Livadia,2/4/2023,Gravel,cup,18,710.72,568.07,Livadia_01
+Athanaso,C5 F2,1,Livadia,2/4/2023,Gravel,cup,19,710.8,568.07,Livadia_01
+Manetas ,C4 F2,1,Livadia,2/4/2023,Gravel,cup,20,712.15,568.07,Livadia_01
+Berssis ,T,1,Livadia,2/4/2023,Gravel,cup,21,713.07,568.07,Livadia_01
+Amaxopou,2 1600,1,Livadia,2/4/2023,Gravel,cup,22,716.23,568.07,Livadia_01
+Basdelis,C3 F2,1,Livadia,2/4/2023,Gravel,cup,23,722.94,568.07,Livadia_01
+Kalamara,C3 F2,1,Livadia,2/4/2023,Gravel,cup,24,727.97,568.07,Livadia_01
+Avgeris ,C3 F2,1,Livadia,2/4/2023,Gravel,cup,25,731.49,568.07,Livadia_01
+Koutsiko,3 1300,1,Livadia,2/4/2023,Gravel,cup,26,734.76,568.07,Livadia_01
+Gazetas ,C6 F2,1,Livadia,2/4/2023,Gravel,cup,27,737.3,568.07,Livadia_01
+Kassidop,3 1300,1,Livadia,2/4/2023,Gravel,cup,28,740.38,568.07,Livadia_01
+Vorrias ,T1,1,Livadia,2/4/2023,Gravel,cup,29,740.93,568.07,Livadia_01
+Manousko,C6 F2,1,Livadia,2/4/2023,Gravel,cup,30,742.66,568.07,Livadia_01
+Vassilop,2 2000,1,Livadia,2/4/2023,Gravel,cup,31,747.93,568.07,Livadia_01
+Giannako,C6 F2,1,Livadia,2/4/2023,Gravel,cup,32,749.18,568.07,Livadia_01
+Mavragan,C4 F2,1,Livadia,2/4/2023,Gravel,cup,33,752.43,568.07,Livadia_01
+Englezos,C6 F2,1,Livadia,2/4/2023,Gravel,cup,34,755.5,568.07,Livadia_01
+Kanellop,C3 F2,1,Livadia,2/4/2023,Gravel,cup,35,764.07,568.07,Livadia_01
+Kotsadam,C6 F2,1,Livadia,2/4/2023,Gravel,cup,36,765.15,568.07,Livadia_01
+Pavli Ma,C6 F2,1,Livadia,2/4/2023,Gravel,cup,37,765.35,568.07,Livadia_01
+Dodos Gi,4 1600,1,Livadia,2/4/2023,Gravel,cup,38,770.51,568.07,Livadia_01
+Bakas Al,C5 F2,1,Livadia,2/4/2023,Gravel,cup,39,770.75,568.07,Livadia_01
+Kourtess,C6 F2,1,Livadia,2/4/2023,Gravel,cup,40,772.31,568.07,Livadia_01
+Melas D.,2,1,Livadia,2/4/2023,Gravel,cup,41,772.65,568.07,Livadia_01
+Koutsouk,C4 F2,1,Livadia,2/4/2023,Gravel,cup,42,776.82,568.07,Livadia_01
+Dedegika,3 2000,1,Livadia,2/4/2023,Gravel,cup,43,779.34,568.07,Livadia_01
+Kofinas ,4 1600,1,Livadia,2/4/2023,Gravel,cup,44,788.35,568.07,Livadia_01
+Papandre,4 1300,1,Livadia,2/4/2023,Gravel,cup,45,794.79,568.07,Livadia_01
+Kansos P,4 2000,1,Livadia,2/4/2023,Gravel,cup,46,830.9,568.07,Livadia_01
+Papadopo,C5 F2,1,Livadia,2/4/2023,Gravel,cup,47,861.44,568.07,Livadia_01
+Ita Vita,C5 F2,1,Livadia,2/4/2023,Gravel,cup,48,864.6,568.07,Livadia_01
+Ismailos,C2,1,Livadia,2/4/2023,Gravel,cup,49,1020.77,568.07,Livadia_01
+Tsouloft,C1,2,Livadia,2/4/2023,Gravel,cup,1,559.87,559.87,Livadia_02
+Panteli ,C1,2,Livadia,2/4/2023,Gravel,cup,2,586.6,559.87,Livadia_02
+Paradiss,C2,2,Livadia,2/4/2023,Gravel,cup,3,610.07,559.87,Livadia_02
+Ismailos,C2,2,Livadia,2/4/2023,Gravel,cup,4,615.8,559.87,Livadia_02
+Panteli ,C5 F2,2,Livadia,2/4/2023,Gravel,cup,5,626.0,559.87,Livadia_02
+Tsakalos,C5 F2,2,Livadia,2/4/2023,Gravel,cup,6,646.44,559.87,Livadia_02
+Christod,C2,2,Livadia,2/4/2023,Gravel,cup,7,647.48,559.87,Livadia_02
+Antoniou,C3 F2,2,Livadia,2/4/2023,Gravel,cup,8,652.64,559.87,Livadia_02
+Amoutzas,C3 F2,2,Livadia,2/4/2023,Gravel,cup,9,656.35,559.87,Livadia_02
+Davaris ,C2,2,Livadia,2/4/2023,Gravel,cup,10,656.41,559.87,Livadia_02
+Delaport,C5 F2,2,Livadia,2/4/2023,Gravel,cup,11,656.8,559.87,Livadia_02
+Chatziga,C3 F2,2,Livadia,2/4/2023,Gravel,cup,12,671.36,559.87,Livadia_02
+Christod,4,2,Livadia,2/4/2023,Gravel,cup,13,679.53,559.87,Livadia_02
+Athanaso,C5 F2,2,Livadia,2/4/2023,Gravel,cup,14,680.89,559.87,Livadia_02
+Manetas ,C4 F2,2,Livadia,2/4/2023,Gravel,cup,15,681.04,559.87,Livadia_02
+Agathokl,C3 F2,2,Livadia,2/4/2023,Gravel,cup,16,685.23,559.87,Livadia_02
+Manousko,C6 F2,2,Livadia,2/4/2023,Gravel,cup,17,689.04,559.87,Livadia_02
+Vorrias ,T1,2,Livadia,2/4/2023,Gravel,cup,18,691.16,559.87,Livadia_02
+Paradiss,3 2000,2,Livadia,2/4/2023,Gravel,cup,19,693.92,559.87,Livadia_02
+Englezos,C6 F2,2,Livadia,2/4/2023,Gravel,cup,20,697.02,559.87,Livadia_02
+Kalamara,C3 F2,2,Livadia,2/4/2023,Gravel,cup,21,699.03,559.87,Livadia_02
+Kanellop,C3 F2,2,Livadia,2/4/2023,Gravel,cup,22,699.05,559.87,Livadia_02
+Gazetas ,C6 F2,2,Livadia,2/4/2023,Gravel,cup,23,700.5,559.87,Livadia_02
+Berssis ,T,2,Livadia,2/4/2023,Gravel,cup,24,701.66,559.87,Livadia_02
+Basdelis,C3 F2,2,Livadia,2/4/2023,Gravel,cup,25,702.22,559.87,Livadia_02
+Amaxopou,2 1600,2,Livadia,2/4/2023,Gravel,cup,26,704.33,559.87,Livadia_02
+Halivela,3 2000,2,Livadia,2/4/2023,Gravel,cup,27,706.23,559.87,Livadia_02
+Melas D.,2,2,Livadia,2/4/2023,Gravel,cup,28,716.9,559.87,Livadia_02
+Kotsadam,C6 F2,2,Livadia,2/4/2023,Gravel,cup,29,718.85,559.87,Livadia_02
+Mavragan,C4 F2,2,Livadia,2/4/2023,Gravel,cup,30,720.17,559.87,Livadia_02
+Halkias ,3 2000,2,Livadia,2/4/2023,Gravel,cup,31,720.95,559.87,Livadia_02
+Kourtess,C6 F2,2,Livadia,2/4/2023,Gravel,cup,32,732.39,559.87,Livadia_02
+Kassidop,3 1300,2,Livadia,2/4/2023,Gravel,cup,33,733.26,559.87,Livadia_02
+Koutsiko,3 1300,2,Livadia,2/4/2023,Gravel,cup,34,736.67,559.87,Livadia_02
+Dedegika,3 2000,2,Livadia,2/4/2023,Gravel,cup,35,744.99,559.87,Livadia_02
+Koutsouk,C4 F2,2,Livadia,2/4/2023,Gravel,cup,36,745.3,559.87,Livadia_02
+Dodos Gi,4 1600,2,Livadia,2/4/2023,Gravel,cup,37,748.14,559.87,Livadia_02
+Vassilop,2 2000,2,Livadia,2/4/2023,Gravel,cup,38,753.67,559.87,Livadia_02
+Kofinas ,4 1600,2,Livadia,2/4/2023,Gravel,cup,39,755.86,559.87,Livadia_02
+Pavli Ma,C6 F2,2,Livadia,2/4/2023,Gravel,cup,40,756.83,559.87,Livadia_02
+Papadopo,C5 F2,2,Livadia,2/4/2023,Gravel,cup,41,760.19,559.87,Livadia_02
+Kansos P,4 2000,2,Livadia,2/4/2023,Gravel,cup,42,838.38,559.87,Livadia_02
+Xanthako,C2,2,Livadia,2/4/2023,Gravel,cup,43,843.34,559.87,Livadia_02
+Ita Vita,C5 F2,2,Livadia,2/4/2023,Gravel,cup,44,1313.87,559.87,Livadia_02
+Giannako,C6 F2,2,Livadia,2/4/2023,Gravel,cup,45,1440.0,559.87,Livadia_02
+Tsouloft,C1,3,Livadia,2/4/2023,Gravel,cup,1,564.22,564.22,Livadia_03
+Panteli ,C1,3,Livadia,2/4/2023,Gravel,cup,2,590.43,564.22,Livadia_03
+Paradiss,C2,3,Livadia,2/4/2023,Gravel,cup,3,605.54,564.22,Livadia_03
+Ismailos,C2,3,Livadia,2/4/2023,Gravel,cup,4,611.2,564.22,Livadia_03
+Panteli ,C5 F2,3,Livadia,2/4/2023,Gravel,cup,5,620.36,564.22,Livadia_03
+Tsakalos,C5 F2,3,Livadia,2/4/2023,Gravel,cup,6,638.32,564.22,Livadia_03
+Christod,C2,3,Livadia,2/4/2023,Gravel,cup,7,642.73,564.22,Livadia_03
+Davaris ,C2,3,Livadia,2/4/2023,Gravel,cup,8,654.67,564.22,Livadia_03
+Delaport,C5 F2,3,Livadia,2/4/2023,Gravel,cup,9,657.52,564.22,Livadia_03
+Agathokl,C3 F2,3,Livadia,2/4/2023,Gravel,cup,10,665.83,564.22,Livadia_03
+Chatziga,C3 F2,3,Livadia,2/4/2023,Gravel,cup,11,673.21,564.22,Livadia_03
+Amoutzas,C3 F2,3,Livadia,2/4/2023,Gravel,cup,12,673.25,564.22,Livadia_03
+Halivela,3 2000,3,Livadia,2/4/2023,Gravel,cup,13,677.37,564.22,Livadia_03
+Athanaso,C5 F2,3,Livadia,2/4/2023,Gravel,cup,14,678.87,564.22,Livadia_03
+Christod,4,3,Livadia,2/4/2023,Gravel,cup,15,681.03,564.22,Livadia_03
+Manetas ,C4 F2,3,Livadia,2/4/2023,Gravel,cup,16,681.12,564.22,Livadia_03
+Manousko,C6 F2,3,Livadia,2/4/2023,Gravel,cup,17,682.25,564.22,Livadia_03
+Basdelis,C3 F2,3,Livadia,2/4/2023,Gravel,cup,18,683.8,564.22,Livadia_03
+Amaxopou,2 1600,3,Livadia,2/4/2023,Gravel,cup,19,694.25,564.22,Livadia_03
+Paradiss,3 2000,3,Livadia,2/4/2023,Gravel,cup,20,696.45,564.22,Livadia_03
+Dedegika,3 2000,3,Livadia,2/4/2023,Gravel,cup,21,699.65,564.22,Livadia_03
+Kanellop,C3 F2,3,Livadia,2/4/2023,Gravel,cup,22,700.08,564.22,Livadia_03
+Kalamara,C3 F2,3,Livadia,2/4/2023,Gravel,cup,23,705.18,564.22,Livadia_03
+Melas D.,2,3,Livadia,2/4/2023,Gravel,cup,24,705.55,564.22,Livadia_03
+Mavragan,C4 F2,3,Livadia,2/4/2023,Gravel,cup,25,707.57,564.22,Livadia_03
+Koutsiko,3 1300,3,Livadia,2/4/2023,Gravel,cup,26,708.34,564.22,Livadia_03
+Kassidop,3 1300,3,Livadia,2/4/2023,Gravel,cup,27,719.54,564.22,Livadia_03
+Kourtess,C6 F2,3,Livadia,2/4/2023,Gravel,cup,28,722.98,564.22,Livadia_03
+Englezos,C6 F2,3,Livadia,2/4/2023,Gravel,cup,29,725.14,564.22,Livadia_03
+Kotsadam,C6 F2,3,Livadia,2/4/2023,Gravel,cup,30,727.38,564.22,Livadia_03
+Koutsouk,C4 F2,3,Livadia,2/4/2023,Gravel,cup,31,736.34,564.22,Livadia_03
+Antoniou,C3 F2,3,Livadia,2/4/2023,Gravel,cup,32,746.82,564.22,Livadia_03
+Pavli Ma,C6 F2,3,Livadia,2/4/2023,Gravel,cup,33,746.85,564.22,Livadia_03
+Kofinas ,4 1600,3,Livadia,2/4/2023,Gravel,cup,34,750.08,564.22,Livadia_03
+Dodos Gi,4 1600,3,Livadia,2/4/2023,Gravel,cup,35,758.71,564.22,Livadia_03
+Vassilop,2 2000,3,Livadia,2/4/2023,Gravel,cup,36,760.12,564.22,Livadia_03
+Kansos P,4 2000,3,Livadia,2/4/2023,Gravel,cup,37,838.39,564.22,Livadia_03
 Anapolio,C1,1,Fthiotidas_T,1/7/2023,Tarmac,Championship,1,941.22,941.22,Fthiotidas_T_01
 Papadimi,C1,1,Fthiotidas_T,1/7/2023,Tarmac,Championship,2,958.54,941.22,Fthiotidas_T_01
 Aligizak,C1,1,Fthiotidas_T,1/7/2023,Tarmac,Championship,3,961.56,941.22,Fthiotidas_T_01
@@ -665,6 +1038,282 @@ Georgako,4 -1600,4,Fthiotidas_T,1/7/2023,Tarmac,Championship,40,555.1,411.5,Fthi
 Mitropou,2 2000,4,Fthiotidas_T,1/7/2023,Tarmac,Championship,41,568.74,411.5,Fthiotidas_T_04
 Manousko,C6 F2,4,Fthiotidas_T,1/7/2023,Tarmac,Championship,42,656.45,411.5,Fthiotidas_T_04
 Anagnost,C4 F2,4,Fthiotidas_T,1/7/2023,Tarmac,Championship,43,657.42,411.5,Fthiotidas_T_04
+Tsouloft,C1,1,Stereas,4/6/2023,Gravel,Championship,1,183.52,183.52,Stereas_01
+Papadimi,C1,1,Stereas,4/6/2023,Gravel,Championship,2,185.68,183.52,Stereas_01
+Kehagias,C1,1,Stereas,4/6/2023,Gravel,Championship,3,192.79,183.52,Stereas_01
+Kirkos P,C2,1,Stereas,4/6/2023,Gravel,Championship,4,197.1,183.52,Stereas_01
+Panteli ,C1,1,Stereas,4/6/2023,Gravel,Championship,5,199.7,183.52,Stereas_01
+Serderid,C1,1,Stereas,4/6/2023,Gravel,Championship,6,200.83,183.52,Stereas_01
+Polykarp,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,7,203.18,183.52,Stereas_01
+Lefkadit,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,8,205.16,183.52,Stereas_01
+Dimopoul,C4 F2,1,Stereas,4/6/2023,Gravel,Championship,9,211.01,183.52,Stereas_01
+Karaniko,C5 F2,1,Stereas,4/6/2023,Gravel,Championship,10,213.28,183.52,Stereas_01
+Chatzima,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,11,213.4,183.52,Stereas_01
+Stamatop,C2,1,Stereas,4/6/2023,Gravel,Championship,12,216.27,183.52,Stereas_01
+Nicolaou,C2,1,Stereas,4/6/2023,Gravel,Championship,13,218.39,183.52,Stereas_01
+Vassilak,C1,1,Stereas,4/6/2023,Gravel,Championship,14,218.5,183.52,Stereas_01
+Kafantar,C2,1,Stereas,4/6/2023,Gravel,Championship,15,218.86,183.52,Stereas_01
+Amoutzas,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,16,221.23,183.52,Stereas_01
+Zygogian,C2,1,Stereas,4/6/2023,Gravel,Championship,17,221.24,183.52,Stereas_01
+Halivela,3 2000,1,Stereas,4/6/2023,Gravel,Championship,18,226.24,183.52,Stereas_01
+Giotis I,C4 F2,1,Stereas,4/6/2023,Gravel,Championship,19,227.92,183.52,Stereas_01
+Davaris ,C2,1,Stereas,4/6/2023,Gravel,Championship,20,229.37,183.52,Stereas_01
+J.J.  - ,C1,1,Stereas,4/6/2023,Gravel,Championship,21,230.22,183.52,Stereas_01
+Milonas ,C4 F2,1,Stereas,4/6/2023,Gravel,Championship,22,230.86,183.52,Stereas_01
+Pantiera,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,23,233.5,183.52,Stereas_01
+Chatziga,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,24,234.63,183.52,Stereas_01
+Christod,4 2000,1,Stereas,4/6/2023,Gravel,Championship,25,234.78,183.52,Stereas_01
+Rigas Gi,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,26,235.17,183.52,Stereas_01
+Manousko,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,27,235.91,183.52,Stereas_01
+Amaxopou,2 -1600,1,Stereas,4/6/2023,Gravel,Championship,28,241.08,183.52,Stereas_01
+Tsalamat,3 2000,1,Stereas,4/6/2023,Gravel,Championship,29,242.07,183.52,Stereas_01
+Melas D.,2,1,Stereas,4/6/2023,Gravel,Championship,30,242.46,183.52,Stereas_01
+Nomikos ,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,31,242.98,183.52,Stereas_01
+Argiriou,C4 F2,1,Stereas,4/6/2023,Gravel,Championship,32,243.92,183.52,Stereas_01
+Stavropo,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,33,244.69,183.52,Stereas_01
+Kalamara,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,34,244.74,183.52,Stereas_01
+Halkias ,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,35,245.83,183.52,Stereas_01
+Paradiss,3 2000,1,Stereas,4/6/2023,Gravel,Championship,36,246.79,183.52,Stereas_01
+Sotiropo,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,37,248.21,183.52,Stereas_01
+Kofinas ,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,38,250.06,183.52,Stereas_01
+Papadimi,4 2000,1,Stereas,4/6/2023,Gravel,Championship,39,251.17,183.52,Stereas_01
+Kalaitzi,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,40,251.64,183.52,Stereas_01
+Athanaso,3 -1600,1,Stereas,4/6/2023,Gravel,Championship,41,253.37,183.52,Stereas_01
+Delaport,C5 F2,1,Stereas,4/6/2023,Gravel,Championship,42,254.59,183.52,Stereas_01
+Dodos Gi,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,43,255.16,183.52,Stereas_01
+Yiangou ,C2,1,Stereas,4/6/2023,Gravel,Championship,44,256.93,183.52,Stereas_01
+Giokaris,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,45,260.25,183.52,Stereas_01
+Georgako,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,46,260.94,183.52,Stereas_01
+Panagiot,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,47,262.68,183.52,Stereas_01
+Yfantis ,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,48,262.74,183.52,Stereas_01
+Manoussa,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,49,264.09,183.52,Stereas_01
+Kotsopou,4 2000,1,Stereas,4/6/2023,Gravel,Championship,50,268.34,183.52,Stereas_01
+Kassidop,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,51,270.21,183.52,Stereas_01
+Vassilop,2 2000,1,Stereas,4/6/2023,Gravel,Championship,52,279.26,183.52,Stereas_01
+Antonopo,3 2000,1,Stereas,4/6/2023,Gravel,Championship,53,292.48,183.52,Stereas_01
+Andrikop,C5 F2,1,Stereas,4/6/2023,Gravel,Championship,54,293.13,183.52,Stereas_01
+Kansos P,4 2000,1,Stereas,4/6/2023,Gravel,Championship,55,310.2,183.52,Stereas_01
+Papadimi,C1,2,Stereas,4/6/2023,Gravel,Championship,1,658.94,658.94,Stereas_02
+Kehagias,C1,2,Stereas,4/6/2023,Gravel,Championship,2,687.41,658.94,Stereas_02
+Panteli ,C1,2,Stereas,4/6/2023,Gravel,Championship,3,702.42,658.94,Stereas_02
+Serderid,C1,2,Stereas,4/6/2023,Gravel,Championship,4,708.13,658.94,Stereas_02
+Kirkos P,C2,2,Stereas,4/6/2023,Gravel,Championship,5,715.73,658.94,Stereas_02
+Polykarp,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,6,720.35,658.94,Stereas_02
+Chatzima,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,7,733.44,658.94,Stereas_02
+Lefkadit,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,8,738.39,658.94,Stereas_02
+J.J.  - ,C1,2,Stereas,4/6/2023,Gravel,Championship,9,743.89,658.94,Stereas_02
+Dimopoul,C4 F2,2,Stereas,4/6/2023,Gravel,Championship,10,761.18,658.94,Stereas_02
+Nicolaou,C2,2,Stereas,4/6/2023,Gravel,Championship,11,763.4,658.94,Stereas_02
+Amoutzas,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,12,778.77,658.94,Stereas_02
+Zygogian,C2,2,Stereas,4/6/2023,Gravel,Championship,13,786.27,658.94,Stereas_02
+Stamatop,C2,2,Stereas,4/6/2023,Gravel,Championship,14,797.94,658.94,Stereas_02
+Halivela,3 2000,2,Stereas,4/6/2023,Gravel,Championship,15,799.07,658.94,Stereas_02
+Giotis I,C4 F2,2,Stereas,4/6/2023,Gravel,Championship,16,801.45,658.94,Stereas_02
+Vassilak,C1,2,Stereas,4/6/2023,Gravel,Championship,17,803.52,658.94,Stereas_02
+Christod,4 2000,2,Stereas,4/6/2023,Gravel,Championship,18,812.91,658.94,Stereas_02
+Delaport,C5 F2,2,Stereas,4/6/2023,Gravel,Championship,19,817.28,658.94,Stereas_02
+Milonas ,C4 F2,2,Stereas,4/6/2023,Gravel,Championship,20,826.37,658.94,Stereas_02
+Chatziga,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,21,826.39,658.94,Stereas_02
+Papadimi,4 2000,2,Stereas,4/6/2023,Gravel,Championship,22,827.05,658.94,Stereas_02
+Davaris ,C2,2,Stereas,4/6/2023,Gravel,Championship,23,830.36,658.94,Stereas_02
+Paradiss,3 2000,2,Stereas,4/6/2023,Gravel,Championship,24,836.64,658.94,Stereas_02
+Halkias ,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,25,839.96,658.94,Stereas_02
+Melas D.,2,2,Stereas,4/6/2023,Gravel,Championship,26,840.07,658.94,Stereas_02
+Tsouloft,C1,2,Stereas,4/6/2023,Gravel,Championship,27,840.45,658.94,Stereas_02
+Panagiot,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,28,842.34,658.94,Stereas_02
+Amaxopou,2 -1600,2,Stereas,4/6/2023,Gravel,Championship,29,843.74,658.94,Stereas_02
+Rigas Gi,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,30,844.36,658.94,Stereas_02
+Stavropo,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,31,849.33,658.94,Stereas_02
+Manousko,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,32,860.13,658.94,Stereas_02
+Sotiropo,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,33,860.79,658.94,Stereas_02
+Athanaso,3 -1600,2,Stereas,4/6/2023,Gravel,Championship,34,861.06,658.94,Stereas_02
+Giokaris,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,35,869.66,658.94,Stereas_02
+Tsalamat,3 2000,2,Stereas,4/6/2023,Gravel,Championship,36,869.71,658.94,Stereas_02
+Yiangou ,C2,2,Stereas,4/6/2023,Gravel,Championship,37,870.22,658.94,Stereas_02
+Yfantis ,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,38,871.2,658.94,Stereas_02
+Nomikos ,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,39,884.68,658.94,Stereas_02
+Georgako,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,40,885.95,658.94,Stereas_02
+Kalamara,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,41,890.58,658.94,Stereas_02
+Kofinas ,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,42,890.72,658.94,Stereas_02
+Dodos Gi,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,43,904.61,658.94,Stereas_02
+Kalaitzi,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,44,923.79,658.94,Stereas_02
+Vassilop,2 2000,2,Stereas,4/6/2023,Gravel,Championship,45,950.72,658.94,Stereas_02
+Kassidop,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,46,952.17,658.94,Stereas_02
+Manoussa,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,47,959.38,658.94,Stereas_02
+Andrikop,C5 F2,2,Stereas,4/6/2023,Gravel,Championship,48,1009.32,658.94,Stereas_02
+Kotsopou,4 2000,2,Stereas,4/6/2023,Gravel,Championship,49,1037.44,658.94,Stereas_02
+Kansos P,4 2000,2,Stereas,4/6/2023,Gravel,Championship,50,1062.51,658.94,Stereas_02
+Antonopo,3 2000,2,Stereas,4/6/2023,Gravel,Championship,51,1160.34,658.94,Stereas_02
+Tsouloft,C1,3,Stereas,4/6/2023,Gravel,Championship,1,969.58,969.58,Stereas_03
+Kehagias,C1,3,Stereas,4/6/2023,Gravel,Championship,2,992.13,969.58,Stereas_03
+Papadimi,C1,3,Stereas,4/6/2023,Gravel,Championship,3,998.39,969.58,Stereas_03
+Serderid,C1,3,Stereas,4/6/2023,Gravel,Championship,4,1024.71,969.58,Stereas_03
+Kirkos P,C2,3,Stereas,4/6/2023,Gravel,Championship,5,1036.08,969.58,Stereas_03
+Panteli ,C1,3,Stereas,4/6/2023,Gravel,Championship,6,1063.42,969.58,Stereas_03
+J.J.  - ,C1,3,Stereas,4/6/2023,Gravel,Championship,7,1070.77,969.58,Stereas_03
+Chatzima,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,8,1091.29,969.58,Stereas_03
+Lefkadit,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,9,1102.62,969.58,Stereas_03
+Zygogian,C2,3,Stereas,4/6/2023,Gravel,Championship,10,1128.28,969.58,Stereas_03
+Amoutzas,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,11,1130.19,969.58,Stereas_03
+Dimopoul,C4 F2,3,Stereas,4/6/2023,Gravel,Championship,12,1143.1,969.58,Stereas_03
+Stamatop,C2,3,Stereas,4/6/2023,Gravel,Championship,13,1154.27,969.58,Stereas_03
+Davaris ,C2,3,Stereas,4/6/2023,Gravel,Championship,14,1161.96,969.58,Stereas_03
+Milonas ,C4 F2,3,Stereas,4/6/2023,Gravel,Championship,15,1169.93,969.58,Stereas_03
+Delaport,C5 F2,3,Stereas,4/6/2023,Gravel,Championship,16,1174.71,969.58,Stereas_03
+Christod,4 2000,3,Stereas,4/6/2023,Gravel,Championship,17,1188.79,969.58,Stereas_03
+Nicolaou,C2,3,Stereas,4/6/2023,Gravel,Championship,18,1195.46,969.58,Stereas_03
+Chatziga,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,19,1199.18,969.58,Stereas_03
+Manousko,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,20,1201.39,969.58,Stereas_03
+Rigas Gi,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,21,1206.61,969.58,Stereas_03
+Halivela,3 2000,3,Stereas,4/6/2023,Gravel,Championship,22,1208.09,969.58,Stereas_03
+Vassilak,C1,3,Stereas,4/6/2023,Gravel,Championship,23,1209.57,969.58,Stereas_03
+Giotis I,C4 F2,3,Stereas,4/6/2023,Gravel,Championship,24,1210.83,969.58,Stereas_03
+Panagiot,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,25,1214.61,969.58,Stereas_03
+Kalamara,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,26,1217.28,969.58,Stereas_03
+Yfantis ,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,27,1217.61,969.58,Stereas_03
+Stavropo,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,28,1218.53,969.58,Stereas_03
+Tsalamat,3 2000,3,Stereas,4/6/2023,Gravel,Championship,29,1219.98,969.58,Stereas_03
+Melas D.,2,3,Stereas,4/6/2023,Gravel,Championship,30,1221.67,969.58,Stereas_03
+Halkias ,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,31,1244.23,969.58,Stereas_03
+Giokaris,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,32,1249.5,969.58,Stereas_03
+Papadimi,4 2000,3,Stereas,4/6/2023,Gravel,Championship,33,1251.44,969.58,Stereas_03
+Athanaso,3 -1600,3,Stereas,4/6/2023,Gravel,Championship,34,1258.89,969.58,Stereas_03
+Georgako,4 -1600,3,Stereas,4/6/2023,Gravel,Championship,35,1266.55,969.58,Stereas_03
+Amaxopou,2 -1600,3,Stereas,4/6/2023,Gravel,Championship,36,1276.32,969.58,Stereas_03
+Kassidop,4 -1600,3,Stereas,4/6/2023,Gravel,Championship,37,1282.46,969.58,Stereas_03
+Kofinas ,4 -1600,3,Stereas,4/6/2023,Gravel,Championship,38,1299.07,969.58,Stereas_03
+Yiangou ,C2,3,Stereas,4/6/2023,Gravel,Championship,39,1329.49,969.58,Stereas_03
+Vassilop,2 2000,3,Stereas,4/6/2023,Gravel,Championship,40,1369.35,969.58,Stereas_03
+Kotsopou,4 2000,3,Stereas,4/6/2023,Gravel,Championship,41,1393.89,969.58,Stereas_03
+Kansos P,4 2000,3,Stereas,4/6/2023,Gravel,Championship,42,1465.59,969.58,Stereas_03
+Antonopo,3 2000,3,Stereas,4/6/2023,Gravel,Championship,43,1469.16,969.58,Stereas_03
+Andrikop,C5 F2,3,Stereas,4/6/2023,Gravel,Championship,44,1487.92,969.58,Stereas_03
+Sotiropo,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,45,1745.33,969.58,Stereas_03
+Dodos Gi,4 -1600,3,Stereas,4/6/2023,Gravel,Championship,46,1966.87,969.58,Stereas_03
+Tsouloft,C1,4,Stereas,4/6/2023,Gravel,Championship,1,642.51,642.51,Stereas_04
+Papadimi,C1,4,Stereas,4/6/2023,Gravel,Championship,2,671.27,642.51,Stereas_04
+Panteli ,C1,4,Stereas,4/6/2023,Gravel,Championship,3,691.43,642.51,Stereas_04
+Kirkos P,C2,4,Stereas,4/6/2023,Gravel,Championship,4,697.29,642.51,Stereas_04
+Chatzima,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,5,724.74,642.51,Stereas_04
+Lefkadit,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,6,729.16,642.51,Stereas_04
+J.J.  - ,C1,4,Stereas,4/6/2023,Gravel,Championship,7,746.24,642.51,Stereas_04
+Nicolaou,C2,4,Stereas,4/6/2023,Gravel,Championship,8,767.27,642.51,Stereas_04
+Zygogian,C2,4,Stereas,4/6/2023,Gravel,Championship,9,802.85,642.51,Stereas_04
+Giotis I,C4 F2,4,Stereas,4/6/2023,Gravel,Championship,10,811.66,642.51,Stereas_04
+Milonas ,C4 F2,4,Stereas,4/6/2023,Gravel,Championship,11,817.78,642.51,Stereas_04
+Serderid,C1,4,Stereas,4/6/2023,Gravel,Championship,12,819.39,642.51,Stereas_04
+Davaris ,C2,4,Stereas,4/6/2023,Gravel,Championship,13,836.81,642.51,Stereas_04
+Dimopoul,C4 F2,4,Stereas,4/6/2023,Gravel,Championship,14,839.06,642.51,Stereas_04
+Rigas Gi,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,15,839.16,642.51,Stereas_04
+Panagiot,C6 F2,4,Stereas,4/6/2023,Gravel,Championship,16,843.46,642.51,Stereas_04
+Manousko,C6 F2,4,Stereas,4/6/2023,Gravel,Championship,17,845.2,642.51,Stereas_04
+Stavropo,C6 F2,4,Stereas,4/6/2023,Gravel,Championship,18,847.2,642.51,Stereas_04
+Vassilak,C1,4,Stereas,4/6/2023,Gravel,Championship,19,855.07,642.51,Stereas_04
+Chatziga,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,20,864.15,642.51,Stereas_04
+Kalamara,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,21,873.01,642.51,Stereas_04
+Yiangou ,C2,4,Stereas,4/6/2023,Gravel,Championship,22,873.14,642.51,Stereas_04
+Yfantis ,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,23,875.24,642.51,Stereas_04
+Halkias ,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,24,876.25,642.51,Stereas_04
+Kehagias,C1,4,Stereas,4/6/2023,Gravel,Championship,25,909.11,642.51,Stereas_04
+Delaport,C5 F2,4,Stereas,4/6/2023,Gravel,Championship,26,997.7,642.51,Stereas_04
+Andrikop,C5 F2,4,Stereas,4/6/2023,Gravel,Championship,27,1057.83,642.51,Stereas_04
+Giokaris,C6 F2,4,Stereas,4/6/2023,Gravel,Championship,28,1111.59,642.51,Stereas_04
+Tsouloft,C1,5,Stereas,4/6/2023,Gravel,Championship,1,970.14,970.14,Stereas_05
+Kehagias,C1,5,Stereas,4/6/2023,Gravel,Championship,2,987.64,970.14,Stereas_05
+Papadimi,C1,5,Stereas,4/6/2023,Gravel,Championship,3,990.62,970.14,Stereas_05
+Kirkos P,C2,5,Stereas,4/6/2023,Gravel,Championship,4,1014.02,970.14,Stereas_05
+Serderid,C1,5,Stereas,4/6/2023,Gravel,Championship,5,1022.52,970.14,Stereas_05
+Panteli ,C1,5,Stereas,4/6/2023,Gravel,Championship,6,1026.4,970.14,Stereas_05
+J.J.  - ,C1,5,Stereas,4/6/2023,Gravel,Championship,7,1075.36,970.14,Stereas_05
+Nicolaou,C2,5,Stereas,4/6/2023,Gravel,Championship,8,1083.18,970.14,Stereas_05
+Chatzima,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,9,1088.19,970.14,Stereas_05
+Dimopoul,C4 F2,5,Stereas,4/6/2023,Gravel,Championship,10,1110.57,970.14,Stereas_05
+Zygogian,C2,5,Stereas,4/6/2023,Gravel,Championship,11,1116.76,970.14,Stereas_05
+Milonas ,C4 F2,5,Stereas,4/6/2023,Gravel,Championship,12,1165.32,970.14,Stereas_05
+Davaris ,C2,5,Stereas,4/6/2023,Gravel,Championship,13,1170.21,970.14,Stereas_05
+Manousko,C6 F2,5,Stereas,4/6/2023,Gravel,Championship,14,1185.78,970.14,Stereas_05
+Chatziga,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,15,1187.71,970.14,Stereas_05
+Giotis I,C4 F2,5,Stereas,4/6/2023,Gravel,Championship,16,1200.0,970.14,Stereas_05
+Panagiot,C6 F2,5,Stereas,4/6/2023,Gravel,Championship,17,1201.82,970.14,Stereas_05
+Yfantis ,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,18,1202.21,970.14,Stereas_05
+Stavropo,C6 F2,5,Stereas,4/6/2023,Gravel,Championship,19,1209.73,970.14,Stereas_05
+Kalamara,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,20,1217.51,970.14,Stereas_05
+Rigas Gi,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,21,1220.97,970.14,Stereas_05
+Delaport,C5 F2,5,Stereas,4/6/2023,Gravel,Championship,22,1227.75,970.14,Stereas_05
+Yiangou ,C2,5,Stereas,4/6/2023,Gravel,Championship,23,1287.92,970.14,Stereas_05
+Andrikop,C5 F2,5,Stereas,4/6/2023,Gravel,Championship,24,1412.87,970.14,Stereas_05
+Vassilak,C1,5,Stereas,4/6/2023,Gravel,Championship,25,1525.7,970.14,Stereas_05
+Giokaris,C6 F2,5,Stereas,4/6/2023,Gravel,Championship,26,1562.13,970.14,Stereas_05
+Halkias ,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,27,1635.75,970.14,Stereas_05
+Koukeas ,C1,1,Aigio,23/4/2023,Tarmac,cup,1,573.76,573.76,Aigio_01
+Moschos ,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,2,584.77,573.76,Aigio_01
+Nomikos ,C1,1,Aigio,23/4/2023,Tarmac,cup,3,586.42,573.76,Aigio_01
+Gerodimo,C2,1,Aigio,23/4/2023,Tarmac,cup,4,593.09,573.76,Aigio_01
+Kapralos,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,5,601.76,573.76,Aigio_01
+Kondilis,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,6,607.9,573.76,Aigio_01
+Karathan,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,7,610.93,573.76,Aigio_01
+Kopanaki,C4 F2,1,Aigio,23/4/2023,Tarmac,cup,8,617.24,573.76,Aigio_01
+Katsarel,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,9,621.93,573.76,Aigio_01
+Pantiera,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,10,626.45,573.76,Aigio_01
+Basdelis,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,11,628.23,573.76,Aigio_01
+Avgeropo,C4 F2,1,Aigio,23/4/2023,Tarmac,cup,12,628.64,573.76,Aigio_01
+Tiros Ni,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,13,631.37,573.76,Aigio_01
+Tzikopou,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,14,633.67,573.76,Aigio_01
+Pantelak,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,15,635.14,573.76,Aigio_01
+Daskalop,C2,1,Aigio,23/4/2023,Tarmac,cup,16,636.78,573.76,Aigio_01
+Kaberos ,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,17,639.57,573.76,Aigio_01
+Mavromat,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,18,643.47,573.76,Aigio_01
+Kouniaki,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,19,645.52,573.76,Aigio_01
+Komnos N,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,20,645.61,573.76,Aigio_01
+Zizas Ag,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,21,652.34,573.76,Aigio_01
+Rekkas P,C6 F2,1,Aigio,23/4/2023,Tarmac,cup,22,659.46,573.76,Aigio_01
+Stafilop,4 2000+,1,Aigio,23/4/2023,Tarmac,cup,23,660.0,573.76,Aigio_01
+Amaxopou,2 1600,1,Aigio,23/4/2023,Tarmac,cup,24,660.0,573.76,Aigio_01
+Gerovass,4 2000,1,Aigio,23/4/2023,Tarmac,cup,25,660.0,573.76,Aigio_01
+Kofinas ,4 2000+,1,Aigio,23/4/2023,Tarmac,cup,26,660.0,573.76,Aigio_01
+Kyriakop,4 1600,1,Aigio,23/4/2023,Tarmac,cup,27,660.0,573.76,Aigio_01
+Katsikas,3 2000,1,Aigio,23/4/2023,Tarmac,cup,28,660.0,573.76,Aigio_01
+Papazogl,4 2000+,1,Aigio,23/4/2023,Tarmac,cup,29,660.0,573.76,Aigio_01
+Tsiplant,3 1600,1,Aigio,23/4/2023,Tarmac,cup,30,660.0,573.76,Aigio_01
+Kassidop,3 1600,1,Aigio,23/4/2023,Tarmac,cup,31,660.0,573.76,Aigio_01
+Mitropou,2 2000,1,Aigio,23/4/2023,Tarmac,cup,32,660.0,573.76,Aigio_01
+Lykakis ,2 2000,1,Aigio,23/4/2023,Tarmac,cup,33,660.0,573.76,Aigio_01
+Kaberos ,C3 F2,1,Aigio,23/4/2023,Tarmac,cup,34,669.41,573.76,Aigio_01
+Kandilio,C2,1,Aigio,23/4/2023,Tarmac,cup,35,678.67,573.76,Aigio_01
+Karouzos,C4 F2,1,Aigio,23/4/2023,Tarmac,cup,36,686.06,573.76,Aigio_01
+Zois Dim,C5 F2,1,Aigio,23/4/2023,Tarmac,cup,37,1152.05,573.76,Aigio_01
+Koukeas ,C1,2,Aigio,23/4/2023,Tarmac,cup,1,580.53,580.53,Aigio_02
+Gerodimo,C2,2,Aigio,23/4/2023,Tarmac,cup,2,581.85,580.53,Aigio_02
+Nomikos ,C1,2,Aigio,23/4/2023,Tarmac,cup,3,595.82,580.53,Aigio_02
+Karathan,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,4,598.72,580.53,Aigio_02
+Komnos N,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,5,602.68,580.53,Aigio_02
+Kandilio,C2,2,Aigio,23/4/2023,Tarmac,cup,6,605.59,580.53,Aigio_02
+Stafilop,4 2000+,2,Aigio,23/4/2023,Tarmac,cup,7,607.49,580.53,Aigio_02
+Kapralos,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,8,612.05,580.53,Aigio_02
+Kondilis,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,9,612.98,580.53,Aigio_02
+Katsarel,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,10,619.96,580.53,Aigio_02
+Daskalop,C2,2,Aigio,23/4/2023,Tarmac,cup,11,620.36,580.53,Aigio_02
+Pantiera,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,12,620.62,580.53,Aigio_02
+Zois Dim,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,13,621.92,580.53,Aigio_02
+Tzikopou,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,14,625.56,580.53,Aigio_02
+Tiros Ni,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,15,625.71,580.53,Aigio_02
+Katsikas,3 2000,2,Aigio,23/4/2023,Tarmac,cup,16,629.83,580.53,Aigio_02
+Pantelak,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,17,635.68,580.53,Aigio_02
+Kaberos ,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,18,637.61,580.53,Aigio_02
+Rekkas P,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,19,638.06,580.53,Aigio_02
+Kouniaki,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,20,639.3,580.53,Aigio_02
+Amaxopou,2 1600,2,Aigio,23/4/2023,Tarmac,cup,21,644.0,580.53,Aigio_02
+Mavromat,C6 F2,2,Aigio,23/4/2023,Tarmac,cup,22,651.03,580.53,Aigio_02
+Gerovass,4 2000,2,Aigio,23/4/2023,Tarmac,cup,23,651.21,580.53,Aigio_02
+Kaberos ,C3 F2,2,Aigio,23/4/2023,Tarmac,cup,24,654.58,580.53,Aigio_02
+Zizas Ag,C5 F2,2,Aigio,23/4/2023,Tarmac,cup,25,657.62,580.53,Aigio_02
+Kyriakop,4 1600,2,Aigio,23/4/2023,Tarmac,cup,26,660.8,580.53,Aigio_02
+Papazogl,4 2000+,2,Aigio,23/4/2023,Tarmac,cup,27,674.88,580.53,Aigio_02
+Karouzos,C4 F2,2,Aigio,23/4/2023,Tarmac,cup,28,680.16,580.53,Aigio_02
+Kopanaki,C4 F2,2,Aigio,23/4/2023,Tarmac,cup,29,693.58,580.53,Aigio_02
+Kassidop,3 1600,2,Aigio,23/4/2023,Tarmac,cup,30,707.42,580.53,Aigio_02
+Mitropou,2 2000,2,Aigio,23/4/2023,Tarmac,cup,31,753.43,580.53,Aigio_02
+Kofinas ,4 2000+,2,Aigio,23/4/2023,Tarmac,cup,32,804.71,580.53,Aigio_02
 Tsouloft,C1,1,Kentavros,14/5/2023,Tarmac,Championship,1,579.98,579.98,Kentavros_01
 Peroulak,C2,1,Kentavros,14/5/2023,Tarmac,Championship,2,606.27,579.98,Kentavros_01
 Ktistaki,C3 F2,1,Kentavros,14/5/2023,Tarmac,Championship,3,620.02,579.98,Kentavros_01
@@ -936,608 +1585,102 @@ Figioris,C3 F2,8,Kentavros,14/5/2023,Tarmac,Championship,27,531.36,386.14,Kentav
 Baxevana,C6 F2,8,Kentavros,14/5/2023,Tarmac,Championship,28,531.52,386.14,Kentavros_08
 Stamatak,C6 F2,8,Kentavros,14/5/2023,Tarmac,Championship,29,561.49,386.14,Kentavros_08
 Mossios ,C6 F2,8,Kentavros,14/5/2023,Tarmac,Championship,30,740.64,386.14,Kentavros_08
-Tsouloft,C1,1,Livadia,2/4/2023,Gravel,cup,1,568.07,568.07,Livadia_01
-Panteli ,C1,1,Livadia,2/4/2023,Gravel,cup,2,599.66,568.07,Livadia_01
-Paradiss,C2,1,Livadia,2/4/2023,Gravel,cup,3,624.29,568.07,Livadia_01
-Panteli ,C5 F2,1,Livadia,2/4/2023,Gravel,cup,4,643.31,568.07,Livadia_01
-Tsakalos,C5 F2,1,Livadia,2/4/2023,Gravel,cup,5,654.93,568.07,Livadia_01
-Davaris ,C2,1,Livadia,2/4/2023,Gravel,cup,6,668.3,568.07,Livadia_01
-Antoniou,C3 F2,1,Livadia,2/4/2023,Gravel,cup,7,669.57,568.07,Livadia_01
-Christod,C2,1,Livadia,2/4/2023,Gravel,cup,8,677.38,568.07,Livadia_01
-Amoutzas,C3 F2,1,Livadia,2/4/2023,Gravel,cup,9,682.1,568.07,Livadia_01
-Agathokl,C3 F2,1,Livadia,2/4/2023,Gravel,cup,10,688.96,568.07,Livadia_01
-Chatziga,C3 F2,1,Livadia,2/4/2023,Gravel,cup,11,690.67,568.07,Livadia_01
-Delaport,C5 F2,1,Livadia,2/4/2023,Gravel,cup,12,698.46,568.07,Livadia_01
-Christod,4,1,Livadia,2/4/2023,Gravel,cup,13,699.13,568.07,Livadia_01
-Rigas Gi,C3 F2,1,Livadia,2/4/2023,Gravel,cup,14,702.0,568.07,Livadia_01
-Halivela,3 2000,1,Livadia,2/4/2023,Gravel,cup,15,703.62,568.07,Livadia_01
-Xanthako,C2,1,Livadia,2/4/2023,Gravel,cup,16,707.6,568.07,Livadia_01
-Paradiss,3 2000,1,Livadia,2/4/2023,Gravel,cup,17,709.46,568.07,Livadia_01
-Halkias ,3 2000,1,Livadia,2/4/2023,Gravel,cup,18,710.72,568.07,Livadia_01
-Athanaso,C5 F2,1,Livadia,2/4/2023,Gravel,cup,19,710.8,568.07,Livadia_01
-Manetas ,C4 F2,1,Livadia,2/4/2023,Gravel,cup,20,712.15,568.07,Livadia_01
-Berssis ,T,1,Livadia,2/4/2023,Gravel,cup,21,713.07,568.07,Livadia_01
-Amaxopou,2 1600,1,Livadia,2/4/2023,Gravel,cup,22,716.23,568.07,Livadia_01
-Basdelis,C3 F2,1,Livadia,2/4/2023,Gravel,cup,23,722.94,568.07,Livadia_01
-Kalamara,C3 F2,1,Livadia,2/4/2023,Gravel,cup,24,727.97,568.07,Livadia_01
-Avgeris ,C3 F2,1,Livadia,2/4/2023,Gravel,cup,25,731.49,568.07,Livadia_01
-Koutsiko,3 1300,1,Livadia,2/4/2023,Gravel,cup,26,734.76,568.07,Livadia_01
-Gazetas ,C6 F2,1,Livadia,2/4/2023,Gravel,cup,27,737.3,568.07,Livadia_01
-Kassidop,3 1300,1,Livadia,2/4/2023,Gravel,cup,28,740.38,568.07,Livadia_01
-Vorrias ,T1,1,Livadia,2/4/2023,Gravel,cup,29,740.93,568.07,Livadia_01
-Manousko,C6 F2,1,Livadia,2/4/2023,Gravel,cup,30,742.66,568.07,Livadia_01
-Vassilop,2 2000,1,Livadia,2/4/2023,Gravel,cup,31,747.93,568.07,Livadia_01
-Giannako,C6 F2,1,Livadia,2/4/2023,Gravel,cup,32,749.18,568.07,Livadia_01
-Mavragan,C4 F2,1,Livadia,2/4/2023,Gravel,cup,33,752.43,568.07,Livadia_01
-Englezos,C6 F2,1,Livadia,2/4/2023,Gravel,cup,34,755.5,568.07,Livadia_01
-Kanellop,C3 F2,1,Livadia,2/4/2023,Gravel,cup,35,764.07,568.07,Livadia_01
-Kotsadam,C6 F2,1,Livadia,2/4/2023,Gravel,cup,36,765.15,568.07,Livadia_01
-Pavli Ma,C6 F2,1,Livadia,2/4/2023,Gravel,cup,37,765.35,568.07,Livadia_01
-Dodos Gi,4 1600,1,Livadia,2/4/2023,Gravel,cup,38,770.51,568.07,Livadia_01
-Bakas Al,C5 F2,1,Livadia,2/4/2023,Gravel,cup,39,770.75,568.07,Livadia_01
-Kourtess,C6 F2,1,Livadia,2/4/2023,Gravel,cup,40,772.31,568.07,Livadia_01
-Melas D.,2,1,Livadia,2/4/2023,Gravel,cup,41,772.65,568.07,Livadia_01
-Koutsouk,C4 F2,1,Livadia,2/4/2023,Gravel,cup,42,776.82,568.07,Livadia_01
-Dedegika,3 2000,1,Livadia,2/4/2023,Gravel,cup,43,779.34,568.07,Livadia_01
-Kofinas ,4 1600,1,Livadia,2/4/2023,Gravel,cup,44,788.35,568.07,Livadia_01
-Papandre,4 1300,1,Livadia,2/4/2023,Gravel,cup,45,794.79,568.07,Livadia_01
-Kansos P,4 2000,1,Livadia,2/4/2023,Gravel,cup,46,830.9,568.07,Livadia_01
-Papadopo,C5 F2,1,Livadia,2/4/2023,Gravel,cup,47,861.44,568.07,Livadia_01
-Ita Vita,C5 F2,1,Livadia,2/4/2023,Gravel,cup,48,864.6,568.07,Livadia_01
-Ismailos,C2,1,Livadia,2/4/2023,Gravel,cup,49,1020.77,568.07,Livadia_01
-Tsouloft,C1,2,Livadia,2/4/2023,Gravel,cup,1,559.87,559.87,Livadia_02
-Panteli ,C1,2,Livadia,2/4/2023,Gravel,cup,2,586.6,559.87,Livadia_02
-Paradiss,C2,2,Livadia,2/4/2023,Gravel,cup,3,610.07,559.87,Livadia_02
-Ismailos,C2,2,Livadia,2/4/2023,Gravel,cup,4,615.8,559.87,Livadia_02
-Panteli ,C5 F2,2,Livadia,2/4/2023,Gravel,cup,5,626.0,559.87,Livadia_02
-Tsakalos,C5 F2,2,Livadia,2/4/2023,Gravel,cup,6,646.44,559.87,Livadia_02
-Christod,C2,2,Livadia,2/4/2023,Gravel,cup,7,647.48,559.87,Livadia_02
-Antoniou,C3 F2,2,Livadia,2/4/2023,Gravel,cup,8,652.64,559.87,Livadia_02
-Amoutzas,C3 F2,2,Livadia,2/4/2023,Gravel,cup,9,656.35,559.87,Livadia_02
-Davaris ,C2,2,Livadia,2/4/2023,Gravel,cup,10,656.41,559.87,Livadia_02
-Delaport,C5 F2,2,Livadia,2/4/2023,Gravel,cup,11,656.8,559.87,Livadia_02
-Chatziga,C3 F2,2,Livadia,2/4/2023,Gravel,cup,12,671.36,559.87,Livadia_02
-Christod,4,2,Livadia,2/4/2023,Gravel,cup,13,679.53,559.87,Livadia_02
-Athanaso,C5 F2,2,Livadia,2/4/2023,Gravel,cup,14,680.89,559.87,Livadia_02
-Manetas ,C4 F2,2,Livadia,2/4/2023,Gravel,cup,15,681.04,559.87,Livadia_02
-Agathokl,C3 F2,2,Livadia,2/4/2023,Gravel,cup,16,685.23,559.87,Livadia_02
-Manousko,C6 F2,2,Livadia,2/4/2023,Gravel,cup,17,689.04,559.87,Livadia_02
-Vorrias ,T1,2,Livadia,2/4/2023,Gravel,cup,18,691.16,559.87,Livadia_02
-Paradiss,3 2000,2,Livadia,2/4/2023,Gravel,cup,19,693.92,559.87,Livadia_02
-Englezos,C6 F2,2,Livadia,2/4/2023,Gravel,cup,20,697.02,559.87,Livadia_02
-Kalamara,C3 F2,2,Livadia,2/4/2023,Gravel,cup,21,699.03,559.87,Livadia_02
-Kanellop,C3 F2,2,Livadia,2/4/2023,Gravel,cup,22,699.05,559.87,Livadia_02
-Gazetas ,C6 F2,2,Livadia,2/4/2023,Gravel,cup,23,700.5,559.87,Livadia_02
-Berssis ,T,2,Livadia,2/4/2023,Gravel,cup,24,701.66,559.87,Livadia_02
-Basdelis,C3 F2,2,Livadia,2/4/2023,Gravel,cup,25,702.22,559.87,Livadia_02
-Amaxopou,2 1600,2,Livadia,2/4/2023,Gravel,cup,26,704.33,559.87,Livadia_02
-Halivela,3 2000,2,Livadia,2/4/2023,Gravel,cup,27,706.23,559.87,Livadia_02
-Melas D.,2,2,Livadia,2/4/2023,Gravel,cup,28,716.9,559.87,Livadia_02
-Kotsadam,C6 F2,2,Livadia,2/4/2023,Gravel,cup,29,718.85,559.87,Livadia_02
-Mavragan,C4 F2,2,Livadia,2/4/2023,Gravel,cup,30,720.17,559.87,Livadia_02
-Halkias ,3 2000,2,Livadia,2/4/2023,Gravel,cup,31,720.95,559.87,Livadia_02
-Kourtess,C6 F2,2,Livadia,2/4/2023,Gravel,cup,32,732.39,559.87,Livadia_02
-Kassidop,3 1300,2,Livadia,2/4/2023,Gravel,cup,33,733.26,559.87,Livadia_02
-Koutsiko,3 1300,2,Livadia,2/4/2023,Gravel,cup,34,736.67,559.87,Livadia_02
-Dedegika,3 2000,2,Livadia,2/4/2023,Gravel,cup,35,744.99,559.87,Livadia_02
-Koutsouk,C4 F2,2,Livadia,2/4/2023,Gravel,cup,36,745.3,559.87,Livadia_02
-Dodos Gi,4 1600,2,Livadia,2/4/2023,Gravel,cup,37,748.14,559.87,Livadia_02
-Vassilop,2 2000,2,Livadia,2/4/2023,Gravel,cup,38,753.67,559.87,Livadia_02
-Kofinas ,4 1600,2,Livadia,2/4/2023,Gravel,cup,39,755.86,559.87,Livadia_02
-Pavli Ma,C6 F2,2,Livadia,2/4/2023,Gravel,cup,40,756.83,559.87,Livadia_02
-Papadopo,C5 F2,2,Livadia,2/4/2023,Gravel,cup,41,760.19,559.87,Livadia_02
-Kansos P,4 2000,2,Livadia,2/4/2023,Gravel,cup,42,838.38,559.87,Livadia_02
-Xanthako,C2,2,Livadia,2/4/2023,Gravel,cup,43,843.34,559.87,Livadia_02
-Ita Vita,C5 F2,2,Livadia,2/4/2023,Gravel,cup,44,1313.87,559.87,Livadia_02
-Giannako,C6 F2,2,Livadia,2/4/2023,Gravel,cup,45,1440.0,559.87,Livadia_02
-Tsouloft,C1,3,Livadia,2/4/2023,Gravel,cup,1,564.22,564.22,Livadia_03
-Panteli ,C1,3,Livadia,2/4/2023,Gravel,cup,2,590.43,564.22,Livadia_03
-Paradiss,C2,3,Livadia,2/4/2023,Gravel,cup,3,605.54,564.22,Livadia_03
-Ismailos,C2,3,Livadia,2/4/2023,Gravel,cup,4,611.2,564.22,Livadia_03
-Panteli ,C5 F2,3,Livadia,2/4/2023,Gravel,cup,5,620.36,564.22,Livadia_03
-Tsakalos,C5 F2,3,Livadia,2/4/2023,Gravel,cup,6,638.32,564.22,Livadia_03
-Christod,C2,3,Livadia,2/4/2023,Gravel,cup,7,642.73,564.22,Livadia_03
-Davaris ,C2,3,Livadia,2/4/2023,Gravel,cup,8,654.67,564.22,Livadia_03
-Delaport,C5 F2,3,Livadia,2/4/2023,Gravel,cup,9,657.52,564.22,Livadia_03
-Agathokl,C3 F2,3,Livadia,2/4/2023,Gravel,cup,10,665.83,564.22,Livadia_03
-Chatziga,C3 F2,3,Livadia,2/4/2023,Gravel,cup,11,673.21,564.22,Livadia_03
-Amoutzas,C3 F2,3,Livadia,2/4/2023,Gravel,cup,12,673.25,564.22,Livadia_03
-Halivela,3 2000,3,Livadia,2/4/2023,Gravel,cup,13,677.37,564.22,Livadia_03
-Athanaso,C5 F2,3,Livadia,2/4/2023,Gravel,cup,14,678.87,564.22,Livadia_03
-Christod,4,3,Livadia,2/4/2023,Gravel,cup,15,681.03,564.22,Livadia_03
-Manetas ,C4 F2,3,Livadia,2/4/2023,Gravel,cup,16,681.12,564.22,Livadia_03
-Manousko,C6 F2,3,Livadia,2/4/2023,Gravel,cup,17,682.25,564.22,Livadia_03
-Basdelis,C3 F2,3,Livadia,2/4/2023,Gravel,cup,18,683.8,564.22,Livadia_03
-Amaxopou,2 1600,3,Livadia,2/4/2023,Gravel,cup,19,694.25,564.22,Livadia_03
-Paradiss,3 2000,3,Livadia,2/4/2023,Gravel,cup,20,696.45,564.22,Livadia_03
-Dedegika,3 2000,3,Livadia,2/4/2023,Gravel,cup,21,699.65,564.22,Livadia_03
-Kanellop,C3 F2,3,Livadia,2/4/2023,Gravel,cup,22,700.08,564.22,Livadia_03
-Kalamara,C3 F2,3,Livadia,2/4/2023,Gravel,cup,23,705.18,564.22,Livadia_03
-Melas D.,2,3,Livadia,2/4/2023,Gravel,cup,24,705.55,564.22,Livadia_03
-Mavragan,C4 F2,3,Livadia,2/4/2023,Gravel,cup,25,707.57,564.22,Livadia_03
-Koutsiko,3 1300,3,Livadia,2/4/2023,Gravel,cup,26,708.34,564.22,Livadia_03
-Kassidop,3 1300,3,Livadia,2/4/2023,Gravel,cup,27,719.54,564.22,Livadia_03
-Kourtess,C6 F2,3,Livadia,2/4/2023,Gravel,cup,28,722.98,564.22,Livadia_03
-Englezos,C6 F2,3,Livadia,2/4/2023,Gravel,cup,29,725.14,564.22,Livadia_03
-Kotsadam,C6 F2,3,Livadia,2/4/2023,Gravel,cup,30,727.38,564.22,Livadia_03
-Koutsouk,C4 F2,3,Livadia,2/4/2023,Gravel,cup,31,736.34,564.22,Livadia_03
-Antoniou,C3 F2,3,Livadia,2/4/2023,Gravel,cup,32,746.82,564.22,Livadia_03
-Pavli Ma,C6 F2,3,Livadia,2/4/2023,Gravel,cup,33,746.85,564.22,Livadia_03
-Kofinas ,4 1600,3,Livadia,2/4/2023,Gravel,cup,34,750.08,564.22,Livadia_03
-Dodos Gi,4 1600,3,Livadia,2/4/2023,Gravel,cup,35,758.71,564.22,Livadia_03
-Vassilop,2 2000,3,Livadia,2/4/2023,Gravel,cup,36,760.12,564.22,Livadia_03
-Kansos P,4 2000,3,Livadia,2/4/2023,Gravel,cup,37,838.39,564.22,Livadia_03
-Tsouloft,C1,1,Olympiako,30/4/2023,Gravel,Championship,1,434.49,434.49,Olympiako_01
-Papadimi,C1,1,Olympiako,30/4/2023,Gravel,Championship,2,440.12,434.49,Olympiako_01
-Kehagias,C1,1,Olympiako,30/4/2023,Gravel,Championship,3,452.85,434.49,Olympiako_01
-Badounas,C2,1,Olympiako,30/4/2023,Gravel,Championship,4,461.26,434.49,Olympiako_01
-Kirkos P,C2,1,Olympiako,30/4/2023,Gravel,Championship,5,472.31,434.49,Olympiako_01
-Panteli ,C1,1,Olympiako,30/4/2023,Gravel,Championship,6,474.8,434.49,Olympiako_01
-Karaniko,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,7,479.26,434.49,Olympiako_01
-Lainopou,C2,1,Olympiako,30/4/2023,Gravel,Championship,8,492.89,434.49,Olympiako_01
-Dimopoul,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,9,496.26,434.49,Olympiako_01
-Tzemos K,C2,1,Olympiako,30/4/2023,Gravel,Championship,10,498.24,434.49,Olympiako_01
-Papadopo,C2,1,Olympiako,30/4/2023,Gravel,Championship,11,501.6,434.49,Olympiako_01
-Eliopoul,C2,1,Olympiako,30/4/2023,Gravel,Championship,12,507.86,434.49,Olympiako_01
-Tsoulos ,C2,1,Olympiako,30/4/2023,Gravel,Championship,13,508.45,434.49,Olympiako_01
-Tsetsoni,C2,1,Olympiako,30/4/2023,Gravel,Championship,14,510.41,434.49,Olympiako_01
-Theochar,C2,1,Olympiako,30/4/2023,Gravel,Championship,15,515.43,434.49,Olympiako_01
-Giannako,C2,1,Olympiako,30/4/2023,Gravel,Championship,16,515.44,434.49,Olympiako_01
-Lymperis,C2,1,Olympiako,30/4/2023,Gravel,Championship,17,515.7,434.49,Olympiako_01
-Angelopo,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,18,520.1,434.49,Olympiako_01
-Manetas ,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,19,529.28,434.49,Olympiako_01
-Zounis I,C2,1,Olympiako,30/4/2023,Gravel,Championship,20,531.99,434.49,Olympiako_01
-Amoutzas,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,21,533.68,434.49,Olympiako_01
-Triantop,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,22,534.46,434.49,Olympiako_01
-Paraskev,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,23,,434.49,Olympiako_01
-Stavropo,C6 F2,1,Olympiako,30/4/2023,Gravel,Championship,24,,434.49,Olympiako_01
-Simetra ,C2,1,Olympiako,30/4/2023,Gravel,Championship,25,536.86,434.49,Olympiako_01
-Roinioti,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,26,537.35,434.49,Olympiako_01
-Anastass,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,27,,434.49,Olympiako_01
-Davaris ,C2,1,Olympiako,30/4/2023,Gravel,Championship,28,537.74,434.49,Olympiako_01
-Giotis I,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,29,543.86,434.49,Olympiako_01
-Delaport,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,30,544.5,434.49,Olympiako_01
-Christod,C2,1,Olympiako,30/4/2023,Gravel,Championship,31,553.51,434.49,Olympiako_01
-Kalamara,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,32,561.15,434.49,Olympiako_01
-Tzavaras,C6 F2,1,Olympiako,30/4/2023,Gravel,Championship,33,562.77,434.49,Olympiako_01
-Athanass,C6 F2,1,Olympiako,30/4/2023,Gravel,Championship,34,581.32,434.49,Olympiako_01
-Yiangou ,C2,1,Olympiako,30/4/2023,Gravel,Championship,35,599.61,434.49,Olympiako_01
-Kalaitzi,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,36,603.89,434.49,Olympiako_01
-Koutsouk,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,37,618.95,434.49,Olympiako_01
-Bris Pan,C3 F2,1,Olympiako,30/4/2023,Gravel,Championship,38,625.86,434.49,Olympiako_01
-Lathouri,C4 F2,1,Olympiako,30/4/2023,Gravel,Championship,39,635.98,434.49,Olympiako_01
-Mantas P,C6 F2,1,Olympiako,30/4/2023,Gravel,Championship,40,640.35,434.49,Olympiako_01
-Golfinop,C5 F2,1,Olympiako,30/4/2023,Gravel,Championship,41,723.64,434.49,Olympiako_01
-Tsouloft,C1,2,Olympiako,30/4/2023,Gravel,Championship,1,610.18,610.18,Olympiako_02
-Papadimi,C1,2,Olympiako,30/4/2023,Gravel,Championship,2,622.76,610.18,Olympiako_02
-Kehagias,C1,2,Olympiako,30/4/2023,Gravel,Championship,3,623.23,610.18,Olympiako_02
-Badounas,C2,2,Olympiako,30/4/2023,Gravel,Championship,4,631.34,610.18,Olympiako_02
-Kirkos P,C2,2,Olympiako,30/4/2023,Gravel,Championship,5,644.18,610.18,Olympiako_02
-Papadopo,C2,2,Olympiako,30/4/2023,Gravel,Championship,6,666.74,610.18,Olympiako_02
-Tzemos K,C2,2,Olympiako,30/4/2023,Gravel,Championship,7,666.94,610.18,Olympiako_02
-Tsoulos ,C2,2,Olympiako,30/4/2023,Gravel,Championship,8,673.37,610.18,Olympiako_02
-Eliopoul,C2,2,Olympiako,30/4/2023,Gravel,Championship,9,673.45,610.18,Olympiako_02
-Karaniko,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,10,675.28,610.18,Olympiako_02
-Lymperis,C2,2,Olympiako,30/4/2023,Gravel,Championship,11,676.8,610.18,Olympiako_02
-Lainopou,C2,2,Olympiako,30/4/2023,Gravel,Championship,12,680.45,610.18,Olympiako_02
-Panteli ,C1,2,Olympiako,30/4/2023,Gravel,Championship,13,685.51,610.18,Olympiako_02
-Angelopo,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,14,687.19,610.18,Olympiako_02
-Tsetsoni,C2,2,Olympiako,30/4/2023,Gravel,Championship,15,687.68,610.18,Olympiako_02
-Theochar,C2,2,Olympiako,30/4/2023,Gravel,Championship,16,688.43,610.18,Olympiako_02
-Dimopoul,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,17,688.49,610.18,Olympiako_02
-Giannako,C2,2,Olympiako,30/4/2023,Gravel,Championship,18,695.55,610.18,Olympiako_02
-Zounis I,C2,2,Olympiako,30/4/2023,Gravel,Championship,19,704.37,610.18,Olympiako_02
-Amoutzas,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,20,705.35,610.18,Olympiako_02
-Roinioti,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,21,706.53,610.18,Olympiako_02
-Delaport,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,22,709.0,610.18,Olympiako_02
-Triantop,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,23,710.4,610.18,Olympiako_02
-Manetas ,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,24,710.73,610.18,Olympiako_02
-Stavropo,C6 F2,2,Olympiako,30/4/2023,Gravel,Championship,25,716.37,610.18,Olympiako_02
-Paraskev,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,26,718.51,610.18,Olympiako_02
-Davaris ,C2,2,Olympiako,30/4/2023,Gravel,Championship,27,719.27,610.18,Olympiako_02
-Simetra ,C2,2,Olympiako,30/4/2023,Gravel,Championship,28,721.6,610.18,Olympiako_02
-Kalamara,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,29,727.55,610.18,Olympiako_02
-Giotis I,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,30,734.2,610.18,Olympiako_02
-Anastass,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,31,737.46,610.18,Olympiako_02
-Tzavaras,C6 F2,2,Olympiako,30/4/2023,Gravel,Championship,32,739.98,610.18,Olympiako_02
-Athanass,C6 F2,2,Olympiako,30/4/2023,Gravel,Championship,33,742.01,610.18,Olympiako_02
-Yiangou ,C2,2,Olympiako,30/4/2023,Gravel,Championship,34,771.55,610.18,Olympiako_02
-Kalaitzi,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,35,785.43,610.18,Olympiako_02
-Bris Pan,C3 F2,2,Olympiako,30/4/2023,Gravel,Championship,36,789.13,610.18,Olympiako_02
-Mantas P,C6 F2,2,Olympiako,30/4/2023,Gravel,Championship,37,791.37,610.18,Olympiako_02
-Koutsouk,C4 F2,2,Olympiako,30/4/2023,Gravel,Championship,38,798.55,610.18,Olympiako_02
-Golfinop,C5 F2,2,Olympiako,30/4/2023,Gravel,Championship,39,898.15,610.18,Olympiako_02
-Tsouloft,C1,3,Olympiako,30/4/2023,Gravel,Championship,1,429.57,429.57,Olympiako_03
-Kehagias,C1,3,Olympiako,30/4/2023,Gravel,Championship,2,436.36,429.57,Olympiako_03
-Kirkos P,C2,3,Olympiako,30/4/2023,Gravel,Championship,3,458.25,429.57,Olympiako_03
-Panteli ,C1,3,Olympiako,30/4/2023,Gravel,Championship,4,459.54,429.57,Olympiako_03
-Badounas,C2,3,Olympiako,30/4/2023,Gravel,Championship,5,462.29,429.57,Olympiako_03
-Karaniko,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,6,475.19,429.57,Olympiako_03
-Tzemos K,C2,3,Olympiako,30/4/2023,Gravel,Championship,7,478.11,429.57,Olympiako_03
-Tsetsoni,C2,3,Olympiako,30/4/2023,Gravel,Championship,8,481.44,429.57,Olympiako_03
-Papadopo,C2,3,Olympiako,30/4/2023,Gravel,Championship,9,484.95,429.57,Olympiako_03
-Eliopoul,C2,3,Olympiako,30/4/2023,Gravel,Championship,10,495.95,429.57,Olympiako_03
-Angelopo,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,11,500.91,429.57,Olympiako_03
-Tsoulos ,C2,3,Olympiako,30/4/2023,Gravel,Championship,12,504.7,429.57,Olympiako_03
-Lymperis,C2,3,Olympiako,30/4/2023,Gravel,Championship,13,505.66,429.57,Olympiako_03
-Theochar,C2,3,Olympiako,30/4/2023,Gravel,Championship,14,508.11,429.57,Olympiako_03
-Amoutzas,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,15,513.85,429.57,Olympiako_03
-Giannako,C2,3,Olympiako,30/4/2023,Gravel,Championship,16,515.32,429.57,Olympiako_03
-Roinioti,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,17,516.4,429.57,Olympiako_03
-Simetra ,C2,3,Olympiako,30/4/2023,Gravel,Championship,18,519.26,429.57,Olympiako_03
-Zounis I,C2,3,Olympiako,30/4/2023,Gravel,Championship,19,522.59,429.57,Olympiako_03
-Triantop,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,20,522.69,429.57,Olympiako_03
-Paraskev,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,21,522.99,429.57,Olympiako_03
-Stavropo,C6 F2,3,Olympiako,30/4/2023,Gravel,Championship,22,523.58,429.57,Olympiako_03
-Manetas ,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,23,530.92,429.57,Olympiako_03
-Giotis I,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,24,532.9,429.57,Olympiako_03
-Delaport,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,25,539.03,429.57,Olympiako_03
-Davaris ,C2,3,Olympiako,30/4/2023,Gravel,Championship,26,542.94,429.57,Olympiako_03
-Kalamara,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,27,545.67,429.57,Olympiako_03
-Tzavaras,C6 F2,3,Olympiako,30/4/2023,Gravel,Championship,28,548.49,429.57,Olympiako_03
-Athanass,C6 F2,3,Olympiako,30/4/2023,Gravel,Championship,29,549.69,429.57,Olympiako_03
-Anastass,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,30,551.51,429.57,Olympiako_03
-Yiangou ,C2,3,Olympiako,30/4/2023,Gravel,Championship,31,567.03,429.57,Olympiako_03
-Kalaitzi,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,32,583.33,429.57,Olympiako_03
-Bris Pan,C3 F2,3,Olympiako,30/4/2023,Gravel,Championship,33,600.78,429.57,Olympiako_03
-Koutsouk,C4 F2,3,Olympiako,30/4/2023,Gravel,Championship,34,601.01,429.57,Olympiako_03
-Mantas P,C6 F2,3,Olympiako,30/4/2023,Gravel,Championship,35,611.32,429.57,Olympiako_03
-Golfinop,C5 F2,3,Olympiako,30/4/2023,Gravel,Championship,36,694.13,429.57,Olympiako_03
-Tsouloft,C1,4,Olympiako,30/4/2023,Gravel,Championship,1,602.36,602.36,Olympiako_04
-Kehagias,C1,4,Olympiako,30/4/2023,Gravel,Championship,2,610.26,602.36,Olympiako_04
-Panteli ,C1,4,Olympiako,30/4/2023,Gravel,Championship,3,627.63,602.36,Olympiako_04
-Badounas,C2,4,Olympiako,30/4/2023,Gravel,Championship,4,628.92,602.36,Olympiako_04
-Kirkos P,C2,4,Olympiako,30/4/2023,Gravel,Championship,5,633.7,602.36,Olympiako_04
-Tzemos K,C2,4,Olympiako,30/4/2023,Gravel,Championship,6,651.14,602.36,Olympiako_04
-Karaniko,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,7,671.36,602.36,Olympiako_04
-Eliopoul,C2,4,Olympiako,30/4/2023,Gravel,Championship,8,672.36,602.36,Olympiako_04
-Tsetsoni,C2,4,Olympiako,30/4/2023,Gravel,Championship,9,674.94,602.36,Olympiako_04
-Tsoulos ,C2,4,Olympiako,30/4/2023,Gravel,Championship,10,675.14,602.36,Olympiako_04
-Angelopo,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,11,676.02,602.36,Olympiako_04
-Theochar,C2,4,Olympiako,30/4/2023,Gravel,Championship,12,676.06,602.36,Olympiako_04
-Giannako,C2,4,Olympiako,30/4/2023,Gravel,Championship,13,683.31,602.36,Olympiako_04
-Lymperis,C2,4,Olympiako,30/4/2023,Gravel,Championship,14,683.84,602.36,Olympiako_04
-Amoutzas,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,15,684.68,602.36,Olympiako_04
-Roinioti,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,16,689.65,602.36,Olympiako_04
-Delaport,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,17,697.14,602.36,Olympiako_04
-Manetas ,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,18,702.92,602.36,Olympiako_04
-Triantop,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,19,708.75,602.36,Olympiako_04
-Simetra ,C2,4,Olympiako,30/4/2023,Gravel,Championship,20,709.21,602.36,Olympiako_04
-Zounis I,C2,4,Olympiako,30/4/2023,Gravel,Championship,21,709.44,602.36,Olympiako_04
-Stavropo,C6 F2,4,Olympiako,30/4/2023,Gravel,Championship,22,713.57,602.36,Olympiako_04
-Davaris ,C2,4,Olympiako,30/4/2023,Gravel,Championship,23,715.06,602.36,Olympiako_04
-Paraskev,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,24,717.63,602.36,Olympiako_04
-Anastass,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,25,721.38,602.36,Olympiako_04
-Giotis I,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,26,724.32,602.36,Olympiako_04
-Tzavaras,C6 F2,4,Olympiako,30/4/2023,Gravel,Championship,27,724.53,602.36,Olympiako_04
-Kalamara,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,28,724.94,602.36,Olympiako_04
-Athanass,C6 F2,4,Olympiako,30/4/2023,Gravel,Championship,29,729.71,602.36,Olympiako_04
-Yiangou ,C2,4,Olympiako,30/4/2023,Gravel,Championship,30,746.05,602.36,Olympiako_04
-Kalaitzi,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,31,768.6,602.36,Olympiako_04
-Mantas P,C6 F2,4,Olympiako,30/4/2023,Gravel,Championship,32,771.95,602.36,Olympiako_04
-Koutsouk,C4 F2,4,Olympiako,30/4/2023,Gravel,Championship,33,772.07,602.36,Olympiako_04
-Bris Pan,C3 F2,4,Olympiako,30/4/2023,Gravel,Championship,34,773.5,602.36,Olympiako_04
-Golfinop,C5 F2,4,Olympiako,30/4/2023,Gravel,Championship,35,892.95,602.36,Olympiako_04
-Papadopo,C2,4,Olympiako,30/4/2023,Gravel,Championship,36,944.72,602.36,Olympiako_04
-Tsouloft,C1,5,Olympiako,30/4/2023,Gravel,Championship,1,604.92,604.92,Olympiako_05
-Kirkos P,C2,5,Olympiako,30/4/2023,Gravel,Championship,2,624.45,604.92,Olympiako_05
-Badounas,C2,5,Olympiako,30/4/2023,Gravel,Championship,3,630.03,604.92,Olympiako_05
-Kehagias,C1,5,Olympiako,30/4/2023,Gravel,Championship,4,632.38,604.92,Olympiako_05
-Tzemos K,C2,5,Olympiako,30/4/2023,Gravel,Championship,5,649.72,604.92,Olympiako_05
-Karaniko,C5 F2,5,Olympiako,30/4/2023,Gravel,Championship,6,664.38,604.92,Olympiako_05
-Papadopo,C2,5,Olympiako,30/4/2023,Gravel,Championship,7,672.09,604.92,Olympiako_05
-Eliopoul,C2,5,Olympiako,30/4/2023,Gravel,Championship,8,674.83,604.92,Olympiako_05
-Theochar,C2,5,Olympiako,30/4/2023,Gravel,Championship,9,677.04,604.92,Olympiako_05
-Tsoulos ,C2,5,Olympiako,30/4/2023,Gravel,Championship,10,682.84,604.92,Olympiako_05
-Giannako,C2,5,Olympiako,30/4/2023,Gravel,Championship,11,682.84,604.92,Olympiako_05
-Amoutzas,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,12,686.95,604.92,Olympiako_05
-Tsetsoni,C2,5,Olympiako,30/4/2023,Gravel,Championship,13,687.46,604.92,Olympiako_05
-Lymperis,C2,5,Olympiako,30/4/2023,Gravel,Championship,14,689.79,604.92,Olympiako_05
-Roinioti,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,15,692.92,604.92,Olympiako_05
-Angelopo,C5 F2,5,Olympiako,30/4/2023,Gravel,Championship,16,694.68,604.92,Olympiako_05
-Delaport,C5 F2,5,Olympiako,30/4/2023,Gravel,Championship,17,700.61,604.92,Olympiako_05
-Davaris ,C2,5,Olympiako,30/4/2023,Gravel,Championship,18,702.31,604.92,Olympiako_05
-Simetra ,C2,5,Olympiako,30/4/2023,Gravel,Championship,19,707.87,604.92,Olympiako_05
-Manetas ,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,20,707.87,604.92,Olympiako_05
-Triantop,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,21,710.55,604.92,Olympiako_05
-Zounis I,C2,5,Olympiako,30/4/2023,Gravel,Championship,22,712.33,604.92,Olympiako_05
-Paraskev,C5 F2,5,Olympiako,30/4/2023,Gravel,Championship,23,714.63,604.92,Olympiako_05
-Anastass,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,24,717.84,604.92,Olympiako_05
-Kalamara,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,25,723.33,604.92,Olympiako_05
-Tzavaras,C6 F2,5,Olympiako,30/4/2023,Gravel,Championship,26,724.0,604.92,Olympiako_05
-Stavropo,C6 F2,5,Olympiako,30/4/2023,Gravel,Championship,27,725.21,604.92,Olympiako_05
-Athanass,C6 F2,5,Olympiako,30/4/2023,Gravel,Championship,28,744.54,604.92,Olympiako_05
-Giotis I,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,29,745.01,604.92,Olympiako_05
-Yiangou ,C2,5,Olympiako,30/4/2023,Gravel,Championship,30,752.23,604.92,Olympiako_05
-Koutsouk,C4 F2,5,Olympiako,30/4/2023,Gravel,Championship,31,781.87,604.92,Olympiako_05
-Mantas P,C6 F2,5,Olympiako,30/4/2023,Gravel,Championship,32,793.23,604.92,Olympiako_05
-Kalaitzi,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,33,795.69,604.92,Olympiako_05
-Bris Pan,C3 F2,5,Olympiako,30/4/2023,Gravel,Championship,34,801.78,604.92,Olympiako_05
-Tsouloft,C1,6,Olympiako,30/4/2023,Gravel,Championship,1,594.73,594.73,Olympiako_06
-Kehagias,C1,6,Olympiako,30/4/2023,Gravel,Championship,2,630.72,594.73,Olympiako_06
-Badounas,C2,6,Olympiako,30/4/2023,Gravel,Championship,3,637.05,594.73,Olympiako_06
-Kirkos P,C2,6,Olympiako,30/4/2023,Gravel,Championship,4,648.53,594.73,Olympiako_06
-Papadopo,C2,6,Olympiako,30/4/2023,Gravel,Championship,5,656.25,594.73,Olympiako_06
-Tzemos K,C2,6,Olympiako,30/4/2023,Gravel,Championship,6,657.65,594.73,Olympiako_06
-Karaniko,C5 F2,6,Olympiako,30/4/2023,Gravel,Championship,7,660.83,594.73,Olympiako_06
-Tsoulos ,C2,6,Olympiako,30/4/2023,Gravel,Championship,8,667.52,594.73,Olympiako_06
-Tsetsoni,C2,6,Olympiako,30/4/2023,Gravel,Championship,9,678.98,594.73,Olympiako_06
-Angelopo,C5 F2,6,Olympiako,30/4/2023,Gravel,Championship,10,693.08,594.73,Olympiako_06
-Giannako,C2,6,Olympiako,30/4/2023,Gravel,Championship,11,696.31,594.73,Olympiako_06
-Stavropo,C6 F2,6,Olympiako,30/4/2023,Gravel,Championship,12,698.92,594.73,Olympiako_06
-Amoutzas,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,13,704.43,594.73,Olympiako_06
-Simetra ,C2,6,Olympiako,30/4/2023,Gravel,Championship,14,705.32,594.73,Olympiako_06
-Theochar,C2,6,Olympiako,30/4/2023,Gravel,Championship,15,708.84,594.73,Olympiako_06
-Manetas ,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,16,710.04,594.73,Olympiako_06
-Delaport,C5 F2,6,Olympiako,30/4/2023,Gravel,Championship,17,714.16,594.73,Olympiako_06
-Paraskev,C5 F2,6,Olympiako,30/4/2023,Gravel,Championship,18,715.15,594.73,Olympiako_06
-Anastass,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,19,718.58,594.73,Olympiako_06
-Tzavaras,C6 F2,6,Olympiako,30/4/2023,Gravel,Championship,20,718.96,594.73,Olympiako_06
-Roinioti,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,21,719.39,594.73,Olympiako_06
-Giotis I,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,22,721.36,594.73,Olympiako_06
-Davaris ,C2,6,Olympiako,30/4/2023,Gravel,Championship,23,725.7,594.73,Olympiako_06
-Zounis I,C2,6,Olympiako,30/4/2023,Gravel,Championship,24,730.82,594.73,Olympiako_06
-Triantop,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,25,744.23,594.73,Olympiako_06
-Athanass,C6 F2,6,Olympiako,30/4/2023,Gravel,Championship,26,758.92,594.73,Olympiako_06
-Kalamara,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,27,771.43,594.73,Olympiako_06
-Yiangou ,C2,6,Olympiako,30/4/2023,Gravel,Championship,28,779.52,594.73,Olympiako_06
-Bris Pan,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,29,791.69,594.73,Olympiako_06
-Kalaitzi,C3 F2,6,Olympiako,30/4/2023,Gravel,Championship,30,809.84,594.73,Olympiako_06
-Koutsouk,C4 F2,6,Olympiako,30/4/2023,Gravel,Championship,31,825.85,594.73,Olympiako_06
-Mantas P,C6 F2,6,Olympiako,30/4/2023,Gravel,Championship,32,835.65,594.73,Olympiako_06
-Anapolio,C1,1,Potamies,30/4/2023,Tarmac,cup,1,349.77,349.77,Potamies_01
-Ktistaki,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,2,357.68,349.77,Potamies_01
-Peroulak,C2,1,Potamies,30/4/2023,Tarmac,cup,3,361.75,349.77,Potamies_01
-Nikolida,C5 F2,1,Potamies,30/4/2023,Tarmac,cup,4,365.32,349.77,Potamies_01
-Damianak,C4 F2,1,Potamies,30/4/2023,Tarmac,cup,5,367.46,349.77,Potamies_01
-Frantzes,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,6,372.06,349.77,Potamies_01
-Titakis ,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,7,374.02,349.77,Potamies_01
-Kafetzak,C5 F2,1,Potamies,30/4/2023,Tarmac,cup,8,378.09,349.77,Potamies_01
-Gobakis ,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,9,381.99,349.77,Potamies_01
-Perakis ,C4 F2,1,Potamies,30/4/2023,Tarmac,cup,10,384.01,349.77,Potamies_01
-Polias M,C5 F2,1,Potamies,30/4/2023,Tarmac,cup,11,385.95,349.77,Potamies_01
-Ioannidi,C5 F2,1,Potamies,30/4/2023,Tarmac,cup,12,391.63,349.77,Potamies_01
-Maragaki,C6 F2,1,Potamies,30/4/2023,Tarmac,cup,13,394.96,349.77,Potamies_01
-Partheni,C6 F2,1,Potamies,30/4/2023,Tarmac,cup,14,403.54,349.77,Potamies_01
-Poulakis,C6 F2,1,Potamies,30/4/2023,Tarmac,cup,15,406.42,349.77,Potamies_01
-Kapsalak,C3 F2,1,Potamies,30/4/2023,Tarmac,cup,16,450.47,349.77,Potamies_01
-Stivakta,C6 F2,1,Potamies,30/4/2023,Tarmac,cup,17,465.13,349.77,Potamies_01
-Anapolio,C1,2,Potamies,30/4/2023,Tarmac,cup,1,344.07,344.07,Potamies_02
-Ktistaki,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,2,350.67,344.07,Potamies_02
-Peroulak,C2,2,Potamies,30/4/2023,Tarmac,cup,3,353.39,344.07,Potamies_02
-Nikolida,C5 F2,2,Potamies,30/4/2023,Tarmac,cup,4,360.32,344.07,Potamies_02
-Frantzes,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,5,360.4,344.07,Potamies_02
-Titakis ,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,6,363.94,344.07,Potamies_02
-Damianak,C4 F2,2,Potamies,30/4/2023,Tarmac,cup,7,367.22,344.07,Potamies_02
-Kafetzak,C5 F2,2,Potamies,30/4/2023,Tarmac,cup,8,372.12,344.07,Potamies_02
-Gobakis ,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,9,374.96,344.07,Potamies_02
-Polias M,C5 F2,2,Potamies,30/4/2023,Tarmac,cup,10,381.38,344.07,Potamies_02
-Ioannidi,C5 F2,2,Potamies,30/4/2023,Tarmac,cup,11,385.77,344.07,Potamies_02
-Perakis ,C4 F2,2,Potamies,30/4/2023,Tarmac,cup,12,386.0,344.07,Potamies_02
-Poulakis,C6 F2,2,Potamies,30/4/2023,Tarmac,cup,13,400.51,344.07,Potamies_02
-Maragaki,C6 F2,2,Potamies,30/4/2023,Tarmac,cup,14,401.89,344.07,Potamies_02
-Partheni,C6 F2,2,Potamies,30/4/2023,Tarmac,cup,15,407.07,344.07,Potamies_02
-Kapsalak,C3 F2,2,Potamies,30/4/2023,Tarmac,cup,16,438.76,344.07,Potamies_02
-Stivakta,C6 F2,2,Potamies,30/4/2023,Tarmac,cup,17,447.05,344.07,Potamies_02
-Anapolio,C1,3,Potamies,30/4/2023,Tarmac,cup,1,341.78,341.78,Potamies_03
-Peroulak,C2,3,Potamies,30/4/2023,Tarmac,cup,2,348.01,341.78,Potamies_03
-Ktistaki,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,3,351.0,341.78,Potamies_03
-Frantzes,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,4,357.85,341.78,Potamies_03
-Titakis ,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,5,364.7,341.78,Potamies_03
-Gobakis ,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,6,372.24,341.78,Potamies_03
-Damianak,C4 F2,3,Potamies,30/4/2023,Tarmac,cup,7,377.03,341.78,Potamies_03
-Polias M,C5 F2,3,Potamies,30/4/2023,Tarmac,cup,8,378.9,341.78,Potamies_03
-Ioannidi,C5 F2,3,Potamies,30/4/2023,Tarmac,cup,9,383.53,341.78,Potamies_03
-Partheni,C6 F2,3,Potamies,30/4/2023,Tarmac,cup,10,399.13,341.78,Potamies_03
-Maragaki,C6 F2,3,Potamies,30/4/2023,Tarmac,cup,11,400.31,341.78,Potamies_03
-Poulakis,C6 F2,3,Potamies,30/4/2023,Tarmac,cup,12,403.56,341.78,Potamies_03
-Kapsalak,C3 F2,3,Potamies,30/4/2023,Tarmac,cup,13,440.99,341.78,Potamies_03
-Kafetzak,C5 F2,3,Potamies,30/4/2023,Tarmac,cup,14,454.73,341.78,Potamies_03
-Stivakta,C6 F2,3,Potamies,30/4/2023,Tarmac,cup,15,478.25,341.78,Potamies_03
-Tsouloft,C1,1,Stereas,4/6/2023,Gravel,Championship,1,183.52,183.52,Stereas_01
-Papadimi,C1,1,Stereas,4/6/2023,Gravel,Championship,2,185.68,183.52,Stereas_01
-Kehagias,C1,1,Stereas,4/6/2023,Gravel,Championship,3,192.79,183.52,Stereas_01
-Kirkos P,C2,1,Stereas,4/6/2023,Gravel,Championship,4,197.1,183.52,Stereas_01
-Panteli ,C1,1,Stereas,4/6/2023,Gravel,Championship,5,199.7,183.52,Stereas_01
-Serderid,C1,1,Stereas,4/6/2023,Gravel,Championship,6,200.83,183.52,Stereas_01
-Polykarp,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,7,203.18,183.52,Stereas_01
-Lefkadit,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,8,205.16,183.52,Stereas_01
-Dimopoul,C4 F2,1,Stereas,4/6/2023,Gravel,Championship,9,211.01,183.52,Stereas_01
-Karaniko,C5 F2,1,Stereas,4/6/2023,Gravel,Championship,10,213.28,183.52,Stereas_01
-Chatzima,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,11,213.4,183.52,Stereas_01
-Stamatop,C2,1,Stereas,4/6/2023,Gravel,Championship,12,216.27,183.52,Stereas_01
-Nicolaou,C2,1,Stereas,4/6/2023,Gravel,Championship,13,218.39,183.52,Stereas_01
-Vassilak,C1,1,Stereas,4/6/2023,Gravel,Championship,14,218.5,183.52,Stereas_01
-Kafantar,C2,1,Stereas,4/6/2023,Gravel,Championship,15,218.86,183.52,Stereas_01
-Amoutzas,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,16,221.23,183.52,Stereas_01
-Zygogian,C2,1,Stereas,4/6/2023,Gravel,Championship,17,221.24,183.52,Stereas_01
-Halivela,3 2000,1,Stereas,4/6/2023,Gravel,Championship,18,226.24,183.52,Stereas_01
-Giotis I,C4 F2,1,Stereas,4/6/2023,Gravel,Championship,19,227.92,183.52,Stereas_01
-Davaris ,C2,1,Stereas,4/6/2023,Gravel,Championship,20,229.37,183.52,Stereas_01
-J.J.  - ,C1,1,Stereas,4/6/2023,Gravel,Championship,21,230.22,183.52,Stereas_01
-Milonas ,C4 F2,1,Stereas,4/6/2023,Gravel,Championship,22,230.86,183.52,Stereas_01
-Pantiera,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,23,233.5,183.52,Stereas_01
-Chatziga,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,24,234.63,183.52,Stereas_01
-Christod,4 2000,1,Stereas,4/6/2023,Gravel,Championship,25,234.78,183.52,Stereas_01
-Rigas Gi,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,26,235.17,183.52,Stereas_01
-Manousko,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,27,235.91,183.52,Stereas_01
-Amaxopou,2 -1600,1,Stereas,4/6/2023,Gravel,Championship,28,241.08,183.52,Stereas_01
-Tsalamat,3 2000,1,Stereas,4/6/2023,Gravel,Championship,29,242.07,183.52,Stereas_01
-Melas D.,2,1,Stereas,4/6/2023,Gravel,Championship,30,242.46,183.52,Stereas_01
-Nomikos ,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,31,242.98,183.52,Stereas_01
-Argiriou,C4 F2,1,Stereas,4/6/2023,Gravel,Championship,32,243.92,183.52,Stereas_01
-Stavropo,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,33,244.69,183.52,Stereas_01
-Kalamara,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,34,244.74,183.52,Stereas_01
-Halkias ,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,35,245.83,183.52,Stereas_01
-Paradiss,3 2000,1,Stereas,4/6/2023,Gravel,Championship,36,246.79,183.52,Stereas_01
-Sotiropo,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,37,248.21,183.52,Stereas_01
-Kofinas ,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,38,250.06,183.52,Stereas_01
-Papadimi,4 2000,1,Stereas,4/6/2023,Gravel,Championship,39,251.17,183.52,Stereas_01
-Kalaitzi,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,40,251.64,183.52,Stereas_01
-Athanaso,3 -1600,1,Stereas,4/6/2023,Gravel,Championship,41,253.37,183.52,Stereas_01
-Delaport,C5 F2,1,Stereas,4/6/2023,Gravel,Championship,42,254.59,183.52,Stereas_01
-Dodos Gi,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,43,255.16,183.52,Stereas_01
-Yiangou ,C2,1,Stereas,4/6/2023,Gravel,Championship,44,256.93,183.52,Stereas_01
-Giokaris,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,45,260.25,183.52,Stereas_01
-Georgako,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,46,260.94,183.52,Stereas_01
-Panagiot,C6 F2,1,Stereas,4/6/2023,Gravel,Championship,47,262.68,183.52,Stereas_01
-Yfantis ,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,48,262.74,183.52,Stereas_01
-Manoussa,C3 F2,1,Stereas,4/6/2023,Gravel,Championship,49,264.09,183.52,Stereas_01
-Kotsopou,4 2000,1,Stereas,4/6/2023,Gravel,Championship,50,268.34,183.52,Stereas_01
-Kassidop,4 -1600,1,Stereas,4/6/2023,Gravel,Championship,51,270.21,183.52,Stereas_01
-Vassilop,2 2000,1,Stereas,4/6/2023,Gravel,Championship,52,279.26,183.52,Stereas_01
-Antonopo,3 2000,1,Stereas,4/6/2023,Gravel,Championship,53,292.48,183.52,Stereas_01
-Andrikop,C5 F2,1,Stereas,4/6/2023,Gravel,Championship,54,293.13,183.52,Stereas_01
-Kansos P,4 2000,1,Stereas,4/6/2023,Gravel,Championship,55,310.2,183.52,Stereas_01
-Papadimi,C1,2,Stereas,4/6/2023,Gravel,Championship,1,658.94,658.94,Stereas_02
-Kehagias,C1,2,Stereas,4/6/2023,Gravel,Championship,2,687.41,658.94,Stereas_02
-Panteli ,C1,2,Stereas,4/6/2023,Gravel,Championship,3,702.42,658.94,Stereas_02
-Serderid,C1,2,Stereas,4/6/2023,Gravel,Championship,4,708.13,658.94,Stereas_02
-Kirkos P,C2,2,Stereas,4/6/2023,Gravel,Championship,5,715.73,658.94,Stereas_02
-Polykarp,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,6,720.35,658.94,Stereas_02
-Chatzima,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,7,733.44,658.94,Stereas_02
-Lefkadit,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,8,738.39,658.94,Stereas_02
-J.J.  - ,C1,2,Stereas,4/6/2023,Gravel,Championship,9,743.89,658.94,Stereas_02
-Dimopoul,C4 F2,2,Stereas,4/6/2023,Gravel,Championship,10,761.18,658.94,Stereas_02
-Nicolaou,C2,2,Stereas,4/6/2023,Gravel,Championship,11,763.4,658.94,Stereas_02
-Amoutzas,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,12,778.77,658.94,Stereas_02
-Zygogian,C2,2,Stereas,4/6/2023,Gravel,Championship,13,786.27,658.94,Stereas_02
-Stamatop,C2,2,Stereas,4/6/2023,Gravel,Championship,14,797.94,658.94,Stereas_02
-Halivela,3 2000,2,Stereas,4/6/2023,Gravel,Championship,15,799.07,658.94,Stereas_02
-Giotis I,C4 F2,2,Stereas,4/6/2023,Gravel,Championship,16,801.45,658.94,Stereas_02
-Vassilak,C1,2,Stereas,4/6/2023,Gravel,Championship,17,803.52,658.94,Stereas_02
-Christod,4 2000,2,Stereas,4/6/2023,Gravel,Championship,18,812.91,658.94,Stereas_02
-Delaport,C5 F2,2,Stereas,4/6/2023,Gravel,Championship,19,817.28,658.94,Stereas_02
-Milonas ,C4 F2,2,Stereas,4/6/2023,Gravel,Championship,20,826.37,658.94,Stereas_02
-Chatziga,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,21,826.39,658.94,Stereas_02
-Papadimi,4 2000,2,Stereas,4/6/2023,Gravel,Championship,22,827.05,658.94,Stereas_02
-Davaris ,C2,2,Stereas,4/6/2023,Gravel,Championship,23,830.36,658.94,Stereas_02
-Paradiss,3 2000,2,Stereas,4/6/2023,Gravel,Championship,24,836.64,658.94,Stereas_02
-Halkias ,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,25,839.96,658.94,Stereas_02
-Melas D.,2,2,Stereas,4/6/2023,Gravel,Championship,26,840.07,658.94,Stereas_02
-Tsouloft,C1,2,Stereas,4/6/2023,Gravel,Championship,27,840.45,658.94,Stereas_02
-Panagiot,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,28,842.34,658.94,Stereas_02
-Amaxopou,2 -1600,2,Stereas,4/6/2023,Gravel,Championship,29,843.74,658.94,Stereas_02
-Rigas Gi,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,30,844.36,658.94,Stereas_02
-Stavropo,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,31,849.33,658.94,Stereas_02
-Manousko,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,32,860.13,658.94,Stereas_02
-Sotiropo,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,33,860.79,658.94,Stereas_02
-Athanaso,3 -1600,2,Stereas,4/6/2023,Gravel,Championship,34,861.06,658.94,Stereas_02
-Giokaris,C6 F2,2,Stereas,4/6/2023,Gravel,Championship,35,869.66,658.94,Stereas_02
-Tsalamat,3 2000,2,Stereas,4/6/2023,Gravel,Championship,36,869.71,658.94,Stereas_02
-Yiangou ,C2,2,Stereas,4/6/2023,Gravel,Championship,37,870.22,658.94,Stereas_02
-Yfantis ,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,38,871.2,658.94,Stereas_02
-Nomikos ,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,39,884.68,658.94,Stereas_02
-Georgako,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,40,885.95,658.94,Stereas_02
-Kalamara,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,41,890.58,658.94,Stereas_02
-Kofinas ,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,42,890.72,658.94,Stereas_02
-Dodos Gi,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,43,904.61,658.94,Stereas_02
-Kalaitzi,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,44,923.79,658.94,Stereas_02
-Vassilop,2 2000,2,Stereas,4/6/2023,Gravel,Championship,45,950.72,658.94,Stereas_02
-Kassidop,4 -1600,2,Stereas,4/6/2023,Gravel,Championship,46,952.17,658.94,Stereas_02
-Manoussa,C3 F2,2,Stereas,4/6/2023,Gravel,Championship,47,959.38,658.94,Stereas_02
-Andrikop,C5 F2,2,Stereas,4/6/2023,Gravel,Championship,48,1009.32,658.94,Stereas_02
-Kotsopou,4 2000,2,Stereas,4/6/2023,Gravel,Championship,49,1037.44,658.94,Stereas_02
-Kansos P,4 2000,2,Stereas,4/6/2023,Gravel,Championship,50,1062.51,658.94,Stereas_02
-Antonopo,3 2000,2,Stereas,4/6/2023,Gravel,Championship,51,1160.34,658.94,Stereas_02
-Tsouloft,C1,3,Stereas,4/6/2023,Gravel,Championship,1,969.58,969.58,Stereas_03
-Kehagias,C1,3,Stereas,4/6/2023,Gravel,Championship,2,992.13,969.58,Stereas_03
-Papadimi,C1,3,Stereas,4/6/2023,Gravel,Championship,3,998.39,969.58,Stereas_03
-Serderid,C1,3,Stereas,4/6/2023,Gravel,Championship,4,1024.71,969.58,Stereas_03
-Kirkos P,C2,3,Stereas,4/6/2023,Gravel,Championship,5,1036.08,969.58,Stereas_03
-Panteli ,C1,3,Stereas,4/6/2023,Gravel,Championship,6,1063.42,969.58,Stereas_03
-J.J.  - ,C1,3,Stereas,4/6/2023,Gravel,Championship,7,1070.77,969.58,Stereas_03
-Chatzima,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,8,1091.29,969.58,Stereas_03
-Lefkadit,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,9,1102.62,969.58,Stereas_03
-Zygogian,C2,3,Stereas,4/6/2023,Gravel,Championship,10,1128.28,969.58,Stereas_03
-Amoutzas,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,11,1130.19,969.58,Stereas_03
-Dimopoul,C4 F2,3,Stereas,4/6/2023,Gravel,Championship,12,1143.1,969.58,Stereas_03
-Stamatop,C2,3,Stereas,4/6/2023,Gravel,Championship,13,1154.27,969.58,Stereas_03
-Davaris ,C2,3,Stereas,4/6/2023,Gravel,Championship,14,1161.96,969.58,Stereas_03
-Milonas ,C4 F2,3,Stereas,4/6/2023,Gravel,Championship,15,1169.93,969.58,Stereas_03
-Delaport,C5 F2,3,Stereas,4/6/2023,Gravel,Championship,16,1174.71,969.58,Stereas_03
-Christod,4 2000,3,Stereas,4/6/2023,Gravel,Championship,17,1188.79,969.58,Stereas_03
-Nicolaou,C2,3,Stereas,4/6/2023,Gravel,Championship,18,1195.46,969.58,Stereas_03
-Chatziga,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,19,1199.18,969.58,Stereas_03
-Manousko,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,20,1201.39,969.58,Stereas_03
-Rigas Gi,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,21,1206.61,969.58,Stereas_03
-Halivela,3 2000,3,Stereas,4/6/2023,Gravel,Championship,22,1208.09,969.58,Stereas_03
-Vassilak,C1,3,Stereas,4/6/2023,Gravel,Championship,23,1209.57,969.58,Stereas_03
-Giotis I,C4 F2,3,Stereas,4/6/2023,Gravel,Championship,24,1210.83,969.58,Stereas_03
-Panagiot,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,25,1214.61,969.58,Stereas_03
-Kalamara,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,26,1217.28,969.58,Stereas_03
-Yfantis ,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,27,1217.61,969.58,Stereas_03
-Stavropo,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,28,1218.53,969.58,Stereas_03
-Tsalamat,3 2000,3,Stereas,4/6/2023,Gravel,Championship,29,1219.98,969.58,Stereas_03
-Melas D.,2,3,Stereas,4/6/2023,Gravel,Championship,30,1221.67,969.58,Stereas_03
-Halkias ,C3 F2,3,Stereas,4/6/2023,Gravel,Championship,31,1244.23,969.58,Stereas_03
-Giokaris,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,32,1249.5,969.58,Stereas_03
-Papadimi,4 2000,3,Stereas,4/6/2023,Gravel,Championship,33,1251.44,969.58,Stereas_03
-Athanaso,3 -1600,3,Stereas,4/6/2023,Gravel,Championship,34,1258.89,969.58,Stereas_03
-Georgako,4 -1600,3,Stereas,4/6/2023,Gravel,Championship,35,1266.55,969.58,Stereas_03
-Amaxopou,2 -1600,3,Stereas,4/6/2023,Gravel,Championship,36,1276.32,969.58,Stereas_03
-Kassidop,4 -1600,3,Stereas,4/6/2023,Gravel,Championship,37,1282.46,969.58,Stereas_03
-Kofinas ,4 -1600,3,Stereas,4/6/2023,Gravel,Championship,38,1299.07,969.58,Stereas_03
-Yiangou ,C2,3,Stereas,4/6/2023,Gravel,Championship,39,1329.49,969.58,Stereas_03
-Vassilop,2 2000,3,Stereas,4/6/2023,Gravel,Championship,40,1369.35,969.58,Stereas_03
-Kotsopou,4 2000,3,Stereas,4/6/2023,Gravel,Championship,41,1393.89,969.58,Stereas_03
-Kansos P,4 2000,3,Stereas,4/6/2023,Gravel,Championship,42,1465.59,969.58,Stereas_03
-Antonopo,3 2000,3,Stereas,4/6/2023,Gravel,Championship,43,1469.16,969.58,Stereas_03
-Andrikop,C5 F2,3,Stereas,4/6/2023,Gravel,Championship,44,1487.92,969.58,Stereas_03
-Sotiropo,C6 F2,3,Stereas,4/6/2023,Gravel,Championship,45,1745.33,969.58,Stereas_03
-Dodos Gi,4 -1600,3,Stereas,4/6/2023,Gravel,Championship,46,1966.87,969.58,Stereas_03
-Tsouloft,C1,4,Stereas,4/6/2023,Gravel,Championship,1,642.51,642.51,Stereas_04
-Papadimi,C1,4,Stereas,4/6/2023,Gravel,Championship,2,671.27,642.51,Stereas_04
-Panteli ,C1,4,Stereas,4/6/2023,Gravel,Championship,3,691.43,642.51,Stereas_04
-Kirkos P,C2,4,Stereas,4/6/2023,Gravel,Championship,4,697.29,642.51,Stereas_04
-Chatzima,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,5,724.74,642.51,Stereas_04
-Lefkadit,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,6,729.16,642.51,Stereas_04
-J.J.  - ,C1,4,Stereas,4/6/2023,Gravel,Championship,7,746.24,642.51,Stereas_04
-Nicolaou,C2,4,Stereas,4/6/2023,Gravel,Championship,8,767.27,642.51,Stereas_04
-Zygogian,C2,4,Stereas,4/6/2023,Gravel,Championship,9,802.85,642.51,Stereas_04
-Giotis I,C4 F2,4,Stereas,4/6/2023,Gravel,Championship,10,811.66,642.51,Stereas_04
-Milonas ,C4 F2,4,Stereas,4/6/2023,Gravel,Championship,11,817.78,642.51,Stereas_04
-Serderid,C1,4,Stereas,4/6/2023,Gravel,Championship,12,819.39,642.51,Stereas_04
-Davaris ,C2,4,Stereas,4/6/2023,Gravel,Championship,13,836.81,642.51,Stereas_04
-Dimopoul,C4 F2,4,Stereas,4/6/2023,Gravel,Championship,14,839.06,642.51,Stereas_04
-Rigas Gi,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,15,839.16,642.51,Stereas_04
-Panagiot,C6 F2,4,Stereas,4/6/2023,Gravel,Championship,16,843.46,642.51,Stereas_04
-Manousko,C6 F2,4,Stereas,4/6/2023,Gravel,Championship,17,845.2,642.51,Stereas_04
-Stavropo,C6 F2,4,Stereas,4/6/2023,Gravel,Championship,18,847.2,642.51,Stereas_04
-Vassilak,C1,4,Stereas,4/6/2023,Gravel,Championship,19,855.07,642.51,Stereas_04
-Chatziga,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,20,864.15,642.51,Stereas_04
-Kalamara,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,21,873.01,642.51,Stereas_04
-Yiangou ,C2,4,Stereas,4/6/2023,Gravel,Championship,22,873.14,642.51,Stereas_04
-Yfantis ,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,23,875.24,642.51,Stereas_04
-Halkias ,C3 F2,4,Stereas,4/6/2023,Gravel,Championship,24,876.25,642.51,Stereas_04
-Kehagias,C1,4,Stereas,4/6/2023,Gravel,Championship,25,909.11,642.51,Stereas_04
-Delaport,C5 F2,4,Stereas,4/6/2023,Gravel,Championship,26,997.7,642.51,Stereas_04
-Andrikop,C5 F2,4,Stereas,4/6/2023,Gravel,Championship,27,1057.83,642.51,Stereas_04
-Giokaris,C6 F2,4,Stereas,4/6/2023,Gravel,Championship,28,1111.59,642.51,Stereas_04
-Tsouloft,C1,5,Stereas,4/6/2023,Gravel,Championship,1,970.14,970.14,Stereas_05
-Kehagias,C1,5,Stereas,4/6/2023,Gravel,Championship,2,987.64,970.14,Stereas_05
-Papadimi,C1,5,Stereas,4/6/2023,Gravel,Championship,3,990.62,970.14,Stereas_05
-Kirkos P,C2,5,Stereas,4/6/2023,Gravel,Championship,4,1014.02,970.14,Stereas_05
-Serderid,C1,5,Stereas,4/6/2023,Gravel,Championship,5,1022.52,970.14,Stereas_05
-Panteli ,C1,5,Stereas,4/6/2023,Gravel,Championship,6,1026.4,970.14,Stereas_05
-J.J.  - ,C1,5,Stereas,4/6/2023,Gravel,Championship,7,1075.36,970.14,Stereas_05
-Nicolaou,C2,5,Stereas,4/6/2023,Gravel,Championship,8,1083.18,970.14,Stereas_05
-Chatzima,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,9,1088.19,970.14,Stereas_05
-Dimopoul,C4 F2,5,Stereas,4/6/2023,Gravel,Championship,10,1110.57,970.14,Stereas_05
-Zygogian,C2,5,Stereas,4/6/2023,Gravel,Championship,11,1116.76,970.14,Stereas_05
-Milonas ,C4 F2,5,Stereas,4/6/2023,Gravel,Championship,12,1165.32,970.14,Stereas_05
-Davaris ,C2,5,Stereas,4/6/2023,Gravel,Championship,13,1170.21,970.14,Stereas_05
-Manousko,C6 F2,5,Stereas,4/6/2023,Gravel,Championship,14,1185.78,970.14,Stereas_05
-Chatziga,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,15,1187.71,970.14,Stereas_05
-Giotis I,C4 F2,5,Stereas,4/6/2023,Gravel,Championship,16,1200.0,970.14,Stereas_05
-Panagiot,C6 F2,5,Stereas,4/6/2023,Gravel,Championship,17,1201.82,970.14,Stereas_05
-Yfantis ,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,18,1202.21,970.14,Stereas_05
-Stavropo,C6 F2,5,Stereas,4/6/2023,Gravel,Championship,19,1209.73,970.14,Stereas_05
-Kalamara,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,20,1217.51,970.14,Stereas_05
-Rigas Gi,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,21,1220.97,970.14,Stereas_05
-Delaport,C5 F2,5,Stereas,4/6/2023,Gravel,Championship,22,1227.75,970.14,Stereas_05
-Yiangou ,C2,5,Stereas,4/6/2023,Gravel,Championship,23,1287.92,970.14,Stereas_05
-Andrikop,C5 F2,5,Stereas,4/6/2023,Gravel,Championship,24,1412.87,970.14,Stereas_05
-Vassilak,C1,5,Stereas,4/6/2023,Gravel,Championship,25,1525.7,970.14,Stereas_05
-Giokaris,C6 F2,5,Stereas,4/6/2023,Gravel,Championship,26,1562.13,970.14,Stereas_05
-Halkias ,C3 F2,5,Stereas,4/6/2023,Gravel,Championship,27,1635.75,970.14,Stereas_05
+Gerodimo,C2,1,Almiros,11/6/2023,Tarmac,cup,1,408.44,408.44,Almiros_01
+Vlachos ,C2,1,Almiros,11/6/2023,Tarmac,cup,2,414.62,408.44,Almiros_01
+Kampilis,C1,1,Almiros,11/6/2023,Tarmac,cup,3,414.86,408.44,Almiros_01
+Stergiad,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,4,421.7,408.44,Almiros_01
+Michail ,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,5,430.79,408.44,Almiros_01
+Karathan,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,6,431.58,408.44,Almiros_01
+Vatsos N,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,7,435.57,408.44,Almiros_01
+Katsioni,C4 F2,1,Almiros,11/6/2023,Tarmac,cup,8,438.69,408.44,Almiros_01
+Sotiriad,C2,1,Almiros,11/6/2023,Tarmac,cup,9,439.23,408.44,Almiros_01
+Tzikopou,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,10,444.62,408.44,Almiros_01
+Katsarel,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,11,447.19,408.44,Almiros_01
+Panagiot,C2,1,Almiros,11/6/2023,Tarmac,cup,12,454.42,408.44,Almiros_01
+Trichidi,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,13,461.73,408.44,Almiros_01
+Efthimia,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,14,,408.44,Almiros_01
+Figioris,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,15,,408.44,Almiros_01
+Diamanti,C4 F2,1,Almiros,11/6/2023,Tarmac,cup,16,,408.44,Almiros_01
+Massiala,C6 F2,1,Almiros,11/6/2023,Tarmac,cup,17,,408.44,Almiros_01
+Kehagias,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,18,,408.44,Almiros_01
+Anastasi,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,19,,408.44,Almiros_01
+Labrou A,C5 F2,1,Almiros,11/6/2023,Tarmac,cup,20,,408.44,Almiros_01
+Koutsouk,C4 F2,1,Almiros,11/6/2023,Tarmac,cup,21,,408.44,Almiros_01
+Theofani,C3 F2,1,Almiros,11/6/2023,Tarmac,cup,22,465.49,408.44,Almiros_01
+Kampilis,C1,2,Almiros,11/6/2023,Tarmac,cup,1,201.09,201.09,Almiros_02
+Vlachos ,C2,2,Almiros,11/6/2023,Tarmac,cup,2,203.41,201.09,Almiros_02
+Karathan,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,3,210.53,201.09,Almiros_02
+Michail ,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,4,210.57,201.09,Almiros_02
+Stergiad,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,5,211.07,201.09,Almiros_02
+Katsioni,C4 F2,2,Almiros,11/6/2023,Tarmac,cup,6,211.7,201.09,Almiros_02
+Vatsos N,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,7,213.16,201.09,Almiros_02
+Sotiriad,C2,2,Almiros,11/6/2023,Tarmac,cup,8,216.48,201.09,Almiros_02
+Katsarel,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,9,217.47,201.09,Almiros_02
+Panagiot,C2,2,Almiros,11/6/2023,Tarmac,cup,10,220.63,201.09,Almiros_02
+Tzikopou,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,11,221.51,201.09,Almiros_02
+Theofani,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,12,226.66,201.09,Almiros_02
+Massiala,C6 F2,2,Almiros,11/6/2023,Tarmac,cup,13,230.15,201.09,Almiros_02
+Efthimia,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,14,235.77,201.09,Almiros_02
+Kehagias,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,15,236.14,201.09,Almiros_02
+Diamanti,C4 F2,2,Almiros,11/6/2023,Tarmac,cup,16,236.37,201.09,Almiros_02
+Anastasi,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,17,243.2,201.09,Almiros_02
+Figioris,C3 F2,2,Almiros,11/6/2023,Tarmac,cup,18,246.93,201.09,Almiros_02
+Koutsouk,C4 F2,2,Almiros,11/6/2023,Tarmac,cup,19,259.33,201.09,Almiros_02
+Labrou A,C5 F2,2,Almiros,11/6/2023,Tarmac,cup,20,268.0,201.09,Almiros_02
+Kampilis,C1,3,Almiros,11/6/2023,Tarmac,cup,1,407.03,407.03,Almiros_03
+Vlachos ,C2,3,Almiros,11/6/2023,Tarmac,cup,2,420.44,407.03,Almiros_03
+Stergiad,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,3,420.56,407.03,Almiros_03
+Michail ,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,4,423.72,407.03,Almiros_03
+Karathan,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,5,423.76,407.03,Almiros_03
+Sotiriad,C2,3,Almiros,11/6/2023,Tarmac,cup,6,429.76,407.03,Almiros_03
+Katsioni,C4 F2,3,Almiros,11/6/2023,Tarmac,cup,7,434.1,407.03,Almiros_03
+Katsarel,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,8,436.22,407.03,Almiros_03
+Panagiot,C2,3,Almiros,11/6/2023,Tarmac,cup,9,437.21,407.03,Almiros_03
+Vatsos N,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,10,438.49,407.03,Almiros_03
+Tzikopou,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,11,447.76,407.03,Almiros_03
+Theofani,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,12,453.99,407.03,Almiros_03
+Massiala,C6 F2,3,Almiros,11/6/2023,Tarmac,cup,13,460.52,407.03,Almiros_03
+Diamanti,C4 F2,3,Almiros,11/6/2023,Tarmac,cup,14,478.31,407.03,Almiros_03
+Figioris,C3 F2,3,Almiros,11/6/2023,Tarmac,cup,15,480.08,407.03,Almiros_03
+Anastasi,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,16,482.29,407.03,Almiros_03
+Kehagias,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,17,485.92,407.03,Almiros_03
+Efthimia,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,18,486.24,407.03,Almiros_03
+Labrou A,C5 F2,3,Almiros,11/6/2023,Tarmac,cup,19,500.21,407.03,Almiros_03
+Kampilis,C1,4,Almiros,11/6/2023,Tarmac,cup,1,199.14,199.14,Almiros_04
+Vlachos ,C2,4,Almiros,11/6/2023,Tarmac,cup,2,204.28,199.14,Almiros_04
+Michail ,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,3,207.02,199.14,Almiros_04
+Karathan,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,4,209.25,199.14,Almiros_04
+Katsioni,C4 F2,4,Almiros,11/6/2023,Tarmac,cup,5,209.46,199.14,Almiros_04
+Stergiad,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,6,210.68,199.14,Almiros_04
+Sotiriad,C2,4,Almiros,11/6/2023,Tarmac,cup,7,212.77,199.14,Almiros_04
+Katsarel,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,8,213.43,199.14,Almiros_04
+Vatsos N,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,9,213.97,199.14,Almiros_04
+Panagiot,C2,4,Almiros,11/6/2023,Tarmac,cup,10,216.13,199.14,Almiros_04
+Theofani,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,11,219.92,199.14,Almiros_04
+Tzikopou,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,12,221.42,199.14,Almiros_04
+Massiala,C6 F2,4,Almiros,11/6/2023,Tarmac,cup,13,230.7,199.14,Almiros_04
+Diamanti,C4 F2,4,Almiros,11/6/2023,Tarmac,cup,14,231.02,199.14,Almiros_04
+Efthimia,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,15,231.03,199.14,Almiros_04
+Kehagias,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,16,236.11,199.14,Almiros_04
+Anastasi,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,17,238.64,199.14,Almiros_04
+Figioris,C3 F2,4,Almiros,11/6/2023,Tarmac,cup,18,244.05,199.14,Almiros_04
+Labrou A,C5 F2,4,Almiros,11/6/2023,Tarmac,cup,19,245.96,199.14,Almiros_04
+Kampilis,C1,5,Almiros,11/6/2023,Tarmac,cup,1,201.96,201.96,Almiros_05
+Vlachos ,C2,5,Almiros,11/6/2023,Tarmac,cup,2,205.37,201.96,Almiros_05
+Michail ,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,3,206.72,201.96,Almiros_05
+Karathan,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,4,208.4,201.96,Almiros_05
+Stergiad,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,5,210.95,201.96,Almiros_05
+Katsioni,C4 F2,5,Almiros,11/6/2023,Tarmac,cup,6,211.44,201.96,Almiros_05
+Sotiriad,C2,5,Almiros,11/6/2023,Tarmac,cup,7,211.93,201.96,Almiros_05
+Vatsos N,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,8,213.22,201.96,Almiros_05
+Katsarel,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,9,213.36,201.96,Almiros_05
+Panagiot,C2,5,Almiros,11/6/2023,Tarmac,cup,10,218.01,201.96,Almiros_05
+Theofani,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,11,218.67,201.96,Almiros_05
+Massiala,C6 F2,5,Almiros,11/6/2023,Tarmac,cup,12,221.83,201.96,Almiros_05
+Tzikopou,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,13,222.52,201.96,Almiros_05
+Diamanti,C4 F2,5,Almiros,11/6/2023,Tarmac,cup,14,232.54,201.96,Almiros_05
+Efthimia,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,15,232.57,201.96,Almiros_05
+Anastasi,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,16,235.67,201.96,Almiros_05
+Kehagias,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,17,245.76,201.96,Almiros_05
+Figioris,C3 F2,5,Almiros,11/6/2023,Tarmac,cup,18,251.01,201.96,Almiros_05
+Labrou A,C5 F2,5,Almiros,11/6/2023,Tarmac,cup,19,267.03,201.96,Almiros_05
