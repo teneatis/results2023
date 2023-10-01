@@ -1,561 +1,730 @@
-Crew,Gr/Cl,ss,Race,date,surface,competition,cou,time_SS_sec
-Tänak Ott  - J,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,1,616.8
-Suninen Teemu ,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,2,618.9
-Evans Elfyn  -,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,3,621.7
-Loubet Pierre-,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,4,624.2
-Rovanperä Kall,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,5,626.8
-Neuville Thier,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,6,629.1
-Katsuta Takamo,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,7,631.4
-Solberg Oliver,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,8,643.3
-Pajari Sami  -,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,9,643.4
-Gryazin Nikola,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,10,648.1
-Munster Grégoi,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,11,648.9
-Heller Alberto,RC1,1,Chile,29/9-1/10/2023,Gravel,Wrc,12,650.8
-Greensmith Gus,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,13,654.9
-Martínez Fonte,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,14,657.5
-Lindholm Emil ,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,15,659.5
-Rossel Yohan  ,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,16,659.8
-Bulacia Marco ,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,17,660.3
-Scuncio Martin,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,18,661.9
-Kajetanowicz K,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,19,663.8
-Fernández Emil,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,20,672.4
-Heller Pedro  ,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,21,673.1
-Rosselot Emili,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,22,673.1
-Rosselot Gerar,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,23,673.7
-Israel Benjami,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,24,676.1
-Bulacia Bruno ,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,25,677.7
-Lyon Germán  -,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,26,682.9
-Zaldivar F.  -,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,27,686.3
-Domínguez Dieg,RC3,1,Chile,29/9-1/10/2023,Gravel,Wrc,28,709.4
-Rosselot Tadeo,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,29,721.3
-Muñoz Patricio,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,30,731.8
-Castro Eduardo,RC3,1,Chile,29/9-1/10/2023,Gravel,Wrc,31,731.9
-Parra Mario  -,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,32,740.0
-Fuertes Iván  ,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,33,744.2
-Kovacs Eduardo,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,34,752.5
-Pérez Beristai,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,35,753.5
-Martínez Rodrí,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,36,756.3
-Quezada Jose D,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,37,756.4
-Palma Lucas  -,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,38,759.7
-Padilla Felipe,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,39,766.2
-Gardiol Ignaci,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,40,770.8
-Martinez Meriz,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,41,782.8
-Prieto Carlos ,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,42,785.9
-Martínez Meriz,RC2,1,Chile,29/9-1/10/2023,Gravel,Wrc,43,787.4
-Arenas Felipe ,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,44,788.8
-Klein Javier  ,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,45,821.2
-Iglesias Rodol,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,46,844.6
-Arce Lazo J.  ,RC5,1,Chile,29/9-1/10/2023,Gravel,Wrc,47,932.8
-Garay Moreira ,RC5,1,Chile,29/9-1/10/2023,Gravel,Wrc,48,940.0
-Cohen Harold  ,RC4,1,Chile,29/9-1/10/2023,Gravel,Wrc,49,
-Evans Elfyn  -,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,1,412.9
-Rovanperä Kall,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,2,414.4
-Loubet Pierre-,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,3,414.8
-Neuville Thier,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,4,415.4
-Suninen Teemu ,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,5,415.8
-Tänak Ott  - J,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,6,419.6
-Katsuta Takamo,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,7,421.0
-Munster Grégoi,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,8,421.9
-Heller Alberto,RC1,2,Chile,29/9-1/10/2023,Gravel,Wrc,9,425.3
-Pajari Sami  -,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,10,430.1
-Greensmith Gus,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,11,434.4
-Solberg Oliver,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,12,435.1
-Gryazin Nikola,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,13,435.4
-Bulacia Marco ,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,14,436.2
-Martínez Fonte,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,15,439.3
-Kajetanowicz K,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,16,439.4
-Zaldivar F.  -,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,17,441.3
-Heller Pedro  ,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,18,443.6
-Israel Benjami,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,19,445.5
-Bulacia Bruno ,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,20,447.2
-Fernández Emil,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,21,448.4
-Lindholm Emil ,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,22,450.1
-Scuncio Martin,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,23,451.0
-Rosselot Gerar,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,24,451.4
-Rosselot Emili,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,25,452.7
-Lyon Germán  -,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,26,454.5
-Rossel Yohan  ,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,27,457.8
-Domínguez Dieg,RC3,2,Chile,29/9-1/10/2023,Gravel,Wrc,28,475.2
-Parra Mario  -,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,29,481.2
-Rosselot Tadeo,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,30,482.4
-Muñoz Patricio,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,31,485.9
-Padilla Felipe,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,32,486.0
-Castro Eduardo,RC3,2,Chile,29/9-1/10/2023,Gravel,Wrc,33,486.6
-Martínez Rodrí,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,34,497.0
-Pérez Beristai,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,35,499.4
-Quezada Jose D,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,36,501.4
-Gardiol Ignaci,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,37,514.2
-Kovacs Eduardo,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,38,515.0
-Martinez Meriz,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,39,523.5
-Prieto Carlos ,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,40,525.0
-Arenas Felipe ,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,41,530.4
-Martínez Meriz,RC2,2,Chile,29/9-1/10/2023,Gravel,Wrc,42,544.3
-Klein Javier  ,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,43,
-Iglesias Rodol,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Arce Lazo J.  ,RC5,2,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Garay Moreira ,RC5,2,Chile,29/9-1/10/2023,Gravel,Wrc,46,
-Palma Lucas  -,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,47,
-Fuertes Iván  ,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,48,
-Cohen Harold  ,RC4,2,Chile,29/9-1/10/2023,Gravel,Wrc,49,
-Evans Elfyn  -,RC1,3,Chile,29/9-1/10/2023,Gravel,Wrc,1,752.0
-Tänak Ott  - J,RC1,3,Chile,29/9-1/10/2023,Gravel,Wrc,2,752.9
-Suninen Teemu ,RC1,3,Chile,29/9-1/10/2023,Gravel,Wrc,3,754.5
-Rovanperä Kall,RC1,3,Chile,29/9-1/10/2023,Gravel,Wrc,4,759.0
-Katsuta Takamo,RC1,3,Chile,29/9-1/10/2023,Gravel,Wrc,5,762.5
-Neuville Thier,RC1,3,Chile,29/9-1/10/2023,Gravel,Wrc,6,763.8
-Munster Grégoi,RC1,3,Chile,29/9-1/10/2023,Gravel,Wrc,7,768.5
-Solberg Oliver,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,8,774.9
-Pajari Sami  -,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,9,777.4
-Heller Alberto,RC1,3,Chile,29/9-1/10/2023,Gravel,Wrc,10,781.5
-Gryazin Nikola,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,11,783.0
-Greensmith Gus,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,12,786.9
-Lindholm Emil ,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,13,787.0
-Kajetanowicz K,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,14,792.5
-Rossel Yohan  ,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,15,795.1
-Bulacia Marco ,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,16,799.5
-Rosselot Emili,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,17,813.6
-Zaldivar F.  -,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,18,815.8
-Rosselot Gerar,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,19,816.3
-Heller Pedro  ,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,20,818.2
-Martínez Fonte,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,21,818.8
-Fernández Emil,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,22,819.3
-Scuncio Martin,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,23,820.3
-Lyon Germán  -,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,24,828.4
-Israel Benjami,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,25,832.4
-Bulacia Bruno ,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,26,846.5
-Domínguez Dieg,RC3,3,Chile,29/9-1/10/2023,Gravel,Wrc,27,863.5
-Castro Eduardo,RC3,3,Chile,29/9-1/10/2023,Gravel,Wrc,28,873.4
-Parra Mario  -,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,29,876.7
-Rosselot Tadeo,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,30,878.1
-Martínez Rodrí,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,31,882.7
-Padilla Felipe,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,32,893.8
-Kovacs Eduardo,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,33,903.7
-Pérez Beristai,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,34,909.2
-Quezada Jose D,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,35,914.4
-Gardiol Ignaci,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,36,922.9
-Prieto Carlos ,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,37,943.6
-Arenas Felipe ,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,38,947.7
-Martínez Meriz,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,39,952.6
-Martinez Meriz,RC2,3,Chile,29/9-1/10/2023,Gravel,Wrc,40,967.4
-Klein Javier  ,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,41,982.3
-Iglesias Rodol,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,42,1038.0
-Arce Lazo J.  ,RC5,3,Chile,29/9-1/10/2023,Gravel,Wrc,43,1059.9
-Garay Moreira ,RC5,3,Chile,29/9-1/10/2023,Gravel,Wrc,44,1098.4
-Muñoz Patricio,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Palma Lucas  -,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,46,
-Fuertes Iván  ,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,47,
-Cohen Harold  ,RC4,3,Chile,29/9-1/10/2023,Gravel,Wrc,48,
-Suninen Teemu ,RC1,4,Chile,29/9-1/10/2023,Gravel,Wrc,1,598.7
-Tänak Ott  - J,RC1,4,Chile,29/9-1/10/2023,Gravel,Wrc,2,602.4
-Neuville Thier,RC1,4,Chile,29/9-1/10/2023,Gravel,Wrc,3,604.8
-Katsuta Takamo,RC1,4,Chile,29/9-1/10/2023,Gravel,Wrc,4,605.4
-Evans Elfyn  -,RC1,4,Chile,29/9-1/10/2023,Gravel,Wrc,5,606.2
-Rovanperä Kall,RC1,4,Chile,29/9-1/10/2023,Gravel,Wrc,6,606.5
-Munster Grégoi,RC1,4,Chile,29/9-1/10/2023,Gravel,Wrc,7,623.0
-Pajari Sami  -,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,8,623.9
-Gryazin Nikola,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,9,627.0
-Solberg Oliver,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,10,628.8
-Heller Alberto,RC1,4,Chile,29/9-1/10/2023,Gravel,Wrc,11,630.5
-Lindholm Emil ,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,12,631.8
-Greensmith Gus,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,13,633.8
-Bulacia Marco ,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,14,635.9
-Martínez Fonte,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,15,639.3
-Kajetanowicz K,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,16,640.5
-Rossel Yohan  ,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,17,642.5
-Zaldivar F.  -,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,18,648.6
-Scuncio Martin,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,19,653.9
-Bulacia Bruno ,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,20,655.8
-Fernández Emil,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,21,656.6
-Israel Benjami,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,22,657.2
-Heller Pedro  ,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,23,659.4
-Rosselot Emili,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,24,661.3
-Lyon Germán  -,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,25,682.0
-Domínguez Dieg,RC3,4,Chile,29/9-1/10/2023,Gravel,Wrc,26,692.9
-Castro Eduardo,RC3,4,Chile,29/9-1/10/2023,Gravel,Wrc,27,718.3
-Parra Mario  -,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,28,724.5
-Martínez Rodrí,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,29,731.6
-Kovacs Eduardo,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,30,737.0
-Padilla Felipe,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,31,737.9
-Quezada Jose D,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,32,742.8
-Gardiol Ignaci,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,33,743.3
-Rosselot Tadeo,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,34,748.8
-Pérez Beristai,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,35,749.9
-Arenas Felipe ,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,36,776.7
-Prieto Carlos ,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,37,781.4
-Martinez Meriz,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,38,782.5
-Martínez Meriz,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,39,783.3
-Klein Javier  ,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,40,811.9
-Iglesias Rodol,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,41,839.0
-Arce Lazo J.  ,RC5,4,Chile,29/9-1/10/2023,Gravel,Wrc,42,855.5
-Garay Moreira ,RC5,4,Chile,29/9-1/10/2023,Gravel,Wrc,43,890.8
-Rosselot Gerar,RC2,4,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Muñoz Patricio,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Palma Lucas  -,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,46,
-Fuertes Iván  ,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,47,
-Cohen Harold  ,RC4,4,Chile,29/9-1/10/2023,Gravel,Wrc,48,
-Tänak Ott  - J,RC1,5,Chile,29/9-1/10/2023,Gravel,Wrc,1,399.8
-Neuville Thier,RC1,5,Chile,29/9-1/10/2023,Gravel,Wrc,2,402.3
-Suninen Teemu ,RC1,5,Chile,29/9-1/10/2023,Gravel,Wrc,3,404.7
-Evans Elfyn  -,RC1,5,Chile,29/9-1/10/2023,Gravel,Wrc,4,404.9
-Rovanperä Kall,RC1,5,Chile,29/9-1/10/2023,Gravel,Wrc,5,405.7
-Munster Grégoi,RC1,5,Chile,29/9-1/10/2023,Gravel,Wrc,6,409.4
-Katsuta Takamo,RC1,5,Chile,29/9-1/10/2023,Gravel,Wrc,7,410.0
-Pajari Sami  -,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,8,417.6
-Heller Alberto,RC1,5,Chile,29/9-1/10/2023,Gravel,Wrc,9,418.5
-Solberg Oliver,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,10,418.7
-Lindholm Emil ,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,11,420.7
-Kajetanowicz K,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,12,424.8
-Greensmith Gus,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,13,427.3
-Rossel Yohan  ,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,14,428.5
-Gryazin Nikola,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,15,429.3
-Martínez Fonte,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,16,430.5
-Bulacia Bruno ,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,17,438.2
-Heller Pedro  ,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,18,439.6
-Israel Benjami,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,19,440.1
-Fernández Emil,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,20,441.1
-Rosselot Emili,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,21,442.0
-Zaldivar F.  -,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,22,442.4
-Scuncio Martin,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,23,445.1
-Rosselot Tadeo,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,24,473.0
-Parra Mario  -,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,25,479.2
-Castro Eduardo,RC3,5,Chile,29/9-1/10/2023,Gravel,Wrc,26,479.8
-Lyon Germán  -,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,27,483.9
-Bulacia Marco ,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,28,484.5
-Martínez Rodrí,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,29,487.3
-Padilla Felipe,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,30,487.8
-Domínguez Dieg,RC3,5,Chile,29/9-1/10/2023,Gravel,Wrc,31,489.9
-Gardiol Ignaci,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,32,493.8
-Pérez Beristai,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,33,497.5
-Kovacs Eduardo,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,34,502.7
-Quezada Jose D,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,35,503.9
-Prieto Carlos ,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,36,522.0
-Arenas Felipe ,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,37,523.4
-Martínez Meriz,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,38,523.7
-Martinez Meriz,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,39,529.3
-Klein Javier  ,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,40,547.6
-Arce Lazo J.  ,RC5,5,Chile,29/9-1/10/2023,Gravel,Wrc,41,581.5
-Iglesias Rodol,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,42,585.7
-Garay Moreira ,RC5,5,Chile,29/9-1/10/2023,Gravel,Wrc,43,621.0
-Rosselot Gerar,RC2,5,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Muñoz Patricio,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Palma Lucas  -,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,46,
-Fuertes Iván  ,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,47,
-Cohen Harold  ,RC4,5,Chile,29/9-1/10/2023,Gravel,Wrc,48,
-Tänak Ott  - J,RC1,6,Chile,29/9-1/10/2023,Gravel,Wrc,1,732.2
-Suninen Teemu ,RC1,6,Chile,29/9-1/10/2023,Gravel,Wrc,2,735.3
-Neuville Thier,RC1,6,Chile,29/9-1/10/2023,Gravel,Wrc,3,736.0
-Evans Elfyn  -,RC1,6,Chile,29/9-1/10/2023,Gravel,Wrc,4,738.7
-Katsuta Takamo,RC1,6,Chile,29/9-1/10/2023,Gravel,Wrc,5,739.0
-Rovanperä Kall,RC1,6,Chile,29/9-1/10/2023,Gravel,Wrc,6,750.0
-Munster Grégoi,RC1,6,Chile,29/9-1/10/2023,Gravel,Wrc,7,750.4
-Pajari Sami  -,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,8,760.9
-Solberg Oliver,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,9,765.8
-Heller Alberto,RC1,6,Chile,29/9-1/10/2023,Gravel,Wrc,10,766.4
-Lindholm Emil ,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,11,768.9
-Kajetanowicz K,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,12,770.7
-Greensmith Gus,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,13,772.5
-Rossel Yohan  ,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,14,778.4
-Gryazin Nikola,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,15,781.9
-Bulacia Bruno ,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,16,782.4
-Israel Benjami,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,17,795.8
-Rosselot Emili,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,18,802.4
-Fernández Emil,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,19,806.4
-Zaldivar F.  -,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,20,811.9
-Heller Pedro  ,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,21,812.3
-Scuncio Martin,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,22,812.3
-Domínguez Dieg,RC3,6,Chile,29/9-1/10/2023,Gravel,Wrc,23,
-Castro Eduardo,RC3,6,Chile,29/9-1/10/2023,Gravel,Wrc,24,
-Parra Mario  -,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,25,
-Rosselot Tadeo,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,26,
-Martínez Rodrí,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,27,
-Padilla Felipe,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,28,
-Pérez Beristai,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,29,
-Kovacs Eduardo,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,30,
-Quezada Jose D,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,31,
-Gardiol Ignaci,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,32,
-Prieto Carlos ,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,33,
-Martinez Meriz,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,34,
-Arenas Felipe ,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,35,
-Martínez Meriz,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,36,
-Klein Javier  ,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,37,
-Iglesias Rodol,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,38,
-Arce Lazo J.  ,RC5,6,Chile,29/9-1/10/2023,Gravel,Wrc,39,
-Garay Moreira ,RC5,6,Chile,29/9-1/10/2023,Gravel,Wrc,40,
-Martínez Fonte,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,41,1227.6
-Rosselot Gerar,RC2,6,Chile,29/9-1/10/2023,Gravel,Wrc,42,
-Muñoz Patricio,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,43,
-Palma Lucas  -,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Fuertes Iván  ,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Cohen Harold  ,RC4,6,Chile,29/9-1/10/2023,Gravel,Wrc,46,
-Rovanperä Kall,RC1,7,Chile,29/9-1/10/2023,Gravel,Wrc,1,1040.7
-Tänak Ott  - J,RC1,7,Chile,29/9-1/10/2023,Gravel,Wrc,2,1042.3
-Evans Elfyn  -,RC1,7,Chile,29/9-1/10/2023,Gravel,Wrc,3,1043.4
-Suninen Teemu ,RC1,7,Chile,29/9-1/10/2023,Gravel,Wrc,4,1052.7
-Neuville Thier,RC1,7,Chile,29/9-1/10/2023,Gravel,Wrc,5,1056.4
-Katsuta Takamo,RC1,7,Chile,29/9-1/10/2023,Gravel,Wrc,6,1063.5
-Heller Alberto,RC1,7,Chile,29/9-1/10/2023,Gravel,Wrc,7,1080.3
-Solberg Oliver,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,8,1088.0
-Munster Grégoi,RC1,7,Chile,29/9-1/10/2023,Gravel,Wrc,9,1091.0
-Rossel Yohan  ,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,10,1094.7
-Martínez Fonte,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,11,1099.3
-Greensmith Gus,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,12,1102.1
-Lindholm Emil ,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,13,1103.2
-Kajetanowicz K,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,14,1104.7
-Gryazin Nikola,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,15,1107.5
-Bulacia Bruno ,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,16,1108.8
-Scuncio Martin,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,17,1113.0
-Rosselot Emili,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,18,1114.8
-Fernández Emil,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,19,1116.5
-Zaldivar F.  -,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,20,1117.0
-Heller Pedro  ,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,21,1126.6
-Pajari Sami  -,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,22,1127.6
-Israel Benjami,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,23,1128.3
-Rosselot Gerar,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,24,1143.2
-Domínguez Dieg,RC3,7,Chile,29/9-1/10/2023,Gravel,Wrc,25,1167.1
-Rosselot Tadeo,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,26,1199.5
-Muñoz Patricio,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,27,1201.3
-Castro Eduardo,RC3,7,Chile,29/9-1/10/2023,Gravel,Wrc,28,1205.6
-Parra Mario  -,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,29,1211.6
-Padilla Felipe,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,30,1221.4
-Kovacs Eduardo,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,31,1230.6
-Gardiol Ignaci,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,32,1234.1
-Martínez Rodrí,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,33,1235.6
-Pérez Beristai,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,34,1259.4
-Martínez Meriz,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,35,1265.1
-Prieto Carlos ,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,36,1267.8
-Quezada Jose D,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,37,1271.3
-Arenas Felipe ,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,38,1278.9
-Martinez Meriz,RC2,7,Chile,29/9-1/10/2023,Gravel,Wrc,39,1284.1
-Fuertes Iván  ,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,40,1312.5
-Cohen Harold  ,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,41,1351.1
-Klein Javier  ,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,42,1365.9
-Arce Lazo J.  ,RC5,7,Chile,29/9-1/10/2023,Gravel,Wrc,43,1419.8
-Garay Moreira ,RC5,7,Chile,29/9-1/10/2023,Gravel,Wrc,44,1438.3
-Palma Lucas  -,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Iglesias Rodol,RC4,7,Chile,29/9-1/10/2023,Gravel,Wrc,46,1880.6
-Tänak Ott  - J,RC1,8,Chile,29/9-1/10/2023,Gravel,Wrc,1,839.0
-Evans Elfyn  -,RC1,8,Chile,29/9-1/10/2023,Gravel,Wrc,2,845.8
-Neuville Thier,RC1,8,Chile,29/9-1/10/2023,Gravel,Wrc,3,852.6
-Suninen Teemu ,RC1,8,Chile,29/9-1/10/2023,Gravel,Wrc,4,856.5
-Katsuta Takamo,RC1,8,Chile,29/9-1/10/2023,Gravel,Wrc,5,857.1
-Rovanperä Kall,RC1,8,Chile,29/9-1/10/2023,Gravel,Wrc,6,859.9
-Rossel Yohan  ,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,7,869.8
-Greensmith Gus,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,8,871.9
-Munster Grégoi,RC1,8,Chile,29/9-1/10/2023,Gravel,Wrc,9,874.2
-Lindholm Emil ,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,10,878.1
-Gryazin Nikola,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,11,880.1
-Solberg Oliver,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,12,880.3
-Kajetanowicz K,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,13,880.9
-Pajari Sami  -,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,14,883.4
-Scuncio Martin,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,15,894.9
-Rosselot Emili,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,16,895.4
-Heller Alberto,RC1,8,Chile,29/9-1/10/2023,Gravel,Wrc,17,897.0
-Martínez Fonte,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,18,902.8
-Heller Pedro  ,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,19,903.9
-Fernández Emil,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,20,908.5
-Zaldivar F.  -,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,21,909.1
-Rosselot Gerar,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,22,924.2
-Bulacia Bruno ,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,23,924.9
-Domínguez Dieg,RC3,8,Chile,29/9-1/10/2023,Gravel,Wrc,24,930.6
-Castro Eduardo,RC3,8,Chile,29/9-1/10/2023,Gravel,Wrc,25,957.7
-Muñoz Patricio,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,26,959.1
-Parra Mario  -,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,27,964.3
-Rosselot Tadeo,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,28,967.4
-Martínez Rodrí,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,29,984.1
-Martínez Meriz,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,30,994.0
-Gardiol Ignaci,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,31,994.1
-Prieto Carlos ,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,32,997.2
-Pérez Beristai,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,33,999.5
-Martinez Meriz,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,34,1012.4
-Quezada Jose D,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,35,1018.3
-Arenas Felipe ,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,36,1048.1
-Cohen Harold  ,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,37,1063.9
-Garay Moreira ,RC5,8,Chile,29/9-1/10/2023,Gravel,Wrc,38,1106.9
-Klein Javier  ,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,39,1113.2
-Arce Lazo J.  ,RC5,8,Chile,29/9-1/10/2023,Gravel,Wrc,40,1115.5
-Iglesias Rodol,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,41,1144.8
-Israel Benjami,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,42,
-Kovacs Eduardo,RC2,8,Chile,29/9-1/10/2023,Gravel,Wrc,43,
-Padilla Felipe,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Palma Lucas  -,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Fuertes Iván  ,RC4,8,Chile,29/9-1/10/2023,Gravel,Wrc,46,
-Tänak Ott  - J,RC1,9,Chile,29/9-1/10/2023,Gravel,Wrc,1,1060.9
-Neuville Thier,RC1,9,Chile,29/9-1/10/2023,Gravel,Wrc,2,1068.5
-Suninen Teemu ,RC1,9,Chile,29/9-1/10/2023,Gravel,Wrc,3,1076.6
-Gryazin Nikola,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,4,1102.5
-Rossel Yohan  ,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,5,1103.3
-Munster Grégoi,RC1,9,Chile,29/9-1/10/2023,Gravel,Wrc,6,1104.1
-Greensmith Gus,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,7,1104.2
-Rovanperä Kall,RC1,9,Chile,29/9-1/10/2023,Gravel,Wrc,8,1107.6
-Pajari Sami  -,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,9,1108.8
-Kajetanowicz K,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,10,1110.6
-Lindholm Emil ,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,11,1112.4
-Rosselot Emili,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,12,1115.9
-Evans Elfyn  -,RC1,9,Chile,29/9-1/10/2023,Gravel,Wrc,13,1117.1
-Solberg Oliver,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,14,1121.5
-Martínez Fonte,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,15,1127.3
-Fernández Emil,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,16,1128.1
-Heller Pedro  ,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,17,1133.3
-Heller Alberto,RC1,9,Chile,29/9-1/10/2023,Gravel,Wrc,18,1133.4
-Zaldivar F.  -,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,19,1136.2
-Rosselot Gerar,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,20,1144.9
-Katsuta Takamo,RC1,9,Chile,29/9-1/10/2023,Gravel,Wrc,21,1148.7
-Bulacia Bruno ,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,22,1192.9
-Rosselot Tadeo,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,23,1199.9
-Castro Eduardo,RC3,9,Chile,29/9-1/10/2023,Gravel,Wrc,24,1205.2
-Muñoz Patricio,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,25,1211.3
-Parra Mario  -,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,26,1214.5
-Domínguez Dieg,RC3,9,Chile,29/9-1/10/2023,Gravel,Wrc,27,1217.2
-Martinez Meriz,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,28,1228.2
-Pérez Beristai,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,29,1228.4
-Martínez Meriz,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,30,1244.3
-Gardiol Ignaci,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,31,1249.2
-Quezada Jose D,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,32,1254.6
-Prieto Carlos ,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,33,1259.5
-Arenas Felipe ,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,34,1271.8
-Cohen Harold  ,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,35,1315.5
-Martínez Rodrí,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,36,1330.1
-Arce Lazo J.  ,RC5,9,Chile,29/9-1/10/2023,Gravel,Wrc,37,1378.5
-Klein Javier  ,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,38,1406.2
-Garay Moreira ,RC5,9,Chile,29/9-1/10/2023,Gravel,Wrc,39,1408.8
-Iglesias Rodol,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,40,1419.4
-Israel Benjami,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,41,
-Kovacs Eduardo,RC2,9,Chile,29/9-1/10/2023,Gravel,Wrc,42,
-Padilla Felipe,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,43,
-Palma Lucas  -,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Fuertes Iván  ,RC4,9,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Rovanperä Kall,RC1,10,Chile,29/9-1/10/2023,Gravel,Wrc,1,1027.5
-Evans Elfyn  -,RC1,10,Chile,29/9-1/10/2023,Gravel,Wrc,2,1029.9
-Neuville Thier,RC1,10,Chile,29/9-1/10/2023,Gravel,Wrc,3,1032.4
-Suninen Teemu ,RC1,10,Chile,29/9-1/10/2023,Gravel,Wrc,4,1035.9
-Katsuta Takamo,RC1,10,Chile,29/9-1/10/2023,Gravel,Wrc,5,1036.7
-Tänak Ott  - J,RC1,10,Chile,29/9-1/10/2023,Gravel,Wrc,6,1042.0
-Munster Grégoi,RC1,10,Chile,29/9-1/10/2023,Gravel,Wrc,7,1057.1
-Greensmith Gus,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,8,1065.2
-Pajari Sami  -,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,9,1065.8
-Rossel Yohan  ,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,10,1069.2
-Lindholm Emil ,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,11,1069.4
-Gryazin Nikola,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,12,1071.9
-Kajetanowicz K,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,13,1075.7
-Bulacia Bruno ,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,14,1076.1
-Solberg Oliver,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,15,1085.0
-Zaldivar F.  -,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,16,1091.5
-Heller Alberto,RC1,10,Chile,29/9-1/10/2023,Gravel,Wrc,17,1092.7
-Heller Pedro  ,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,18,1095.2
-Rosselot Emili,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,19,1097.0
-Fernández Emil,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,20,1112.8
-Rosselot Gerar,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,21,1117.6
-Domínguez Dieg,RC3,10,Chile,29/9-1/10/2023,Gravel,Wrc,22,1143.6
-Rosselot Tadeo,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,23,1178.8
-Castro Eduardo,RC3,10,Chile,29/9-1/10/2023,Gravel,Wrc,24,1178.9
-Parra Mario  -,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,25,1194.9
-Muñoz Patricio,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,26,1207.0
-Martinez Meriz,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,27,1228.0
-Gardiol Ignaci,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,28,1230.3
-Martínez Meriz,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,29,1246.9
-Quezada Jose D,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,30,1255.3
-Martínez Rodrí,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,31,1255.4
-Pérez Beristai,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,32,1256.9
-Martínez Fonte,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,33,1271.4
-Prieto Carlos ,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,34,1272.1
-Cohen Harold  ,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,35,1342.0
-Klein Javier  ,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,36,1364.5
-Arce Lazo J.  ,RC5,10,Chile,29/9-1/10/2023,Gravel,Wrc,37,1367.6
-Garay Moreira ,RC5,10,Chile,29/9-1/10/2023,Gravel,Wrc,38,1407.6
-Iglesias Rodol,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,39,1430.8
-Arenas Felipe ,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,40,1535.3
-Israel Benjami,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,41,
-Kovacs Eduardo,RC2,10,Chile,29/9-1/10/2023,Gravel,Wrc,42,
-Padilla Felipe,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,43,
-Palma Lucas  -,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Fuertes Iván  ,RC4,10,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Tänak Ott  - J,RC1,11,Chile,29/9-1/10/2023,Gravel,Wrc,1,827.8
-Suninen Teemu ,RC1,11,Chile,29/9-1/10/2023,Gravel,Wrc,2,830.6
-Evans Elfyn  -,RC1,11,Chile,29/9-1/10/2023,Gravel,Wrc,3,833.2
-Neuville Thier,RC1,11,Chile,29/9-1/10/2023,Gravel,Wrc,4,838.8
-Rovanperä Kall,RC1,11,Chile,29/9-1/10/2023,Gravel,Wrc,5,840.3
-Katsuta Takamo,RC1,11,Chile,29/9-1/10/2023,Gravel,Wrc,6,850.6
-Rossel Yohan  ,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,7,858.1
-Munster Grégoi,RC1,11,Chile,29/9-1/10/2023,Gravel,Wrc,8,858.2
-Greensmith Gus,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,9,870.6
-Kajetanowicz K,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,10,870.7
-Pajari Sami  -,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,11,871.1
-Solberg Oliver,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,12,874.3
-Heller Alberto,RC1,11,Chile,29/9-1/10/2023,Gravel,Wrc,13,886.3
-Bulacia Bruno ,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,14,888.2
-Rosselot Emili,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,15,890.0
-Fernández Emil,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,16,894.3
-Lindholm Emil ,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,17,895.6
-Heller Pedro  ,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,18,899.0
-Gryazin Nikola,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,19,901.0
-Martínez Fonte,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,20,902.8
-Zaldivar F.  -,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,21,911.1
-Rosselot Gerar,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,22,931.1
-Domínguez Dieg,RC3,11,Chile,29/9-1/10/2023,Gravel,Wrc,23,947.8
-Castro Eduardo,RC3,11,Chile,29/9-1/10/2023,Gravel,Wrc,24,958.1
-Rosselot Tadeo,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,25,969.7
-Muñoz Patricio,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,26,972.4
-Parra Mario  -,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,27,981.8
-Prieto Carlos ,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,28,985.8
-Gardiol Ignaci,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,29,986.4
-Martínez Meriz,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,30,996.2
-Martínez Rodrí,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,31,999.5
-Martinez Meriz,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,32,1000.6
-Pérez Beristai,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,33,1001.7
-Quezada Jose D,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,34,1028.2
-Cohen Harold  ,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,35,1063.7
-Garay Moreira ,RC5,11,Chile,29/9-1/10/2023,Gravel,Wrc,36,1086.7
-Arenas Felipe ,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,37,1091.5
-Arce Lazo J.  ,RC5,11,Chile,29/9-1/10/2023,Gravel,Wrc,38,1097.7
-Klein Javier  ,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,39,1136.7
-Iglesias Rodol,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,40,1162.2
-Israel Benjami,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,41,
-Kovacs Eduardo,RC2,11,Chile,29/9-1/10/2023,Gravel,Wrc,42,
-Padilla Felipe,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,43,
-Palma Lucas  -,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Fuertes Iván  ,RC4,11,Chile,29/9-1/10/2023,Gravel,Wrc,45,
-Tänak Ott  - J,RC1,12,Chile,29/9-1/10/2023,Gravel,Wrc,1,1040.5
-Neuville Thier,RC1,12,Chile,29/9-1/10/2023,Gravel,Wrc,2,1048.3
-Evans Elfyn  -,RC1,12,Chile,29/9-1/10/2023,Gravel,Wrc,3,1053.3
-Suninen Teemu ,RC1,12,Chile,29/9-1/10/2023,Gravel,Wrc,4,1054.3
-Rovanperä Kall,RC1,12,Chile,29/9-1/10/2023,Gravel,Wrc,5,
-Solberg Oliver,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,6,1073.2
-Greensmith Gus,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,7,1090.4
-Kajetanowicz K,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,8,1092.6
-Katsuta Takamo,RC1,12,Chile,29/9-1/10/2023,Gravel,Wrc,9,1097.5
-Rossel Yohan  ,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,10,1100.1
-Gryazin Nikola,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,11,1110.9
-Rosselot Emili,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,12,1119.1
-Lindholm Emil ,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,13,1121.2
-Pajari Sami  -,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,14,1122.8
-Martínez Fonte,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,15,1128.9
-Heller Pedro  ,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,16,1128.9
-Rosselot Gerar,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,17,1134.5
-Domínguez Dieg,RC3,12,Chile,29/9-1/10/2023,Gravel,Wrc,18,1173.1
-Castro Eduardo,RC3,12,Chile,29/9-1/10/2023,Gravel,Wrc,19,1196.7
-Muñoz Patricio,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,20,1209.6
-Parra Mario  -,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,21,1211.8
-Rosselot Tadeo,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,22,1222.8
-Pérez Beristai,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,23,1233.4
-Martínez Rodrí,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,24,1251.3
-Quezada Jose D,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,25,1259.9
-Martínez Meriz,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,26,1263.3
-Prieto Carlos ,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,27,1266.7
-Martinez Meriz,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,28,1269.8
-Zaldivar F.  -,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,29,1300.6
-Arenas Felipe ,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,30,1319.5
-Cohen Harold  ,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,31,1329.4
-Klein Javier  ,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,32,1359.9
-Arce Lazo J.  ,RC5,12,Chile,29/9-1/10/2023,Gravel,Wrc,33,1375.7
-Iglesias Rodol,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,34,1422.4
-Garay Moreira ,RC5,12,Chile,29/9-1/10/2023,Gravel,Wrc,35,1428.4
-Munster Grégoi,RC1,12,Chile,29/9-1/10/2023,Gravel,Wrc,36,1533.8
-Heller Alberto,RC1,12,Chile,29/9-1/10/2023,Gravel,Wrc,37,
-Fernández Emil,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,38,
-Bulacia Bruno ,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,39,
-Israel Benjami,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,40,
-Kovacs Eduardo,RC2,12,Chile,29/9-1/10/2023,Gravel,Wrc,41,
-Gardiol Ignaci,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,42,
-Padilla Felipe,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,43,
-Palma Lucas  -,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,44,
-Fuertes Iván  ,RC4,12,Chile,29/9-1/10/2023,Gravel,Wrc,45,
+No.,Crew,Group,ss,Race,cou,time_SS_sec
+8,Tänak  Ott,RC1,1,Chile,1,616.8
+3,Suninen  T,RC1,1,Chile,2,618.9
+33,Evans  Elf,RC1,1,Chile,3,621.7
+7,Loubet  P.,RC1,1,Chile,4,624.2
+69,Rovanperä ,RC1,1,Chile,5,626.8
+11,Neuville  ,RC1,1,Chile,6,629.1
+18,Katsuta  T,RC1,1,Chile,7,631.4
+22,Solberg  O,RC2,1,Chile,8,643.3
+21,Pajari  Sa,RC2,1,Chile,9,643.4
+26,Gryazin  N,RC2,1,Chile,10,648.1
+13,Munster  G,RC1,1,Chile,11,648.9
+28,Heller  Al,RC1,1,Chile,12,650.8
+23,Greensmith,RC2,1,Chile,13,654.9
+29,Martínez  ,RC2,1,Chile,14,657.5
+24,Lindholm  ,RC2,1,Chile,15,659.5
+20,Rossel  Yo,RC2,1,Chile,16,659.8
+27,Bulacia  M,RC2,1,Chile,17,660.3
+37,Scuncio  M,RC2,1,Chile,18,661.9
+25,Kajetanowi,RC2,1,Chile,19,663.8
+30,Fernàndez ,RC2,1,Chile,20,672.4
+34,Heller  Pe,RC2,1,Chile,21,673.1
+35,Rosselot  ,RC2,1,Chile,22,673.1
+39,Rosselot  ,RC2,1,Chile,23,673.7
+36,Israel  B.,RC2,1,Chile,24,676.1
+31,Bulacia  B,RC2,1,Chile,25,677.7
+38,Lyon  Germ,RC2,1,Chile,26,682.9
+32,Zaldivar  ,RC2,1,Chile,27,686.3
+41,Dominguez ,RC3,1,Chile,28,709.4
+49,Rosselot  ,RC4,1,Chile,29,721.3
+48,Muñoz  Pat,RC4,1,Chile,30,731.8
+44,Castro  Ed,RC3,1,Chile,31,731.9
+51,Parra  Mar,RC4,1,Chile,32,740.0
+55,Fuertes  I,RC4,1,Chile,33,744.2
+40,Kovacs  Ed,RC2,1,Chile,34,752.5
+58,Perez  Mar,RC4,1,Chile,35,753.5
+52,Martinez  ,RC4,1,Chile,36,756.3
+59,Quezada  J,RC4,1,Chile,37,756.4
+54,Palma  Luc,RC4,1,Chile,38,759.7
+53,Padilla  F,RC4,1,Chile,39,766.2
+50,Gardiol  I,RC4,1,Chile,40,770.8
+47,Martínez M,RC2,1,Chile,41,782.8
+57,Prieto  Ca,RC4,1,Chile,42,785.9
+46,Martínez M,RC2,1,Chile,43,787.4
+56,Arenas  Fe,RC4,1,Chile,44,788.8
+62,Klein  Jav,RC4,1,Chile,45,821.2
+60,Iglesias  ,RC4,1,Chile,46,844.6
+67,Arce  Javi,RC5,1,Chile,47,932.8
+68,Garay  W. ,RC5,1,Chile,48,940.0
+65,Cohen  Har,RC4,1,Chile,49,1321.3
+66,Ibarra  Ju,RC5,1,Chile,50,1532.8
+33,Evans  Elf,RC1,2,Chile,1,412.9
+69,Rovanperä ,RC1,2,Chile,2,414.4
+7,Loubet  P.,RC1,2,Chile,3,414.8
+11,Neuville  ,RC1,2,Chile,4,415.4
+3,Suninen  T,RC1,2,Chile,5,415.8
+8,Tänak  Ott,RC1,2,Chile,6,419.6
+18,Katsuta  T,RC1,2,Chile,7,421.0
+13,Munster  G,RC1,2,Chile,8,421.9
+28,Heller  Al,RC1,2,Chile,9,425.3
+21,Pajari  Sa,RC2,2,Chile,10,430.1
+23,Greensmith,RC2,2,Chile,11,434.4
+22,Solberg  O,RC2,2,Chile,12,435.1
+26,Gryazin  N,RC2,2,Chile,13,435.4
+27,Bulacia  M,RC2,2,Chile,14,436.2
+29,Martínez  ,RC2,2,Chile,15,439.3
+25,Kajetanowi,RC2,2,Chile,16,439.4
+32,Zaldivar  ,RC2,2,Chile,17,441.3
+34,Heller  Pe,RC2,2,Chile,18,443.6
+36,Israel  B.,RC2,2,Chile,19,445.5
+31,Bulacia  B,RC2,2,Chile,20,447.2
+30,Fernàndez ,RC2,2,Chile,21,448.4
+24,Lindholm  ,RC2,2,Chile,22,450.1
+37,Scuncio  M,RC2,2,Chile,23,451.0
+39,Rosselot  ,RC2,2,Chile,24,451.4
+35,Rosselot  ,RC2,2,Chile,25,452.7
+38,Lyon  Germ,RC2,2,Chile,26,454.5
+20,Rossel  Yo,RC2,2,Chile,27,457.8
+41,Dominguez ,RC3,2,Chile,28,475.2
+51,Parra  Mar,RC4,2,Chile,29,481.2
+49,Rosselot  ,RC4,2,Chile,30,482.4
+48,Muñoz  Pat,RC4,2,Chile,31,485.9
+53,Padilla  F,RC4,2,Chile,32,486.0
+44,Castro  Ed,RC3,2,Chile,33,486.6
+52,Martinez  ,RC4,2,Chile,34,497.0
+58,Perez  Mar,RC4,2,Chile,35,499.4
+59,Quezada  J,RC4,2,Chile,36,501.4
+50,Gardiol  I,RC4,2,Chile,37,514.2
+40,Kovacs  Ed,RC2,2,Chile,38,515.0
+47,Martínez M,RC2,2,Chile,39,523.5
+57,Prieto  Ca,RC4,2,Chile,40,525.0
+56,Arenas  Fe,RC4,2,Chile,41,530.4
+46,Martínez M,RC2,2,Chile,42,544.3
+62,Klein  Jav,RC4,2,Chile,43,551.0
+60,Iglesias  ,RC4,2,Chile,44,567.0
+67,Arce  Javi,RC5,2,Chile,45,626.0
+68,Garay  W. ,RC5,2,Chile,46,631.0
+54,Palma  Luc,RC4,2,Chile,47,1081.2
+55,Fuertes  I,RC4,2,Chile,48,1081.2
+65,Cohen  Har,RC4,2,Chile,49,1081.2
+66,Ibarra  Ju,RC5,2,Chile,50,1226.0
+33,Evans  Elf,RC1,3,Chile,1,752.0
+8,Tänak  Ott,RC1,3,Chile,2,752.9
+3,Suninen  T,RC1,3,Chile,3,754.5
+69,Rovanperä ,RC1,3,Chile,4,759.0
+18,Katsuta  T,RC1,3,Chile,5,762.5
+11,Neuville  ,RC1,3,Chile,6,763.8
+13,Munster  G,RC1,3,Chile,7,768.5
+22,Solberg  O,RC2,3,Chile,8,774.9
+21,Pajari  Sa,RC2,3,Chile,9,777.4
+28,Heller  Al,RC1,3,Chile,10,781.5
+26,Gryazin  N,RC2,3,Chile,11,783.0
+23,Greensmith,RC2,3,Chile,12,786.9
+24,Lindholm  ,RC2,3,Chile,13,787.0
+25,Kajetanowi,RC2,3,Chile,14,792.5
+20,Rossel  Yo,RC2,3,Chile,15,795.1
+27,Bulacia  M,RC2,3,Chile,16,799.5
+35,Rosselot  ,RC2,3,Chile,17,813.6
+32,Zaldivar  ,RC2,3,Chile,18,815.8
+39,Rosselot  ,RC2,3,Chile,19,816.3
+34,Heller  Pe,RC2,3,Chile,20,818.2
+29,Martínez  ,RC2,3,Chile,21,818.8
+30,Fernàndez ,RC2,3,Chile,22,819.3
+37,Scuncio  M,RC2,3,Chile,23,820.3
+38,Lyon  Germ,RC2,3,Chile,24,828.4
+36,Israel  B.,RC2,3,Chile,25,832.4
+31,Bulacia  B,RC2,3,Chile,26,846.5
+41,Dominguez ,RC3,3,Chile,27,863.5
+44,Castro  Ed,RC3,3,Chile,28,873.4
+51,Parra  Mar,RC4,3,Chile,29,876.7
+49,Rosselot  ,RC4,3,Chile,30,878.1
+52,Martinez  ,RC4,3,Chile,31,882.7
+53,Padilla  F,RC4,3,Chile,32,893.8
+40,Kovacs  Ed,RC2,3,Chile,33,903.7
+58,Perez  Mar,RC4,3,Chile,34,909.2
+59,Quezada  J,RC4,3,Chile,35,914.4
+50,Gardiol  I,RC4,3,Chile,36,922.9
+57,Prieto  Ca,RC4,3,Chile,37,943.6
+56,Arenas  Fe,RC4,3,Chile,38,947.7
+46,Martínez M,RC2,3,Chile,39,952.6
+47,Martínez M,RC2,3,Chile,40,967.4
+62,Klein  Jav,RC4,3,Chile,41,982.3
+60,Iglesias  ,RC4,3,Chile,42,1038.0
+67,Arce  Javi,RC5,3,Chile,43,1059.9
+68,Garay  W. ,RC5,3,Chile,44,1098.4
+7,Loubet  P.,RC1,3,Chile,45,1352.0
+48,Muñoz  Pat,RC4,3,Chile,46,1476.7
+54,Palma  Luc,RC4,3,Chile,47,1476.7
+55,Fuertes  I,RC4,3,Chile,48,1476.7
+65,Cohen  Har,RC4,3,Chile,49,1476.7
+66,Ibarra  Ju,RC5,3,Chile,50,1659.9
+3,Suninen  T,RC1,4,Chile,1,598.7
+8,Tänak  Ott,RC1,4,Chile,2,602.4
+11,Neuville  ,RC1,4,Chile,3,604.8
+18,Katsuta  T,RC1,4,Chile,4,605.4
+33,Evans  Elf,RC1,4,Chile,5,606.2
+69,Rovanperä ,RC1,4,Chile,6,606.5
+13,Munster  G,RC1,4,Chile,7,623.0
+21,Pajari  Sa,RC2,4,Chile,8,623.9
+26,Gryazin  N,RC2,4,Chile,9,627.0
+22,Solberg  O,RC2,4,Chile,10,628.8
+28,Heller  Al,RC1,4,Chile,11,630.5
+24,Lindholm  ,RC2,4,Chile,12,631.8
+23,Greensmith,RC2,4,Chile,13,633.8
+27,Bulacia  M,RC2,4,Chile,14,635.9
+29,Martínez  ,RC2,4,Chile,15,639.3
+25,Kajetanowi,RC2,4,Chile,16,640.5
+20,Rossel  Yo,RC2,4,Chile,17,642.5
+32,Zaldivar  ,RC2,4,Chile,18,648.6
+37,Scuncio  M,RC2,4,Chile,19,653.9
+31,Bulacia  B,RC2,4,Chile,20,655.8
+30,Fernàndez ,RC2,4,Chile,21,656.6
+36,Israel  B.,RC2,4,Chile,22,657.2
+34,Heller  Pe,RC2,4,Chile,23,659.4
+35,Rosselot  ,RC2,4,Chile,24,661.3
+38,Lyon  Germ,RC2,4,Chile,25,682.0
+41,Dominguez ,RC3,4,Chile,26,692.9
+44,Castro  Ed,RC3,4,Chile,27,718.3
+51,Parra  Mar,RC4,4,Chile,28,724.5
+52,Martinez  ,RC4,4,Chile,29,731.6
+40,Kovacs  Ed,RC2,4,Chile,30,737.0
+53,Padilla  F,RC4,4,Chile,31,737.9
+59,Quezada  J,RC4,4,Chile,32,742.8
+50,Gardiol  I,RC4,4,Chile,33,743.3
+49,Rosselot  ,RC4,4,Chile,34,748.8
+58,Perez  Mar,RC4,4,Chile,35,749.9
+56,Arenas  Fe,RC4,4,Chile,36,776.7
+57,Prieto  Ca,RC4,4,Chile,37,781.4
+47,Martínez M,RC2,4,Chile,38,782.5
+46,Martínez M,RC2,4,Chile,39,783.3
+62,Klein  Jav,RC4,4,Chile,40,811.9
+60,Iglesias  ,RC4,4,Chile,41,839.0
+67,Arce  Javi,RC5,4,Chile,42,855.5
+68,Garay  W. ,RC5,4,Chile,43,890.8
+7,Loubet  P.,RC1,4,Chile,44,1198.7
+39,Rosselot  ,RC2,4,Chile,45,1223.9
+48,Muñoz  Pat,RC4,4,Chile,46,1324.5
+54,Palma  Luc,RC4,4,Chile,47,1324.5
+55,Fuertes  I,RC4,4,Chile,48,1324.5
+65,Cohen  Har,RC4,4,Chile,49,1324.5
+66,Ibarra  Ju,RC5,4,Chile,50,1455.5
+8,Tänak  Ott,RC1,5,Chile,1,399.8
+11,Neuville  ,RC1,5,Chile,2,402.3
+3,Suninen  T,RC1,5,Chile,3,404.7
+33,Evans  Elf,RC1,5,Chile,4,404.9
+69,Rovanperä ,RC1,5,Chile,5,405.7
+13,Munster  G,RC1,5,Chile,6,409.4
+18,Katsuta  T,RC1,5,Chile,7,410.0
+21,Pajari  Sa,RC2,5,Chile,8,417.6
+28,Heller  Al,RC1,5,Chile,9,418.5
+22,Solberg  O,RC2,5,Chile,10,418.7
+24,Lindholm  ,RC2,5,Chile,11,420.7
+25,Kajetanowi,RC2,5,Chile,12,424.8
+23,Greensmith,RC2,5,Chile,13,427.3
+20,Rossel  Yo,RC2,5,Chile,14,428.5
+26,Gryazin  N,RC2,5,Chile,15,429.3
+29,Martínez  ,RC2,5,Chile,16,430.5
+31,Bulacia  B,RC2,5,Chile,17,438.2
+34,Heller  Pe,RC2,5,Chile,18,439.6
+36,Israel  B.,RC2,5,Chile,19,440.1
+30,Fernàndez ,RC2,5,Chile,20,441.1
+35,Rosselot  ,RC2,5,Chile,21,442.0
+32,Zaldivar  ,RC2,5,Chile,22,442.4
+37,Scuncio  M,RC2,5,Chile,23,445.1
+49,Rosselot  ,RC4,5,Chile,24,473.0
+51,Parra  Mar,RC4,5,Chile,25,479.2
+44,Castro  Ed,RC3,5,Chile,26,479.8
+38,Lyon  Germ,RC2,5,Chile,27,483.9
+27,Bulacia  M,RC2,5,Chile,28,484.5
+52,Martinez  ,RC4,5,Chile,29,487.3
+53,Padilla  F,RC4,5,Chile,30,487.8
+41,Dominguez ,RC3,5,Chile,31,489.9
+50,Gardiol  I,RC4,5,Chile,32,493.8
+58,Perez  Mar,RC4,5,Chile,33,497.5
+40,Kovacs  Ed,RC2,5,Chile,34,502.7
+59,Quezada  J,RC4,5,Chile,35,503.9
+57,Prieto  Ca,RC4,5,Chile,36,522.0
+56,Arenas  Fe,RC4,5,Chile,37,523.4
+46,Martínez M,RC2,5,Chile,38,523.7
+47,Martínez M,RC2,5,Chile,39,529.3
+62,Klein  Jav,RC4,5,Chile,40,547.6
+67,Arce  Javi,RC5,5,Chile,41,581.5
+60,Iglesias  ,RC4,5,Chile,42,585.7
+68,Garay  W. ,RC5,5,Chile,43,621.0
+7,Loubet  P.,RC1,5,Chile,44,999.8
+39,Rosselot  ,RC2,5,Chile,45,1017.6
+48,Muñoz  Pat,RC4,5,Chile,46,1073.0
+54,Palma  Luc,RC4,5,Chile,47,1073.0
+55,Fuertes  I,RC4,5,Chile,48,1073.0
+65,Cohen  Har,RC4,5,Chile,49,1073.0
+66,Ibarra  Ju,RC5,5,Chile,50,1181.5
+8,Tänak  Ott,RC1,6,Chile,1,732.2
+3,Suninen  T,RC1,6,Chile,2,735.3
+11,Neuville  ,RC1,6,Chile,3,736.0
+33,Evans  Elf,RC1,6,Chile,4,738.7
+18,Katsuta  T,RC1,6,Chile,5,739.0
+69,Rovanperä ,RC1,6,Chile,6,750.0
+13,Munster  G,RC1,6,Chile,7,750.4
+21,Pajari  Sa,RC2,6,Chile,8,760.9
+22,Solberg  O,RC2,6,Chile,9,765.8
+28,Heller  Al,RC1,6,Chile,10,766.4
+24,Lindholm  ,RC2,6,Chile,11,768.9
+25,Kajetanowi,RC2,6,Chile,12,770.7
+23,Greensmith,RC2,6,Chile,13,772.5
+20,Rossel  Yo,RC2,6,Chile,14,778.4
+26,Gryazin  N,RC2,6,Chile,15,781.9
+31,Bulacia  B,RC2,6,Chile,16,782.4
+36,Israel  B.,RC2,6,Chile,17,795.8
+35,Rosselot  ,RC2,6,Chile,18,802.4
+30,Fernàndez ,RC2,6,Chile,19,806.4
+32,Zaldivar  ,RC2,6,Chile,20,811.9
+34,Heller  Pe,RC2,6,Chile,21,812.3
+37,Scuncio  M,RC2,6,Chile,22,812.3
+41,Dominguez ,RC3,6,Chile,23,851.5
+44,Castro  Ed,RC3,6,Chile,24,861.4
+51,Parra  Mar,RC4,6,Chile,25,864.7
+49,Rosselot  ,RC4,6,Chile,26,866.1
+52,Martinez  ,RC4,6,Chile,27,870.7
+53,Padilla  F,RC4,6,Chile,28,881.8
+58,Perez  Mar,RC4,6,Chile,29,897.2
+40,Kovacs  Ed,RC2,6,Chile,30,901.7
+59,Quezada  J,RC4,6,Chile,31,902.4
+50,Gardiol  I,RC4,6,Chile,32,910.9
+57,Prieto  Ca,RC4,6,Chile,33,931.6
+47,Martínez M,RC2,6,Chile,34,935.4
+56,Arenas  Fe,RC4,6,Chile,35,935.7
+46,Martínez M,RC2,6,Chile,36,940.6
+62,Klein  Jav,RC4,6,Chile,37,970.3
+60,Iglesias  ,RC4,6,Chile,38,1026.0
+67,Arce  Javi,RC5,6,Chile,39,1047.9
+68,Garay  W. ,RC5,6,Chile,40,1086.4
+29,Martínez  ,RC2,6,Chile,41,1227.6
+27,Bulacia  M,RC2,6,Chile,42,1360.9
+38,Lyon  Germ,RC2,6,Chile,43,1360.9
+39,Rosselot  ,RC2,6,Chile,44,1360.9
+48,Muñoz  Pat,RC4,6,Chile,45,1464.7
+54,Palma  Luc,RC4,6,Chile,46,1464.7
+55,Fuertes  I,RC4,6,Chile,47,1464.7
+65,Cohen  Har,RC4,6,Chile,48,1464.7
+66,Ibarra  Ju,RC5,6,Chile,49,1647.9
+69,Rovanperä ,RC1,7,Chile,1,1040.7
+8,Tänak  Ott,RC1,7,Chile,2,1042.3
+33,Evans  Elf,RC1,7,Chile,3,1043.4
+3,Suninen  T,RC1,7,Chile,4,1052.7
+11,Neuville  ,RC1,7,Chile,5,1056.4
+18,Katsuta  T,RC1,7,Chile,6,1063.5
+28,Heller  Al,RC1,7,Chile,7,1080.3
+22,Solberg  O,RC2,7,Chile,8,1088.0
+13,Munster  G,RC1,7,Chile,9,1091.0
+20,Rossel  Yo,RC2,7,Chile,10,1094.7
+29,Martínez  ,RC2,7,Chile,11,1099.3
+23,Greensmith,RC2,7,Chile,12,1102.1
+24,Lindholm  ,RC2,7,Chile,13,1103.2
+25,Kajetanowi,RC2,7,Chile,14,1104.7
+26,Gryazin  N,RC2,7,Chile,15,1107.5
+31,Bulacia  B,RC2,7,Chile,16,1108.8
+37,Scuncio  M,RC2,7,Chile,17,1113.0
+35,Rosselot  ,RC2,7,Chile,18,1114.8
+30,Fernàndez ,RC2,7,Chile,19,1116.5
+32,Zaldivar  ,RC2,7,Chile,20,1117.0
+34,Heller  Pe,RC2,7,Chile,21,1126.6
+21,Pajari  Sa,RC2,7,Chile,22,1127.6
+36,Israel  B.,RC2,7,Chile,23,1128.3
+39,Rosselot  ,RC2,7,Chile,24,1143.2
+41,Dominguez ,RC3,7,Chile,25,1167.1
+49,Rosselot  ,RC4,7,Chile,26,1199.5
+48,Muñoz  Pat,RC4,7,Chile,27,1201.3
+44,Castro  Ed,RC3,7,Chile,28,1205.6
+51,Parra  Mar,RC4,7,Chile,29,1211.6
+53,Padilla  F,RC4,7,Chile,30,1221.4
+40,Kovacs  Ed,RC2,7,Chile,31,1230.6
+50,Gardiol  I,RC4,7,Chile,32,1234.1
+52,Martinez  ,RC4,7,Chile,33,1235.6
+58,Perez  Mar,RC4,7,Chile,34,1259.4
+46,Martínez M,RC2,7,Chile,35,1265.1
+57,Prieto  Ca,RC4,7,Chile,36,1267.8
+59,Quezada  J,RC4,7,Chile,37,1271.3
+56,Arenas  Fe,RC4,7,Chile,38,1278.9
+47,Martínez M,RC2,7,Chile,39,1284.1
+55,Fuertes  I,RC4,7,Chile,40,1312.5
+65,Cohen  Har,RC4,7,Chile,41,1351.1
+62,Klein  Jav,RC4,7,Chile,42,1365.9
+67,Arce  Javi,RC5,7,Chile,43,1419.8
+68,Garay  W. ,RC5,7,Chile,44,1438.3
+54,Palma  Luc,RC4,7,Chile,45,1799.5
+60,Iglesias  ,RC4,7,Chile,46,1880.6
+8,Tänak  Ott,RC1,8,Chile,1,839.0
+33,Evans  Elf,RC1,8,Chile,2,845.8
+11,Neuville  ,RC1,8,Chile,3,852.6
+3,Suninen  T,RC1,8,Chile,4,856.5
+18,Katsuta  T,RC1,8,Chile,5,857.1
+69,Rovanperä ,RC1,8,Chile,6,859.9
+20,Rossel  Yo,RC2,8,Chile,7,869.8
+23,Greensmith,RC2,8,Chile,8,871.9
+13,Munster  G,RC1,8,Chile,9,874.2
+24,Lindholm  ,RC2,8,Chile,10,878.1
+26,Gryazin  N,RC2,8,Chile,11,880.1
+22,Solberg  O,RC2,8,Chile,12,880.3
+25,Kajetanowi,RC2,8,Chile,13,880.9
+21,Pajari  Sa,RC2,8,Chile,14,883.4
+37,Scuncio  M,RC2,8,Chile,15,894.9
+35,Rosselot  ,RC2,8,Chile,16,895.4
+28,Heller  Al,RC1,8,Chile,17,897.0
+29,Martínez  ,RC2,8,Chile,18,902.8
+34,Heller  Pe,RC2,8,Chile,19,903.9
+30,Fernàndez ,RC2,8,Chile,20,908.5
+32,Zaldivar  ,RC2,8,Chile,21,909.1
+39,Rosselot  ,RC2,8,Chile,22,924.2
+31,Bulacia  B,RC2,8,Chile,23,924.9
+41,Dominguez ,RC3,8,Chile,24,930.6
+44,Castro  Ed,RC3,8,Chile,25,957.7
+48,Muñoz  Pat,RC4,8,Chile,26,959.1
+51,Parra  Mar,RC4,8,Chile,27,964.3
+49,Rosselot  ,RC4,8,Chile,28,967.4
+52,Martinez  ,RC4,8,Chile,29,984.1
+46,Martínez M,RC2,8,Chile,30,994.0
+50,Gardiol  I,RC4,8,Chile,31,994.1
+57,Prieto  Ca,RC4,8,Chile,32,997.2
+58,Perez  Mar,RC4,8,Chile,33,999.5
+47,Martínez M,RC2,8,Chile,34,1012.4
+59,Quezada  J,RC4,8,Chile,35,1018.3
+56,Arenas  Fe,RC4,8,Chile,36,1048.1
+65,Cohen  Har,RC4,8,Chile,37,1063.9
+68,Garay  W. ,RC5,8,Chile,38,1106.9
+62,Klein  Jav,RC4,8,Chile,39,1113.2
+67,Arce  Javi,RC5,8,Chile,40,1115.5
+60,Iglesias  ,RC4,8,Chile,41,1144.8
+36,Israel  B.,RC2,8,Chile,42,1469.8
+40,Kovacs  Ed,RC2,8,Chile,43,1469.8
+53,Padilla  F,RC4,8,Chile,44,1559.1
+54,Palma  Luc,RC4,8,Chile,45,1559.1
+55,Fuertes  I,RC4,8,Chile,46,1559.1
+8,Tänak  Ott,RC1,9,Chile,1,1060.9
+11,Neuville  ,RC1,9,Chile,2,1068.5
+3,Suninen  T,RC1,9,Chile,3,1076.6
+26,Gryazin  N,RC2,9,Chile,4,1102.5
+20,Rossel  Yo,RC2,9,Chile,5,1103.3
+13,Munster  G,RC1,9,Chile,6,1104.1
+23,Greensmith,RC2,9,Chile,7,1104.2
+69,Rovanperä ,RC1,9,Chile,8,1107.6
+21,Pajari  Sa,RC2,9,Chile,9,1108.8
+25,Kajetanowi,RC2,9,Chile,10,1110.6
+24,Lindholm  ,RC2,9,Chile,11,1112.4
+35,Rosselot  ,RC2,9,Chile,12,1115.9
+33,Evans  Elf,RC1,9,Chile,13,1117.1
+22,Solberg  O,RC2,9,Chile,14,1121.5
+29,Martínez  ,RC2,9,Chile,15,1127.3
+30,Fernàndez ,RC2,9,Chile,16,1128.1
+34,Heller  Pe,RC2,9,Chile,17,1133.3
+28,Heller  Al,RC1,9,Chile,18,1133.4
+32,Zaldivar  ,RC2,9,Chile,19,1136.2
+39,Rosselot  ,RC2,9,Chile,20,1144.9
+18,Katsuta  T,RC1,9,Chile,21,1148.7
+31,Bulacia  B,RC2,9,Chile,22,1192.9
+49,Rosselot  ,RC4,9,Chile,23,1199.9
+44,Castro  Ed,RC3,9,Chile,24,1205.2
+48,Muñoz  Pat,RC4,9,Chile,25,1211.3
+51,Parra  Mar,RC4,9,Chile,26,1214.5
+41,Dominguez ,RC3,9,Chile,27,1217.2
+47,Martínez M,RC2,9,Chile,28,1228.2
+58,Perez  Mar,RC4,9,Chile,29,1228.4
+46,Martínez M,RC2,9,Chile,30,1244.3
+50,Gardiol  I,RC4,9,Chile,31,1249.2
+59,Quezada  J,RC4,9,Chile,32,1254.6
+57,Prieto  Ca,RC4,9,Chile,33,1259.5
+56,Arenas  Fe,RC4,9,Chile,34,1271.8
+65,Cohen  Har,RC4,9,Chile,35,1315.5
+52,Martinez  ,RC4,9,Chile,36,1330.1
+67,Arce  Javi,RC5,9,Chile,37,1378.5
+62,Klein  Jav,RC4,9,Chile,38,1406.2
+68,Garay  W. ,RC5,9,Chile,39,1408.8
+60,Iglesias  ,RC4,9,Chile,40,1419.4
+36,Israel  B.,RC2,9,Chile,41,1702.5
+37,Scuncio  M,RC2,9,Chile,42,1702.5
+40,Kovacs  Ed,RC2,9,Chile,43,1702.5
+53,Padilla  F,RC4,9,Chile,44,1799.9
+54,Palma  Luc,RC4,9,Chile,45,1799.9
+55,Fuertes  I,RC4,9,Chile,46,1799.9
+69,Rovanperä ,RC1,10,Chile,1,1027.5
+33,Evans  Elf,RC1,10,Chile,2,1029.9
+11,Neuville  ,RC1,10,Chile,3,1032.4
+3,Suninen  T,RC1,10,Chile,4,1035.9
+18,Katsuta  T,RC1,10,Chile,5,1036.7
+8,Tänak  Ott,RC1,10,Chile,6,1042.0
+13,Munster  G,RC1,10,Chile,7,1057.1
+23,Greensmith,RC2,10,Chile,8,1065.2
+21,Pajari  Sa,RC2,10,Chile,9,1065.8
+20,Rossel  Yo,RC2,10,Chile,10,1069.2
+24,Lindholm  ,RC2,10,Chile,11,1069.4
+26,Gryazin  N,RC2,10,Chile,12,1071.9
+25,Kajetanowi,RC2,10,Chile,13,1075.7
+31,Bulacia  B,RC2,10,Chile,14,1076.1
+22,Solberg  O,RC2,10,Chile,15,1085.0
+32,Zaldivar  ,RC2,10,Chile,16,1091.5
+28,Heller  Al,RC1,10,Chile,17,1092.7
+34,Heller  Pe,RC2,10,Chile,18,1095.2
+35,Rosselot  ,RC2,10,Chile,19,1097.0
+30,Fernàndez ,RC2,10,Chile,20,1112.8
+39,Rosselot  ,RC2,10,Chile,21,1117.6
+41,Dominguez ,RC3,10,Chile,22,1143.6
+49,Rosselot  ,RC4,10,Chile,23,1178.8
+44,Castro  Ed,RC3,10,Chile,24,1178.9
+51,Parra  Mar,RC4,10,Chile,25,1194.9
+48,Muñoz  Pat,RC4,10,Chile,26,1207.0
+47,Martínez M,RC2,10,Chile,27,1228.0
+50,Gardiol  I,RC4,10,Chile,28,1230.3
+46,Martínez M,RC2,10,Chile,29,1246.9
+59,Quezada  J,RC4,10,Chile,30,1255.3
+52,Martinez  ,RC4,10,Chile,31,1255.4
+58,Perez  Mar,RC4,10,Chile,32,1256.9
+29,Martínez  ,RC2,10,Chile,33,1271.4
+57,Prieto  Ca,RC4,10,Chile,34,1272.1
+65,Cohen  Har,RC4,10,Chile,35,1342.0
+62,Klein  Jav,RC4,10,Chile,36,1364.5
+67,Arce  Javi,RC5,10,Chile,37,1367.6
+68,Garay  W. ,RC5,10,Chile,38,1407.6
+60,Iglesias  ,RC4,10,Chile,39,1430.8
+56,Arenas  Fe,RC4,10,Chile,40,1535.3
+36,Israel  B.,RC2,10,Chile,41,1665.2
+37,Scuncio  M,RC2,10,Chile,42,1665.2
+40,Kovacs  Ed,RC2,10,Chile,43,1665.2
+53,Padilla  F,RC4,10,Chile,44,1778.8
+54,Palma  Luc,RC4,10,Chile,45,1778.8
+55,Fuertes  I,RC4,10,Chile,46,1778.8
+8,Tänak  Ott,RC1,11,Chile,1,827.8
+3,Suninen  T,RC1,11,Chile,2,830.6
+33,Evans  Elf,RC1,11,Chile,3,833.2
+11,Neuville  ,RC1,11,Chile,4,838.8
+69,Rovanperä ,RC1,11,Chile,5,840.3
+18,Katsuta  T,RC1,11,Chile,6,850.6
+20,Rossel  Yo,RC2,11,Chile,7,858.1
+13,Munster  G,RC1,11,Chile,8,858.2
+23,Greensmith,RC2,11,Chile,9,870.6
+25,Kajetanowi,RC2,11,Chile,10,870.7
+21,Pajari  Sa,RC2,11,Chile,11,871.1
+22,Solberg  O,RC2,11,Chile,12,874.3
+28,Heller  Al,RC1,11,Chile,13,886.3
+31,Bulacia  B,RC2,11,Chile,14,888.2
+35,Rosselot  ,RC2,11,Chile,15,890.0
+30,Fernàndez ,RC2,11,Chile,16,894.3
+24,Lindholm  ,RC2,11,Chile,17,895.6
+34,Heller  Pe,RC2,11,Chile,18,899.0
+26,Gryazin  N,RC2,11,Chile,19,901.0
+29,Martínez  ,RC2,11,Chile,20,902.8
+32,Zaldivar  ,RC2,11,Chile,21,911.1
+39,Rosselot  ,RC2,11,Chile,22,931.1
+41,Dominguez ,RC3,11,Chile,23,947.8
+44,Castro  Ed,RC3,11,Chile,24,958.1
+49,Rosselot  ,RC4,11,Chile,25,969.7
+48,Muñoz  Pat,RC4,11,Chile,26,972.4
+51,Parra  Mar,RC4,11,Chile,27,981.8
+57,Prieto  Ca,RC4,11,Chile,28,985.8
+50,Gardiol  I,RC4,11,Chile,29,986.4
+46,Martínez M,RC2,11,Chile,30,996.2
+52,Martinez  ,RC4,11,Chile,31,999.5
+47,Martínez M,RC2,11,Chile,32,1000.6
+58,Perez  Mar,RC4,11,Chile,33,1001.7
+59,Quezada  J,RC4,11,Chile,34,1028.2
+65,Cohen  Har,RC4,11,Chile,35,1063.7
+68,Garay  W. ,RC5,11,Chile,36,1086.7
+56,Arenas  Fe,RC4,11,Chile,37,1091.5
+67,Arce  Javi,RC5,11,Chile,38,1097.7
+62,Klein  Jav,RC4,11,Chile,39,1136.7
+60,Iglesias  ,RC4,11,Chile,40,1162.2
+36,Israel  B.,RC2,11,Chile,41,1458.1
+37,Scuncio  M,RC2,11,Chile,42,1458.1
+40,Kovacs  Ed,RC2,11,Chile,43,1458.1
+53,Padilla  F,RC4,11,Chile,44,1569.7
+54,Palma  Luc,RC4,11,Chile,45,1569.7
+55,Fuertes  I,RC4,11,Chile,46,1569.7
+8,Tänak  Ott,RC1,12,Chile,1,1040.5
+11,Neuville  ,RC1,12,Chile,2,1048.3
+33,Evans  Elf,RC1,12,Chile,3,1053.3
+3,Suninen  T,RC1,12,Chile,4,1054.3
+69,Rovanperä ,RC1,12,Chile,5,1060.0
+22,Solberg  O,RC2,12,Chile,6,1073.2
+23,Greensmith,RC2,12,Chile,7,1090.4
+25,Kajetanowi,RC2,12,Chile,8,1092.6
+18,Katsuta  T,RC1,12,Chile,9,1097.5
+29,Martínez  ,RC2,12,Chile,10,1098.9
+20,Rossel  Yo,RC2,12,Chile,11,1100.1
+26,Gryazin  N,RC2,12,Chile,12,1110.9
+35,Rosselot  ,RC2,12,Chile,13,1119.1
+24,Lindholm  ,RC2,12,Chile,14,1121.2
+21,Pajari  Sa,RC2,12,Chile,15,1122.8
+34,Heller  Pe,RC2,12,Chile,16,1128.9
+39,Rosselot  ,RC2,12,Chile,17,1134.5
+41,Dominguez ,RC3,12,Chile,18,1173.1
+44,Castro  Ed,RC3,12,Chile,19,1196.7
+48,Muñoz  Pat,RC4,12,Chile,20,1209.6
+51,Parra  Mar,RC4,12,Chile,21,1211.8
+49,Rosselot  ,RC4,12,Chile,22,1222.8
+58,Perez  Mar,RC4,12,Chile,23,1233.4
+52,Martinez  ,RC4,12,Chile,24,1251.3
+59,Quezada  J,RC4,12,Chile,25,1259.9
+46,Martínez M,RC2,12,Chile,26,1263.3
+57,Prieto  Ca,RC4,12,Chile,27,1266.7
+47,Martínez M,RC2,12,Chile,28,1269.8
+32,Zaldivar  ,RC2,12,Chile,29,1300.6
+56,Arenas  Fe,RC4,12,Chile,30,1319.5
+65,Cohen  Har,RC4,12,Chile,31,1329.4
+62,Klein  Jav,RC4,12,Chile,32,1359.9
+67,Arce  Javi,RC5,12,Chile,33,1375.7
+60,Iglesias  ,RC4,12,Chile,34,1422.4
+68,Garay  W. ,RC5,12,Chile,35,1428.4
+13,Munster  G,RC1,12,Chile,36,1533.8
+28,Heller  Al,RC1,12,Chile,37,1640.5
+30,Fernàndez ,RC2,12,Chile,38,1673.2
+31,Bulacia  B,RC2,12,Chile,39,1673.2
+36,Israel  B.,RC2,12,Chile,40,1673.2
+40,Kovacs  Ed,RC2,12,Chile,41,1673.2
+50,Gardiol  I,RC4,12,Chile,42,1809.6
+53,Padilla  F,RC4,12,Chile,43,1809.6
+54,Palma  Luc,RC4,12,Chile,44,1809.6
+55,Fuertes  I,RC4,12,Chile,45,1809.6
+11,Neuville  ,RC1,13,Chile,1,463.4
+3,Suninen  T,RC1,13,Chile,2,468.2
+33,Evans  Elf,RC1,13,Chile,3,468.4
+8,Tänak  Ott,RC1,13,Chile,4,474.2
+69,Rovanperä ,RC1,13,Chile,5,474.8
+18,Katsuta  T,RC1,13,Chile,6,487.4
+23,Greensmith,RC2,13,Chile,7,494.1
+24,Lindholm  ,RC2,13,Chile,8,496.6
+20,Rossel  Yo,RC2,13,Chile,9,496.9
+22,Solberg  O,RC2,13,Chile,10,497.3
+21,Pajari  Sa,RC2,13,Chile,11,498.7
+26,Gryazin  N,RC2,13,Chile,12,500.3
+32,Zaldivar  ,RC2,13,Chile,13,502.7
+29,Martínez  ,RC2,13,Chile,14,508.3
+13,Munster  G,RC1,13,Chile,15,509.7
+28,Heller  Al,RC1,13,Chile,16,513.9
+30,Fernàndez ,RC2,13,Chile,17,514.0
+34,Heller  Pe,RC2,13,Chile,18,519.8
+35,Rosselot  ,RC2,13,Chile,19,528.0
+39,Rosselot  ,RC2,13,Chile,20,529.0
+41,Dominguez ,RC3,13,Chile,21,534.8
+31,Bulacia  B,RC2,13,Chile,22,535.7
+44,Castro  Ed,RC3,13,Chile,23,543.5
+40,Kovacs  Ed,RC2,13,Chile,24,552.4
+51,Parra  Mar,RC4,13,Chile,25,556.5
+49,Rosselot  ,RC4,13,Chile,26,560.5
+48,Muñoz  Pat,RC4,13,Chile,27,561.8
+52,Martinez  ,RC4,13,Chile,28,566.5
+58,Perez  Mar,RC4,13,Chile,29,568.9
+47,Martínez M,RC2,13,Chile,30,576.7
+54,Palma  Luc,RC4,13,Chile,31,582.0
+57,Prieto  Ca,RC4,13,Chile,32,583.5
+46,Martínez M,RC2,13,Chile,33,592.5
+25,Kajetanowi,RC2,13,Chile,34,594.9
+56,Arenas  Fe,RC4,13,Chile,35,603.1
+59,Quezada  J,RC4,13,Chile,36,603.8
+65,Cohen  Har,RC4,13,Chile,37,610.1
+62,Klein  Jav,RC4,13,Chile,38,641.0
+60,Iglesias  ,RC4,13,Chile,39,660.7
+67,Arce  Javi,RC5,13,Chile,40,662.5
+68,Garay  W. ,RC5,13,Chile,41,697.4
+55,Fuertes  I,RC4,13,Chile,42,1101.5
+11,Neuville  ,RC1,14,Chile,1,442.9
+3,Suninen  T,RC1,14,Chile,2,445.3
+8,Tänak  Ott,RC1,14,Chile,3,446.0
+33,Evans  Elf,RC1,14,Chile,4,448.0
+69,Rovanperä ,RC1,14,Chile,5,451.0
+22,Solberg  O,RC2,14,Chile,6,467.7
+18,Katsuta  T,RC1,14,Chile,7,468.0
+21,Pajari  Sa,RC2,14,Chile,8,468.0
+23,Greensmith,RC2,14,Chile,9,468.7
+13,Munster  G,RC1,14,Chile,10,470.5
+26,Gryazin  N,RC2,14,Chile,11,472.3
+20,Rossel  Yo,RC2,14,Chile,12,475.7
+29,Martínez  ,RC2,14,Chile,13,476.3
+32,Zaldivar  ,RC2,14,Chile,14,477.5
+30,Fernàndez ,RC2,14,Chile,15,482.4
+34,Heller  Pe,RC2,14,Chile,16,485.0
+28,Heller  Al,RC1,14,Chile,17,486.0
+35,Rosselot  ,RC2,14,Chile,18,491.2
+31,Bulacia  B,RC2,14,Chile,19,497.2
+39,Rosselot  ,RC2,14,Chile,20,498.5
+48,Muñoz  Pat,RC4,14,Chile,21,523.7
+51,Parra  Mar,RC4,14,Chile,22,528.8
+49,Rosselot  ,RC4,14,Chile,23,529.6
+47,Martínez M,RC2,14,Chile,24,530.6
+44,Castro  Ed,RC3,14,Chile,25,533.6
+40,Kovacs  Ed,RC2,14,Chile,26,538.9
+52,Martinez  ,RC4,14,Chile,27,539.3
+55,Fuertes  I,RC4,14,Chile,28,542.1
+58,Perez  Mar,RC4,14,Chile,29,542.1
+46,Martínez M,RC2,14,Chile,30,559.4
+57,Prieto  Ca,RC4,14,Chile,31,559.4
+59,Quezada  J,RC4,14,Chile,32,564.0
+56,Arenas  Fe,RC4,14,Chile,33,572.3
+62,Klein  Jav,RC4,14,Chile,34,600.4
+25,Kajetanowi,RC2,14,Chile,35,618.6
+60,Iglesias  ,RC4,14,Chile,36,625.5
+41,Dominguez ,RC3,14,Chile,37,634.3
+67,Arce  Javi,RC5,14,Chile,38,634.4
+68,Garay  W. ,RC5,14,Chile,39,656.0
+65,Cohen  Har,RC4,14,Chile,40,877.0
+24,Lindholm  ,RC2,14,Chile,41,1216.7
+11,Neuville  ,RC1,15,Chile,1,453.0
+33,Evans  Elf,RC1,15,Chile,2,459.7
+18,Katsuta  T,RC1,15,Chile,3,463.2
+8,Tänak  Ott,RC1,15,Chile,4,466.7
+69,Rovanperä ,RC1,15,Chile,5,478.2
+26,Gryazin  N,RC2,15,Chile,6,478.9
+23,Greensmith,RC2,15,Chile,7,482.9
+22,Solberg  O,RC2,15,Chile,8,483.2
+31,Bulacia  B,RC2,15,Chile,9,486.5
+20,Rossel  Yo,RC2,15,Chile,10,487.3
+28,Heller  Al,RC1,15,Chile,11,488.9
+29,Martínez  ,RC2,15,Chile,12,491.7
+32,Zaldivar  ,RC2,15,Chile,13,491.7
+21,Pajari  Sa,RC2,15,Chile,14,492.1
+34,Heller  Pe,RC2,15,Chile,15,497.8
+30,Fernàndez ,RC2,15,Chile,16,498.1
+35,Rosselot  ,RC2,15,Chile,17,509.6
+13,Munster  G,RC1,15,Chile,18,511.2
+39,Rosselot  ,RC2,15,Chile,19,511.5
+51,Parra  Mar,RC4,15,Chile,20,544.6
+40,Kovacs  Ed,RC2,15,Chile,21,546.0
+49,Rosselot  ,RC4,15,Chile,22,546.6
+48,Muñoz  Pat,RC4,15,Chile,23,546.7
+44,Castro  Ed,RC3,15,Chile,24,548.3
+58,Perez  Mar,RC4,15,Chile,25,550.3
+55,Fuertes  I,RC4,15,Chile,26,552.5
+52,Martinez  ,RC4,15,Chile,27,553.3
+47,Martínez M,RC2,15,Chile,28,562.4
+46,Martínez M,RC2,15,Chile,29,576.1
+57,Prieto  Ca,RC4,15,Chile,30,577.2
+59,Quezada  J,RC4,15,Chile,31,578.8
+56,Arenas  Fe,RC4,15,Chile,32,590.7
+62,Klein  Jav,RC4,15,Chile,33,624.1
+67,Arce  Javi,RC5,15,Chile,34,645.0
+60,Iglesias  ,RC4,15,Chile,35,675.8
+68,Garay  W. ,RC5,15,Chile,36,677.6
+69,Rovanperä ,RC1,16,Chile,1,426.7
+33,Evans  Elf,RC1,16,Chile,2,429.8
+11,Neuville  ,RC1,16,Chile,3,432.5
+8,Tänak  Ott,RC1,16,Chile,4,435.0
+18,Katsuta  T,RC1,16,Chile,5,437.6
+29,Martínez  ,RC2,16,Chile,6,458.1
+22,Solberg  O,RC2,16,Chile,7,459.5
+23,Greensmith,RC2,16,Chile,8,462.5
+31,Bulacia  B,RC2,16,Chile,9,463.7
+26,Gryazin  N,RC2,16,Chile,10,466.2
+21,Pajari  Sa,RC2,16,Chile,11,467.1
+32,Zaldivar  ,RC2,16,Chile,12,469.0
+30,Fernàndez ,RC2,16,Chile,13,471.1
+34,Heller  Pe,RC2,16,Chile,14,473.0
+20,Rossel  Yo,RC2,16,Chile,15,474.8
+39,Rosselot  ,RC2,16,Chile,16,485.1
+13,Munster  G,RC1,16,Chile,17,485.9
+35,Rosselot  ,RC2,16,Chile,18,490.8
+28,Heller  Al,RC1,16,Chile,19,509.0
+49,Rosselot  ,RC4,16,Chile,20,509.1
+48,Muñoz  Pat,RC4,16,Chile,21,510.1
+51,Parra  Mar,RC4,16,Chile,22,513.3
+55,Fuertes  I,RC4,16,Chile,23,514.0
+58,Perez  Mar,RC4,16,Chile,24,521.3
+44,Castro  Ed,RC3,16,Chile,25,522.7
+40,Kovacs  Ed,RC2,16,Chile,26,528.8
+47,Martínez M,RC2,16,Chile,27,534.4
+52,Martinez  ,RC4,16,Chile,28,536.6
+59,Quezada  J,RC4,16,Chile,29,546.5
+46,Martínez M,RC2,16,Chile,30,550.6
+57,Prieto  Ca,RC4,16,Chile,31,557.6
+56,Arenas  Fe,RC4,16,Chile,32,560.5
+62,Klein  Jav,RC4,16,Chile,33,583.2
+67,Arce  Javi,RC5,16,Chile,34,617.4
+60,Iglesias  ,RC4,16,Chile,35,637.4
+68,Garay  W. ,RC5,16,Chile,36,643.7

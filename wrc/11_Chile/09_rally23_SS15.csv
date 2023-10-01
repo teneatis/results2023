@@ -1,0 +1,37 @@
+Pos.,No.,Driver / Co-driver Vehicle,Group,SS time,Aver. speed sec/km,Diff.Leader Diff.Prev.,ss
+1,11,Neuville  T.  /  Wydaeghe  M.  Hyundai i20 N Rally1 Hybrid,RC1,00:07:33.0,104.90 0.00,00:00:00.0 00:00:00.0,15
+2,33,Evans  Elfyn  /  Martin  Scott  Toyota GR Yaris Rally1 Hybrid,RC1,00:07:39.7,103.37 0.51,00:00:06.7 00:00:06.7,15
+3,18,Katsuta  T.  /  Johnston  Aaron  Toyota GR Yaris Rally1 Hybrid,RC1,00:07:43.2,102.59 0.77,00:00:10.2 00:00:03.5,15
+4,8,Tänak  Ott  /  Järveoja  M.  Ford Puma Rally1 Hybrid,RC1,00:07:46.7,101.82 1.04,00:00:13.7 00:00:03.5,15
+5,69,Rovanperä  K.  /  Halttunen  Jonne  Toyota GR Yaris Rally1 Hybrid,RC1,00:07:58.2,99.37 1.91,00:00:25.2 00:00:11.5,15
+6,26,Gryazin  Nikolay  /  Aleksandrov  K.  Škoda Fabia RS Rally2,RC2,00:07:58.9,99.23 1.96,00:00:25.9 00:00:00.7,15
+7,23,Greensmith  Gus  /  Andersson  Jonas  Škoda Fabia RS Rally2,RC2,00:08:02.9,98.41 2.27,00:00:29.9 00:00:04.0,15
+8,22,Solberg  Oliver  /  Edmondson  E.  Škoda Fabia RS Rally2,RC2,00:08:03.2,98.34 2.29,00:00:30.2 00:00:00.3,15
+9,31,Bulacia  Bruno  /  Díaz  J.  Škoda Fabia Rally2 Evo,RC2,00:08:06.5,97.68 2.54,00:00:33.5 00:00:03.3,15
+10,20,Rossel  Yohan  /  Dunand  Arnaud  Citroën C3 Rally2,RC2,00:08:07.3,97.52 2.60,00:00:34.3 00:00:00.8,15
+11,28,Heller  Alberto  /  Allende  Luis  Ford Puma Rally1 Hybrid,RC1,00:08:08.9,97.20 2.72,00:00:35.9 00:00:01.6,15
+12,29,Martínez  Jorge  /  Álvarez  A.  Škoda Fabia RS Rally2,RC2,00:08:11.7,96.64 2.93,00:00:38.7 00:00:02.8,15
+12,32,Zaldivar  F.  /  Der Ohannesian  M.  Hyundai i20 N Rally2,RC2,00:08:11.7,96.64 2.93,00:00:38.7 00:00:00.0,15
+14,21,Pajari  Sami  /  Mälkönen  Enni  Škoda Fabia RS Rally2,RC2,00:08:12.1,96.57 2.96,00:00:39.1 00:00:00.4,15
+15,34,Heller  Pedro  /  Olmos  Pablo  Citroën C3 Rally2,RC2,00:08:17.8,95.46 3.39,00:00:44.8 00:00:05.7,15
+16,30,Fernàndez  E.  /  Rozada  Borja  Škoda Fabia Rally2 Evo,RC2,00:08:18.1,95.40 3.42,00:00:45.1 00:00:00.3,15
+17,35,Rosselot  Emilio  /  Cañete  Tomás  Citroën C3 Rally2,RC2,00:08:29.6,93.25 4.29,00:00:56.6 00:00:11.5,15
+18,13,Munster  G.  /  Louka  Louis  Ford Puma Rally1 Hybrid,RC1,00:08:31.2,92.96 4.41,00:00:58.2 00:00:01.6,15
+19,39,Rosselot  G.  /  Brizio  Marcelo  Citroën C3 Rally2,RC2,00:08:31.5,92.90 4.43,00:00:58.5 00:00:00.3,15
+20,51,Parra  Mario  /  Leiva  Matías  Opel Corsa Rally4,RC4,00:09:04.6,87.26 6.94,00:01:31.6 00:00:33.1,15
+21,40,Kovacs  Eduardo  /  García  Rubén  Škoda Fabia R5,RC2,00:09:06.0,87.03 7.05,00:01:33.0 00:00:01.4,15
+22,49,Rosselot  Tadeo  /  Olguin  S.  Peugeot 208 Rally4,RC4,00:09:06.6,86.94 7.09,00:01:33.6 00:00:00.6,15
+23,48,Muñoz  Patricio  /  Recalt  Miguel  Peugeot 208 Rally4,RC4,00:09:06.7,86.92 7.10,00:01:33.7 00:00:00.1,15
+24,44,Castro  Eduardo  /  Mussano  F.  Ford Fiesta Rally3,RC3,00:09:08.3,86.67 7.22,00:01:35.3 00:00:01.6,15
+25,58,Perez  Marcelo  /  Perez  Enrique  Peugeot 208 Rally4,RC4,00:09:10.3,86.35 7.37,00:01:37.3 00:00:02.0,15
+26,55,Fuertes  Iván  /  Ferrero  Victor  Peugeot 208 Rally4,RC4,00:09:12.5,86.01 7.54,00:01:39.5 00:00:02.2,15
+27,52,Martinez  Luis  /  Sanhueza  J.  Opel Corsa Rally4,RC4,00:09:13.3,85.88 7.60,00:01:40.3 00:00:00.8,15
+28,47,Martínez Merizalde  A.  /  Cilloniz  Juan  Hyundai i20 N Rally2,RC2,00:09:22.4,84.50 8.29,00:01:49.4 00:00:09.1,15
+29,46,Martínez Merizalde  J.  /  Medina  Gustavo  Hyundai i20 N Rally2,RC2,00:09:36.1,82.49 9.33,00:02:03.1 00:00:13.7,15
+30,57,Prieto  Carlos  /  Varela  Juan  Peugeot 208 Rally4,RC4,00:09:37.2,82.33 9.41,00:02:04.2 00:00:01.1,15
+31,59,Quezada  Jose  /  Bascur  Alan  Peugeot 208 Rally4,RC4,00:09:38.8,82.10 9.53,00:02:05.8 00:00:01.6,15
+32,56,Arenas  Felipe  /  Salvo  Andy  Peugeot 208 R2,RC4,00:09:50.7,80.45 10.43,00:02:17.7 00:00:11.9,15
+33,62,Klein  Javier  /  Guzmán  Samuel  Peugeot 208 R2,RC4,00:10:24.1,76.14 12.96,00:02:51.1 00:00:33.4,15
+34,67,Arce  Javier  /  Acosta  Mario  Renault Clio Rally5,RC5,00:10:45.0,73.67 14.55,00:03:12.0 00:00:20.9,15
+35,60,Iglesias  R.  /  Lopetegui  P.  Peugeot 208 R2,RC4,00:11:15.8,70.32 16.88,00:03:42.8 00:00:30.8,15
+36,68,Garay  W.  /  Garay  W.  Renault Clio Rally5,RC5,00:11:17.6,70.13 17.02,00:03:44.6 00:00:01.8,15
