@@ -1,0 +1,32 @@
+Pos.,No.,Driver / Co-driver Vehicle,Group,SS time,Aver. speed sec/km,Diff.Leader Diff.Prev.,ss
+1,1,Østberg  Mads  /  Barth  Patrik  Citroën C3 Rally2,RC2,00:05:08.3,125.53 0.00,00:00:00.0 00:00:00.0,11
+2,14,Vincze  Ferenc  /  Percze  Nándor  Škoda Fabia Rally2 Evo,RC2,00:05:09.6,125.00 0.12,00:00:01.3 00:00:01.3,11
+3,10,Cais  Erik  /  Bacigál  Igor  Škoda Fabia RS Rally2,RC2,00:05:10.6,124.60 0.21,00:00:02.3 00:00:01.0,11
+4,8,Marczyk  Miko  /  Gospodarczyk  S.  Škoda Fabia RS Rally2,RC2,00:05:11.6,124.20 0.31,00:00:03.3 00:00:01.0,11
+5,3,Sesks  M.  /  Francis  Renārs  Škoda Fabia RS Rally2,RC2,00:05:12.3,123.92 0.37,00:00:04.0 00:00:00.7,11
+6,5,Bonato  Yoann  /  Boulloud  B.  Citroën C3 Rally2,RC2,00:05:13.0,123.64 0.44,00:00:04.7 00:00:00.7,11
+7,2,Llarena  Efrén  /  Fernandez  Sara  Škoda Fabia R5,RC2,00:05:14.6,123.01 0.59,00:00:06.3 00:00:01.6,11
+8,16,Hadik  András  /  Kertész  K.  Ford Fiesta Rally2 MkII,RC2,00:05:16.4,122.31 0.75,00:00:08.1 00:00:01.8,11
+9,6,Mareš  Filip  /  Bucha  Radovan  Škoda Fabia Rally2 Evo,RC2,00:05:16.5,122.27 0.76,00:00:08.2 00:00:00.1,11
+10,32,Német  Gábor  /  Németh  Gergely  Hyundai i20 N Rally2,RC2,00:05:17.2,122.01 0.83,00:00:08.9 00:00:00.7,11
+11,20,Michelisz  N.  /  Tagai  Róbert  Hyundai i20 N Rally2,RC2,00:05:19.2,121.24 1.01,00:00:10.9 00:00:02.0,11
+12,15,Turán  Frigyes  /  Farnadi  Ágnes  Volkswagen Polo Gti R5,RC2,00:05:19.6,121.09 1.05,00:00:11.3 00:00:00.4,11
+13,19,Allen  Philip  /  Furniss  Dale  Hyundai i20 N Rally2,RC2,00:05:20.1,120.90 1.10,00:00:11.8 00:00:00.5,11
+14,4,Franceschi  M.  /  Manzo  Benoît  Škoda Fabia RS Rally2,RC2,00:05:23.9,119.48 1.45,00:00:15.6 00:00:03.8,11
+15,11,László  Martin  /  Berendi  Dávid  Škoda Fabia Rally2 Evo,RC2,00:05:30.3,117.17 2.05,00:00:22.0 00:00:06.4,11
+16,18,Trencsényi  J.  /  Verba  Gabor  Škoda Fabia Rally2 Evo,RC2,00:05:31.1,116.88 2.12,00:00:22.8 00:00:00.8,11
+17,24,Schulz  Timo  /  Wenzel  Michael  Opel Corsa Rally4,RC4,00:05:33.4,116.08 2.33,00:00:25.1 00:00:02.3,11
+18,22,Daprà  Roberto  /  Guglielmetti  L.  Peugeot 208 Rally4,RC4,00:05:35.3,115.42 2.51,00:00:27.0 00:00:01.9,11
+19,21,Maior  Norbert  /  Maior  Francesca  Peugeot 208 Rally4,RC4,00:05:37.2,114.77 2.69,00:00:28.9 00:00:01.9,11
+20,27,Johansson  Mille  /  Grönvall  Johan  Opel Corsa Rally4,RC4,00:05:38.3,114.40 2.79,00:00:30.0 00:00:01.1,11
+21,12,Cuzma  Bogdan  /  Magalhães  Hugo  Škoda Fabia RS Rally2,RC2,00:05:39.5,113.99 2.90,00:00:31.2 00:00:01.2,11
+21,26,McRae  Max  /  Kierans  M.  Opel Corsa Rally4,RC4,00:05:39.5,113.99 2.90,00:00:31.2 00:00:00.0,11
+23,17,Bodolai  L.  /  Deák  Attila  Ford Fiesta Rally2 MkII,RC2,00:05:41.6,113.29 3.10,00:00:33.3 00:00:02.1,11
+24,28,Škulj  Mark  /  Čar  Matej  Opel Corsa Rally4,RC4,00:05:43.1,112.80 3.24,00:00:34.8 00:00:01.5,11
+25,23,Nore  Ola jun.  /  Eilertsen  Rune  Opel Corsa Rally4,RC4,00:05:49.7,110.67 3.85,00:00:41.4 00:00:06.6,11
+26,29,Herczig  Patrik  /  Varga  Kristóf  Peugeot 208 Rally4,RC4,00:05:50.0,110.57 3.88,00:00:41.7 00:00:00.3,11
+27,37,Sugar  Cristian  /  Colceriu  Vlad  Peugeot 208 R2,RC4,00:05:54.4,109.20 4.29,00:00:46.1 00:00:04.4,11
+28,36,Viszlo  Csaba  /  Szegedi  Máté  Peugeot 208 Rally4,RC4,00:05:56.9,108.43 4.52,00:00:48.6 00:00:02.5,11
+29,35,Berta  László  /  Császár  L.  Peugeot 208 Rally4,RC4,00:05:58.5,107.95 4.67,00:00:50.2 00:00:01.6,11
+30,25,Zanin  Mattia  /  De Guio  Elia  Peugeot 208 Rally4,RC4,00:06:04.8,106.09 5.26,00:00:56.5 00:00:06.3,11
+31,34,Rada  Martin  /  Jugas  Jaroslav  Fiat 124 Abarth RGT,RGT,00:06:07.0,105.45 5.46,00:00:58.7 00:00:02.2,11
