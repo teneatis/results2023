@@ -1,0 +1,36 @@
+Pos.,No.,Driver / Co-driver Vehicle,Group,SS time,Aver. speed sec/km,Diff.Leader Diff.Prev.,ss
+1,11,Neuville  T.  /  Wydaeghe  M.  Hyundai i20 N Rally1 Hybrid,RC1,00:01:47.6,70.26 0.00,00:00:00.0 00:00:00.0,1
+2,4,Lappi  Esapekka  /  Ferm  Janne  Hyundai i20 N Rally1 Hybrid,RC1,00:01:48.3,69.81 0.33,00:00:00.7 00:00:00.7,1
+3,8,Tänak  Ott  /  Järveoja  M.  Ford Puma Rally1 Hybrid,RC1,00:01:49.0,69.36 0.67,00:00:01.4 00:00:00.7,1
+4,6,Sordo  Dani  /  Carrera  C.  Hyundai i20 N Rally1 Hybrid,RC1,00:01:49.4,69.10 0.86,00:00:01.8 00:00:00.4,1
+5,18,Katsuta  T.  /  Johnston  Aaron  Toyota GR Yaris Rally1 Hybrid,RC1,00:01:50.7,68.29 1.48,00:00:03.1 00:00:01.3,1
+6,69,Rovanperä  K.  /  Halttunen  Jonne  Toyota GR Yaris Rally1 Hybrid,RC1,00:01:51.6,67.74 1.90,00:00:04.0 00:00:00.9,1
+7,16,Fourmaux  Adrien  /  Coria  Alexandre  Ford Puma Rally1 Hybrid,RC1,00:01:52.1,67.44 2.14,00:00:04.5 00:00:00.5,1
+8,17,Ogier  S.  /  Landais  Vincent  Toyota GR Yaris Rally1 Hybrid,RC1,00:01:52.3,67.32 2.24,00:00:04.7 00:00:00.2,1
+9,33,Evans  Elfyn  /  Martin  Scott  Toyota GR Yaris Rally1 Hybrid,RC1,00:01:52.5,67.20 2.33,00:00:04.9 00:00:00.2,1
+10,21,Gryazin  Nikolay  /  Aleksandrov  K.  Škoda Fabia RS Rally2,RC2,00:01:52.9,66.96 2.52,00:00:05.3 00:00:00.4,1
+11,20,Mikkelsen  A.  /  Eriksen  T.  Škoda Fabia RS Rally2,RC2,00:01:54.2,66.20 3.14,00:00:06.6 00:00:01.3,1
+12,22,Kajetanowicz  K.  /  Szczepaniak  M.  Škoda Fabia RS Rally2,RC2,00:01:55.1,65.68 3.57,00:00:07.5 00:00:00.9,1
+13,23,Kovalainen  H.  /  Kitagawa  Sae  Škoda Fabia R5,RC2,00:01:56.3,65.00 4.14,00:00:08.7 00:00:01.2,1
+14,24,Munster  G.  /  Louka  Louis  Ford Fiesta Rally2 MkII,RC2,00:01:57.4,64.40 4.67,00:00:09.8 00:00:01.1,1
+15,25,Chwist  Daniel  /  Heller  Kamil  Škoda Fabia Rally2 Evo,RC2,00:02:00.9,62.53 6.33,00:00:13.3 00:00:03.5,1
+16,32,Katsuta  N.  /  Kimura  Yusuke  Toyota Yaris GR,,00:02:02.3,61.82 7.00,00:00:14.7 00:00:01.4,1
+17,26,Fukunaga  Osamu  /  Saida  Misako  Škoda Fabia Rally2 Evo,RC2,00:02:03.1,61.41 7.38,00:00:15.5 00:00:00.8,1
+18,29,Díaz Aboitiz  M.  /  Sanjuán  R.  Škoda Fabia RS Rally2,RC2,00:02:04.2,60.87 7.90,00:00:16.6 00:00:01.1,1
+19,35,Arai  Hiroki  /  Tachikui  Hiroki  Peugeot 208 Rally4,RC4,00:02:04.6,60.67 8.10,00:00:17.0 00:00:00.4,1
+20,30,Imai  Satoshi  /  Farmer  Jason  Citroën C3 Rally2,RC2,00:02:04.7,60.63 8.14,00:00:17.1 00:00:00.1,1
+21,34,Arai  Toshihiro  /  Matsumoto  Y.  Subaru Impreza STI,,00:02:04.8,60.58 8.19,00:00:17.2 00:00:00.1,1
+22,28,"Boland  Eamonn  /  ""MJ""  ..  Citroën C3 Rally2",RC2,00:02:05.4,60.29 8.48,00:00:17.8 00:00:00.6,1
+23,39,Murata  Kohsuke  /  Umemoto  Madoka  Toyota Yaris GR,,00:02:13.9,56.46 12.52,00:00:26.3 00:00:08.5,1
+24,40,Yamamoto  Yuta  /  Tachikui  Kazuko  Toyota GT86,,00:02:17.1,55.14 14.05,00:00:29.5 00:00:03.2,1
+25,47,Irie  Satoshi  /  Kageyama  S.  Toyota Vitz,,00:02:19.4,54.23 15.14,00:00:31.8 00:00:02.3,1
+26,31,Bailey  Jason  /  Peterson  Shayne  Ford Fiesta Rally3,RC3,00:02:21.0,53.62 15.90,00:00:33.4 00:00:01.6,1
+27,41,Kunisawa  M.  /  Kihara  Masahiko  Renault Clio Rally5,RC5,00:02:24.9,52.17 17.76,00:00:37.3 00:00:03.9,1
+27,49,Aihara  Taisuke  /  Hagino  Tsukasa  Daihatsu Copen,,00:02:24.9,52.17 17.76,00:00:37.3 00:00:00.0,1
+29,48,Shimizu  H.  /  Yasui  Takahiro  Toyota Yaris,,00:02:25.1,52.10 17.86,00:00:37.5 00:00:00.2,1
+30,38,Hotta  Makoto  /  Kawanishi  Haruo  Toyota Yaris GR,,00:02:28.0,51.08 19.24,00:00:40.4 00:00:02.9,1
+31,37,Sasaki  Yasuyuki  /  Matsushita  K.  Toyota Yaris GR,,00:02:33.7,49.19 21.95,00:00:46.1 00:00:05.7,1
+32,44,Nakayama  Tohru  /  Matsuura  T.  Toyota Yaris GR,,00:02:34.8,48.84 22.48,00:00:47.2 00:00:01.1,1
+33,46,Hagiwara  Y.  /  Harada  Koichi  Subaru Impreza STI,,00:02:38.1,47.82 24.05,00:00:50.5 00:00:03.3,1
+34,45,Takata  Koji  /  Sekimoto  T.  Toyota Yaris GR,,00:02:43.6,46.21 26.67,00:00:56.0 00:00:05.5,1
+35,36,Shinkai  T.  /  Ando  Yuichi  Toyota Yaris GR,,00:12:02.3,10.47 292.71,00:10:14.7 00:09:18.7,1
