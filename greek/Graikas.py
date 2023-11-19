@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup as soup
 #import requests
 import re
 import pandas as pd
-link = 'https://www.ewrc-results.com/results/85986-rally-sprint-graika-2023/?s='
-startat, no_ss=443525, int(3)
+link = 'https://www.ewrc-results.com/results/85677-rally-sprint-graikas-2023/?s='
+startat, no_ss=440947, int(3)
 #monte_23 = pd.DataFrame(columns=['Pos.', 'Pilote / Co-pilote', 'Voiture', '#', 'Temps', 'Écart'])
-korinthou_23 = []
+graikas_23 = []
 
 for ss in range(0,(no_ss)):
     val= startat + ss
@@ -26,19 +26,19 @@ for ss in range(0,(no_ss)):
         data['Pos.'] = data['Pos.'].astype(str).astype(float)
     #print(data.dtypes)
     #print(data)
-    korinthou_23.append(data) 
+    graikas_23.append(data) 
 
 
-korinthou23_stages = pd.concat(korinthou_23, axis=0)
-korinthou23_stages.columns=['Pos.', 'No', 'Crew', 'Gr/Cl','ss_time', 'Diff', 'Speed', 'ss']
-korinthou23_stages['Pos.'] = korinthou23_stages['Pos.'].astype(int)
-korinthou23_stages.to_csv('korinthou2023_st.csv', index=False)
-#print(korinthou23_stages)
-#print(korinthou23_stages.dtypes)
+graikas23_stages = pd.concat(graikas_23, axis=0)
+graikas23_stages.columns=['Pos.', 'No', 'Crew', 'Gr/Cl','ss_time', 'Diff', 'Speed', 'ss']
+graikas23_stages['Pos.'] = graikas23_stages['Pos.'].astype(int)
+graikas23_stages.to_csv('graikas2023_st.csv', index=False)
+#print(graikas23_stages)
+#print(graikas23_stages.dtypes)
 
-dataview = korinthou23_stages.drop(['Diff','Speed','Pos.'], axis=1)
+dataview = graikas23_stages.drop(['Diff','Speed','Pos.'], axis=1)
 dataview = dataview.fillna('-')
 data_view2 = dataview.set_index(['No', 'Crew', 'Gr/Cl','ss'], drop=True).unstack('ss')
 data_view2 = data_view2.fillna('-')
-data_view2.to_csv('korinthou2023_comp.csv')
+data_view2.to_csv('graikas2023_comp.csv')
 #print(data_view2)
