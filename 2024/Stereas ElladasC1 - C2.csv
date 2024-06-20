@@ -1,17 +1,17 @@
 ,Crew,Gr/Cl,ss,Race,date,surface,competition,cou,time_SS_sec,min_time_Gr,min_time,diff,diff_G,diff_G%,SS.
-0,Tsolakidis Soc,C1,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,1,1020.0,1020.0,1020.0,0.0,0.0,0.0,01
-1,Panagiotis Rou,C1,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,2,1020.0,1020.0,1020.0,0.0,0.0,0.0,01
-2,Halkias Efthim,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,3,1038.11,1038.11,1020.0,18.1099999999999,0.0,0.0,01
-3,Karanikolas E.,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,4,1038.11,1038.11,1020.0,18.1099999999999,0.0,0.0,01
-4,Chatzimarkos P,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,5,1038.11,1038.11,1020.0,18.1099999999999,0.0,0.0,01
-5,Ismailos Panos,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,6,1038.11,1038.11,1020.0,18.1099999999999,0.0,0.0,01
-6,Panteli Petros,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,7,1038.11,1038.11,1020.0,18.1099999999999,0.0,0.0,01
-7,Delaportas Gio,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,9,1074.42,1038.11,1020.0,54.42000000000007,36.31000000000017,3.4977025556058776,01
-8,Zygogiannis K.,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,10,1085.57,1038.11,1020.0,65.56999999999994,47.460000000000036,4.571769850979187,01
-9,Flandy  - Gira,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,11,1108.96,1038.11,1020.0,88.96000000000004,70.85000000000014,6.824902948627809,01
-10,Davaris Nikos ,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,16,1165.49,1038.11,1020.0,145.49,127.38000000000011,12.270375971717845,01
-11,Yiangou Y.  - ,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,25,1253.34,1038.11,1020.0,233.33999999999992,215.23000000000002,20.732870312394645,01
-12,Amoutzas Giorg,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,29,1301.91,1038.11,1020.0,281.9100000000001,263.8000000000002,25.411565248384104,01
+0,Tsolakidis Soc,C1,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,1,,,1038.11,,,,01
+1,Panagiotis Rou,C1,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,2,,,1038.11,,,,01
+2,Halkias Efthim,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,3,,1038.11,1038.11,,,,01
+3,Karanikolas E.,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,4,,1038.11,1038.11,,,,01
+4,Chatzimarkos P,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,5,,1038.11,1038.11,,,,01
+5,Ismailos Panos,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,6,,1038.11,1038.11,,,,01
+6,Panteli Petros,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,7,1038.11,1038.11,1038.11,0.0,0.0,0.0,01
+7,Delaportas Gio,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,9,1074.42,1038.11,1038.11,36.31000000000017,36.31000000000017,3.4977025556058776,01
+8,Zygogiannis K.,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,10,1085.57,1038.11,1038.11,47.460000000000036,47.460000000000036,4.571769850979187,01
+9,Flandy  - Gira,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,11,1108.96,1038.11,1038.11,70.85000000000014,70.85000000000014,6.824902948627809,01
+10,Davaris Nikos ,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,16,1165.49,1038.11,1038.11,127.38000000000011,127.38000000000011,12.270375971717845,01
+11,Yiangou Y.  - ,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,25,1253.34,1038.11,1038.11,215.23000000000002,215.23000000000002,20.732870312394645,01
+12,Amoutzas Giorg,C2,1,Stereas Elladas,14-04-2024,Gravel,Greek Championship,29,1301.91,1038.11,1038.11,263.8000000000002,263.8000000000002,25.411565248384104,01
 33,Chatzimarkos P,C2,2,Stereas Elladas,14-04-2024,Gravel,Greek Championship,1,524.16,524.16,524.16,0.0,0.0,0.0,02
 34,Karanikolas E.,C2,2,Stereas Elladas,14-04-2024,Gravel,Greek Championship,4,538.8,524.16,524.16,14.639999999999986,14.639999999999986,2.7930402930402907,02
 35,Panteli Petros,C2,2,Stereas Elladas,14-04-2024,Gravel,Greek Championship,5,538.84,524.16,524.16,14.680000000000064,14.680000000000064,2.800671550671563,02
