@@ -1,0 +1,953 @@
+,Crew,ss,Group,Group_Pos
+1,Ogier  S. / ,1,RC1,1
+2,Tänak  Ott /,1,RC1,2
+3,Fourmaux  Ad,1,RC1,3
+4,Katsuta  T. ,1,RC1,4
+5,Sordo  Dani ,1,RC1,5
+6,Neuville  T.,1,RC1,6
+7,Rossel  Yoha,1,RC2,1
+8,Munster  G. ,1,RC1,7
+9,Pajari  Sami,1,RC2,2
+10,Gryazin  Nik,1,RC2,3
+11,Joona  Lauri,1,RC2,4
+12,Kajetanowicz,1,RC2,5
+13,Linnamäe  Ge,1,RC2,6
+14,Greensmith  ,1,RC2,7
+15,Zaldivar  F.,1,RC2,8
+16,Virves  Robe,1,RC2,9
+17,McErlean  Jo,1,RC2,10
+18,Daprà  Rober,1,RC2,11
+19,Türkkan  Ali,1,RC3,1
+20,Maior  Norbe,1,RC3,2
+21,Villanueva  ,1,RC2,12
+22,Roustemis  P,1,RC2,13
+23,Kremer  Armi,1,RC2,14
+24,Dominguez  D,1,RC3,3
+25,Gill  Taylor,1,RC3,4
+26,Jürgenson  R,1,RC3,5
+27,Blach  Rober,1,RC2,15
+28,Schwarz  Fab,1,RC3,6
+29,Smart  Max /,1,RC3,7
+30,Fontana  Mat,1,RC3,8
+31,Al-Wahaibi  ,1,RC2,16
+32,Borodin  Pet,1,RC3,9
+33,Karanikolas ,1,RC3,10
+34,Rensonnet  T,1,RC3,11
+35,Panteli  Pet,1,RC3,12
+36,Granados  Mi,1,RC2,17
+37,Soylu  Uğur ,1,RC2,18
+38,Velanis  V. ,1,RC2,19
+39,Chatzimarkos,1,RC3,13
+40,Laskowski  H,1,RC3,14
+41,Halkias  E. ,1,RC3,15
+42,Brazzoli  En,1,RC2,20
+43,Cărăgui  Eug,1,RC2,21
+44,Caparó  José,1,RC3,16
+45,Peralta  J. ,1,RC2,22
+46,Pavlidis  N.,1,RC2,23
+47,Vassilakis  ,1,RC2,24
+48,Martínez  Jo,1,RC2,25
+49,Dolofan  C. ,1,RC2,26
+50,Stefanis  Ma,1,RC3,17
+51,Theocharopou,1,RC3,18
+52,Çetinkaya  B,1,RC2,27
+53,Bruun  Natan,1,RC3,19
+54,Plagos  Ioan,1,RC4,1
+55,Lefkaditis  ,1,RC4,2
+56,Šekuljica  S,1,RC3,20
+57,Kalamaras  T,1,RC4,3
+58,Kehagias  G.,1,RC2,28
+59,Martinez  An,1,RC3,21
+60,Parellis  D.,1,RC5,1
+61,Delaportas  ,1,RC3,22
+62,Papageorgiou,1,RC4,4
+63,Georgakopoul,1,RC2,29
+64,Campagnoli  ,1,RC3,23
+65,Serderidis  ,1,RC1,8
+66,Evans  Elfyn,1,RC1,9
+67,Solans  Jan ,1,RC2,30
+68,Loubet  P. /,1,RC2,31
+69,Athanassoula,1,RC2,32
+70,Amoutzas  G.,1,RC2,33
+1,Tänak  Ott /,2,RC1,1
+2,Katsuta  T. ,2,RC1,2
+3,Ogier  S. / ,2,RC1,3
+4,Fourmaux  Ad,2,RC1,4
+5,Sordo  Dani ,2,RC1,5
+6,Neuville  T.,2,RC1,6
+7,Rossel  Yoha,2,RC2,1
+8,Munster  G. ,2,RC1,7
+9,Pajari  Sami,2,RC2,2
+10,Gryazin  Nik,2,RC2,3
+11,Joona  Lauri,2,RC2,4
+12,Greensmith  ,2,RC2,5
+13,Kajetanowicz,2,RC2,6
+14,Zaldivar  F.,2,RC2,7
+15,Linnamäe  Ge,2,RC2,8
+16,Virves  Robe,2,RC2,9
+17,McErlean  Jo,2,RC2,10
+18,Daprà  Rober,2,RC2,11
+19,Türkkan  Ali,2,RC3,1
+20,Maior  Norbe,2,RC3,2
+21,Villanueva  ,2,RC2,12
+22,Roustemis  P,2,RC2,13
+23,Dominguez  D,2,RC3,3
+24,Gill  Taylor,2,RC3,4
+25,Jürgenson  R,2,RC3,5
+26,Blach  Rober,2,RC2,14
+27,Schwarz  Fab,2,RC3,6
+28,Kremer  Armi,2,RC2,15
+29,Smart  Max /,2,RC3,7
+30,Fontana  Mat,2,RC3,8
+31,Al-Wahaibi  ,2,RC2,16
+32,Borodin  Pet,2,RC3,9
+33,Karanikolas ,2,RC3,10
+34,Rensonnet  T,2,RC3,11
+35,Panteli  Pet,2,RC3,12
+36,Granados  Mi,2,RC2,17
+37,Soylu  Uğur ,2,RC2,18
+38,Velanis  V. ,2,RC2,19
+39,Chatzimarkos,2,RC3,13
+40,Laskowski  H,2,RC3,14
+41,Halkias  E. ,2,RC3,15
+42,Serderidis  ,2,RC1,8
+43,Brazzoli  En,2,RC2,20
+44,Cărăgui  Eug,2,RC2,21
+45,Caparó  José,2,RC3,16
+46,Peralta  J. ,2,RC2,22
+47,Pavlidis  N.,2,RC2,23
+48,Vassilakis  ,2,RC2,24
+49,Martínez  Jo,2,RC2,25
+50,Dolofan  C. ,2,RC2,26
+51,Stefanis  Ma,2,RC3,17
+52,Theocharopou,2,RC3,18
+53,Çetinkaya  B,2,RC2,27
+54,Bruun  Natan,2,RC3,19
+55,Plagos  Ioan,2,RC4,1
+56,Lefkaditis  ,2,RC4,2
+57,Šekuljica  S,2,RC3,20
+58,Kalamaras  T,2,RC4,3
+59,Evans  Elfyn,2,RC1,9
+60,Kehagias  G.,2,RC2,28
+61,Martinez  An,2,RC3,21
+62,Solans  Jan ,2,RC2,29
+63,Parellis  D.,2,RC5,1
+64,Delaportas  ,2,RC3,22
+65,Papageorgiou,2,RC4,4
+66,Georgakopoul,2,RC2,30
+67,Loubet  P. /,2,RC2,31
+68,Athanassoula,2,RC2,32
+69,Amoutzas  G.,2,RC2,33
+70,Campagnoli  ,2,RC3,23
+1,Ogier  S. / ,3,RC1,1
+2,Fourmaux  Ad,3,RC1,2
+3,Tänak  Ott /,3,RC1,3
+4,Sordo  Dani ,3,RC1,4
+5,Neuville  T.,3,RC1,5
+6,Rossel  Yoha,3,RC2,1
+7,Munster  G. ,3,RC1,6
+8,Pajari  Sami,3,RC2,2
+9,Greensmith  ,3,RC2,3
+10,Joona  Lauri,3,RC2,4
+11,Virves  Robe,3,RC2,5
+12,Gryazin  Nik,3,RC2,6
+13,Zaldivar  F.,3,RC2,7
+14,Kajetanowicz,3,RC2,8
+15,McErlean  Jo,3,RC2,9
+16,Daprà  Rober,3,RC2,10
+17,Villanueva  ,3,RC2,11
+18,Roustemis  P,3,RC2,12
+19,Maior  Norbe,3,RC3,1
+20,Jürgenson  R,3,RC3,2
+21,Dominguez  D,3,RC3,3
+22,Gill  Taylor,3,RC3,4
+23,Kremer  Armi,3,RC2,13
+24,Schwarz  Fab,3,RC3,5
+25,Blach  Rober,3,RC2,14
+26,Al-Wahaibi  ,3,RC2,15
+27,Rensonnet  T,3,RC3,6
+28,Fontana  Mat,3,RC3,7
+29,Linnamäe  Ge,3,RC2,16
+30,Borodin  Pet,3,RC3,8
+31,Karanikolas ,3,RC3,9
+32,Velanis  V. ,3,RC2,17
+33,Türkkan  Ali,3,RC3,10
+34,Panteli  Pet,3,RC3,11
+35,Granados  Mi,3,RC2,18
+36,Soylu  Uğur ,3,RC2,19
+37,Serderidis  ,3,RC1,7
+38,Laskowski  H,3,RC3,12
+39,Chatzimarkos,3,RC3,13
+40,Halkias  E. ,3,RC3,14
+41,Caparó  José,3,RC3,15
+42,Pavlidis  N.,3,RC2,20
+43,Peralta  J. ,3,RC2,21
+44,Dolofan  C. ,3,RC2,22
+45,Cărăgui  Eug,3,RC2,23
+46,Brazzoli  En,3,RC2,24
+47,Bruun  Natan,3,RC3,16
+48,Çetinkaya  B,3,RC2,25
+49,Theocharopou,3,RC3,17
+50,Martínez  Jo,3,RC2,26
+51,Smart  Max /,3,RC3,18
+52,Vassilakis  ,3,RC2,27
+53,Stefanis  Ma,3,RC3,19
+54,Solans  Jan ,3,RC2,28
+55,Plagos  Ioan,3,RC4,1
+56,Kehagias  G.,3,RC2,29
+57,Lefkaditis  ,3,RC4,2
+58,Evans  Elfyn,3,RC1,8
+59,Martinez  An,3,RC3,20
+60,Kalamaras  T,3,RC4,3
+61,Katsuta  T. ,3,RC1,9
+62,Šekuljica  S,3,RC3,21
+63,Parellis  D.,3,RC5,1
+64,Papageorgiou,3,RC4,4
+65,Delaportas  ,3,RC3,22
+66,Georgakopoul,3,RC2,30
+67,Loubet  P. /,3,RC2,31
+68,Athanassoula,3,RC2,32
+69,Amoutzas  G.,3,RC2,33
+70,Campagnoli  ,3,RC3,23
+1,Ogier  S. / ,4,RC1,1
+2,Tänak  Ott /,4,RC1,2
+3,Sordo  Dani ,4,RC1,3
+4,Neuville  T.,4,RC1,4
+5,Rossel  Yoha,4,RC2,1
+6,Munster  G. ,4,RC1,5
+7,Pajari  Sami,4,RC2,2
+8,Greensmith  ,4,RC2,3
+9,Virves  Robe,4,RC2,4
+10,Gryazin  Nik,4,RC2,5
+11,Zaldivar  F.,4,RC2,6
+12,Kajetanowicz,4,RC2,7
+13,Joona  Lauri,4,RC2,8
+14,McErlean  Jo,4,RC2,9
+15,Daprà  Rober,4,RC2,10
+16,Villanueva  ,4,RC2,11
+17,Linnamäe  Ge,4,RC2,12
+18,Roustemis  P,4,RC2,13
+19,Kremer  Armi,4,RC2,14
+20,Jürgenson  R,4,RC3,1
+21,Maior  Norbe,4,RC3,2
+22,Dominguez  D,4,RC3,3
+23,Al-Wahaibi  ,4,RC2,15
+24,Gill  Taylor,4,RC3,4
+25,Blach  Rober,4,RC2,16
+26,Fontana  Mat,4,RC3,5
+27,Rensonnet  T,4,RC3,6
+28,Türkkan  Ali,4,RC3,7
+29,Serderidis  ,4,RC1,6
+30,Schwarz  Fab,4,RC3,8
+31,Velanis  V. ,4,RC2,17
+32,Borodin  Pet,4,RC3,9
+33,Soylu  Uğur ,4,RC2,18
+34,Karanikolas ,4,RC3,10
+35,Granados  Mi,4,RC2,19
+36,Laskowski  H,4,RC3,11
+37,Panteli  Pet,4,RC3,12
+38,Solans  Jan ,4,RC2,20
+39,Halkias  E. ,4,RC3,13
+40,Bruun  Natan,4,RC3,14
+41,Caparó  José,4,RC3,15
+42,Evans  Elfyn,4,RC1,7
+43,Brazzoli  En,4,RC2,21
+44,Dolofan  C. ,4,RC2,22
+45,Cărăgui  Eug,4,RC2,23
+46,Çetinkaya  B,4,RC2,24
+47,Fourmaux  Ad,4,RC1,8
+48,Peralta  J. ,4,RC2,25
+49,Vassilakis  ,4,RC2,26
+50,Martínez  Jo,4,RC2,27
+51,Theocharopou,4,RC3,16
+52,Stefanis  Ma,4,RC3,17
+53,Kehagias  G.,4,RC2,28
+54,Lefkaditis  ,4,RC4,1
+55,Plagos  Ioan,4,RC4,2
+56,Smart  Max /,4,RC3,18
+57,Martinez  An,4,RC3,19
+58,Pavlidis  N.,4,RC2,29
+59,Chatzimarkos,4,RC3,20
+60,Šekuljica  S,4,RC3,21
+61,Kalamaras  T,4,RC4,3
+62,Parellis  D.,4,RC5,1
+63,Katsuta  T. ,4,RC1,9
+64,Papageorgiou,4,RC4,4
+65,Delaportas  ,4,RC3,22
+66,Georgakopoul,4,RC2,30
+67,Amoutzas  G.,4,RC2,31
+68,Campagnoli  ,4,RC3,23
+1,Tänak  Ott /,5,RC1,1
+2,Ogier  S. / ,5,RC1,2
+3,Sordo  Dani ,5,RC1,3
+4,Neuville  T.,5,RC1,4
+5,Munster  G. ,5,RC1,5
+6,Rossel  Yoha,5,RC2,1
+7,Pajari  Sami,5,RC2,2
+8,Greensmith  ,5,RC2,3
+9,Virves  Robe,5,RC2,4
+10,Zaldivar  F.,5,RC2,5
+11,Kajetanowicz,5,RC2,6
+12,McErlean  Jo,5,RC2,7
+13,Gryazin  Nik,5,RC2,8
+14,Daprà  Rober,5,RC2,9
+15,Linnamäe  Ge,5,RC2,10
+16,Roustemis  P,5,RC2,11
+17,Kremer  Armi,5,RC2,12
+18,Jürgenson  R,5,RC3,1
+19,Maior  Norbe,5,RC3,2
+20,Gill  Taylor,5,RC3,3
+21,Fontana  Mat,5,RC3,4
+22,Türkkan  Ali,5,RC3,5
+23,Rensonnet  T,5,RC3,6
+24,Serderidis  ,5,RC1,6
+25,Soylu  Uğur ,5,RC2,13
+26,Borodin  Pet,5,RC3,7
+27,Blach  Rober,5,RC2,14
+28,Villanueva  ,5,RC2,15
+29,Karanikolas ,5,RC3,8
+30,Evans  Elfyn,5,RC1,7
+31,Granados  Mi,5,RC2,16
+32,Laskowski  H,5,RC3,9
+33,Panteli  Pet,5,RC3,10
+34,Bruun  Natan,5,RC3,11
+35,Solans  Jan ,5,RC2,17
+36,Halkias  E. ,5,RC3,12
+37,Caparó  José,5,RC3,13
+38,Schwarz  Fab,5,RC3,14
+39,Brazzoli  En,5,RC2,18
+40,Dolofan  C. ,5,RC2,19
+41,Al-Wahaibi  ,5,RC2,20
+42,Çetinkaya  B,5,RC2,21
+43,Peralta  J. ,5,RC2,22
+44,Dominguez  D,5,RC3,15
+45,Vassilakis  ,5,RC2,23
+46,Joona  Lauri,5,RC2,24
+47,Martínez  Jo,5,RC2,25
+48,Smart  Max /,5,RC3,16
+49,Kehagias  G.,5,RC2,26
+50,Theocharopou,5,RC3,17
+51,Stefanis  Ma,5,RC3,18
+52,Martinez  An,5,RC3,19
+53,Lefkaditis  ,5,RC4,1
+54,Chatzimarkos,5,RC3,20
+55,Plagos  Ioan,5,RC4,2
+56,Pavlidis  N.,5,RC2,27
+57,Velanis  V. ,5,RC2,28
+58,Šekuljica  S,5,RC3,21
+59,Kalamaras  T,5,RC4,3
+60,Fourmaux  Ad,5,RC1,8
+61,Cărăgui  Eug,5,RC2,29
+62,Parellis  D.,5,RC5,1
+63,Katsuta  T. ,5,RC1,9
+64,Papageorgiou,5,RC4,4
+65,Delaportas  ,5,RC3,22
+66,Georgakopoul,5,RC2,30
+67,Amoutzas  G.,5,RC2,31
+68,Campagnoli  ,5,RC3,23
+1,Tänak  Ott /,6,RC1,1
+2,Sordo  Dani ,6,RC1,2
+3,Neuville  T.,6,RC1,3
+4,Ogier  S. / ,6,RC1,4
+5,Virves  Robe,6,RC2,1
+6,Pajari  Sami,6,RC2,2
+7,Munster  G. ,6,RC1,5
+8,Kajetanowicz,6,RC2,3
+9,Zaldivar  F.,6,RC2,4
+10,Gryazin  Nik,6,RC2,5
+11,Rossel  Yoha,6,RC2,6
+12,McErlean  Jo,6,RC2,7
+13,Daprà  Rober,6,RC2,8
+14,Linnamäe  Ge,6,RC2,9
+15,Kremer  Armi,6,RC2,10
+16,Roustemis  P,6,RC2,11
+17,Maior  Norbe,6,RC3,1
+18,Jürgenson  R,6,RC3,2
+19,Türkkan  Ali,6,RC3,3
+20,Evans  Elfyn,6,RC1,6
+21,Fontana  Mat,6,RC3,4
+22,Rensonnet  T,6,RC3,5
+23,Serderidis  ,6,RC1,7
+24,Gill  Taylor,6,RC3,6
+25,Borodin  Pet,6,RC3,7
+26,Villanueva  ,6,RC2,12
+27,Laskowski  H,6,RC3,8
+28,Solans  Jan ,6,RC2,13
+29,Blach  Rober,6,RC2,14
+30,Granados  Mi,6,RC2,15
+31,Soylu  Uğur ,6,RC2,16
+32,Karanikolas ,6,RC3,9
+33,Bruun  Natan,6,RC3,10
+34,Greensmith  ,6,RC2,17
+35,Schwarz  Fab,6,RC3,11
+36,Dominguez  D,6,RC3,12
+37,Caparó  José,6,RC3,13
+38,Halkias  E. ,6,RC3,14
+39,Dolofan  C. ,6,RC2,18
+40,Brazzoli  En,6,RC2,19
+41,Al-Wahaibi  ,6,RC2,20
+42,Çetinkaya  B,6,RC2,21
+43,Vassilakis  ,6,RC2,22
+44,Kehagias  G.,6,RC2,23
+45,Peralta  J. ,6,RC2,24
+46,Smart  Max /,6,RC3,15
+47,Chatzimarkos,6,RC3,16
+48,Martinez  An,6,RC3,17
+49,Theocharopou,6,RC3,18
+50,Stefanis  Ma,6,RC3,19
+51,Pavlidis  N.,6,RC2,25
+52,Martínez  Jo,6,RC2,26
+53,Lefkaditis  ,6,RC4,1
+54,Plagos  Ioan,6,RC4,2
+55,Joona  Lauri,6,RC2,27
+56,Kalamaras  T,6,RC4,3
+57,Velanis  V. ,6,RC2,28
+58,Fourmaux  Ad,6,RC1,8
+59,Šekuljica  S,6,RC3,20
+60,Parellis  D.,6,RC5,1
+61,Cărăgui  Eug,6,RC2,29
+62,Panteli  Pet,6,RC3,21
+63,Katsuta  T. ,6,RC1,9
+64,Papageorgiou,6,RC4,4
+65,Amoutzas  G.,6,RC2,30
+66,Campagnoli  ,6,RC3,22
+1,Sordo  Dani ,7,RC1,1
+2,Neuville  T.,7,RC1,2
+3,Ogier  S. / ,7,RC1,3
+4,Virves  Robe,7,RC2,1
+5,Pajari  Sami,7,RC2,2
+6,Tänak  Ott /,7,RC1,4
+7,Munster  G. ,7,RC1,5
+8,Zaldivar  F.,7,RC2,3
+9,Rossel  Yoha,7,RC2,4
+10,Kajetanowicz,7,RC2,5
+11,Gryazin  Nik,7,RC2,6
+12,McErlean  Jo,7,RC2,7
+13,Daprà  Rober,7,RC2,8
+14,Linnamäe  Ge,7,RC2,9
+15,Evans  Elfyn,7,RC1,6
+16,Kremer  Armi,7,RC2,10
+17,Roustemis  P,7,RC2,11
+18,Jürgenson  R,7,RC3,1
+19,Maior  Norbe,7,RC3,2
+20,Türkkan  Ali,7,RC3,3
+21,Fontana  Mat,7,RC3,4
+22,Solans  Jan ,7,RC2,12
+23,Gill  Taylor,7,RC3,5
+24,Serderidis  ,7,RC1,7
+25,Villanueva  ,7,RC2,13
+26,Borodin  Pet,7,RC3,6
+27,Blach  Rober,7,RC2,14
+28,Laskowski  H,7,RC3,7
+29,Granados  Mi,7,RC2,15
+30,Soylu  Uğur ,7,RC2,16
+31,Karanikolas ,7,RC3,8
+32,Bruun  Natan,7,RC3,9
+33,Rensonnet  T,7,RC3,10
+34,Dominguez  D,7,RC3,11
+35,Caparó  José,7,RC3,12
+36,Halkias  E. ,7,RC3,13
+37,Al-Wahaibi  ,7,RC2,17
+38,Schwarz  Fab,7,RC3,14
+39,Kehagias  G.,7,RC2,18
+40,Smart  Max /,7,RC3,15
+41,Çetinkaya  B,7,RC2,19
+42,Dolofan  C. ,7,RC2,20
+43,Vassilakis  ,7,RC2,21
+44,Peralta  J. ,7,RC2,22
+45,Chatzimarkos,7,RC3,16
+46,Martinez  An,7,RC3,17
+47,Pavlidis  N.,7,RC2,23
+48,Stefanis  Ma,7,RC3,18
+49,Theocharopou,7,RC3,19
+50,Martínez  Jo,7,RC2,24
+51,Joona  Lauri,7,RC2,25
+52,Brazzoli  En,7,RC2,26
+53,Lefkaditis  ,7,RC4,1
+54,Fourmaux  Ad,7,RC1,8
+55,Velanis  V. ,7,RC2,27
+56,Kalamaras  T,7,RC4,2
+57,Cărăgui  Eug,7,RC2,28
+58,Parellis  D.,7,RC5,1
+59,Plagos  Ioan,7,RC4,3
+60,Katsuta  T. ,7,RC1,9
+61,Panteli  Pet,7,RC3,20
+62,Papageorgiou,7,RC4,4
+63,Amoutzas  G.,7,RC2,29
+64,Campagnoli  ,7,RC3,21
+1,Sordo  Dani ,8,RC1,1
+2,Neuville  T.,8,RC1,2
+3,Ogier  S. / ,8,RC1,3
+4,Tänak  Ott /,8,RC1,4
+5,Virves  Robe,8,RC2,1
+6,Pajari  Sami,8,RC2,2
+7,Munster  G. ,8,RC1,5
+8,Rossel  Yoha,8,RC2,3
+9,Zaldivar  F.,8,RC2,4
+10,Kajetanowicz,8,RC2,5
+11,Gryazin  Nik,8,RC2,6
+12,McErlean  Jo,8,RC2,7
+13,Linnamäe  Ge,8,RC2,8
+14,Daprà  Rober,8,RC2,9
+15,Evans  Elfyn,8,RC1,6
+16,Roustemis  P,8,RC2,10
+17,Jürgenson  R,8,RC3,1
+18,Kremer  Armi,8,RC2,11
+19,Maior  Norbe,8,RC3,2
+20,Türkkan  Ali,8,RC3,3
+21,Solans  Jan ,8,RC2,12
+22,Fontana  Mat,8,RC3,4
+23,Gill  Taylor,8,RC3,5
+24,Villanueva  ,8,RC2,13
+25,Serderidis  ,8,RC1,7
+26,Borodin  Pet,8,RC3,6
+27,Blach  Rober,8,RC2,14
+28,Granados  Mi,8,RC2,15
+29,Soylu  Uğur ,8,RC2,16
+30,Karanikolas ,8,RC3,7
+31,Bruun  Natan,8,RC3,8
+32,Rensonnet  T,8,RC3,9
+33,Dominguez  D,8,RC3,10
+34,Al-Wahaibi  ,8,RC2,17
+35,Caparó  José,8,RC3,11
+36,Kehagias  G.,8,RC2,18
+37,Schwarz  Fab,8,RC3,12
+38,Halkias  E. ,8,RC3,13
+39,Çetinkaya  B,8,RC2,19
+40,Dolofan  C. ,8,RC2,20
+41,Chatzimarkos,8,RC3,14
+42,Peralta  J. ,8,RC2,21
+43,Smart  Max /,8,RC3,15
+44,Laskowski  H,8,RC3,16
+45,Pavlidis  N.,8,RC2,22
+46,Joona  Lauri,8,RC2,23
+47,Stefanis  Ma,8,RC3,17
+48,Theocharopou,8,RC3,18
+49,Martínez  Jo,8,RC2,24
+50,Fourmaux  Ad,8,RC1,8
+51,Martinez  An,8,RC3,19
+52,Velanis  V. ,8,RC2,25
+53,Vassilakis  ,8,RC2,26
+54,Brazzoli  En,8,RC2,27
+55,Kalamaras  T,8,RC4,1
+56,Lefkaditis  ,8,RC4,2
+57,Katsuta  T. ,8,RC1,9
+58,Cărăgui  Eug,8,RC2,28
+59,Parellis  D.,8,RC5,1
+60,Panteli  Pet,8,RC3,20
+61,Plagos  Ioan,8,RC4,3
+62,Amoutzas  G.,8,RC2,29
+63,Papageorgiou,8,RC4,4
+64,Campagnoli  ,8,RC3,21
+1,Neuville  T.,9,RC1,1
+2,Sordo  Dani ,9,RC1,2
+3,Ogier  S. / ,9,RC1,3
+4,Tänak  Ott /,9,RC1,4
+5,Pajari  Sami,9,RC2,1
+6,Virves  Robe,9,RC2,2
+7,Rossel  Yoha,9,RC2,3
+8,Zaldivar  F.,9,RC2,4
+9,Kajetanowicz,9,RC2,5
+10,McErlean  Jo,9,RC2,6
+11,Linnamäe  Ge,9,RC2,7
+12,Daprà  Rober,9,RC2,8
+13,Evans  Elfyn,9,RC1,5
+14,Solans  Jan ,9,RC2,9
+15,Roustemis  P,9,RC2,10
+16,Jürgenson  R,9,RC3,1
+17,Maior  Norbe,9,RC3,2
+18,Kremer  Armi,9,RC2,11
+19,Munster  G. ,9,RC1,6
+20,Fontana  Mat,9,RC3,3
+21,Villanueva  ,9,RC2,12
+22,Serderidis  ,9,RC1,7
+23,Gill  Taylor,9,RC3,4
+24,Borodin  Pet,9,RC3,5
+25,Blach  Rober,9,RC2,13
+26,Soylu  Uğur ,9,RC2,14
+27,Granados  Mi,9,RC2,15
+28,Türkkan  Ali,9,RC3,6
+29,Karanikolas ,9,RC3,7
+30,Bruun  Natan,9,RC3,8
+31,Rensonnet  T,9,RC3,9
+32,Dominguez  D,9,RC3,10
+33,Kehagias  G.,9,RC2,16
+34,Al-Wahaibi  ,9,RC2,17
+35,Schwarz  Fab,9,RC3,11
+36,Caparó  José,9,RC3,12
+37,Halkias  E. ,9,RC3,13
+38,Dolofan  C. ,9,RC2,18
+39,Chatzimarkos,9,RC3,14
+40,Joona  Lauri,9,RC2,19
+41,Smart  Max /,9,RC3,15
+42,Peralta  J. ,9,RC2,20
+43,Pavlidis  N.,9,RC2,21
+44,Fourmaux  Ad,9,RC1,8
+45,Stefanis  Ma,9,RC3,16
+46,Theocharopou,9,RC3,17
+47,Çetinkaya  B,9,RC2,22
+48,Martínez  Jo,9,RC2,23
+49,Velanis  V. ,9,RC2,24
+50,Laskowski  H,9,RC3,18
+51,Vassilakis  ,9,RC2,25
+52,Katsuta  T. ,9,RC1,9
+53,Kalamaras  T,9,RC4,1
+54,Lefkaditis  ,9,RC4,2
+55,Martinez  An,9,RC3,19
+56,Brazzoli  En,9,RC2,26
+57,Parellis  D.,9,RC5,1
+58,Cărăgui  Eug,9,RC2,27
+59,Gryazin  Nik,9,RC2,28
+60,Panteli  Pet,9,RC3,20
+61,Amoutzas  G.,9,RC2,29
+62,Plagos  Ioan,9,RC4,3
+63,Papageorgiou,9,RC4,4
+64,Campagnoli  ,9,RC3,21
+1,Neuville  T.,10,RC1,1
+2,Sordo  Dani ,10,RC1,2
+3,Ogier  S. / ,10,RC1,3
+4,Tänak  Ott /,10,RC1,4
+5,Pajari  Sami,10,RC2,1
+6,Virves  Robe,10,RC2,2
+7,Rossel  Yoha,10,RC2,3
+8,Zaldivar  F.,10,RC2,4
+9,Kajetanowicz,10,RC2,5
+10,McErlean  Jo,10,RC2,6
+11,Linnamäe  Ge,10,RC2,7
+12,Daprà  Rober,10,RC2,8
+13,Evans  Elfyn,10,RC1,5
+14,Solans  Jan ,10,RC2,9
+15,Roustemis  P,10,RC2,10
+16,Jürgenson  R,10,RC3,1
+17,Kremer  Armi,10,RC2,11
+18,Maior  Norbe,10,RC3,2
+19,Fontana  Mat,10,RC3,3
+20,Villanueva  ,10,RC2,12
+21,Serderidis  ,10,RC1,6
+22,Gill  Taylor,10,RC3,4
+23,Borodin  Pet,10,RC3,5
+24,Blach  Rober,10,RC2,13
+25,Türkkan  Ali,10,RC3,6
+26,Soylu  Uğur ,10,RC2,14
+27,Granados  Mi,10,RC2,15
+28,Karanikolas ,10,RC3,7
+29,Bruun  Natan,10,RC3,8
+30,Rensonnet  T,10,RC3,9
+31,Dominguez  D,10,RC3,10
+32,Schwarz  Fab,10,RC3,11
+33,Kehagias  G.,10,RC2,16
+34,Al-Wahaibi  ,10,RC2,17
+35,Caparó  José,10,RC3,12
+36,Munster  G. ,10,RC1,7
+37,Halkias  E. ,10,RC3,13
+38,Joona  Lauri,10,RC2,18
+39,Chatzimarkos,10,RC3,14
+40,Smart  Max /,10,RC3,15
+41,Peralta  J. ,10,RC2,19
+42,Fourmaux  Ad,10,RC1,8
+43,Pavlidis  N.,10,RC2,20
+44,Stefanis  Ma,10,RC3,16
+45,Theocharopou,10,RC3,17
+46,Martínez  Jo,10,RC2,21
+47,Dolofan  C. ,10,RC2,22
+48,Velanis  V. ,10,RC2,23
+49,Vassilakis  ,10,RC2,24
+50,Katsuta  T. ,10,RC1,9
+51,Çetinkaya  B,10,RC2,25
+52,Kalamaras  T,10,RC4,1
+53,Lefkaditis  ,10,RC4,2
+54,Laskowski  H,10,RC3,18
+55,Parellis  D.,10,RC5,1
+56,Martinez  An,10,RC3,19
+57,Brazzoli  En,10,RC2,26
+58,Cărăgui  Eug,10,RC2,27
+59,Gryazin  Nik,10,RC2,28
+60,Amoutzas  G.,10,RC2,29
+61,Panteli  Pet,10,RC3,20
+62,Plagos  Ioan,10,RC4,3
+63,Papageorgiou,10,RC4,4
+64,Campagnoli  ,10,RC3,21
+1,Neuville  T.,11,RC1,1
+2,Sordo  Dani ,11,RC1,2
+3,Ogier  S. / ,11,RC1,3
+4,Tänak  Ott /,11,RC1,4
+5,Pajari  Sami,11,RC2,1
+6,Virves  Robe,11,RC2,2
+7,Rossel  Yoha,11,RC2,3
+8,Kajetanowicz,11,RC2,4
+9,Linnamäe  Ge,11,RC2,5
+10,Zaldivar  F.,11,RC2,6
+11,Daprà  Rober,11,RC2,7
+12,McErlean  Jo,11,RC2,8
+13,Solans  Jan ,11,RC2,9
+14,Evans  Elfyn,11,RC1,5
+15,Roustemis  P,11,RC2,10
+16,Kremer  Armi,11,RC2,11
+17,Maior  Norbe,11,RC3,1
+18,Serderidis  ,11,RC1,6
+19,Fontana  Mat,11,RC3,2
+20,Jürgenson  R,11,RC3,3
+21,Blach  Rober,11,RC2,12
+22,Türkkan  Ali,11,RC3,4
+23,Granados  Mi,11,RC2,13
+24,Borodin  Pet,11,RC3,5
+25,Bruun  Natan,11,RC3,6
+26,Rensonnet  T,11,RC3,7
+27,Soylu  Uğur ,11,RC2,14
+28,Schwarz  Fab,11,RC3,8
+29,Caparó  José,11,RC3,9
+30,Halkias  E. ,11,RC3,10
+31,Villanueva  ,11,RC2,15
+32,Joona  Lauri,11,RC2,16
+33,Fourmaux  Ad,11,RC1,7
+34,Peralta  J. ,11,RC2,17
+35,Karanikolas ,11,RC3,11
+36,Kehagias  G.,11,RC2,18
+37,Chatzimarkos,11,RC3,12
+38,Munster  G. ,11,RC1,8
+39,Smart  Max /,11,RC3,13
+40,Gill  Taylor,11,RC3,14
+41,Stefanis  Ma,11,RC3,15
+42,Theocharopou,11,RC3,16
+43,Pavlidis  N.,11,RC2,19
+44,Martínez  Jo,11,RC2,20
+45,Katsuta  T. ,11,RC1,9
+46,Vassilakis  ,11,RC2,21
+47,Velanis  V. ,11,RC2,22
+48,Dominguez  D,11,RC3,17
+49,Dolofan  C. ,11,RC2,23
+50,Lefkaditis  ,11,RC4,1
+51,Kalamaras  T,11,RC4,2
+52,Çetinkaya  B,11,RC2,24
+53,Al-Wahaibi  ,11,RC2,25
+54,Laskowski  H,11,RC3,18
+55,Parellis  D.,11,RC5,1
+56,Brazzoli  En,11,RC2,26
+57,Martinez  An,11,RC3,19
+58,Amoutzas  G.,11,RC2,27
+59,Cărăgui  Eug,11,RC2,28
+60,Gryazin  Nik,11,RC2,29
+61,Panteli  Pet,11,RC3,20
+62,Plagos  Ioan,11,RC4,3
+63,Papageorgiou,11,RC4,4
+64,Campagnoli  ,11,RC3,21
+1,Neuville  T.,12,RC1,1
+2,Sordo  Dani ,12,RC1,2
+3,Ogier  S. / ,12,RC1,3
+4,Tänak  Ott /,12,RC1,4
+5,Pajari  Sami,12,RC2,1
+6,Virves  Robe,12,RC2,2
+7,Rossel  Yoha,12,RC2,3
+8,Kajetanowicz,12,RC2,4
+9,Linnamäe  Ge,12,RC2,5
+10,Zaldivar  F.,12,RC2,6
+11,Daprà  Rober,12,RC2,7
+12,McErlean  Jo,12,RC2,8
+13,Solans  Jan ,12,RC2,9
+14,Roustemis  P,12,RC2,10
+15,Kremer  Armi,12,RC2,11
+16,Maior  Norbe,12,RC3,1
+17,Serderidis  ,12,RC1,5
+18,Fontana  Mat,12,RC3,2
+19,Jürgenson  R,12,RC3,3
+20,Blach  Rober,12,RC2,12
+21,Granados  Mi,12,RC2,13
+22,Borodin  Pet,12,RC3,4
+23,Rensonnet  T,12,RC3,5
+24,Soylu  Uğur ,12,RC2,14
+25,Evans  Elfyn,12,RC1,6
+26,Schwarz  Fab,12,RC3,6
+27,Caparó  José,12,RC3,7
+28,Joona  Lauri,12,RC2,15
+29,Halkias  E. ,12,RC3,8
+30,Fourmaux  Ad,12,RC1,7
+31,Türkkan  Ali,12,RC3,9
+32,Peralta  J. ,12,RC2,16
+33,Bruun  Natan,12,RC3,10
+34,Chatzimarkos,12,RC3,11
+35,Smart  Max /,12,RC3,12
+36,Stefanis  Ma,12,RC3,13
+37,Theocharopou,12,RC3,14
+38,Pavlidis  N.,12,RC2,17
+39,Gill  Taylor,12,RC3,15
+40,Katsuta  T. ,12,RC1,8
+41,Velanis  V. ,12,RC2,18
+42,Vassilakis  ,12,RC2,19
+43,Karanikolas ,12,RC3,16
+44,Dominguez  D,12,RC3,17
+45,Martínez  Jo,12,RC2,20
+46,Lefkaditis  ,12,RC4,1
+47,Kalamaras  T,12,RC4,2
+48,Dolofan  C. ,12,RC2,21
+49,Çetinkaya  B,12,RC2,22
+50,Parellis  D.,12,RC5,1
+51,Laskowski  H,12,RC3,18
+52,Amoutzas  G.,12,RC2,23
+53,Brazzoli  En,12,RC2,24
+54,Martinez  An,12,RC3,19
+55,Cărăgui  Eug,12,RC2,25
+56,Gryazin  Nik,12,RC2,26
+57,Plagos  Ioan,12,RC4,3
+58,Papageorgiou,12,RC4,4
+1,Neuville  T.,13,RC1,1
+2,Ogier  S. / ,13,RC1,2
+3,Sordo  Dani ,13,RC1,3
+4,Tänak  Ott /,13,RC1,4
+5,Pajari  Sami,13,RC2,1
+6,Virves  Robe,13,RC2,2
+7,Rossel  Yoha,13,RC2,3
+8,Kajetanowicz,13,RC2,4
+9,Linnamäe  Ge,13,RC2,5
+10,Zaldivar  F.,13,RC2,6
+11,Daprà  Rober,13,RC2,7
+12,McErlean  Jo,13,RC2,8
+13,Solans  Jan ,13,RC2,9
+14,Roustemis  P,13,RC2,10
+15,Kremer  Armi,13,RC2,11
+16,Maior  Norbe,13,RC3,1
+17,Fontana  Mat,13,RC3,2
+18,Serderidis  ,13,RC1,5
+19,Blach  Rober,13,RC2,12
+20,Jürgenson  R,13,RC3,3
+21,Granados  Mi,13,RC2,13
+22,Borodin  Pet,13,RC3,4
+23,Rensonnet  T,13,RC3,5
+24,Evans  Elfyn,13,RC1,6
+25,Soylu  Uğur ,13,RC2,14
+26,Joona  Lauri,13,RC2,15
+27,Caparó  José,13,RC3,6
+28,Fourmaux  Ad,13,RC1,7
+29,Türkkan  Ali,13,RC3,7
+30,Halkias  E. ,13,RC3,8
+31,Peralta  J. ,13,RC2,16
+32,Bruun  Natan,13,RC3,9
+33,Chatzimarkos,13,RC3,10
+34,Smart  Max /,13,RC3,11
+35,Gill  Taylor,13,RC3,12
+36,Stefanis  Ma,13,RC3,13
+37,Pavlidis  N.,13,RC2,17
+38,Katsuta  T. ,13,RC1,8
+39,Theocharopou,13,RC3,14
+40,Dominguez  D,13,RC3,15
+41,Karanikolas ,13,RC3,16
+42,Velanis  V. ,13,RC2,18
+43,Vassilakis  ,13,RC2,19
+44,Martínez  Jo,13,RC2,20
+45,Lefkaditis  ,13,RC4,1
+46,Kalamaras  T,13,RC4,2
+47,Dolofan  C. ,13,RC2,21
+48,Çetinkaya  B,13,RC2,22
+49,Laskowski  H,13,RC3,17
+50,Parellis  D.,13,RC5,1
+51,Brazzoli  En,13,RC2,23
+52,Martinez  An,13,RC3,18
+53,Gryazin  Nik,13,RC2,24
+54,Cărăgui  Eug,13,RC2,25
+55,Plagos  Ioan,13,RC4,3
+56,Papageorgiou,13,RC4,4
+1,Neuville  T.,14,RC1,1
+2,Ogier  S. / ,14,RC1,2
+3,Sordo  Dani ,14,RC1,3
+4,Tänak  Ott /,14,RC1,4
+5,Pajari  Sami,14,RC2,1
+6,Virves  Robe,14,RC2,2
+7,Rossel  Yoha,14,RC2,3
+8,Kajetanowicz,14,RC2,4
+9,Zaldivar  F.,14,RC2,5
+10,Linnamäe  Ge,14,RC2,6
+11,McErlean  Jo,14,RC2,7
+12,Daprà  Rober,14,RC2,8
+13,Solans  Jan ,14,RC2,9
+14,Roustemis  P,14,RC2,10
+15,Kremer  Armi,14,RC2,11
+16,Fontana  Mat,14,RC3,1
+17,Maior  Norbe,14,RC3,2
+18,Serderidis  ,14,RC1,5
+19,Jürgenson  R,14,RC3,3
+20,Evans  Elfyn,14,RC1,6
+21,Granados  Mi,14,RC2,12
+22,Rensonnet  T,14,RC3,4
+23,Fourmaux  Ad,14,RC1,7
+24,Caparó  José,14,RC3,5
+25,Joona  Lauri,14,RC2,13
+26,Soylu  Uğur ,14,RC2,14
+27,Türkkan  Ali,14,RC3,6
+28,Halkias  E. ,14,RC3,7
+29,Bruun  Natan,14,RC3,8
+30,Peralta  J. ,14,RC2,15
+31,Chatzimarkos,14,RC3,9
+32,Smart  Max /,14,RC3,10
+33,Katsuta  T. ,14,RC1,8
+34,Gill  Taylor,14,RC3,11
+35,Stefanis  Ma,14,RC3,12
+36,Pavlidis  N.,14,RC2,16
+37,Theocharopou,14,RC3,13
+38,Dominguez  D,14,RC3,14
+39,Karanikolas ,14,RC3,15
+40,Velanis  V. ,14,RC2,17
+41,Vassilakis  ,14,RC2,18
+42,Martínez  Jo,14,RC2,19
+43,Lefkaditis  ,14,RC4,1
+44,Kalamaras  T,14,RC4,2
+45,Dolofan  C. ,14,RC2,20
+46,Çetinkaya  B,14,RC2,21
+47,Laskowski  H,14,RC3,16
+48,Parellis  D.,14,RC5,1
+49,Brazzoli  En,14,RC2,22
+50,Martinez  An,14,RC3,17
+51,Gryazin  Nik,14,RC2,23
+52,Cărăgui  Eug,14,RC2,24
+53,Plagos  Ioan,14,RC4,3
+54,Papageorgiou,14,RC4,4
+1,Neuville  T.,15,RC1,1
+2,Sordo  Dani ,15,RC1,2
+3,Tänak  Ott /,15,RC1,3
+4,Pajari  Sami,15,RC2,1
+5,Virves  Robe,15,RC2,2
+6,Rossel  Yoha,15,RC2,3
+7,Kajetanowicz,15,RC2,4
+8,Zaldivar  F.,15,RC2,5
+9,McErlean  Jo,15,RC2,6
+10,Daprà  Rober,15,RC2,7
+11,Solans  Jan ,15,RC2,8
+12,Roustemis  P,15,RC2,9
+13,Kremer  Armi,15,RC2,10
+14,Serderidis  ,15,RC1,4
+15,Fontana  Mat,15,RC3,1
+16,Ogier  S. / ,15,RC1,5
+17,Maior  Norbe,15,RC3,2
+18,Evans  Elfyn,15,RC1,6
+19,Jürgenson  R,15,RC3,3
+20,Granados  Mi,15,RC2,11
+21,Fourmaux  Ad,15,RC1,7
+22,Rensonnet  T,15,RC3,4
+23,Caparó  José,15,RC3,5
+24,Soylu  Uğur ,15,RC2,12
+25,Türkkan  Ali,15,RC3,6
+26,Joona  Lauri,15,RC2,13
+27,Bruun  Natan,15,RC3,7
+28,Halkias  E. ,15,RC3,8
+29,Peralta  J. ,15,RC2,14
+30,Katsuta  T. ,15,RC1,8
+31,Smart  Max /,15,RC3,9
+32,Chatzimarkos,15,RC3,10
+33,Pavlidis  N.,15,RC2,15
+34,Gill  Taylor,15,RC3,11
+35,Stefanis  Ma,15,RC3,12
+36,Theocharopou,15,RC3,13
+37,Karanikolas ,15,RC3,14
+38,Dominguez  D,15,RC3,15
+39,Vassilakis  ,15,RC2,16
+40,Lefkaditis  ,15,RC4,1
+41,Kalamaras  T,15,RC4,2
+42,Dolofan  C. ,15,RC2,17
+43,Çetinkaya  B,15,RC2,18
+44,Linnamäe  Ge,15,RC2,19
+45,Laskowski  H,15,RC3,16
+46,Brazzoli  En,15,RC2,20
+47,Martinez  An,15,RC3,17
+48,Gryazin  Nik,15,RC2,21
+49,Parellis  D.,15,RC5,1
+50,Cărăgui  Eug,15,RC2,22
+51,Plagos  Ioan,15,RC4,3
+52,Papageorgiou,15,RC4,4
